@@ -1,0 +1,15 @@
+﻿area,price_index,verified_star_n,verified_five_star_share,official_match_rate_pct,price_luxury_quadrant_eligible,price_luxury_quadrant
+Akyarlar,115.26946107784431,4,0.0,25.0,False,
+Bitez,78.74251497005989,6,0.5,33.3,False,
+Bodrum Merkez,101.19760479041916,4,0.5,30.8,False,
+Göltürkbükü,98.80239520958084,3,0.3333333333333333,30.0,False,
+Gümbet,76.64670658682634,7,0.2857142857142857,46.7,True,Lower price + lower five-star share
+Gümüşlük,63.47305389221557,0,,0.0,False,
+Gündoğan,113.47305389221557,6,0.16666666666666666,42.9,True,Higher price + lower five-star share
+Güvercinlik,97.30538922155688,0,,0.0,False,
+Kadıkalesi,267.0658682634731,2,0.5,50.0,False,
+Ortakent-Yahşi,77.8443113772455,3,0.0,14.3,False,
+Torba,148.50299401197606,9,0.5555555555555556,42.9,True,Higher price + higher five-star share
+Turgutreis,73.95209580838323,4,1.0,57.1,True,Lower price + higher five-star share
+Türkbükü,318.562874251497,1,0.0,16.7,False,
+Yalıkavak,197.30538922155688,2,1.0,13.6,False,

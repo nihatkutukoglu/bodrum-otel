@@ -1,0 +1,15 @@
+﻿area,sample_hotel_count,reviews_per_sample_hotel,avg_weighted_google_rating,popularity_satisfaction_quadrant,score_confidence
+Akyarlar,16,1714.125,4.394539388196323,High popularity + high satisfaction,medium
+Bitez,18,686.3333333333334,4.275846282118229,Lower popularity + lower satisfaction,medium
+Bodrum Merkez,13,1398.0,4.285724804076751,High popularity + lower satisfaction,medium
+Göltürkbükü,10,600.8,4.416288890330934,Lower popularity + high satisfaction,medium
+Gümbet,15,2167.9333333333334,4.199645667852979,High popularity + lower satisfaction,high
+Gümüşlük,15,277.73333333333335,4.392465597494393,Lower popularity + high satisfaction,low
+Gündoğan,14,465.7142857142857,4.417128558395301,Lower popularity + high satisfaction,high
+Güvercinlik,10,2523.9,4.25257089468409,High popularity + lower satisfaction,low
+Kadıkalesi,4,2880.0,4.309190337040016,High popularity + lower satisfaction,low
+Ortakent-Yahşi,21,470.1904761904762,4.334143900191741,Lower popularity + lower satisfaction,low
+Torba,21,1128.904761904762,4.399676720436894,High popularity + high satisfaction,high
+Turgutreis,7,2013.5714285714287,4.390582745034537,High popularity + high satisfaction,medium
+Türkbükü,6,611.6666666666666,4.387088778691296,Lower popularity + lower satisfaction,low
+Yalıkavak,22,435.04545454545456,4.390746390584,Lower popularity + high satisfaction,medium

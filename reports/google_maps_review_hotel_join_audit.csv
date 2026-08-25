@@ -1,0 +1,6 @@
+hotel_name,hotel_id,hotel_id_match_status,review_n
+Green Bay Resort & Spa Bodrum,BOD103,EXACT_NAME_MATCH,134
+Selectum Colours Bodrum,BOD068,EXACT_NAME_MATCH,33
+La Blanche Resort Bodrum,BOD160,EXACT_NAME_MATCH,30
+La Blanche Island Bodrum,BOD106,EXACT_NAME_MATCH,21
+Selectum Collection Bodrum,BOD012,EXACT_NAME_MATCH,18

@@ -1,0 +1,4 @@
+key_name,row_count,non_null_count,missing_count,unique_count,duplicate_excess_count,is_unique,preferred_dedupe_key
+complaint_id,248,248,0,245,3,False,False
+canonical_complaint_url,248,248,0,245,3,False,True
+complaint_url,248,248,0,245,3,False,False

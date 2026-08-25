@@ -1,0 +1,14 @@
+- Şikayetvar is a self-selected negative-customer-voice platform; the corpus is not representative of all stays.
+- Complaint count is corpus volume, not hotel quality and not a true complaint rate.
+- Only reliably mapped complaint-level records are included: 32 of 192 project hotels and 11 of 14 areas have clean complaints.
+- Mapping statuses and platform accessibility are uneven; zero complaints may mean no trusted mapping or no accessible data.
+- Google Reviews and Şikayetvar use different populations, time windows, prompts and behaviors.
+- Complaints per 1,000 Google reviews is a cross-platform visibility index, not a statistically valid rate.
+- 2023 and 2026 are partial/accessibility-limited; yearly differences cannot establish trends.
+- 86 complaint dates are approximate and 10 are missing/unparsed, limiting daily response-time precision.
+- View count accumulates over time and is not a unique-reader or impact measure.
+- Company response existence does not mean resolution, response quality or customer satisfaction.
+- Official room/star metadata coverage is limited; price is a single search snapshot.
+- All correlations are exploratory, sample sizes vary, multiple testing is unadjusted and causality is not supported.
+- Small-n hotel-level medians and rates are unstable even when the n>=5 display threshold is met.
+- Seven missing complaint texts are excluded from text-length and future NLP content analyses.

@@ -1,0 +1,10 @@
+- Airport passengers yalnız turist değildir.
+- Tourism arrivals airport passenger ile aynı grain/population değildir ve benzersiz kişi olmayabilir.
+- Milas-Bodrum Airport bölgesel gateway'dir; yolcular başka destinasyonlara devam edebilir.
+- Tourism monthly data Muğla il seviyesindedir; Bodrum monthly tourism verisi değildir.
+- Yalnızca 12 aylık gözlem vardır.
+- Korelasyon nedensellik değildir; ortak sezon etkisi yüksek birlikte hareket üretebilir.
+- Lag analizi predictive veya causal değildir; lag 1 yalnız 11 hizalı gözlem içerir.
+- Occupancy açık accommodation supply ve kapasite kullanılabilirliğinden etkilenebilir.
+- Annual hotel/Google snapshot 2026, airport ve tourism serileri 2025 tarihlidir.
+- Farklı veri setlerinin toplama ve istatistik tanımları farklı olabilir; proxy ratio conversion değildir.

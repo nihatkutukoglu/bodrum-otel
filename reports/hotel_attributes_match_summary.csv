@@ -1,0 +1,12 @@
+﻿metric,value
+total_project_hotels,192.0
+high_confidence_matches,52.0
+review_required,48.0
+unmatched_project_hotels,92.0
+official_facilities_total,168.0
+matched_official_facilities,52.0
+unmatched_official_facilities,108.0
+official_conflicts,8.0
+verified_star_coverage_pct,26.6
+room_count_coverage_pct,27.1
+bed_count_coverage_pct,27.1

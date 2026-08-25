@@ -1,0 +1,91 @@
+hotel_name,aspect,review_n,aspect_mention_rate_pct
+Green Bay Resort & Spa Bodrum,STAFF_SERVICE,127,60.63
+Green Bay Resort & Spa Bodrum,CLEANLINESS_HYGIENE,127,54.33
+Green Bay Resort & Spa Bodrum,FOOD_BEVERAGE,127,62.2
+Green Bay Resort & Spa Bodrum,ROOM,127,64.57
+Green Bay Resort & Spa Bodrum,BEACH_SEA,127,62.2
+Green Bay Resort & Spa Bodrum,POOL,127,25.98
+Green Bay Resort & Spa Bodrum,FACILITIES_MAINTENANCE,127,19.69
+Green Bay Resort & Spa Bodrum,RESERVATION,127,5.51
+Green Bay Resort & Spa Bodrum,PAYMENT_REFUND,127,0.0
+Green Bay Resort & Spa Bodrum,PRICE_VALUE,127,14.96
+Green Bay Resort & Spa Bodrum,CHECKIN_CHECKOUT,127,14.17
+Green Bay Resort & Spa Bodrum,AIR_CONDITIONING,127,3.94
+Green Bay Resort & Spa Bodrum,NOISE,127,16.54
+Green Bay Resort & Spa Bodrum,FAMILY_CHILDREN,127,36.22
+Green Bay Resort & Spa Bodrum,TRANSPORT_TRANSFER,127,3.94
+Green Bay Resort & Spa Bodrum,MANAGEMENT_COMMUNICATION,127,13.39
+Green Bay Resort & Spa Bodrum,SPA_WELLNESS,127,4.72
+Green Bay Resort & Spa Bodrum,SAFETY_SECURITY,127,3.94
+La Blanche Island Bodrum,STAFF_SERVICE,20,85.0
+La Blanche Island Bodrum,CLEANLINESS_HYGIENE,20,50.0
+La Blanche Island Bodrum,FOOD_BEVERAGE,20,70.0
+La Blanche Island Bodrum,ROOM,20,60.0
+La Blanche Island Bodrum,BEACH_SEA,20,55.0
+La Blanche Island Bodrum,POOL,20,20.0
+La Blanche Island Bodrum,FACILITIES_MAINTENANCE,20,30.0
+La Blanche Island Bodrum,RESERVATION,20,10.0
+La Blanche Island Bodrum,PAYMENT_REFUND,20,5.0
+La Blanche Island Bodrum,PRICE_VALUE,20,20.0
+La Blanche Island Bodrum,CHECKIN_CHECKOUT,20,20.0
+La Blanche Island Bodrum,AIR_CONDITIONING,20,5.0
+La Blanche Island Bodrum,NOISE,20,5.0
+La Blanche Island Bodrum,FAMILY_CHILDREN,20,10.0
+La Blanche Island Bodrum,TRANSPORT_TRANSFER,20,10.0
+La Blanche Island Bodrum,MANAGEMENT_COMMUNICATION,20,0.0
+La Blanche Island Bodrum,SPA_WELLNESS,20,5.0
+La Blanche Island Bodrum,SAFETY_SECURITY,20,0.0
+La Blanche Resort Bodrum,STAFF_SERVICE,30,83.33
+La Blanche Resort Bodrum,CLEANLINESS_HYGIENE,30,63.33
+La Blanche Resort Bodrum,FOOD_BEVERAGE,30,83.33
+La Blanche Resort Bodrum,ROOM,30,50.0
+La Blanche Resort Bodrum,BEACH_SEA,30,46.67
+La Blanche Resort Bodrum,POOL,30,36.67
+La Blanche Resort Bodrum,FACILITIES_MAINTENANCE,30,10.0
+La Blanche Resort Bodrum,RESERVATION,30,6.67
+La Blanche Resort Bodrum,PAYMENT_REFUND,30,0.0
+La Blanche Resort Bodrum,PRICE_VALUE,30,13.33
+La Blanche Resort Bodrum,CHECKIN_CHECKOUT,30,10.0
+La Blanche Resort Bodrum,AIR_CONDITIONING,30,3.33
+La Blanche Resort Bodrum,NOISE,30,3.33
+La Blanche Resort Bodrum,FAMILY_CHILDREN,30,46.67
+La Blanche Resort Bodrum,TRANSPORT_TRANSFER,30,3.33
+La Blanche Resort Bodrum,MANAGEMENT_COMMUNICATION,30,16.67
+La Blanche Resort Bodrum,SPA_WELLNESS,30,0.0
+La Blanche Resort Bodrum,SAFETY_SECURITY,30,6.67
+Selectum Collection Bodrum,STAFF_SERVICE,15,60.0
+Selectum Collection Bodrum,CLEANLINESS_HYGIENE,15,60.0
+Selectum Collection Bodrum,FOOD_BEVERAGE,15,66.67
+Selectum Collection Bodrum,ROOM,15,53.33
+Selectum Collection Bodrum,BEACH_SEA,15,33.33
+Selectum Collection Bodrum,POOL,15,33.33
+Selectum Collection Bodrum,FACILITIES_MAINTENANCE,15,13.33
+Selectum Collection Bodrum,RESERVATION,15,20.0
+Selectum Collection Bodrum,PAYMENT_REFUND,15,0.0
+Selectum Collection Bodrum,PRICE_VALUE,15,26.67
+Selectum Collection Bodrum,CHECKIN_CHECKOUT,15,13.33
+Selectum Collection Bodrum,AIR_CONDITIONING,15,0.0
+Selectum Collection Bodrum,NOISE,15,20.0
+Selectum Collection Bodrum,FAMILY_CHILDREN,15,33.33
+Selectum Collection Bodrum,TRANSPORT_TRANSFER,15,6.67
+Selectum Collection Bodrum,MANAGEMENT_COMMUNICATION,15,20.0
+Selectum Collection Bodrum,SPA_WELLNESS,15,0.0
+Selectum Collection Bodrum,SAFETY_SECURITY,15,0.0
+Selectum Colours Bodrum,STAFF_SERVICE,31,90.32
+Selectum Colours Bodrum,CLEANLINESS_HYGIENE,31,61.29
+Selectum Colours Bodrum,FOOD_BEVERAGE,31,77.42
+Selectum Colours Bodrum,ROOM,31,70.97
+Selectum Colours Bodrum,BEACH_SEA,31,38.71
+Selectum Colours Bodrum,POOL,31,35.48
+Selectum Colours Bodrum,FACILITIES_MAINTENANCE,31,25.81
+Selectum Colours Bodrum,RESERVATION,31,6.45
+Selectum Colours Bodrum,PAYMENT_REFUND,31,3.23
+Selectum Colours Bodrum,PRICE_VALUE,31,12.9
+Selectum Colours Bodrum,CHECKIN_CHECKOUT,31,19.35
+Selectum Colours Bodrum,AIR_CONDITIONING,31,0.0
+Selectum Colours Bodrum,NOISE,31,9.68
+Selectum Colours Bodrum,FAMILY_CHILDREN,31,19.35
+Selectum Colours Bodrum,TRANSPORT_TRANSFER,31,0.0
+Selectum Colours Bodrum,MANAGEMENT_COMMUNICATION,31,12.9
+Selectum Colours Bodrum,SPA_WELLNESS,31,3.23
+Selectum Colours Bodrum,SAFETY_SECURITY,31,3.23

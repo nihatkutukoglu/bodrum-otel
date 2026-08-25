@@ -1,0 +1,48 @@
+{
+  "_notes": "Seed/override file. known_urls are checked before slug-guess discovery for a hotel_id -- required for chain umbrella accounts whose Sikayetvar slug bears no resemblance to the property name and so cannot be found by guessing (e.g. Selectum Colours Bodrum lives under /selectum-hotels/selectum-colours). aliases/exclude_aliases feed complaint-level entity_match on top of whatever sikayetvar_matching.build_complaint_validation_terms derives automatically from sibling project hotels.",
+  "BOD068": {
+    "known_urls": [
+      "https://www.sikayetvar.com/selectum-hotels/selectum-bodrum",
+      "https://www.sikayetvar.com/selectum-hotels/selectum-colours"
+    ],
+    "aliases": ["Selectum Colours Bodrum", "Selectum Colors Bodrum", "Selectum Bodrum Colours"],
+    "exclude_aliases": ["Selectum Family", "Selectum Luxury", "Noa Belek Selectum", "Selectum Colours Side"]
+  },
+  "BOD012": {
+    "known_urls": [
+      "https://www.sikayetvar.com/selectum-hotels/selectum-collection-bodrum"
+    ],
+    "aliases": ["Selectum Collection Bodrum"],
+    "exclude_aliases": ["Selectum Family", "Selectum Luxury", "Selectum Colours Side"]
+  },
+  "BOD103": {
+    "known_urls": [
+      "https://www.sikayetvar.com/green-bay-resort",
+      "https://www.sikayetvar.com/green-bay-resort-spa"
+    ],
+    "aliases": ["Green Bay Resort & Spa Bodrum", "Green Bay Resort", "Green Bay Resort Spa"],
+    "exclude_aliases": []
+  },
+  "BOD106": {
+    "known_urls": [
+      "https://www.sikayetvar.com/la-blanche-island-bodrum"
+    ],
+    "aliases": ["La Blanche Island Bodrum", "La Blanche Island"],
+    "exclude_aliases": ["La Blanche Resort"]
+  },
+  "BOD160": {
+    "known_urls": [
+      "https://www.sikayetvar.com/la-blanche-resort-bodrum",
+      "https://www.sikayetvar.com/la-blanche-resort-spa-bodrum"
+    ],
+    "aliases": ["La Blanche Resort Bodrum", "La Blanche Resort"],
+    "exclude_aliases": ["La Blanche Island"]
+  },
+  "BOD148": {
+    "known_urls": [
+      "https://www.sikayetvar.com/rixos-hotels"
+    ],
+    "aliases": ["Rixos Premium Bodrum", "Rixos Bodrum"],
+    "exclude_aliases": []
+  }
+}

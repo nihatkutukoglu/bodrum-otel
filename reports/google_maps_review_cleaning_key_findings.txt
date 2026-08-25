@@ -1,0 +1,15 @@
+GOOGLE MAPS REVIEWS — AUDIT & CLEANING — KEY FINDINGS
+Notebook: 15_google_maps_reviews_audit_cleaning.ipynb
+
+1. Raw row count: 236 (5 authoritative per-hotel CSVs under maps-reviews-main/data/raw/google_travel_reviews/).
+2. Clean row count: 236. 0 rows dropped — no exact duplicates were found, and very-short reviews are kept (flagged, not removed) per policy.
+3. Hotel coverage: 5 hotels, all matched to the project's master hotel_id 1:1 by exact name (Green Bay Resort & Spa Bodrum, La Blanche Island Bodrum, La Blanche Resort Bodrum, Selectum Collection Bodrum, Selectum Colours Bodrum). This is a Top-5 most-reviewed-on-Google-Travel case study, not a Bodrum-representative sample.
+4. review_source distribution: Google-dominant, with a small number of Tripadvisor/Trip.com reviews aggregated by the Google Travel panel (see review_source column) — retained as-is per the collector's own documented scope (not described as Google-only).
+5. Rating coverage: 100% of rows parsed to a valid 1-5 review_rating from the raw "N/5" string; 0 invalid ratings.
+6. Rating groups: LOW=52, MIXED=27, HIGH=157.
+7. Date parsing: 100% of review_date_raw values were Turkish relative expressions ("N ay/hafta/gün/saat/dakika önce", or "bir ... önce"); all parsed against collected_at. Every parsed date is approximate by construction (review_date_is_approximate=True for all rows) — there is no absolute-date ground truth in this corpus.
+8. Duplicate audit: 0 exact duplicates (by review_id and by hotel+normalized text). 1 near-duplicate pair found (same reviewer name in two Unicode spellings, "Enver Gunes" / "Enver Güneş", both rating-only reviews on Selectum Collection Bodrum) — flagged for manual review, not auto-removed.
+9. Critical data-quality finding: 13 rows (5.5%) are rating-only Google reviews where the collector's extracted "review_text" is actually the reviewer's real name followed by the date line, not review body text. This is a PII exposure risk in the raw text column. review_text_clean nulls these out for all downstream/NLP use; the untouched raw review_text is preserved only as collected (raw immutability), per section 6 of the master prompt.
+10. very_short_review_flag applies to 9 additional rows with real but minimal text (< 14 words, the 5th percentile of the corpus).
+11. extraction_confidence and screenshot_file columns from the master-prompt's assumed schema do not exist in this corpus — the actual collector schema (Selenium/Google Travel panel) has no equivalent field; not fabricated.
+12. reviewer_name is not a stored column in this schema (only leaked incidentally into 13 review_text values, handled in finding 9) — no separate PII column needed to drop.

@@ -1,0 +1,10 @@
+metric_x,metric_y,n,spearman_rho,p_value,interpretation,main_caution
+google_review_count,matched_complaint_count,32,0.5872068968069619,0.000410717957435706,"Orta, aynı yönlü sıralı birliktelik.","Exploratory; selected mapped-hotel sample, platform bias, no causality."
+google_rating,matched_complaint_count,32,-0.002884529523056773,0.9874991264333233,"Çok zayıf, ters yönlü sıralı birliktelik.","Exploratory; selected mapped-hotel sample, platform bias, no causality."
+google_rating,cross_platform_complaint_visibility_per_1000_google_reviews,32,-0.452469562335346,0.00931832015613533,"Orta, ters yönlü sıralı birliktelik.","Exploratory; selected mapped-hotel sample, platform bias, no causality."
+official_room_count,matched_complaint_count,10,0.9451395216446113,3.707957081777725e-05,"Çok güçlü, aynı yönlü sıralı birliktelik.","Exploratory; selected mapped-hotel sample, platform bias, no causality."
+official_room_count,cross_platform_complaint_visibility_per_1000_google_reviews,10,0.32121212121212117,0.3654683104386702,"Zayıf, aynı yönlü sıralı birliktelik.","Exploratory; selected mapped-hotel sample, platform bias, no causality."
+search_price_usd_snapshot,matched_complaint_count,25,0.4109185913177949,0.04129611040770271,"Orta, aynı yönlü sıralı birliktelik.","Exploratory; selected mapped-hotel sample, platform bias, no causality."
+search_price_usd_snapshot,cross_platform_complaint_visibility_per_1000_google_reviews,25,-0.12,0.5677601210384973,"Çok zayıf, ters yönlü sıralı birliktelik.","Exploratory; selected mapped-hotel sample, platform bias, no causality."
+median_complaint_word_count,median_view_count,32,-0.08725939651661073,0.6348708076926499,"Çok zayıf, ters yönlü sıralı birliktelik.","Exploratory; selected mapped-hotel sample, platform bias, no causality."
+matched_complaint_count,company_response_rate_in_corpus,32,0.4534274386232605,0.009151559699860251,"Orta, aynı yönlü sıralı birliktelik.","Exploratory; selected mapped-hotel sample, platform bias, no causality."

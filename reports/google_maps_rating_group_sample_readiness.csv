@@ -1,0 +1,16 @@
+hotel_name,rating_group,n,sample_tier
+Green Bay Resort & Spa Bodrum,LOW,42,HIGH_SAMPLE
+Green Bay Resort & Spa Bodrum,MIXED,22,MEDIUM_SAMPLE
+Green Bay Resort & Spa Bodrum,HIGH,70,HIGH_SAMPLE
+La Blanche Island Bodrum,LOW,1,LOW_SAMPLE
+La Blanche Island Bodrum,MIXED,4,LOW_SAMPLE
+La Blanche Island Bodrum,HIGH,16,MEDIUM_SAMPLE
+La Blanche Resort Bodrum,LOW,3,LOW_SAMPLE
+La Blanche Resort Bodrum,MIXED,0,LOW_SAMPLE
+La Blanche Resort Bodrum,HIGH,27,MEDIUM_SAMPLE
+Selectum Collection Bodrum,LOW,4,LOW_SAMPLE
+Selectum Collection Bodrum,MIXED,0,LOW_SAMPLE
+Selectum Collection Bodrum,HIGH,14,MEDIUM_SAMPLE
+Selectum Colours Bodrum,LOW,2,LOW_SAMPLE
+Selectum Colours Bodrum,MIXED,1,LOW_SAMPLE
+Selectum Colours Bodrum,HIGH,30,HIGH_SAMPLE

@@ -1,0 +1,12 @@
+ŞİKAYETVAR ALL-HOTELS AUDIT & CLEANING — LIMITATIONS
+
+- Şikayetvar self-selected complaint platformudur; tüm müşterileri temsil etmez.
+- Complaint count hotel kalite metriği veya gerçek complaint rate değildir.
+- Mapping coverage tüm 192 hotel için eşit değildir.
+- NOT_FOUND ile PAGE_FOUND_NO_COMPLAINT farklı durumlardır.
+- Review-required kayıtlar ana corpus dışında tutulur.
+- Reply verisi platform HTML yapısına bağlı olabilir.
+- support_count missing gerçek zero değildir.
+- Company response exists çözüm veya memnuniyet anlamına gelmez.
+- Yılı görünmeyen complaint date kayıtları approximate olabilir.
+- Google review count ile Şikayetvar complaint count aynı kullanıcı evreni değildir.

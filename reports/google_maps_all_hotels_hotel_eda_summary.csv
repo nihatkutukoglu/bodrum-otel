@@ -1,0 +1,193 @@
+﻿hotel_id,hotel_name,area,master_google_review_count,sample_text_review_n,low_n,mixed_n,high_n,general_nlp_ready,positive_driver_ready,negative_driver_ready,full_driver_ready,sample_review_n,sample_fraction_of_master_reviews
+BOD068,Selectum Colours Bodrum,Gümbet,13412,10,2,1,7,False,False,False,False,10,0.0007456009543692216
+BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,6843,10,5,1,4,False,False,False,False,10,0.0014613473622680112
+BOD106,La Blanche Island Bodrum,Güvercinlik,6594,10,1,3,6,False,False,False,False,10,0.001516530178950561
+BOD012,Selectum Collection Bodrum,Akyarlar,6514,10,2,0,8,False,False,False,False,10,0.0015351550506601166
+BOD160,La Blanche Resort Bodrum,Turgutreis,5754,10,2,0,8,False,False,False,False,10,0.001737921445950643
+BOD115,Yasmin Bodrum Resort,Kadıkalesi,5589,0,0,0,0,False,False,False,False,0,0.0
+BOD141,DUJA BODRUM,Torba,5479,0,0,0,0,False,False,False,False,0,0.0
+BOD148,Rixos Premium Bodrum,Torba,4889,0,0,0,0,False,False,False,False,0,0.0
+BOD110,Titanic Luxury Collection Bodrum,Güvercinlik,4656,0,0,0,0,False,False,False,False,0,0.0
+BOD007,Kefaluka Resort,Akyarlar,4293,0,0,0,0,False,False,False,False,0,0.0
+BOD066,Royal Asarlik Beach Hotel & Spa,Gümbet,3511,0,0,0,0,False,False,False,False,0,0.0
+BOD114,Sianji Well-Being Resort Thermal & Spa,Kadıkalesi,3245,0,0,0,0,False,False,False,False,0,0.0
+BOD011,"Radisson Collection Hotel, Bodrum",Akyarlar,3237,0,0,0,0,False,False,False,False,0,0.0
+BOD002,Armonia Holiday Village & Spa,Akyarlar,3197,0,0,0,0,False,False,False,False,0,0.0
+BOD108,Lujo Hotel Bodrum,Güvercinlik,3189,0,0,0,0,False,False,False,False,0,0.0
+BOD040,Diamond of Bodrum Hotel,Bodrum Merkez,3022,0,0,0,0,False,False,False,False,0,0.0
+BOD161,MyElla Hotel Resort & Spa,Turgutreis,2926,0,0,0,0,False,False,False,False,0,0.0
+BOD156,Voyage Torba,Torba,2753,0,0,0,0,False,False,False,False,0,0.0
+BOD056,"Mandarin Oriental, Bodrum",Göltürkbükü,2728,0,0,0,0,False,False,False,False,0,0.0
+BOD140,DoubleTree by Hilton Bodrum Işıl Club All-Inclusive Resort,Torba,2690,0,0,0,0,False,False,False,False,0,0.0
+BOD130,Petunya Beach Resort,Ortakent-Yahşi,2687,0,0,0,0,False,False,False,False,0,0.0
+BOD045,Salmakis Resort & Spa,Bodrum Merkez,2681,0,0,0,0,False,False,False,False,0,0.0
+BOD019,Bitez Garden Life Hotel&Suites,Bitez,2527,0,0,0,0,False,False,False,False,0,0.0
+BOD150,Samara Hotel,Torba,2488,0,0,0,0,False,False,False,False,0,0.0
+BOD004,Bendis Beach Hotel,Akyarlar,2469,0,0,0,0,False,False,False,False,0,0.0
+BOD177,Delta Hotels By Marriott Bodrum,Yalıkavak,2444,0,0,0,0,False,False,False,False,0,0.0
+BOD063,Jasmin Beach Hotel,Gümbet,2330,0,0,0,0,False,False,False,False,0,0.0
+BOD113,Kadıkale Resort,Kadıkalesi,2121,0,0,0,0,False,False,False,False,0,0.0
+BOD067,Sami Beach Hotel,Gümbet,2089,0,0,0,0,False,False,False,False,0,0.0
+BOD016,Xanadu Island,Akyarlar,2068,0,0,0,0,False,False,False,False,0,0.0
+BOD088,Baia Bodrum Hotel,Gündoğan,1964,0,0,0,0,False,False,False,False,0,0.0
+BOD035,Azka Otel - Bardakçı Koyu,Bodrum Merkez,1926,0,0,0,0,False,False,False,False,0,0.0
+BOD065,Mirada Exclusive Bodrum,Gümbet,1905,0,0,0,0,False,False,False,False,0,0.0
+BOD037,Bodrum Bay Resort,Bodrum Merkez,1825,0,0,0,0,False,False,False,False,0,0.0
+BOD041,La Quinta by Wyndham Bodrum,Bodrum Merkez,1764,0,0,0,0,False,False,False,False,0,0.0
+BOD158,Arin Resort Bodrum,Turgutreis,1691,0,0,0,0,False,False,False,False,0,0.0
+BOD058,Bodrum Beach Resort,Gümbet,1678,0,0,0,0,False,False,False,False,0,0.0
+BOD072,VERY CHIC BODRUM,Gümbet,1670,0,0,0,0,False,False,False,False,0,0.0
+BOD013,"Sentido Bellazure - Akyarlar, Bodrum / Turkey",Akyarlar,1650,0,0,0,0,False,False,False,False,0,0.0
+BOD042,Mandarin Resort Hotel,Bodrum Merkez,1647,0,0,0,0,False,False,False,False,0,0.0
+BOD164,Swissôtel Resort Bodrum Sahili,Turgutreis,1608,0,0,0,0,False,False,False,False,0,0.0
+BOD043,METT Hotel & Beach Resort Bodrum,Bodrum Merkez,1575,0,0,0,0,False,False,False,False,0,0.0
+BOD125,Kefi Beach Bodrum,Ortakent-Yahşi,1502,0,0,0,0,False,False,False,False,0,0.0
+BOD061,Gümbet Anıl Beach,Gümbet,1489,0,0,0,0,False,False,False,False,0,0.0
+BOD006,Club Marma Hotel,Akyarlar,1373,0,0,0,0,False,False,False,False,0,0.0
+BOD089,Cape Bodrum Luxury Hotel & Beach,Gündoğan,1351,0,0,0,0,False,False,False,False,0,0.0
+BOD163,Sundance Resort,Turgutreis,1344,0,0,0,0,False,False,False,False,0,0.0
+BOD017,Ambrosia Otel Beach & Spa,Bitez,1340,0,0,0,0,False,False,False,False,0,0.0
+BOD104,Greenport Bodrum,Güvercinlik,1317,0,0,0,0,False,False,False,False,0,0.0
+BOD169,MACAKIZI BODRUM,Türkbükü,1247,0,0,0,0,False,False,False,False,0,0.0
+BOD070,The Luvi Hotel,Gümbet,1226,0,0,0,0,False,False,False,False,0,0.0
+BOD032,Paloma Family Club Bitez,Bitez,1201,0,0,0,0,False,False,False,False,0,0.0
+BOD060,Club Shark Hotel,Gümbet,1124,0,0,0,0,False,False,False,False,0,0.0
+BOD036,Bodrium Hotel & SPA,Bodrum Merkez,1102,0,0,0,0,False,False,False,False,0,0.0
+BOD046,Senses Hotel,Bodrum Merkez,1035,0,0,0,0,False,False,False,False,0,0.0
+BOD189,The Bodrum EDITION,Yalıkavak,1016,0,0,0,0,False,False,False,False,0,0.0
+BOD047,The Marmara Bodrum,Bodrum Merkez,987,0,0,0,0,False,False,False,False,0,0.0
+BOD168,Kuum Hotel & SPA Bodrum,Türkbükü,983,0,0,0,0,False,False,False,False,0,0.0
+BOD030,Natur Garden Hotel Bitez Bodrum,Bitez,964,0,0,0,0,False,False,False,False,0,0.0
+BOD020,Bitez Risa Hotel,Bitez,919,0,0,0,0,False,False,False,False,0,0.0
+BOD021,"Caresse, a Luxury Collection Resort & Spa, Bodrum",Bitez,904,0,0,0,0,False,False,False,False,0,0.0
+BOD152,"Susona Bodrum, LXR Hotels & Resorts",Torba,886,0,0,0,0,False,False,False,False,0,0.0
+BOD026,Manuela Otel Bitez,Bitez,871,0,0,0,0,False,False,False,False,0,0.0
+BOD033,Ramada Resort by Wyndham Bodrum,Bitez,870,0,0,0,0,False,False,False,False,0,0.0
+BOD107,Le Méridien Bodrum Beach Resort,Güvercinlik,848,0,0,0,0,False,False,False,False,0,0.0
+BOD109,Oscar Seaside Hotel & Spa,Güvercinlik,845,0,0,0,0,False,False,False,False,0,0.0
+BOD023,Doria Hotel Bodrum,Bitez,774,0,0,0,0,False,False,False,False,0,0.0
+BOD052,Flamm Bodrum,Göltürkbükü,766,0,0,0,0,False,False,False,False,0,0.0
+BOD166,Divan Bodrum,Türkbükü,753,0,0,0,0,False,False,False,False,0,0.0
+BOD132,Viras Hotel & Beach,Ortakent-Yahşi,747,0,0,0,0,False,False,False,False,0,0.0
+BOD014,Suum Bodrum Hotel & Beach,Akyarlar,739,0,0,0,0,False,False,False,False,0,0.0
+BOD128,Lugga Boutique Hotel & Beach,Ortakent-Yahşi,723,0,0,0,0,False,False,False,False,0,0.0
+BOD090,Costa Farilya Special Class Hotel Bodrum,Gündoğan,690,0,0,0,0,False,False,False,False,0,0.0
+BOD186,Sirene Luxury Hotel Bodrum,Yalıkavak,673,0,0,0,0,False,False,False,False,0,0.0
+BOD180,MGallery The Bodrum Hotel Yalıkavak,Yalıkavak,649,0,0,0,0,False,False,False,False,0,0.0
+BOD151,Sarpedor Boutique Hotel & SPA,Torba,648,0,0,0,0,False,False,False,False,0,0.0
+BOD192,Yalıpark Beach Hotel,Yalıkavak,647,0,0,0,0,False,False,False,False,0,0.0
+BOD131,Regia Mare Beach Hotel Bodrum,Ortakent-Yahşi,633,0,0,0,0,False,False,False,False,0,0.0
+BOD162,Rammos Managed by Dedeman,Turgutreis,615,0,0,0,0,False,False,False,False,0,0.0
+BOD087,Wanderheaven Camping & Tiny House Bodrum,Gümüşlük,613,0,0,0,0,False,False,False,False,0,0.0
+BOD095,Mivara Luxury Bodrum,Gündoğan,606,0,0,0,0,False,False,False,False,0,0.0
+BOD153,The Oba Hotel,Torba,603,0,0,0,0,False,False,False,False,0,0.0
+BOD064,Jasmin Elite Residence & Spa,Gümbet,600,0,0,0,0,False,False,False,False,0,0.0
+BOD050,Daphnis Hotel Gölköy,Göltürkbükü,590,0,0,0,0,False,False,False,False,0,0.0
+BOD057,Selvi Bodrum,Göltürkbükü,584,0,0,0,0,False,False,False,False,0,0.0
+BOD112,Azure By Yelken Hotel,Kadıkalesi,565,0,0,0,0,False,False,False,False,0,0.0
+BOD157,Voyage Torba Private,Torba,548,0,0,0,0,False,False,False,False,0,0.0
+BOD009,LİV OTEL,Akyarlar,546,0,0,0,0,False,False,False,False,0,0.0
+BOD173,Allium Bodrum Resort & Spa,Yalıkavak,528,0,0,0,0,False,False,False,False,0,0.0
+BOD069,Siesta Beach Apart,Gümbet,502,0,0,0,0,False,False,False,False,0,0.0
+BOD142,Hotel Torbahan,Torba,492,0,0,0,0,False,False,False,False,0,0.0
+BOD127,Kriss Hotel,Ortakent-Yahşi,490,0,0,0,0,False,False,False,False,0,0.0
+BOD075,Benjamin Otel,Gümüşlük,487,0,0,0,0,False,False,False,False,0,0.0
+BOD086,Vega Aparts,Gümüşlük,486,0,0,0,0,False,False,False,False,0,0.0
+BOD031,Okaliptus Otel,Bitez,474,0,0,0,0,False,False,False,False,0,0.0
+BOD136,Zest Exclusive Hotel and Spa,Ortakent-Yahşi,467,0,0,0,0,False,False,False,False,0,0.0
+BOD059,Bodrum Hotel Baba,Gümbet,465,0,0,0,0,False,False,False,False,0,0.0
+BOD183,Ruins Luxury Resort,Yalıkavak,462,0,0,0,0,False,False,False,False,0,0.0
+BOD126,Khai Hotel Bodrum,Ortakent-Yahşi,452,0,0,0,0,False,False,False,False,0,0.0
+BOD082,Otel Gümüşlük,Gümüşlük,442,0,0,0,0,False,False,False,False,0,0.0
+BOD175,Avantgarde Refined Hotel | Yalıkavak,Yalıkavak,437,0,0,0,0,False,False,False,False,0,0.0
+BOD008,LA BREZZA SUITE &HOTEL,Akyarlar,424,0,0,0,0,False,False,False,False,0,0.0
+BOD078,Liman Hotel Gümüslük (Adult only),Gümüşlük,411,0,0,0,0,False,False,False,False,0,0.0
+BOD178,Highlight Hotel Yalıkavak,Yalıkavak,387,0,0,0,0,False,False,False,False,0,0.0
+BOD077,Ladonia Hotels Zemda,Gümüşlük,376,0,0,0,0,False,False,False,False,0,0.0
+BOD051,Faros Bodrum Hotel Göltürkbükü,Göltürkbükü,373,0,0,0,0,False,False,False,False,0,0.0
+BOD111,Zena Hotel Bodrum,Güvercinlik,373,0,0,0,0,False,False,False,False,0,0.0
+BOD143,Hotel Zeytinada,Torba,372,0,0,0,0,False,False,False,False,0,0.0
+BOD098,Swissôtel Living Bodrum,Gündoğan,371,0,0,0,0,False,False,False,False,0,0.0
+BOD145,Moyo Luxury Hotel & Beach,Torba,370,0,0,0,0,False,False,False,False,0,0.0
+BOD101,Vita Bella Hotel Resort & Spa,Gündoğan,365,0,0,0,0,False,False,False,False,0,0.0
+BOD079,Metin's Gümüşlük - Hotel & Restaurant,Gümüşlük,362,0,0,0,0,False,False,False,False,0,0.0
+BOD116,Acropol Of Bodrum Beach Hotel - Restaurant,Ortakent-Yahşi,361,0,0,0,0,False,False,False,False,0,0.0
+BOD102,Akyalı Butik Hotel,Güvercinlik,353,0,0,0,0,False,False,False,False,0,0.0
+BOD187,Spektr Boutique Hotel Yalikavak,Yalıkavak,330,0,0,0,0,False,False,False,False,0,0.0
+BOD170,No:81 Hotel,Türkbükü,321,0,0,0,0,False,False,False,False,0,0.0
+BOD139,Casa Dell'arte Otel,Torba,319,0,0,0,0,False,False,False,False,0,0.0
+BOD155,Trend Life | Trendlife Hotels & Beach Club Bodrum Torba,Torba,312,0,0,0,0,False,False,False,False,0,0.0
+BOD024,HAKAN OTEL,Bitez,311,0,0,0,0,False,False,False,False,0,0.0
+BOD092,Liona Hotel,Gündoğan,307,0,0,0,0,False,False,False,False,0,0.0
+BOD174,Arts Hotel Bodrum Yalıkavak,Yalıkavak,299,0,0,0,0,False,False,False,False,0,0.0
+BOD184,Sea Palm Otel -YALIKAVAK,Yalıkavak,293,0,0,0,0,False,False,False,False,0,0.0
+BOD010,Mare Garden Hotel,Akyarlar,288,0,0,0,0,False,False,False,False,0,0.0
+BOD071,Tropicana Beach Hotel,Gümbet,281,0,0,0,0,False,False,False,False,0,0.0
+BOD081,Oda Bodrum Gümüşlük,Gümüşlük,276,0,0,0,0,False,False,False,False,0,0.0
+BOD038,Casa Mare Bodrum,Bodrum Merkez,274,0,0,0,0,False,False,False,False,0,0.0
+BOD028,Mira Beach Resort Bodrum,Bitez,274,0,0,0,0,False,False,False,False,0,0.0
+BOD191,Yalıkavak Marina Hotel by METT Collection,Yalıkavak,267,0,0,0,0,False,False,False,False,0,0.0
+BOD049,Casa Del Mar Bodrum,Göltürkbükü,263,0,0,0,0,False,False,False,False,0,0.0
+BOD124,Irmak Boutique Hotel,Ortakent-Yahşi,262,0,0,0,0,False,False,False,False,0,0.0
+BOD129,Meggs Bodrum,Ortakent-Yahşi,261,0,0,0,0,False,False,False,False,0,0.0
+BOD181,Palmalife Bodrum Resort & Spa,Yalıkavak,261,0,0,0,0,False,False,False,False,0,0.0
+BOD120,Celeste Bella Luxury Hotel & Spa,Ortakent-Yahşi,258,0,0,0,0,False,False,False,False,0,0.0
+BOD003,ASPAT HOTEL BODRUM Beach Restaurant,Akyarlar,246,0,0,0,0,False,False,False,False,0,0.0
+BOD100,Villa Rustica Hotel,Gündoğan,243,0,0,0,0,False,False,False,False,0,0.0
+BOD039,Casa Nonna Bodrum,Bodrum Merkez,238,0,0,0,0,False,False,False,False,0,0.0
+BOD154,Toka Bodrum Hotel & Beach Club,Torba,238,0,0,0,0,False,False,False,False,0,0.0
+BOD062,"Gümbet Cove Hotel, Muğla Türkiye",Gümbet,237,0,0,0,0,False,False,False,False,0,0.0
+BOD167,Elista Hotel & Spa,Türkbükü,231,0,0,0,0,False,False,False,False,0,0.0
+BOD034,Çınar Butik Otel Bodrum,Bitez,226,0,0,0,0,False,False,False,False,0,0.0
+BOD048,Babana Hotel,Göltürkbükü,221,0,0,0,0,False,False,False,False,0,0.0
+BOD105,İsolina Hotel,Güvercinlik,221,0,0,0,0,False,False,False,False,0,0.0
+BOD073,Arriba Apartment & Restaurant & Bungalows,Gümüşlük,219,0,0,0,0,False,False,False,False,0,0.0
+BOD022,Dolce Vita Luxury Bungalows,Bitez,214,0,0,0,0,False,False,False,False,0,0.0
+BOD053,Gölköy Suites,Göltürkbükü,212,0,0,0,0,False,False,False,False,0,0.0
+BOD005,ByAkkan,Akyarlar,203,0,0,0,0,False,False,False,False,0,0.0
+BOD018,Bitez Deniz Hotel - Restaurant - Beach,Bitez,201,0,0,0,0,False,False,False,False,0,0.0
+BOD171,4 reasons Hotel Yalikavak,Yalıkavak,194,0,0,0,0,False,False,False,False,0,0.0
+BOD133,Yahşi Beach Hotel & Restaurant,Ortakent-Yahşi,190,0,0,0,0,False,False,False,False,0,0.0
+BOD147,Omar Hotel & Suites,Torba,174,0,0,0,0,False,False,False,False,0,0.0
+BOD080,Myndos Oda & kahvalti,Gümüşlük,171,0,0,0,0,False,False,False,False,0,0.0
+BOD099,Villa Oliva Butik Otel,Gündoğan,168,0,0,0,0,False,False,False,False,0,0.0
+BOD159,Bodrum Ada Otel Turgutreis,Turgutreis,157,0,0,0,0,False,False,False,False,0,0.0
+BOD096,Olira Boutique Hotel&SPA,Gündoğan,149,0,0,0,0,False,False,False,False,0,0.0
+BOD146,Olivia Hotel,Torba,144,0,0,0,0,False,False,False,False,0,0.0
+BOD083,Oza butik hotel,Gümüşlük,143,0,0,0,0,False,False,False,False,0,0.0
+BOD054,Lavinya Maison,Göltürkbükü,139,0,0,0,0,False,False,False,False,0,0.0
+BOD001,Aksoy Taş Ev,Akyarlar,135,0,0,0,0,False,False,False,False,0,0.0
+BOD165,Caja by Maxx Royal,Türkbükü,135,0,0,0,0,False,False,False,False,0,0.0
+BOD027,Meis Apart Hotel,Bitez,134,0,0,0,0,False,False,False,False,0,0.0
+BOD134,Yakamoz Otel,Ortakent-Yahşi,133,0,0,0,0,False,False,False,False,0,0.0
+BOD055,Lavinya Otel Göltürkbükü,Göltürkbükü,132,0,0,0,0,False,False,False,False,0,0.0
+BOD121,Eskiyalı Otel,Ortakent-Yahşi,130,0,0,0,0,False,False,False,False,0,0.0
+BOD176,Blue Point Yalikavak,Yalıkavak,129,0,0,0,0,False,False,False,False,0,0.0
+BOD093,Malta Bodrum Hotel,Gündoğan,127,0,0,0,0,False,False,False,False,0,0.0
+BOD122,Florida Otel,Ortakent-Yahşi,127,0,0,0,0,False,False,False,False,0,0.0
+BOD190,The Sign Highlight Hotel,Yalıkavak,125,0,0,0,0,False,False,False,False,0,0.0
+BOD179,Lizbonia Otel Yalikavak,Yalıkavak,121,0,0,0,0,False,False,False,False,0,0.0
+BOD144,Mira Suites,Torba,117,0,0,0,0,False,False,False,False,0,0.0
+BOD135,Yılmaz Hotel | Bodrum Ortakent Otelleri,Ortakent-Yahşi,114,0,0,0,0,False,False,False,False,0,0.0
+BOD185,Sezz Hotels Spa Wellness Yalıkavak,Yalıkavak,114,0,0,0,0,False,False,False,False,0,0.0
+BOD123,Hotel Marma Beach,Ortakent-Yahşi,112,0,0,0,0,False,False,False,False,0,0.0
+BOD044,Noa Suite Hotel,Bodrum Merkez,98,0,0,0,0,False,False,False,False,0,0.0
+BOD118,Amfora Hotel,Ortakent-Yahşi,86,0,0,0,0,False,False,False,False,0,0.0
+BOD188,Tangiers Hotel Yalıkavak,Yalıkavak,85,0,0,0,0,False,False,False,False,0,0.0
+BOD025,Halikarya Hotel & Restaurant Beach,Bitez,79,0,0,0,0,False,False,False,False,0,0.0
+BOD097,OLİVE TREE HOTEL,Gündoğan,79,0,0,0,0,False,False,False,False,0,0.0
+BOD137,Armagan Apart Hotel,Torba,78,0,0,0,0,False,False,False,False,0,0.0
+BOD117,Altınkaya Hotel,Ortakent-Yahşi,77,0,0,0,0,False,False,False,False,0,0.0
+BOD029,Mumu Bodrum Hotel,Bitez,71,0,0,0,0,False,False,False,False,0,0.0
+BOD172,Ailla Yalıkavak,Yalıkavak,69,0,0,0,0,False,False,False,False,0,0.0
+BOD091,Gündoğan Suites,Gündoğan,67,0,0,0,0,False,False,False,False,0,0.0
+BOD119,"Bodrum Suites Apart Otel, Ortakent - Yahşi",Ortakent-Yahşi,62,0,0,0,0,False,False,False,False,0,0.0
+BOD149,Roota Bodrum,Torba,56,0,0,0,0,False,False,False,False,0,0.0
+BOD084,Paradise Garden Apartments,Gümüşlük,55,0,0,0,0,False,False,False,False,0,0.0
+BOD076,Gümüşlük No3,Gümüşlük,52,0,0,0,0,False,False,False,False,0,0.0
+BOD138,Bodrum Blue Bay Otel,Torba,51,0,0,0,0,False,False,False,False,0,0.0
+BOD015,The Ni Villas Akyarlar,Akyarlar,44,0,0,0,0,False,False,False,False,0,0.0
+BOD182,Root Redrock Villas Yalıkavak - Bodrum,Yalıkavak,41,0,0,0,0,False,False,False,False,0,0.0
+BOD085,Paradise Gümüşlük,Gümüşlük,37,0,0,0,0,False,False,False,False,0,0.0
+BOD074,Begonvil Gümüşlük,Gümüşlük,36,0,0,0,0,False,False,False,False,0,0.0
+BOD094,Marje Villas,Gündoğan,33,0,0,0,0,False,False,False,False,0,0.0

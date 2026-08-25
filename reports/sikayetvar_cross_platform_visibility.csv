@@ -1,0 +1,33 @@
+hotel_name,area,matched_complaint_count,google_review_count,google_rating,cross_platform_complaint_visibility_per_1000_google_reviews,low_google_review_denominator_flag,small_n_flag,interpretation_caution
+Kefaluka Resort,Akyarlar,29,4293,4.4,6.755182855811786,False,False,Visibility index; not a real complaint rate
+Azure By Yelken Hotel,Kadıkalesi,26,565,4.4,46.017699115044245,True,False,Visibility index; not a real complaint rate
+Yasmin Bodrum Resort,Kadıkalesi,23,5589,4.3,4.11522633744856,False,False,Visibility index; not a real complaint rate
+La Blanche Island Bodrum,Güvercinlik,19,6594,4.3,2.8814073400060662,False,False,Visibility index; not a real complaint rate
+Petunya Beach Resort,Ortakent-Yahşi,13,2687,3.7,4.838109415705247,False,False,Visibility index; not a real complaint rate
+Bendis Beach Hotel,Akyarlar,12,2469,3.9,4.860267314702308,False,False,Visibility index; not a real complaint rate
+La Blanche Resort Bodrum,Turgutreis,12,5754,4.6,2.0855057351407718,False,False,Visibility index; not a real complaint rate
+Green Bay Resort & Spa Bodrum,Güvercinlik,11,6843,4.5,1.6074820984948122,False,False,Visibility index; not a real complaint rate
+The Oba Hotel,Torba,10,603,4.0,16.58374792703151,True,False,Visibility index; not a real complaint rate
+Selectum Colours Bodrum,Gümbet,8,13412,4.8,0.5964807634953773,False,False,Visibility index; not a real complaint rate
+Salmakis Resort & Spa,Bodrum Merkez,7,2681,4.2,2.6109660574412534,False,False,Visibility index; not a real complaint rate
+Kadıkale Resort,Kadıkalesi,7,2121,4.0,3.3003300330033003,False,False,Visibility index; not a real complaint rate
+Ladonia Hotels Zemda,Gümüşlük,7,376,3.8,18.617021276595743,True,False,Visibility index; not a real complaint rate
+Sami Beach Hotel,Gümbet,6,2089,4.0,2.8721876495931067,False,False,Visibility index; not a real complaint rate
+Titanic Luxury Collection Bodrum,Güvercinlik,5,4656,4.6,1.0738831615120277,False,False,Visibility index; not a real complaint rate
+Club Marma Hotel,Akyarlar,5,1373,4.3,3.641660597232338,False,False,Visibility index; not a real complaint rate
+La Quinta by Wyndham Bodrum,Bodrum Merkez,5,1764,4.3,2.834467120181406,False,False,Visibility index; not a real complaint rate
+Selectum Collection Bodrum,Akyarlar,4,6514,4.5,0.6140620202640467,False,True,Visibility index; not a real complaint rate
+Xanadu Island,Akyarlar,4,2068,4.6,1.9342359767891684,False,True,Visibility index; not a real complaint rate
+Le Méridien Bodrum Beach Resort,Güvercinlik,4,848,4.2,4.716981132075471,False,True,Visibility index; not a real complaint rate
+VERY CHIC BODRUM,Gümbet,3,1670,4.2,1.7964071856287425,False,True,Visibility index; not a real complaint rate
+Bodrum Beach Resort,Gümbet,3,1678,3.7,1.7878426698450536,False,True,Visibility index; not a real complaint rate
+Gümbet Anıl Beach,Gümbet,2,1489,4.3,1.343183344526528,False,True,Visibility index; not a real complaint rate
+"Mandarin Oriental, Bodrum",Göltürkbükü,2,2728,4.7,0.7331378299120235,False,True,Visibility index; not a real complaint rate
+Celeste Bella Luxury Hotel & Spa,Ortakent-Yahşi,2,258,4.3,7.751937984496124,True,True,Visibility index; not a real complaint rate
+Mare Garden Hotel,Akyarlar,1,288,4.2,3.472222222222222,True,True,Visibility index; not a real complaint rate
+Arin Resort Bodrum,Turgutreis,1,1691,4.6,0.5913660555884093,False,True,Visibility index; not a real complaint rate
+Casa Mare Bodrum,Bodrum Merkez,1,274,4.0,3.6496350364963503,True,True,Visibility index; not a real complaint rate
+Irmak Boutique Hotel,Ortakent-Yahşi,1,262,4.6,3.8167938931297707,True,True,Visibility index; not a real complaint rate
+Doria Hotel Bodrum,Bitez,1,774,4.4,1.2919896640826873,False,True,Visibility index; not a real complaint rate
+Club Shark Hotel,Gümbet,1,1124,4.2,0.889679715302491,False,True,Visibility index; not a real complaint rate
+Siesta Beach Apart,Gümbet,1,502,3.4,1.9920318725099602,True,True,Visibility index; not a real complaint rate

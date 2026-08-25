@@ -1,0 +1,8 @@
+GOOGLE MAPS REVIEWS — GENERAL REVIEWS & RATING GROUPS EDA — LIMITATIONS
+
+- Top-5 most-reviewed-on-Google-Travel case study; not representative of Bodrum hotels generally.
+- MIXED (3-star) sample is small overall (n=27) and near-zero for 2 of 5 hotels — MIXED-group findings are descriptive, not statistically robust.
+- Review dates are approximate (relative-expression derived) and skew toward the most recent months; this reflects platform sort/collection order, not a historical census of all reviews ever posted.
+- Kruskal-Wallis across the three rating groups was not significant (p=0.124); the Spearman correlation on the continuous rating is significant but weak (r=-0.15) — read the length-vs-rating pattern as suggestive, not conclusive.
+- Hotel comparisons use rates/shares, not raw counts, because sample sizes range from 18 to 134 reviews per hotel.
+- "Case-study" language is used throughout instead of "hotel X is worse/better than hotel Y" framing.

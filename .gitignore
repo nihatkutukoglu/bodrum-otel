@@ -5,3 +5,6 @@ __pycache__/
 .venv/
 models/*
 !models/.gitkeep
+.DS_Store
+# Reference-only scraper project, not part of this codebase
+maps-reviews-main/

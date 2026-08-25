@@ -1,0 +1,2 @@
+﻿input_row_n,clean_row_n,exact_duplicate_n,invalid_rating_n,rating_only_n,text_review_n,potential_pii_n,date_parsed_n
+50,50,0,0,0,50,0,50

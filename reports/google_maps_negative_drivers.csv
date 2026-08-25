@@ -1,0 +1,3 @@
+aspect,low_rate_pct,high_rate_pct,driver_gap_pp,low_support,interpretation
+CLEANLINESS_HYGIENE,66.0,48.98,17.02,50,Düşük puanlı yorumlarda daha sık geçen aspect (negative driver adayı / şikayet sinyali)
+ROOM,80.0,53.06,26.94,50,Düşük puanlı yorumlarda daha sık geçen aspect (negative driver adayı / şikayet sinyali)

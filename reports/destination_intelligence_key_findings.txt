@@ -1,0 +1,16 @@
+Bodrum Hotel & Destination Intelligence — Destination Intelligence Temel Bulgular
+
+- Beklenen 14 destinasyonun tamamı bulundu; eksik, fazla veya duplicate area yoktur.
+- Örneklem arzı en yüksek alanlar: Yalıkavak (22), Ortakent-Yahşi (21), Torba (21).
+- Ağırlıklı müşteri memnuniyeti en yüksek alanlar: Gündoğan (4.417), Göltürkbükü (4.416), Torba (4.400).
+- Toplam Google görünürlüğü en yüksek alanlar: Gümbet (32,519), Akyarlar (27,426), Güvercinlik (25,239).
+- Otel başına yorum yoğunluğu en yüksek alanlar: Kadıkalesi (2,880), Güvercinlik (2,524), Gümbet (2,168).
+- Fiyat snapshot indeksi en yüksek alanlar: Türkbükü (318.6), Kadıkalesi (267.1), Yalıkavak (197.3).
+- Coverage uygun alanlarda lüks alt indeksi en yüksek alanlar: Turgutreis (65.2), Torba (62.2), Gümbet (25.0).
+- Dengeli value sinyali en yüksek alanlar: Gümüşlük (94.3), Göltürkbükü (92.9), Turgutreis (91.8).
+- Yüksek güvenli eşleşmelerde resmî oda kapasitesi en yüksek alanlar: Torba (1,303), Gümbet (1,296), Turgutreis (859).
+- 10/14 alan düşük resmî coverage taşır: Akyarlar, Bitez, Bodrum Merkez, Göltürkbükü, Gümüşlük, Güvercinlik, Kadıkalesi, Ortakent-Yahşi, Türkbükü, Yalıkavak.
+- Yüksek güvenli resmî eşleşmesi olmayan alanlar: Gümüşlük, Güvercinlik; kapasite sıfır değil NaN tutulmuştur.
+- Örneklem arzı ile eşleşen resmî oda kapasitesi Spearman ilişkisi ρ=0.29 (n=12).
+- Value ağırlık senaryolarında ranking-sensitive alanlar: Türkbükü, Yalıkavak, Bitez.
+- Price×luxury quadrant yalnız 4/14 coverage-uygun alanda hesaplanmıştır.

@@ -1,0 +1,14 @@
+GOOGLE MAPS REVIEWS — NLP, ASPECT ANALYSIS & EXPERIENCE DRIVERS — LIMITATIONS
+
+- Aspect detection is keyword-dictionary based (reproducible, no LLM labeling); it will miss aspects
+  expressed without any dictionary keyword and can over-match ambiguous short keywords (see
+  reports/google_maps_aspect_keyword_context_samples.csv for a manual-check sample).
+- Aspect mention is not sentiment polarity: "deniz güzeldi ama oda kirliydi" mentions both BEACH_SEA
+  and ROOM without the mention rate telling you which was praised and which was criticized.
+- Driver classification is association (a rating-group co-occurrence pattern), never causation.
+- MIXED-group aspect rates rely on only 27 reviews corpus-wide and near-zero for 2 of 5 hotels.
+- Hotel-level driver profiles exist for only 1 of 5 hotels (small-N policy applied to the rest).
+- No topic modeling (NMF/BERTopic) was run — default per master prompt 17.46, corpus too small to
+  add value beyond the aspect/driver analysis already performed.
+- This is a Top-5 case-study corpus; findings must not be generalized to Bodrum hotels overall or to
+  the full population of each hotel's Google Maps/Tripadvisor reviewers.

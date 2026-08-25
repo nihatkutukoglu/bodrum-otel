@@ -1,0 +1,1 @@
+Public rendered samples are capped and are not representative probability samples. Relative dates remain raw when no safe deterministic parse is available. Reviewer names are excluded from processed output use.

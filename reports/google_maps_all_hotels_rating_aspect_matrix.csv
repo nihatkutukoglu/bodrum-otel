@@ -1,0 +1,4 @@
+﻿rating_group,review_n,aspect_STAFF_SERVICE_rate_pct,aspect_CLEANLINESS_HYGIENE_rate_pct,aspect_FOOD_BEVERAGE_rate_pct,aspect_ROOM_rate_pct,aspect_BEACH_SEA_rate_pct,aspect_POOL_rate_pct,aspect_FACILITIES_MAINTENANCE_rate_pct,aspect_RESERVATION_rate_pct,aspect_PAYMENT_REFUND_rate_pct,aspect_PRICE_VALUE_rate_pct,aspect_CHECKIN_CHECKOUT_rate_pct,aspect_AIR_CONDITIONING_rate_pct,aspect_NOISE_rate_pct,aspect_FAMILY_CHILDREN_rate_pct,aspect_TRANSPORT_TRANSFER_rate_pct,aspect_MANAGEMENT_COMMUNICATION_rate_pct,aspect_SPA_WELLNESS_rate_pct,aspect_SAFETY_SECURITY_rate_pct
+LOW,12,75.0,83.33,83.33,75.0,50.0,41.67,41.67,16.67,0.0,33.33,16.67,8.33,25.0,50.0,0.0,0.0,0.0,16.67
+MIXED,5,80.0,100.0,80.0,80.0,100.0,40.0,60.0,20.0,20.0,40.0,40.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+HIGH,33,84.85,66.67,87.88,81.82,66.67,51.52,39.39,12.12,3.03,21.21,36.36,0.0,18.18,33.33,9.09,21.21,9.09,3.03

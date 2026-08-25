@@ -1,0 +1,11 @@
+﻿hotel_id,hotel_name,area,google_review_count_master,identity_ok,reviews_collected,rating_parse_ok,text_extraction_ok,date_field_present,no_duplicate,checkpoint_ok,safe_stop_triggered,smoke_pass
+BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,6843,True,10,True,True,True,True,True,False,True
+BOD106,La Blanche Island Bodrum,Güvercinlik,6594,True,10,True,True,True,True,True,False,True
+BOD068,Selectum Colours Bodrum,Gümbet,13412,True,10,True,True,True,True,True,False,True
+BOD104,Greenport Bodrum,Güvercinlik,1317,True,0,False,False,True,True,True,False,False
+BOD059,Bodrum Hotel Baba,Gümbet,465,True,0,False,False,True,True,True,False,False
+BOD053,Gölköy Suites,Göltürkbükü,212,True,0,False,False,True,True,True,False,False
+BOD094,Marje Villas,Gündoğan,33,True,0,False,False,True,True,True,False,False
+BOD012,Selectum Collection Bodrum,Akyarlar,6514,True,10,True,True,True,True,True,False,True
+BOD160,La Blanche Resort Bodrum,Turgutreis,5754,True,10,True,True,True,True,True,False,True
+BOD115,Yasmin Bodrum Resort,Kadıkalesi,5589,True,0,False,False,True,True,True,False,False

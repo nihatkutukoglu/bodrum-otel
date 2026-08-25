@@ -1,0 +1,14 @@
+- Şikayetvar is a self-selected complaint platform; only reliably matched complaints are analyzed.
+- Mapping coverage is unequal across hotels and areas; complaint absence must not be encoded as zero aspect risk.
+- The complaint-hotel sample is 32 hotels and 15 are LOW_SAMPLE, so hotel-level rates are unstable.
+- Rule-based dictionaries have false-positive and false-negative risk; manual validation remains TO_REVIEW.
+- Turkish morphology and surface-form variation are only conservatively handled without a validated lemmatizer.
+- Multi-label aspect overlap means aspect counts and rates do not sum to complaint count or 100%.
+- Broad/ambiguous words such as service, room, entry, card and sound require context review.
+- Company response existence, speed or template similarity does not establish resolution or satisfaction.
+- Google and Şikayetvar represent different populations and time windows.
+- Official star/capacity coverage is incomplete; capacity-related aspect comparisons are not robust.
+- Topic modeling on a small selected corpus risks unstable and forced labels; it was gated out.
+- Historical/platform completeness is uncertain and 86 complaint dates are approximate.
+- TF-IDF is relative distinctiveness, not proof of a hotel's definitive problem.
+- All rating/aspect correlations are exploratory, unadjusted for multiple comparisons and non-causal.

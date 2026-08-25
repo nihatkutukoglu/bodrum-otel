@@ -1,0 +1,31 @@
+﻿case_type,hotel_id,hotel_name,area,official_star_rating_verified,official_room_count,google_rating,weighted_google_rating,google_review_count,search_price_usd_snapshot,price_ratio_to_area_median
+5_star_relatively_low_weighted_rating,BOD161,MyElla Hotel Resort & Spa,Turgutreis,5.0,258.0,3.9,3.963682316234277,2926,125.0,1.0121457489878545
+5_star_relatively_low_weighted_rating,BOD113,Kadıkale Resort,Kadıkalesi,5.0,197.0,4.0,4.065485278958897,2121,,
+5_star_relatively_low_weighted_rating,BOD163,Sundance Resort,Turgutreis,5.0,183.0,4.0,4.093596915285451,1344,66.0,0.5344129554655871
+5_star_relatively_low_weighted_rating,BOD072,VERY CHIC BODRUM,Gümbet,5.0,149.0,4.2,4.2356790340199755,1670,241.0,1.8828125
+5_star_relatively_low_weighted_rating,BOD033,Ramada Resort by Wyndham Bodrum,Bitez,5.0,129.0,4.3,4.322163485528941,870,206.0,1.5665399239543727
+up_to_3_star_high_weighted_rating,BOD036,Bodrium Hotel & SPA,Bodrum Merkez,3.0,50.0,4.6,4.529726031037415,1102,151.0,0.893491124260355
+up_to_3_star_high_weighted_rating,BOD100,Villa Rustica Hotel,Gündoğan,3.0,30.0,4.7,4.478858133521392,243,145.0,0.7651715039577837
+up_to_3_star_high_weighted_rating,BOD048,Babana Hotel,Göltürkbükü,2.0,36.0,4.7,4.471776443474042,221,132.0,0.8
+up_to_3_star_high_weighted_rating,BOD136,Zest Exclusive Hotel and Spa,Ortakent-Yahşi,3.0,24.0,4.5,4.4318439621293315,467,130.0,1.0
+up_to_3_star_high_weighted_rating,BOD008,LA BREZZA SUITE &HOTEL,Akyarlar,3.0,31.0,4.5,4.428551029962547,424,121.0,0.6285714285714286
+large_capacity_relatively_low_rating,BOD058,Bodrum Beach Resort,Gümbet,4.0,164.0,3.7,3.844221276430348,1678,69.0,0.5390625
+large_capacity_relatively_low_rating,BOD130,Petunya Beach Resort,Ortakent-Yahşi,4.0,248.0,3.7,3.798068638333862,2687,,
+large_capacity_relatively_low_rating,BOD161,MyElla Hotel Resort & Spa,Turgutreis,5.0,258.0,3.9,3.963682316234277,2926,125.0,1.0121457489878545
+large_capacity_relatively_low_rating,BOD063,Jasmin Beach Hotel,Gümbet,4.0,254.0,3.9,3.977256944444444,2330,212.0,1.65625
+large_capacity_relatively_low_rating,BOD017,Ambrosia Otel Beach & Spa,Bitez,4.0,83.0,4.0,4.093804217423403,1340,142.0,1.079847908745247
+small_capacity_high_review_count,BOD151,Sarpedor Boutique Hotel & SPA,Torba,4.0,32.0,4.2,4.268411505086775,648,223.0,0.8991935483870968
+small_capacity_high_review_count,BOD057,Selvi Bodrum,Göltürkbükü,3.0,20.0,4.2,4.272581349206349,584,207.0,1.2545454545454546
+small_capacity_high_review_count,BOD136,Zest Exclusive Hotel and Spa,Ortakent-Yahşi,3.0,24.0,4.5,4.4318439621293315,467,130.0,1.0
+small_capacity_high_review_count,BOD175,Avantgarde Refined Hotel | Yalıkavak,Yalıkavak,,31.0,4.5,4.429579641934293,437,341.0,1.0349013657056143
+small_capacity_high_review_count,BOD008,LA BREZZA SUITE &HOTEL,Akyarlar,3.0,31.0,4.5,4.428551029962547,424,121.0,0.6285714285714286
+high_area_price_ratio_lower_rating,BOD063,Jasmin Beach Hotel,Gümbet,4.0,254.0,3.9,3.977256944444444,2330,212.0,1.65625
+high_area_price_ratio_lower_rating,BOD057,Selvi Bodrum,Göltürkbükü,3.0,20.0,4.2,4.272581349206349,584,207.0,1.2545454545454546
+high_area_price_ratio_lower_rating,BOD072,VERY CHIC BODRUM,Gümbet,5.0,149.0,4.2,4.2356790340199755,1670,241.0,1.8828125
+high_area_price_ratio_lower_rating,BOD033,Ramada Resort by Wyndham Bodrum,Bitez,5.0,129.0,4.3,4.322163485528941,870,206.0,1.5665399239543727
+high_area_price_ratio_lower_rating,BOD189,The Bodrum EDITION,Yalıkavak,5.0,108.0,4.4,4.388536043634728,1016,841.0,2.5523520485584217
+low_area_price_ratio_higher_rating,BOD048,Babana Hotel,Göltürkbükü,2.0,36.0,4.7,4.471776443474042,221,132.0,0.8
+low_area_price_ratio_higher_rating,BOD100,Villa Rustica Hotel,Gündoğan,3.0,30.0,4.7,4.478858133521392,243,145.0,0.7651715039577837
+low_area_price_ratio_higher_rating,BOD008,LA BREZZA SUITE &HOTEL,Akyarlar,3.0,31.0,4.5,4.428551029962547,424,121.0,0.6285714285714286
+low_area_price_ratio_higher_rating,BOD114,Sianji Well-Being Resort Thermal & Spa,Kadıkalesi,4.0,116.0,4.5,4.482864569298482,3245,343.0,0.7690582959641256
+low_area_price_ratio_higher_rating,BOD101,Vita Bella Hotel Resort & Spa,Gündoğan,4.0,40.0,4.4,4.379555254713197,365,119.0,0.6279683377308707

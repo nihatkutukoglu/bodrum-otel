@@ -1,0 +1,15 @@
+area,project_hotel_count,mapped_hotel_count,hotels_with_matched_complaints,matched_complaint_count,company_response_count,mapping_status_AMBIGUOUS,mapping_status_FOUND_EXACT,mapping_status_FOUND_HIGH_CONFIDENCE,mapping_status_NOT_FOUND,mapping_status_PAGE_FOUND_NO_COMPLAINT,mapping_status_REVIEW_REQUIRED,complaint_share_pct
+Akyarlar,16,5,6,55,31,0,5,0,7,1,3,23.305084745762713
+Bitez,18,1,1,1,0,0,1,0,10,2,5,0.423728813559322
+Bodrum Merkez,13,3,3,13,0,0,3,0,4,1,5,5.508474576271187
+Göltürkbükü,10,1,1,2,0,0,1,0,7,1,1,0.847457627118644
+Gümbet,15,6,7,24,0,0,6,0,4,0,5,10.169491525423728
+Gümüşlük,15,1,1,7,0,0,1,0,10,0,4,2.9661016949152543
+Gündoğan,14,0,0,0,0,1,0,0,9,0,4,0.0
+Güvercinlik,10,5,4,39,5,0,5,0,2,1,2,16.52542372881356
+Kadıkalesi,4,3,3,56,3,0,3,0,1,0,0,23.728813559322035
+Ortakent-Yahşi,21,3,3,16,0,0,3,0,11,2,5,6.779661016949152
+Torba,21,1,1,10,0,0,1,0,13,2,5,4.237288135593221
+Turgutreis,7,2,2,13,0,0,1,1,3,0,2,5.508474576271187
+Türkbükü,6,1,0,0,0,0,1,0,5,0,0,0.0
+Yalıkavak,22,0,0,0,0,0,0,0,18,2,2,0.0

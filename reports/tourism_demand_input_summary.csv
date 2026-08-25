@@ -1,0 +1,4 @@
+﻿dataset_name,row_count,column_count,geography,geography_level,time_grain,start_period,end_period,source_origin
+Muğla Monthly 2025,12,18,Muğla,province,monthly,2025-01,2025-12,T.C. Kültür ve Turizm Bakanlığı konaklama istatistikleri
+Muğla Annual 2009–2025,17,14,Muğla,province,annual,2009,2025,T.C. Kültür ve Turizm Bakanlığı
+Bodrum Annual 2025,1,14,Bodrum,district,annual,2025,2025,T.C. Kültür ve Turizm Bakanlığı ilçe konaklama istatistikleri

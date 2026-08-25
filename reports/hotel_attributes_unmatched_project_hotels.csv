@@ -1,0 +1,93 @@
+﻿hotel_id,hotel_name,area,phone,address,google_rating,google_review_count
+BOD001,Aksoy Taş Ev,Akyarlar,+905414124141,"Akyarlar, Tarik Akan Sk NO:15, 48960 Bodrum/Muğla, Türkiye",4.7,135
+BOD003,ASPAT HOTEL BODRUM Beach Restaurant,Akyarlar,+905308656175,"Akyarlar, atatürk akyarlar caddesi no 253, 48960 Bodrum/Muğla, Türkiye",4.3,246
+BOD005,ByAkkan,Akyarlar,+905324996884,"Akyarlar, Tarik Akan Sk No:33, 48000 Bodrum/Muğla, Türkiye",4.4,203
+BOD012,Selectum Collection Bodrum,Akyarlar,+902523918252,"Bankev Cad. No:39, 48400 Bodrum/Muğla, Türkiye",4.5,6514
+BOD014,Suum Bodrum Hotel & Beach,Akyarlar,+902523938686,"112 Sk, Akyarlar, Barış Manço Cd., 48960 Bodrum/Muğla, Türkiye",4.5,739
+BOD015,The Ni Villas Akyarlar,Akyarlar,+905552939799,"Akyarlar, Atatürk Cd. No:245, 48960 Bodrum/Muğla, Türkiye",5.0,44
+BOD016,Xanadu Island,Akyarlar,+902526926238,"Akyarlar, Ada Caddesi No: 10/1, 48960 Bodrum/Muğla, Türkiye",4.6,2068
+BOD022,Dolce Vita Luxury Bungalows,Bitez,+905451584848,"Bitez, Söğütlü Cd. no:146/1, 48400 Bodrum/Muğla, Türkiye",4.4,214
+BOD025,Halikarya Hotel & Restaurant Beach,Bitez,+902524127612,"Ic Kapi, Bitez, Çökertme Cd. No:76 No:1, 48400 Bodrum/Muğla, Türkiye",4.1,79
+BOD032,Paloma Family Club Bitez,Bitez,+902523630888,"Mevkii, Bitez Mahallesi Gündönümü, 2156. Sokak, 48400 Bodrum/Muğla, Türkiye",4.4,1201
+BOD039,Casa Nonna Bodrum,Bodrum Merkez,+905306042200,"Yalı Mahallesi İçmeler Mevkii No:60, 48400 Bodrum/Muğla, Türkiye",4.6,238
+BOD044,Noa Suite Hotel,Bodrum Merkez,+905076510521,"Kumbahçe, Güvercin Sk. No:20, 48400 Bodrum/Muğla, Türkiye",4.8,98
+BOD049,Casa Del Mar Bodrum,Göltürkbükü,+905423141453,"Gölköy, Akdeniz Cd. No: 63, 48400 Bodrum/Muğla, Türkiye",4.6,263
+BOD050,Daphnis Hotel Gölköy,Göltürkbükü,+905526577088,"37. Sokak, Akdeniz Cd. No: 1, 48450 Bodrum/Muğla, Türkiye",4.3,590
+BOD052,Flamm Bodrum,Göltürkbükü,+902523577600,"Akdeniz Cd, 30. Sk. No:3, 48400 Bodrum/Muğla, Türkiye",4.5,766
+BOD053,Gölköy Suites,Göltürkbükü,+902523577981,"Yalı Mah. Akdeniz Cad, 33. Sk. No:5 D:7, 48483 Bodrum/Muğla, Türkiye",4.4,212
+BOD054,Lavinya Maison,Göltürkbükü,+902523577055,"Gölköy, 33. Sk. No: 4, 48483 Bodrum/Muğla, Türkiye",4.4,139
+BOD061,Gümbet Anıl Beach,Gümbet,+902523193900,"Gümbet, Yarbay Sabri Ergüden Sk., 48400 Bodrum/Muğla, Türkiye",4.3,1489
+BOD064,Jasmin Elite Residence & Spa,Gümbet,+902523190072,"Gümbet, Dayılar Sk. No:1, 48400 Bodrum/Muğla, Türkiye",4.5,600
+BOD069,Siesta Beach Apart,Gümbet,+902523450498,"Dayılar sok No: 31 Degirmenalti, Gümbet, 48400 Bodrum/Muğla, Türkiye",3.4,502
+BOD070,The Luvi Hotel,Gümbet,+902523197148,"Gümbet Mah. Adnan Menderes Cad, Gümbet, Kaşif Ertekin Sk. No:10, 48400 Bodrum/Muğla, Türkiye",3.7,1226
+BOD073,Arriba Apartment & Restaurant & Bungalows,Gümüşlük,+905326058479,"Gümüşlük, 1120. Sk. No:20, 48970 Bodrum/Muğla, Türkiye",4.3,219
+BOD074,Begonvil Gümüşlük,Gümüşlük,+905321301948,"Gümüşlük, Kırçiçeği Sk. No:4, 48400 Bodrum/Muğla, Türkiye",4.8,36
+BOD075,Benjamin Otel,Gümüşlük,+905363943042,"Gümüşlük, Atatürk Cd. No:89, 48970 Bodrum/Muğla, Türkiye",5.0,487
+BOD076,Gümüşlük No3,Gümüşlük,+905335464803,"Gümüşlük, Kültür Sk. No: 3/3, 48970 Bodrum/Muğla, Türkiye",5.0,52
+BOD077,Ladonia Hotels Zemda,Gümüşlük,+902522110511,"Zemda Hotel Adres: Gümüşlük Mah 1120 Sokak No:4 Posta Kodu:, 1120. Sk. No:4, 48970 Bodrum/Muğla, Türkiye",3.8,376
+BOD078,Liman Hotel Gümüslük (Adult only),Gümüşlük,+905491032323,"Gümüşlük, 1120. Sk. No:52, 48400 Bodrum/Muğla, Türkiye",4.8,411
+BOD079,Metin's Gümüşlük - Hotel & Restaurant,Gümüşlük,+902523943182,"Gümüşlük, Atatürk Cd. No:82, 48970 Bodrum/Muğla, Türkiye",4.2,362
+BOD080,Myndos Oda & kahvalti,Gümüşlük,+905525197060,"Gümüşlük, Kilimci Sk. No:39, 48970 Bodrum/Muğla, Türkiye",4.2,171
+BOD081,Oda Bodrum Gümüşlük,Gümüşlük,+905348120058,"Gümüşlük, Atatürk Cd. No: 54, 48970 Bodrum/Muğla, Türkiye",4.5,276
+BOD082,Otel Gümüşlük,Gümüşlük,+905446452661,"Yalı Mevkii, Karakaya Mahallesi, Kilimci Sk. No: 28, 48970 Bodrum/Muğla, Türkiye",4.5,442
+BOD083,Oza butik hotel,Gümüşlük,+905323115849,"Gümüşlük, Atatürk Cd. 80/A, 48970 Bodrum/Muğla, Türkiye",4.7,143
+BOD084,Paradise Garden Apartments,Gümüşlük,+905423448954,"Yali Mevkii Gumusluk, Armonia Evleri, 48400, Türkiye",4.7,55
+BOD085,Paradise Gümüşlük,Gümüşlük,+905325142412,"Gümüşlük, Kültür Sk. No 6/2, 48400 Bodrum/Muğla, Türkiye",4.5,37
+BOD086,Vega Aparts,Gümüşlük,+902523886500,"Umit Sokak 29 Koyunbaba Mevkii, 48400 Bodrum/Muğla, Türkiye",3.9,486
+BOD087,Wanderheaven Camping & Tiny House Bodrum,Gümüşlük,+905346989448,"Gümüşlük, Kilimci Sk., 48970 Bodrum/Muğla, Türkiye",4.7,613
+BOD090,Costa Farilya Special Class Hotel Bodrum,Gündoğan,+902523878487,"Gündoğan, Yalı Mevkii No: 62, 48965 Bodrum/Muğla, Türkiye",4.5,690
+BOD091,Gündoğan Suites,Gündoğan,+905339753836,"Gündoğan, Naciye Şahin Sk. No:6, 48400 Bodrum/Muğla, Türkiye",4.9,67
+BOD094,Marje Villas,Gündoğan,+908502197350,"Gündoğan, Koytürk Sk. No:17A, 48965 Bodrum/Muğla, Türkiye",5.0,33
+BOD098,Swissôtel Living Bodrum,Gündoğan,+902523870257,"Gündoğan, Kızılburun Cd. No:132, 48400 Bodrum/Muğla, Türkiye",4.5,371
+BOD102,Akyalı Butik Hotel,Güvercinlik,+902523745444,"Güvercinlik, Adnan Şenses Sokak No:30, 48450 Bodrum/Muğla, Türkiye",3.9,353
+BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,+902522110441,"Meşelik Mahallesi Kuyucak Mevkii, Meşelik Köyü-Bodrum/Milas Muğla TR, D:82, 48000, Türkiye",4.5,6843
+BOD104,Greenport Bodrum,Güvercinlik,+902522114142,"Güvercinlik, Güvercinlik Blv no:90/1, 48450 Bodrum/Muğla, Türkiye",3.2,1317
+BOD105,İsolina Hotel,Güvercinlik,+905301023848,"Güvercinlik mevkii, Gökçeler Küme evleri No 21, 48450 Bodrum/Muğla, Türkiye",4.1,221
+BOD106,La Blanche Island Bodrum,Güvercinlik,+902523220000,"Meşelik Mah. Çomça Mevkii Sok. No:5, 48200, 48450 Bodrum/Muğla, Türkiye",4.3,6594
+BOD107,Le Méridien Bodrum Beach Resort,Güvercinlik,+902523110505,"Boğaziçi, Yazlik Siteler Sk No:60, 48670 Bodrum/Muğla, Türkiye",4.2,848
+BOD108,Lujo Hotel Bodrum,Güvercinlik,+902523115555,"Meşelik Mah. Çomça Mevkii Sok. No:10, 48200 Bodrum/Muğla, Türkiye",4.5,3189
+BOD109,Oscar Seaside Hotel & Spa,Güvercinlik,+902524000034,"Güvercinlik, Güvercinlik Blv No:358, 48450 Bodrum/Muğla, Türkiye",4.0,845
+BOD110,Titanic Luxury Collection Bodrum,Güvercinlik,+902523115252,"Meşelik, Çomca Mevkii Sok No:8, 48200 Bodrum/Muğla, Türkiye",4.6,4656
+BOD111,Zena Hotel Bodrum,Güvercinlik,+902523745959,"Güvercinlik Mahallesi 2. Sahil Yolu Caddesi, Güvercinlik Blv No:1, 48450 Bodrum/Muğla, Türkiye",4.3,373
+BOD116,Acropol Of Bodrum Beach Hotel - Restaurant,Ortakent-Yahşi,+905303397994,"Yahşi Mh, Yalı Cd. No:30/1, 48420 Bodrum/Muğla, Türkiye",4.4,361
+BOD117,Altınkaya Hotel,Ortakent-Yahşi,+905336336765,"Yahşi mahallesi, Güverte Sk. No:5, 48420 Bodrum/Muğla, Türkiye",4.6,77
+BOD118,Amfora Hotel,Ortakent-Yahşi,+905327171530,"Müskebi, Güverte Sk. No:24, 48420 Ortakentyahşi Belediyesi/Bodrum/Muğla, Türkiye",4.1,86
+BOD119,"Bodrum Suites Apart Otel, Ortakent - Yahşi",Ortakent-Yahşi,+902523483313,"Bıtırak Sokak No:9 Yahşi Sahil Bodrum Kargı Caddesi, Ortakent, Yalı Yolu, 48420 Bodrum/Muğla, Türkiye",4.5,62
+BOD120,Celeste Bella Luxury Hotel & Spa,Ortakent-Yahşi,+902522110405,"Hortma Caddesi 2773, Sok No:6/A, 48470 Bodrum/Muğla, Türkiye",4.3,258
+BOD122,Florida Otel,Ortakent-Yahşi,,"Yahşi, 48420 Bodrum/Muğla, Türkiye",3.9,127
+BOD123,Hotel Marma Beach,Ortakent-Yahşi,+902523484800,"Ortakent, Hurma Sk. No:37, 48400 Bodrum/Muğla, Türkiye",4.2,112
+BOD124,Irmak Boutique Hotel,Ortakent-Yahşi,+902523483571,"Yahşi, Yalı Cd. No:62/1 D:1, 48420 Bodrum/Muğla, Türkiye",4.6,262
+BOD126,Khai Hotel Bodrum,Ortakent-Yahşi,+902523483436,"Yahşi Mahallesi, Müskebi, Yalı Cd. no 26, 48400 Bodrum/Muğla, Türkiye",4.5,452
+BOD127,Kriss Hotel,Ortakent-Yahşi,+902526060310,"Müskebi, Servi Çk., 48420 Bodrum/Muğla, Türkiye",4.2,490
+BOD129,Meggs Bodrum,Ortakent-Yahşi,+902523484043,"Yahşi, Yalı Cd. No:90, 48420 Bodrum/Muğla, Türkiye",4.2,261
+BOD132,Viras Hotel & Beach,Ortakent-Yahşi,+902523483992,"viras otel, Yahşi, Yalı Cd. No:74, 48000 Bodrum/Muğla, Türkiye",4.2,747
+BOD133,Yahşi Beach Hotel & Restaurant,Ortakent-Yahşi,+905324256594,"Yahşi yalısı, Yahşi, Yalı Cd. No:82, 48400 Bodrum/Muğla, Türkiye",4.4,190
+BOD134,Yakamoz Otel,Ortakent-Yahşi,+902523483025,"Deniz Caddesi, Bodrum Muğla Ortakent Yahşi yalı, Eren Sk., 48000 Bodrum/Muğla, Türkiye",4.0,133
+BOD135,Yılmaz Hotel | Bodrum Ortakent Otelleri,Ortakent-Yahşi,+902523585508,"Müskebi, Zümrüt Sk. 22a, 48420 Bodrum/Muğla, Türkiye",3.9,114
+BOD140,DoubleTree by Hilton Bodrum Işıl Club All-Inclusive Resort,Torba,+902523371010,"Torba, Kaynar Mevkii No:11, 48400 Bodrum/Muğla, Türkiye",4.4,2690
+BOD144,Mira Suites,Torba,+902523672222,"Mustafa Kemal, Atatürk Cd. No:35, 48400 Bodrum/Muğla, Türkiye",4.6,117
+BOD146,Olivia Hotel,Torba,+905308346979,"Torba, Irmak Sk. No:4, 48400 Bodrum/Muğla, Türkiye",4.3,144
+BOD149,Roota Bodrum,Torba,+905522144848,"Torba, Hoşgörü Sk. No:3, 48400 Bodrum/Muğla, Türkiye",4.2,56
+BOD155,Trend Life | Trendlife Hotels & Beach Club Bodrum Torba,Torba,,"Mustafa Kemal, Torba, Atatürk Cd. No:131, 48400 Bodrum/Muğla, Türkiye",4.3,312
+BOD159,Bodrum Ada Otel Turgutreis,Turgutreis,+905445144848,"Turgutreis, Bahçelievler Cd. No: 139, 48960 Bodrum/Muğla, Türkiye",4.6,157
+BOD162,Rammos Managed by Dedeman,Turgutreis,+902523118888,"Turgutreis, Gazi Mustafa Kemal Blv. No: 327 B, 48960 Bodrum/Muğla, Türkiye",4.6,615
+BOD166,Divan Bodrum,Türkbükü,+902523775601,"Türkbükü, Keleş Harim Cd. No:22, 48400 Bodrum/Muğla, Türkiye",4.5,753
+BOD168,Kuum Hotel & SPA Bodrum,Türkbükü,+902523110060,"Türkbükü, Atatürk Cd. No:150, 48400 Bodrum/Muğla, Türkiye",4.3,983
+BOD169,MACAKIZI BODRUM,Türkbükü,+902523112400,"Türkbükü, Narçiçeği Sokak, 48400 Bodrum/Muğla, Türkiye",4.3,1247
+BOD170,No:81 Hotel,Türkbükü,+902523776105,"Göltürkbükü Mah. Keleşharım Cad. 104. Sok. No, D:6, 48483 Bodrum/Muğla, Türkiye",4.4,321
+BOD171,4 reasons Hotel Yalikavak,Yalıkavak,+902523853212,"Mevkii, Tilkicik, Bakan Cd. No:8, 48430 Bodrum/Muğla, Türkiye",4.8,194
+BOD172,Ailla Yalıkavak,Yalıkavak,+902523852529,"Geriş, Ömer Efendi Cd. No:48, 48990 Bodrum/Muğla, Türkiye",4.9,69
+BOD173,Allium Bodrum Resort & Spa,Yalıkavak,+902523110717,"Geriş, Çökertme Cd. No:68 L/1, 48990 Bodrum/Muğla, Türkiye",4.8,528
+BOD176,Blue Point Yalikavak,Yalıkavak,+905527948480,"Yalıkavak, Plaj Cd. No:14, 48400 Bodrum/Muğla, Türkiye",4.5,129
+BOD177,Delta Hotels By Marriott Bodrum,Yalıkavak,+902522110404,"Merkez, Sanatçı Evleri Cd. No:29, 48990 Bodrum/Muğla, Türkiye",4.0,2444
+BOD179,Lizbonia Otel Yalikavak,Yalıkavak,+905464666836,"No:44, Plaj Cd., 48400 Bodrum/Muğla, Türkiye",4.3,121
+BOD180,MGallery The Bodrum Hotel Yalıkavak,Yalıkavak,+902523854200,"Yalıkavak, 91. Sk. No:6, 48990 Bodrum/Muğla, Türkiye",4.6,649
+BOD181,Palmalife Bodrum Resort & Spa,Yalıkavak,+905322199841,"Dirmil, Şendoğan Cd. No:52, 48990 Bodrum/Muğla, Türkiye",4.3,261
+BOD182,Root Redrock Villas Yalıkavak - Bodrum,Yalıkavak,+905301607718,"Yalıkavak, 94. Sk. No:7, 48990 Bodrum/Muğla, Türkiye",4.2,41
+BOD183,Ruins Luxury Resort,Yalıkavak,+902523853001,"Dirmil, Tilkicik Cd. No:89, 48990 Bodrum/Muğla, Türkiye",4.2,462
+BOD184,Sea Palm Otel -YALIKAVAK,Yalıkavak,+905423854888,"marina, Yalıkavak, Cumhuriyet Cd. No:9, 48990 Bodrum/Muğla, Türkiye",4.7,293
+BOD185,Sezz Hotels Spa Wellness Yalıkavak,Yalıkavak,+905338184822,"Yalıkavak, 6844 Sk No 23, 48990 Bodrum/Muğla, Türkiye",4.9,114
+BOD187,Spektr Boutique Hotel Yalikavak,Yalıkavak,+905422381848,"Geriş Mah, Geriş, 6026. Sokak NO:5/A B-C-D, 48990 Bodrum/Muğla, Türkiye",4.5,330
+BOD188,Tangiers Hotel Yalıkavak,Yalıkavak,+902522771266,"Yalıkavak, Çarşı Cd. No:42, 48990 Bodrum/Muğla, Türkiye",4.1,85
+BOD191,Yalıkavak Marina Hotel by METT Collection,Yalıkavak,+902529700060,"Merkez Mah, Yalıkavak, Çökertme Cd., 48990 Bodrum/Muğla, Türkiye",4.8,267
+BOD192,Yalıpark Beach Hotel,Yalıkavak,+902523131111,"Yalıkavak, Plaj Cd. NO:20/B, 48400 Bodrum/Muğla, Türkiye",4.3,647

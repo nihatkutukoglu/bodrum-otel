@@ -1,0 +1,15 @@
+column,dtype,missing_count,missing_pct,unique_count
+hotel_id,float64,236,100.0,0
+hotel_name,object,0,0.0,5
+area,object,0,0.0,4
+review_text,object,0,0.0,236
+review_details_raw,object,57,24.15,103
+review_date_raw,object,0,0.0,41
+review_date_is_relative,bool,0,0.0,1
+review_rating_raw,object,0,0.0,5
+review_rating_numeric,int64,0,0.0,5
+review_source,object,0,0.0,3
+google_travel_entity_id,object,0,0.0,5
+google_travel_url,object,0,0.0,5
+review_hash,object,0,0.0,236
+collected_at,object,0,0.0,62

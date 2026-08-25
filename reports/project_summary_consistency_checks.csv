@@ -1,0 +1,9 @@
+metric,notebook_report_value,recomputed_value,difference,status
+hotel_count,192.0,192.0,0.0,PASS
+destination_count,14.0,14.0,0.0,PASS
+official_high_confidence_match_count,52.0,52.0,0.0,PASS
+official_facility_count,168.0,168.0,0.0,PASS
+airport_annual_total,4412884.0,4412884.0,0.0,PASS
+mugla_2025_total_arrivals,9129867.0,9129867.0,0.0,PASS
+mugla_2025_total_overnights,24669490.0,24669490.0,0.0,PASS
+bodrum_2025_total_arrivals,2823425.0,2823425.0,0.0,PASS

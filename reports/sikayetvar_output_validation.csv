@@ -1,0 +1,12 @@
+check,passed,evidence,status
+raw_files_unchanged,True,Six raw CSV SHA-256 hashes,PASS
+clean_only_matched,True,No review-required in main corpus,PASS
+clean_canonical_unique,True,Preferred dedupe key,PASS
+clean_exact_duplicates_absent,True,Exact title+text+hotel,PASS
+clean_reply_id_unique,True,Stable reply key,PASS
+clean_reply_complaints_valid,True,No orphan clean replies,PASS
+hotel_join_row_safe,True,Many-to-one hotel join,PASS
+raw_complaint_text_preserved,True,Raw complaint_text retained,PASS
+raw_reply_text_preserved,True,Raw reply_text retained,PASS
+support_missing_not_zero,True,Missing remains NaN,PASS
+boolean_fields_valid,True,Nullable booleans,PASS

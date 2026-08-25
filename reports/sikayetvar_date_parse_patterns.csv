@@ -1,0 +1,5 @@
+complaint_date_pattern,row_count,parse_success_count,approximate_count,example,parse_success_pct
+DAY_MONTH_TIME_NO_YEAR,91,91,91,24 Ağustos 14:01,100.0
+DAY_MONTH_YEAR_TIME,147,147,0,27 Haziran 2025 11:39,100.0
+MISSING,3,0,0,,0.0
+UNRECOGNIZED,7,0,0,Taha'nın Teşekkür Mesajı “ Misafir ilişkileri ile ilgilenen hanımefendiye teşekkür ediyorum çok iyi ilgilendi bizimle resepsiyonun yanındaki odası ”,0.0

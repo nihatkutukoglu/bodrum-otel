@@ -1,0 +1,1052 @@
+review_id,hotel_id,hotel_name,area,review_rating,rating_group,aspect,matched_keywords,review_date
+gm_958d95b2117abe03,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,1,LOW,BEACH_SEA,koy,2026-07-28
+gm_958d95b2117abe03,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,1,LOW,CHECKIN_CHECKOUT,giriş,2026-07-28
+gm_958d95b2117abe03,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,1,LOW,CLEANLINESS_HYGIENE,temiz;hijyen;kirli,2026-07-28
+gm_958d95b2117abe03,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,1,LOW,FACILITIES_MAINTENANCE,tesis,2026-07-28
+gm_958d95b2117abe03,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,1,LOW,FAMILY_CHILDREN,çocuk;aile,2026-07-28
+gm_958d95b2117abe03,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,1,LOW,FOOD_BEVERAGE,yemek;restoran;büfe;açık büfe;çeşit;içecek;bar;menü;mutfak,2026-07-28
+gm_958d95b2117abe03,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,1,LOW,NOISE,ses;sessiz,2026-07-28
+gm_958d95b2117abe03,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,1,LOW,PRICE_VALUE,değer;pahalı,2026-07-28
+gm_958d95b2117abe03,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,1,LOW,RESERVATION,iptal,2026-07-28
+gm_958d95b2117abe03,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,1,LOW,ROOM,oda;manzara,2026-07-28
+gm_958d95b2117abe03,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,1,LOW,STAFF_SERVICE,personel;çalışan;hizmet;servis,2026-07-28
+gm_32a4dcf8e7459184,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,1,LOW,CLEANLINESS_HYGIENE,hijyen,2026-07-26
+gm_29629a35544743c1,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,5,HIGH,BEACH_SEA,plaj;deniz;şezlong;koy,2026-07-26
+gm_29629a35544743c1,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,5,HIGH,CHECKIN_CHECKOUT,giriş,2026-07-26
+gm_29629a35544743c1,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,5,HIGH,CLEANLINESS_HYGIENE,temiz,2026-07-26
+gm_29629a35544743c1,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,5,HIGH,FOOD_BEVERAGE,yemek;restoran;lezzetli;çeşit;içecek;bar;menü,2026-07-26
+gm_29629a35544743c1,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,5,HIGH,NOISE,ses;sessiz;sakin,2026-07-26
+gm_29629a35544743c1,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,5,HIGH,PRICE_VALUE,fiyat;değer;fiyat performans,2026-07-26
+gm_29629a35544743c1,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,5,HIGH,ROOM,oda;yatak,2026-07-26
+gm_29629a35544743c1,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,5,HIGH,STAFF_SERVICE,çalışan;animasyon;kibar;hizmet;servis,2026-07-26
+gm_250a237220c3eedb,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,5,HIGH,FOOD_BEVERAGE,restoran,2025-08-25
+gm_250a237220c3eedb,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,5,HIGH,ROOM,oda,2025-08-25
+gm_2ebe1b7471aff577,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,2,LOW,BEACH_SEA,deniz;koy,2026-08-04
+gm_2ebe1b7471aff577,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,2,LOW,CLEANLINESS_HYGIENE,hijyen;kirli,2026-08-04
+gm_2ebe1b7471aff577,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,2,LOW,FACILITIES_MAINTENANCE,tesis,2026-08-04
+gm_2ebe1b7471aff577,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,2,LOW,FAMILY_CHILDREN,çocuk;aile;mini club;çocuklu,2026-08-04
+gm_2ebe1b7471aff577,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,2,LOW,FOOD_BEVERAGE,yemek;restoran;çeşit;çeşitlilik;bar;menü;mutfak,2026-08-04
+gm_2ebe1b7471aff577,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,2,LOW,ROOM,oda;yatak,2026-08-04
+gm_2ebe1b7471aff577,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,2,LOW,STAFF_SERVICE,personel;garson;animasyon;ilgili;yardımcı;kaba;hizmet;servis;karşılama;profesyonel,2026-08-04
+gm_325e852f14f564d0,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,1,LOW,BEACH_SEA,plaj;deniz,2026-07-26
+gm_325e852f14f564d0,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,1,LOW,CLEANLINESS_HYGIENE,pis,2026-07-26
+gm_325e852f14f564d0,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,1,LOW,FAMILY_CHILDREN,bebek,2026-07-26
+gm_325e852f14f564d0,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,1,LOW,FOOD_BEVERAGE,yemek,2026-07-26
+gm_325e852f14f564d0,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,1,LOW,POOL,havuz;kaydırak,2026-07-26
+gm_325e852f14f564d0,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,1,LOW,ROOM,oda,2026-07-26
+gm_325e852f14f564d0,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,1,LOW,SAFETY_SECURITY,güvenlik;güvenli,2026-07-26
+gm_8b2ef0042157feb6,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,4,HIGH,BEACH_SEA,plaj;deniz;şezlong,2026-06-26
+gm_8b2ef0042157feb6,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,4,HIGH,CHECKIN_CHECKOUT,check out,2026-06-26
+gm_8b2ef0042157feb6,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,4,HIGH,CLEANLINESS_HYGIENE,temiz,2026-06-26
+gm_8b2ef0042157feb6,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,4,HIGH,FACILITIES_MAINTENANCE,tesis,2026-06-26
+gm_8b2ef0042157feb6,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,4,HIGH,FOOD_BEVERAGE,yemek;kahvaltı;restoran;çeşit;bar,2026-06-26
+gm_8b2ef0042157feb6,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,4,HIGH,POOL,havuz,2026-06-26
+gm_8b2ef0042157feb6,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,4,HIGH,ROOM,oda,2026-06-26
+gm_8b2ef0042157feb6,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,4,HIGH,STAFF_SERVICE,personel;ilgili;servis,2026-06-26
+gm_aa40876070668f6d,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,2,LOW,BEACH_SEA,deniz;koy,2026-08-11
+gm_aa40876070668f6d,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,2,LOW,FACILITIES_MAINTENANCE,asansör;tesis,2026-08-11
+gm_aa40876070668f6d,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,2,LOW,FOOD_BEVERAGE,yemek;çeşit;içecek,2026-08-11
+gm_aa40876070668f6d,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,2,LOW,POOL,havuz,2026-08-11
+gm_aa40876070668f6d,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,2,LOW,PRICE_VALUE,ucuz,2026-08-11
+gm_aa40876070668f6d,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,2,LOW,ROOM,oda;yatak;eski,2026-08-11
+gm_aa40876070668f6d,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,2,LOW,STAFF_SERVICE,personel;çalışan;hizmet,2026-08-11
+gm_e27757f78d56cf34,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,5,HIGH,BEACH_SEA,deniz;sahil;koy,2026-08-04
+gm_e27757f78d56cf34,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,5,HIGH,CLEANLINESS_HYGIENE,temiz,2026-08-04
+gm_e27757f78d56cf34,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,5,HIGH,FACILITIES_MAINTENANCE,bakım;bakımsız,2026-08-04
+gm_e27757f78d56cf34,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,5,HIGH,FAMILY_CHILDREN,çocuk;aile;çocuklu,2026-08-04
+gm_e27757f78d56cf34,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,5,HIGH,FOOD_BEVERAGE,yemek;restoran;çeşit,2026-08-04
+gm_e27757f78d56cf34,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,5,HIGH,NOISE,ses,2026-08-04
+gm_e27757f78d56cf34,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,5,HIGH,POOL,havuz;havuz kenarı;kaydırak,2026-08-04
+gm_e27757f78d56cf34,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,5,HIGH,ROOM,eski,2026-08-04
+gm_e27757f78d56cf34,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,5,HIGH,SPA_WELLNESS,spa,2026-08-04
+gm_e27757f78d56cf34,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,5,HIGH,STAFF_SERVICE,animasyon,2026-08-04
+gm_8af88ebd5a950a65,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,3,MIXED,BEACH_SEA,plaj;deniz,2026-08-11
+gm_8af88ebd5a950a65,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,3,MIXED,CLEANLINESS_HYGIENE,temiz;çarşaf;havlu;temizlik,2026-08-11
+gm_8af88ebd5a950a65,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,3,MIXED,FOOD_BEVERAGE,yemek;çeşit;çeşitlilik;menü,2026-08-11
+gm_8af88ebd5a950a65,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,3,MIXED,STAFF_SERVICE,personel,2026-08-11
+gm_7898877311c6cfbb,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,4,HIGH,BEACH_SEA,plaj;deniz,2026-08-04
+gm_7898877311c6cfbb,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,4,HIGH,FAMILY_CHILDREN,çocuk,2026-08-04
+gm_7898877311c6cfbb,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,4,HIGH,POOL,havuz,2026-08-04
+gm_7898877311c6cfbb,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,4,HIGH,ROOM,duş,2026-08-04
+gm_c8115f1ced8f359f,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,5,HIGH,CLEANLINESS_HYGIENE,temiz;hijyen;temizlik,2026-07-26
+gm_c8115f1ced8f359f,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,5,HIGH,ROOM,oda,2026-07-26
+gm_e06fa6beedbf65f4,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,1,LOW,RESERVATION,rezervasyon,2026-07-26
+gm_e06fa6beedbf65f4,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,1,LOW,ROOM,oda;balkon,2026-07-26
+gm_223ded7d1ba4af68,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,5,HIGH,FOOD_BEVERAGE,mutfak,2026-08-04
+gm_223ded7d1ba4af68,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,5,HIGH,MANAGEMENT_COMMUNICATION,müdür,2026-08-04
+gm_223ded7d1ba4af68,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,5,HIGH,STAFF_SERVICE,servis,2026-08-04
+gm_2f3746746c3cab2c,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,1,LOW,BEACH_SEA,deniz,2026-07-26
+gm_2f3746746c3cab2c,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,1,LOW,CLEANLINESS_HYGIENE,temiz;temizlik,2026-07-26
+gm_2f3746746c3cab2c,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,1,LOW,ROOM,oda,2026-07-26
+gm_2f3746746c3cab2c,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,1,LOW,STAFF_SERVICE,personel,2026-07-26
+gm_1118b48f516df07a,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,2,LOW,CHECKIN_CHECKOUT,giriş,2026-07-26
+gm_1118b48f516df07a,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,2,LOW,ROOM,oda;geniş,2026-07-26
+gm_afcf0a9a5c9cfead,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,5,HIGH,BEACH_SEA,iskele,2026-07-26
+gm_afcf0a9a5c9cfead,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,5,HIGH,NOISE,ses;sessiz;sakin,2026-07-26
+gm_a07d00d4a944a152,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,5,HIGH,BEACH_SEA,deniz,2026-08-04
+gm_a07d00d4a944a152,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,5,HIGH,CLEANLINESS_HYGIENE,temiz,2026-08-04
+gm_a07d00d4a944a152,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,5,HIGH,FACILITIES_MAINTENANCE,bakım,2026-08-04
+gm_a07d00d4a944a152,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,5,HIGH,NOISE,sakin,2026-08-04
+gm_a07d00d4a944a152,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,5,HIGH,POOL,havuz,2026-08-04
+gm_a07d00d4a944a152,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,5,HIGH,STAFF_SERVICE,animasyon,2026-08-04
+gm_b927ac74a6b10935,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,1,LOW,FAMILY_CHILDREN,aile,2026-07-28
+gm_b927ac74a6b10935,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,1,LOW,ROOM,oda,2026-07-28
+gm_b927ac74a6b10935,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,1,LOW,STAFF_SERVICE,resepsiyon,2026-07-28
+gm_0f4aead99b77be1e,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,1,LOW,AIR_CONDITIONING,klima;havalandırma,2026-07-26
+gm_0f4aead99b77be1e,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,1,LOW,BEACH_SEA,deniz,2026-07-26
+gm_0f4aead99b77be1e,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,1,LOW,CHECKIN_CHECKOUT,giriş,2026-07-26
+gm_0f4aead99b77be1e,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,1,LOW,CLEANLINESS_HYGIENE,temiz;hijyen;temizlik,2026-07-26
+gm_0f4aead99b77be1e,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,1,LOW,FAMILY_CHILDREN,aile,2026-07-26
+gm_0f4aead99b77be1e,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,1,LOW,FOOD_BEVERAGE,yemek;çeşit,2026-07-26
+gm_0f4aead99b77be1e,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,1,LOW,PRICE_VALUE,fiyat;ucuz,2026-07-26
+gm_0f4aead99b77be1e,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,1,LOW,ROOM,oda;manzara;eski;klima,2026-07-26
+gm_0f4aead99b77be1e,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,1,LOW,SPA_WELLNESS,spa,2026-07-26
+gm_0f4aead99b77be1e,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,1,LOW,STAFF_SERVICE,servis,2026-07-26
+gm_a368490647f12eeb,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,4,HIGH,BEACH_SEA,plaj;deniz,2026-08-04
+gm_a368490647f12eeb,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,4,HIGH,CLEANLINESS_HYGIENE,temiz;havlu;temizlik,2026-08-04
+gm_a368490647f12eeb,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,4,HIGH,FAMILY_CHILDREN,çocuk,2026-08-04
+gm_a368490647f12eeb,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,4,HIGH,FOOD_BEVERAGE,yemek;lezzetli,2026-08-04
+gm_a368490647f12eeb,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,4,HIGH,POOL,havuz,2026-08-04
+gm_a368490647f12eeb,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,4,HIGH,ROOM,oda;duş;balkon,2026-08-04
+gm_a368490647f12eeb,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,4,HIGH,STAFF_SERVICE,personel;hizmet;servis,2026-08-04
+gm_17807dc26ad512e8,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,5,HIGH,BEACH_SEA,deniz,2026-07-26
+gm_17807dc26ad512e8,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,5,HIGH,CLEANLINESS_HYGIENE,temiz;hijyen;pis;temizlik,2026-07-26
+gm_17807dc26ad512e8,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,5,HIGH,FAMILY_CHILDREN,çocuk;aile;çocuklu,2026-07-26
+gm_17807dc26ad512e8,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,5,HIGH,FOOD_BEVERAGE,yemek;bar;menü,2026-07-26
+gm_17807dc26ad512e8,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,5,HIGH,MANAGEMENT_COMMUNICATION,müdür,2026-07-26
+gm_17807dc26ad512e8,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,5,HIGH,POOL,havuz,2026-07-26
+gm_17807dc26ad512e8,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,5,HIGH,ROOM,oda,2026-07-26
+gm_17807dc26ad512e8,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,5,HIGH,STAFF_SERVICE,çalışan;animasyon;hizmet,2026-07-26
+gm_487442117124ebc7,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,1,LOW,BEACH_SEA,deniz;şezlong,2026-07-26
+gm_487442117124ebc7,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,1,LOW,CLEANLINESS_HYGIENE,kirli,2026-07-26
+gm_487442117124ebc7,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,1,LOW,FACILITIES_MAINTENANCE,asansör,2026-07-26
+gm_487442117124ebc7,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,1,LOW,FAMILY_CHILDREN,çocuk;çocuk kulübü,2026-07-26
+gm_487442117124ebc7,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,1,LOW,FOOD_BEVERAGE,yemek;içecek;bar,2026-07-26
+gm_487442117124ebc7,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,1,LOW,RESERVATION,rezervasyon;iptal,2026-07-26
+gm_487442117124ebc7,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,1,LOW,ROOM,oda;banyo;balkon,2026-07-26
+gm_d260471a90ffe8aa,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,5,HIGH,CHECKIN_CHECKOUT,çıkış,2026-08-04
+gm_d260471a90ffe8aa,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,5,HIGH,FOOD_BEVERAGE,yemek;lezzetli;mutfak,2026-08-04
+gm_d260471a90ffe8aa,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,5,HIGH,MANAGEMENT_COMMUNICATION,müdür,2026-08-04
+gm_d260471a90ffe8aa,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,5,HIGH,PRICE_VALUE,değer,2026-08-04
+gm_d260471a90ffe8aa,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,5,HIGH,STAFF_SERVICE,personel;güler yüzlü;servis,2026-08-04
+gm_9cd4e441e2d4894b,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,1,LOW,BEACH_SEA,deniz;şezlong;koy,2026-07-26
+gm_9cd4e441e2d4894b,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,1,LOW,CLEANLINESS_HYGIENE,temiz;temizlik,2026-07-26
+gm_9cd4e441e2d4894b,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,1,LOW,FAMILY_CHILDREN,çocuk;aile;çocuklu,2026-07-26
+gm_9cd4e441e2d4894b,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,1,LOW,FOOD_BEVERAGE,restoran;çeşit;içecek;bar,2026-07-26
+gm_9cd4e441e2d4894b,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,1,LOW,ROOM,oda;banyo,2026-07-26
+gm_9cd4e441e2d4894b,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,1,LOW,STAFF_SERVICE,personel,2026-07-26
+gm_d860ffb2a98bfbf2,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,2,LOW,CHECKIN_CHECKOUT,giriş,2026-07-26
+gm_d860ffb2a98bfbf2,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,2,LOW,PRICE_VALUE,değer,2026-07-26
+gm_d860ffb2a98bfbf2,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,2,LOW,ROOM,oda;geniş,2026-07-26
+gm_d860ffb2a98bfbf2,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,2,LOW,SPA_WELLNESS,masaj,2026-07-26
+gm_d860ffb2a98bfbf2,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,2,LOW,STAFF_SERVICE,ilgili;güler yüzlü;yardımcı;hizmet,2026-07-26
+gm_4ef09cb15322e979,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,5,HIGH,BEACH_SEA,plaj;deniz;sahil;iskele;şezlong,2026-07-26
+gm_4ef09cb15322e979,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,5,HIGH,CLEANLINESS_HYGIENE,temiz;havlu,2026-07-26
+gm_4ef09cb15322e979,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,5,HIGH,FAMILY_CHILDREN,çocuk;aile,2026-07-26
+gm_4ef09cb15322e979,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,5,HIGH,FOOD_BEVERAGE,kahvaltı;restoran;a la carte,2026-07-26
+gm_4ef09cb15322e979,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,5,HIGH,NOISE,ses;sessiz;sakin,2026-07-26
+gm_4ef09cb15322e979,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,5,HIGH,ROOM,oda,2026-07-26
+gm_4ef09cb15322e979,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,5,HIGH,STAFF_SERVICE,personel;çalışan;resepsiyon;yardımcı;hizmet,2026-07-26
+gm_8e4b09555ebc2a32,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,5,HIGH,BEACH_SEA,deniz,2026-08-04
+gm_8e4b09555ebc2a32,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,5,HIGH,CLEANLINESS_HYGIENE,temiz;temizlik,2026-08-04
+gm_8e4b09555ebc2a32,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,5,HIGH,FACILITIES_MAINTENANCE,bakım,2026-08-04
+gm_8e4b09555ebc2a32,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,5,HIGH,FOOD_BEVERAGE,yemek;lezzetli;çeşit,2026-08-04
+gm_8e4b09555ebc2a32,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,5,HIGH,NOISE,sakin,2026-08-04
+gm_8e4b09555ebc2a32,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,5,HIGH,POOL,havuz,2026-08-04
+gm_8e4b09555ebc2a32,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,5,HIGH,ROOM,oda;eski,2026-08-04
+gm_8e4b09555ebc2a32,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,5,HIGH,STAFF_SERVICE,çalışan;animasyon,2026-08-04
+gm_8eb6b714373f3d7e,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,1,LOW,BEACH_SEA,deniz;koy,2026-07-28
+gm_8eb6b714373f3d7e,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,1,LOW,CLEANLINESS_HYGIENE,temiz;temizlik,2026-07-28
+gm_8eb6b714373f3d7e,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,1,LOW,FAMILY_CHILDREN,aile,2026-07-28
+gm_8eb6b714373f3d7e,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,1,LOW,FOOD_BEVERAGE,yemek;içecek;bar,2026-07-28
+gm_8eb6b714373f3d7e,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,1,LOW,ROOM,oda,2026-07-28
+gm_8eb6b714373f3d7e,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,1,LOW,STAFF_SERVICE,personel;resepsiyon,2026-07-28
+gm_de6fa174a9b20354,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,3,MIXED,BEACH_SEA,deniz,2026-06-26
+gm_de6fa174a9b20354,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,3,MIXED,CLEANLINESS_HYGIENE,temiz,2026-06-26
+gm_de6fa174a9b20354,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,3,MIXED,NOISE,sakin,2026-06-26
+gm_fa35467b5b65e6e8,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,5,HIGH,ROOM,oda,2026-06-26
+gm_318bd33fcfd95fc1,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,2,LOW,BEACH_SEA,deniz,2026-07-26
+gm_318bd33fcfd95fc1,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,2,LOW,CLEANLINESS_HYGIENE,pis,2026-07-26
+gm_318bd33fcfd95fc1,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,2,LOW,MANAGEMENT_COMMUNICATION,şikayet,2026-07-26
+gm_318bd33fcfd95fc1,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,2,LOW,ROOM,oda;manzara;eski,2026-07-26
+gm_0199b073cfbb942b,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,5,HIGH,BEACH_SEA,koy,2026-05-27
+gm_0199b073cfbb942b,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,5,HIGH,STAFF_SERVICE,çalışan;güler yüzlü;yardımcı,2026-05-27
+gm_0199b073cfbb942b,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,5,HIGH,TRANSPORT_TRANSFER,ulaşım,2026-05-27
+gm_d2a7987cac52bdf3,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,4,HIGH,BEACH_SEA,deniz,2026-06-26
+gm_d2a7987cac52bdf3,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,4,HIGH,CLEANLINESS_HYGIENE,temiz,2026-06-26
+gm_d2a7987cac52bdf3,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,4,HIGH,FOOD_BEVERAGE,yemek,2026-06-26
+gm_d2a7987cac52bdf3,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,4,HIGH,ROOM,oda,2026-06-26
+gm_1e85cd15114c31ef,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,3,MIXED,STAFF_SERVICE,personel,2026-06-26
+gm_d5c9379573b0217a,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,3,MIXED,CHECKIN_CHECKOUT,giriş,2026-06-26
+gm_d5c9379573b0217a,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,3,MIXED,FACILITIES_MAINTENANCE,bozuk,2026-06-26
+gm_d5c9379573b0217a,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,3,MIXED,ROOM,oda,2026-06-26
+gm_82835a381bc71d1d,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,1,LOW,BEACH_SEA,plaj;deniz;sahil;koy,2026-06-26
+gm_82835a381bc71d1d,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,1,LOW,CLEANLINESS_HYGIENE,hijyen;çarşaf,2026-06-26
+gm_82835a381bc71d1d,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,1,LOW,ROOM,oda,2026-06-26
+gm_0d05a170d20ed563,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,5,HIGH,FAMILY_CHILDREN,çocuk;aile;çocuklu,2026-06-26
+gm_0d05a170d20ed563,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,5,HIGH,STAFF_SERVICE,çalışan,2026-06-26
+gm_369197c415c1ccfc,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,5,HIGH,BEACH_SEA,deniz;koy,2026-07-26
+gm_369197c415c1ccfc,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,5,HIGH,NOISE,sakin,2026-07-26
+gm_369197c415c1ccfc,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,5,HIGH,ROOM,geniş,2026-07-26
+gm_a6de3a986d57e9ee,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,3,MIXED,BEACH_SEA,deniz;koy,2026-06-26
+gm_a6de3a986d57e9ee,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,3,MIXED,CLEANLINESS_HYGIENE,temiz,2026-06-26
+gm_a6de3a986d57e9ee,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,3,MIXED,FAMILY_CHILDREN,çocuk;aile;çocuklu,2026-06-26
+gm_a6de3a986d57e9ee,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,3,MIXED,FOOD_BEVERAGE,yemek;restoran;çeşit;içecek;bar,2026-06-26
+gm_a6de3a986d57e9ee,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,3,MIXED,NOISE,ses;sessiz;sakin,2026-06-26
+gm_a6de3a986d57e9ee,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,3,MIXED,ROOM,oda;geniş,2026-06-26
+gm_a6de3a986d57e9ee,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,3,MIXED,STAFF_SERVICE,personel;çalışan;animasyon;ilgili;yardımcı;hizmet;servis,2026-06-26
+gm_a61dd02a56662fcd,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,5,HIGH,BEACH_SEA,deniz;sahil;şezlong;koy,2026-06-26
+gm_a61dd02a56662fcd,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,5,HIGH,CLEANLINESS_HYGIENE,temiz,2026-06-26
+gm_a61dd02a56662fcd,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,5,HIGH,FACILITIES_MAINTENANCE,bakım;tesis,2026-06-26
+gm_a61dd02a56662fcd,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,5,HIGH,FAMILY_CHILDREN,çocuk;aile;çocuklu,2026-06-26
+gm_a61dd02a56662fcd,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,5,HIGH,FOOD_BEVERAGE,yemek;kahvaltı;restoran;lezzetli;çeşit;soğuk;taze;bar,2026-06-26
+gm_a61dd02a56662fcd,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,5,HIGH,POOL,havuz;çocuk havuzu,2026-06-26
+gm_a61dd02a56662fcd,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,5,HIGH,PRICE_VALUE,fiyat,2026-06-26
+gm_a61dd02a56662fcd,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,5,HIGH,ROOM,oda;manzara,2026-06-26
+gm_a61dd02a56662fcd,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,5,HIGH,STAFF_SERVICE,personel;animasyon;ilgili;güler yüzlü,2026-06-26
+gm_331d8bd0f6f02b65,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,2,LOW,AIR_CONDITIONING,havalandırma,2026-07-26
+gm_331d8bd0f6f02b65,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,2,LOW,BEACH_SEA,deniz,2026-07-26
+gm_331d8bd0f6f02b65,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,2,LOW,CLEANLINESS_HYGIENE,pis,2026-07-26
+gm_331d8bd0f6f02b65,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,2,LOW,FOOD_BEVERAGE,yemek;kahvaltı;çeşit;bar,2026-07-26
+gm_331d8bd0f6f02b65,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,2,LOW,MANAGEMENT_COMMUNICATION,şikayet,2026-07-26
+gm_331d8bd0f6f02b65,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,2,LOW,PRICE_VALUE,değer,2026-07-26
+gm_331d8bd0f6f02b65,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,2,LOW,ROOM,oda;banyo;manzara;eski,2026-07-26
+gm_32679563cdd7ff34,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,5,HIGH,BEACH_SEA,plaj;deniz;iskele;koy,2026-05-27
+gm_32679563cdd7ff34,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,5,HIGH,CHECKIN_CHECKOUT,giriş,2026-05-27
+gm_32679563cdd7ff34,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,5,HIGH,CLEANLINESS_HYGIENE,temiz,2026-05-27
+gm_32679563cdd7ff34,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,5,HIGH,FOOD_BEVERAGE,yemek;restoran;içecek;bar,2026-05-27
+gm_32679563cdd7ff34,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,5,HIGH,MANAGEMENT_COMMUNICATION,iletişim,2026-05-27
+gm_32679563cdd7ff34,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,5,HIGH,PRICE_VALUE,fiyat;fiyat performans,2026-05-27
+gm_32679563cdd7ff34,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,5,HIGH,ROOM,oda;manzara,2026-05-27
+gm_32679563cdd7ff34,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,5,HIGH,SPA_WELLNESS,spa,2026-05-27
+gm_32679563cdd7ff34,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,5,HIGH,STAFF_SERVICE,çalışan;ilgili;güler yüzlü;yardımcı;hizmet;karşılama,2026-05-27
+gm_32679563cdd7ff34,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,5,HIGH,TRANSPORT_TRANSFER,ulaşım,2026-05-27
+gm_82de1148f053f3f8,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,4,HIGH,BEACH_SEA,deniz,2026-06-26
+gm_82de1148f053f3f8,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,4,HIGH,CLEANLINESS_HYGIENE,temiz,2026-06-26
+gm_82de1148f053f3f8,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,4,HIGH,FOOD_BEVERAGE,yemek,2026-06-26
+gm_82de1148f053f3f8,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,4,HIGH,ROOM,oda,2026-06-26
+gm_82de1148f053f3f8,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,4,HIGH,STAFF_SERVICE,animasyon,2026-06-26
+gm_f549d94bd0c7493d,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,3,MIXED,BEACH_SEA,deniz,2026-06-26
+gm_f549d94bd0c7493d,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,3,MIXED,CLEANLINESS_HYGIENE,temiz,2026-06-26
+gm_f549d94bd0c7493d,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,3,MIXED,FOOD_BEVERAGE,yemek;restoran;çeşit,2026-06-26
+gm_f549d94bd0c7493d,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,3,MIXED,PRICE_VALUE,fiyat,2026-06-26
+gm_f549d94bd0c7493d,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,3,MIXED,ROOM,oda;manzara,2026-06-26
+gm_f549d94bd0c7493d,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,3,MIXED,STAFF_SERVICE,personel,2026-06-26
+gm_08a9e9f949a1f6b8,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,3,MIXED,CHECKIN_CHECKOUT,giriş,2026-06-26
+gm_08a9e9f949a1f6b8,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,3,MIXED,CLEANLINESS_HYGIENE,pis,2026-06-26
+gm_08a9e9f949a1f6b8,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,3,MIXED,FACILITIES_MAINTENANCE,bozuk,2026-06-26
+gm_08a9e9f949a1f6b8,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,3,MIXED,FAMILY_CHILDREN,çocuk,2026-06-26
+gm_08a9e9f949a1f6b8,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,3,MIXED,FOOD_BEVERAGE,yemek;lezzetli;çeşit;bar;menü;mutfak,2026-06-26
+gm_08a9e9f949a1f6b8,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,3,MIXED,POOL,havuz;çocuk havuzu,2026-06-26
+gm_08a9e9f949a1f6b8,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,3,MIXED,ROOM,oda,2026-06-26
+gm_08a9e9f949a1f6b8,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,3,MIXED,SAFETY_SECURITY,kaza,2026-06-26
+gm_08a9e9f949a1f6b8,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,3,MIXED,STAFF_SERVICE,animasyon;ilgili;hizmet,2026-06-26
+gm_63a98ba5e82d0dba,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,1,LOW,BEACH_SEA,plaj;deniz;sahil;koy,2026-06-26
+gm_63a98ba5e82d0dba,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,1,LOW,CLEANLINESS_HYGIENE,hijyen;kirli;pis;lekeli;koku;çarşaf,2026-06-26
+gm_63a98ba5e82d0dba,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,1,LOW,FOOD_BEVERAGE,yemek;restoran;soğuk;içecek;bar,2026-06-26
+gm_63a98ba5e82d0dba,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,1,LOW,RESERVATION,rezervasyon,2026-06-26
+gm_63a98ba5e82d0dba,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,1,LOW,ROOM,oda;duş,2026-06-26
+gm_63a98ba5e82d0dba,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,1,LOW,STAFF_SERVICE,personel,2026-06-26
+gm_47d540fda6dbd9b8,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,5,HIGH,BEACH_SEA,deniz;iskele,2026-06-26
+gm_47d540fda6dbd9b8,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,5,HIGH,FACILITIES_MAINTENANCE,tesis,2026-06-26
+gm_47d540fda6dbd9b8,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,5,HIGH,FAMILY_CHILDREN,çocuk;aile;çocuklu,2026-06-26
+gm_47d540fda6dbd9b8,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,5,HIGH,FOOD_BEVERAGE,yemek,2026-06-26
+gm_47d540fda6dbd9b8,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,5,HIGH,ROOM,oda,2026-06-26
+gm_47d540fda6dbd9b8,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,5,HIGH,STAFF_SERVICE,çalışan;animasyon,2026-06-26
+gm_6a5e6e1ab352ddb6,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,5,HIGH,BEACH_SEA,deniz;koy,2026-07-26
+gm_6a5e6e1ab352ddb6,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,5,HIGH,CLEANLINESS_HYGIENE,temiz,2026-07-26
+gm_6a5e6e1ab352ddb6,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,5,HIGH,FACILITIES_MAINTENANCE,tesis,2026-07-26
+gm_6a5e6e1ab352ddb6,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,5,HIGH,FAMILY_CHILDREN,çocuk;aile;çocuklu,2026-07-26
+gm_6a5e6e1ab352ddb6,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,5,HIGH,FOOD_BEVERAGE,yemek;lezzetli;içecek;bar,2026-07-26
+gm_6a5e6e1ab352ddb6,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,5,HIGH,NOISE,sakin,2026-07-26
+gm_6a5e6e1ab352ddb6,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,5,HIGH,ROOM,oda;geniş,2026-07-26
+gm_6a5e6e1ab352ddb6,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,5,HIGH,STAFF_SERVICE,personel;garson;güler yüzlü;hizmet,2026-07-26
+gm_5506c064c7e91c53,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,1,LOW,BEACH_SEA,plaj;şezlong,2026-06-26
+gm_5506c064c7e91c53,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,1,LOW,CHECKIN_CHECKOUT,giriş;çıkış,2026-06-26
+gm_5506c064c7e91c53,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,1,LOW,CLEANLINESS_HYGIENE,temiz;lekeli;çarşaf;havlu;temizlik,2026-06-26
+gm_5506c064c7e91c53,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,1,LOW,FAMILY_CHILDREN,çocuk,2026-06-26
+gm_5506c064c7e91c53,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,1,LOW,FOOD_BEVERAGE,yemek;restoran;çeşit;soğuk;içecek;bar,2026-06-26
+gm_5506c064c7e91c53,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,1,LOW,NOISE,ses,2026-06-26
+gm_5506c064c7e91c53,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,1,LOW,ROOM,oda;eski;balkon,2026-06-26
+gm_5506c064c7e91c53,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,1,LOW,STAFF_SERVICE,personel;resepsiyon;hizmet;servis,2026-06-26
+gm_5506c064c7e91c53,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,1,LOW,TRANSPORT_TRANSFER,otopark,2026-06-26
+gm_b2e0af4219822ae4,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,4,HIGH,BEACH_SEA,sahil;koy,2026-06-26
+gm_b2e0af4219822ae4,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,4,HIGH,CLEANLINESS_HYGIENE,temiz;hijyen;temizlik,2026-06-26
+gm_b2e0af4219822ae4,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,4,HIGH,FAMILY_CHILDREN,çocuk,2026-06-26
+gm_b2e0af4219822ae4,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,4,HIGH,FOOD_BEVERAGE,yemek;restoran;lezzetli;çeşit;çeşitlilik;bar,2026-06-26
+gm_b2e0af4219822ae4,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,4,HIGH,MANAGEMENT_COMMUNICATION,iletişim,2026-06-26
+gm_b2e0af4219822ae4,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,4,HIGH,STAFF_SERVICE,animasyon;ilgili;nazik;hizmet;servis;profesyonel,2026-06-26
+gm_f25af579a101940b,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,1,LOW,BEACH_SEA,koy,2026-06-26
+gm_f25af579a101940b,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,1,LOW,FACILITIES_MAINTENANCE,bozuk,2026-06-26
+gm_f25af579a101940b,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,1,LOW,FAMILY_CHILDREN,çocuk,2026-06-26
+gm_f25af579a101940b,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,1,LOW,FOOD_BEVERAGE,yemek;soğuk;içecek;bar,2026-06-26
+gm_f25af579a101940b,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,1,LOW,MANAGEMENT_COMMUNICATION,müdür,2026-06-26
+gm_f25af579a101940b,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,1,LOW,ROOM,oda;duş,2026-06-26
+gm_f25af579a101940b,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,1,LOW,STAFF_SERVICE,garson;hizmet;servis,2026-06-26
+gm_77394e496bb74c5c,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,3,MIXED,BEACH_SEA,plaj;deniz;iskele;koy,2026-07-26
+gm_77394e496bb74c5c,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,3,MIXED,CHECKIN_CHECKOUT,giriş,2026-07-26
+gm_77394e496bb74c5c,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,3,MIXED,CLEANLINESS_HYGIENE,temiz;hijyen;çarşaf;temizlik,2026-07-26
+gm_77394e496bb74c5c,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,3,MIXED,FAMILY_CHILDREN,çocuk;aile;çocuklu,2026-07-26
+gm_77394e496bb74c5c,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,3,MIXED,FOOD_BEVERAGE,yemek;kahvaltı;restoran;lezzetli;çeşit;çeşitlilik;bar,2026-07-26
+gm_77394e496bb74c5c,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,3,MIXED,NOISE,gürültü;sakin,2026-07-26
+gm_77394e496bb74c5c,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,3,MIXED,PRICE_VALUE,fiyat;değer,2026-07-26
+gm_77394e496bb74c5c,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,3,MIXED,ROOM,oda;yatak;banyo;duş;eski;konforlu,2026-07-26
+gm_77394e496bb74c5c,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,3,MIXED,STAFF_SERVICE,personel;garson;animasyon;güler yüzlü;yardımcı;servis;karşılama,2026-07-26
+gm_baabcc015bdbd9cb,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,2,LOW,BEACH_SEA,deniz;iskele;koy,2026-06-26
+gm_baabcc015bdbd9cb,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,2,LOW,CHECKIN_CHECKOUT,giriş,2026-06-26
+gm_baabcc015bdbd9cb,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,2,LOW,CLEANLINESS_HYGIENE,temiz;temizlik,2026-06-26
+gm_baabcc015bdbd9cb,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,2,LOW,FACILITIES_MAINTENANCE,tesis,2026-06-26
+gm_baabcc015bdbd9cb,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,2,LOW,FOOD_BEVERAGE,yemek;kahvaltı;lezzetli;bar;menü;mutfak,2026-06-26
+gm_baabcc015bdbd9cb,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,2,LOW,ROOM,oda;banyo;duş,2026-06-26
+gm_baabcc015bdbd9cb,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,2,LOW,STAFF_SERVICE,çalışan;resepsiyon;hizmet,2026-06-26
+gm_1e818a1b12c9792a,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,5,HIGH,BEACH_SEA,deniz;iskele;koy,2026-06-26
+gm_1e818a1b12c9792a,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,5,HIGH,CLEANLINESS_HYGIENE,temiz,2026-06-26
+gm_1e818a1b12c9792a,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,5,HIGH,FACILITIES_MAINTENANCE,tesis,2026-06-26
+gm_1e818a1b12c9792a,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,5,HIGH,FOOD_BEVERAGE,yemek;bar,2026-06-26
+gm_1e818a1b12c9792a,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,5,HIGH,NOISE,sakin,2026-06-26
+gm_1e818a1b12c9792a,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,5,HIGH,POOL,havuz,2026-06-26
+gm_1e818a1b12c9792a,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,5,HIGH,PRICE_VALUE,fiyat;uygun fiyat;fiyat performans,2026-06-26
+gm_1e818a1b12c9792a,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,5,HIGH,ROOM,oda,2026-06-26
+gm_1e818a1b12c9792a,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,5,HIGH,STAFF_SERVICE,garson;ilgili;servis,2026-06-26
+gm_2b9961c603136004,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,2,LOW,BEACH_SEA,deniz;koy,2026-07-26
+gm_2b9961c603136004,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,2,LOW,CHECKIN_CHECKOUT,giriş,2026-07-26
+gm_2b9961c603136004,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,2,LOW,CLEANLINESS_HYGIENE,temiz,2026-07-26
+gm_2b9961c603136004,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,2,LOW,FACILITIES_MAINTENANCE,tesis,2026-07-26
+gm_2b9961c603136004,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,2,LOW,FAMILY_CHILDREN,çocuk;aile;çocuklu,2026-07-26
+gm_2b9961c603136004,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,2,LOW,FOOD_BEVERAGE,yemek;restoran;büfe;lezzetli;çeşit;bar;menü,2026-07-26
+gm_2b9961c603136004,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,2,LOW,MANAGEMENT_COMMUNICATION,yönetim,2026-07-26
+gm_2b9961c603136004,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,2,LOW,POOL,havuz,2026-07-26
+gm_2b9961c603136004,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,2,LOW,PRICE_VALUE,fiyat;fiyat performans,2026-07-26
+gm_2b9961c603136004,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,2,LOW,ROOM,oda;yatak,2026-07-26
+gm_2b9961c603136004,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,2,LOW,STAFF_SERVICE,personel;çalışan;hizmet,2026-07-26
+gm_b84c94a4092b1e47,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,4,HIGH,BEACH_SEA,koy,2026-07-26
+gm_b84c94a4092b1e47,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,4,HIGH,FACILITIES_MAINTENANCE,tesis,2026-07-26
+gm_b84c94a4092b1e47,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,4,HIGH,FAMILY_CHILDREN,aile,2026-07-26
+gm_b84c94a4092b1e47,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,4,HIGH,FOOD_BEVERAGE,mutfak,2026-07-26
+gm_b84c94a4092b1e47,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,4,HIGH,SAFETY_SECURITY,kaza,2026-07-26
+gm_b84c94a4092b1e47,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,4,HIGH,STAFF_SERVICE,personel;çalışan,2026-07-26
+gm_0904518b90c8705e,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,5,HIGH,BEACH_SEA,deniz,2026-07-26
+gm_0904518b90c8705e,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,5,HIGH,FAMILY_CHILDREN,çocuk;aile;çocuklu,2026-07-26
+gm_0904518b90c8705e,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,5,HIGH,FOOD_BEVERAGE,yemek,2026-07-26
+gm_0904518b90c8705e,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,5,HIGH,POOL,havuz,2026-07-26
+gm_0904518b90c8705e,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,5,HIGH,ROOM,oda,2026-07-26
+gm_0904518b90c8705e,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,5,HIGH,STAFF_SERVICE,çalışan;ilgili;güler yüzlü,2026-07-26
+gm_4ca7376086cf8595,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,5,HIGH,BEACH_SEA,deniz;sahil;şezlong;koy,2026-06-26
+gm_4ca7376086cf8595,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,5,HIGH,CLEANLINESS_HYGIENE,temiz;havlu,2026-06-26
+gm_4ca7376086cf8595,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,5,HIGH,FOOD_BEVERAGE,yemek;kahvaltı;çeşit;bar,2026-06-26
+gm_4ca7376086cf8595,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,5,HIGH,NOISE,ses;sessiz;sakin,2026-06-26
+gm_4ca7376086cf8595,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,5,HIGH,POOL,havuz,2026-06-26
+gm_4ca7376086cf8595,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,5,HIGH,ROOM,oda,2026-06-26
+gm_4ca7376086cf8595,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,5,HIGH,SPA_WELLNESS,spa,2026-06-26
+gm_4ca7376086cf8595,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,5,HIGH,STAFF_SERVICE,ilgili,2026-06-26
+gm_c85eeaedcd0f3e3e,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,5,HIGH,FAMILY_CHILDREN,çocuk,2026-08-25
+gm_c85eeaedcd0f3e3e,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,5,HIGH,POOL,havuz;çocuk havuzu,2026-08-25
+gm_c85eeaedcd0f3e3e,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,5,HIGH,STAFF_SERVICE,ilgili,2026-08-25
+gm_506049847044e416,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,1,LOW,SAFETY_SECURITY,güvenlik;güvenli,2026-08-25
+gm_1edc5d09a3e9ced6,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,5,HIGH,CLEANLINESS_HYGIENE,temiz,2026-08-24
+gm_1edc5d09a3e9ced6,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,5,HIGH,FOOD_BEVERAGE,yemek,2026-08-24
+gm_1edc5d09a3e9ced6,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,5,HIGH,ROOM,oda,2026-08-24
+gm_1edc5d09a3e9ced6,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,5,HIGH,STAFF_SERVICE,personel;güler yüzlü,2026-08-24
+gm_9f3d85ae5238bca7,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,5,HIGH,BEACH_SEA,deniz,2026-08-24
+gm_9f3d85ae5238bca7,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,5,HIGH,CLEANLINESS_HYGIENE,temiz;temizlik,2026-08-24
+gm_9f3d85ae5238bca7,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,5,HIGH,FOOD_BEVERAGE,yemek,2026-08-24
+gm_9f3d85ae5238bca7,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,5,HIGH,STAFF_SERVICE,çalışan;yardımcı;servis,2026-08-24
+gm_c4e3aa598a0e0914,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,2,LOW,BEACH_SEA,deniz,2026-08-23
+gm_c4e3aa598a0e0914,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,2,LOW,CLEANLINESS_HYGIENE,kirli,2026-08-23
+gm_c4e3aa598a0e0914,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,2,LOW,FOOD_BEVERAGE,yemek;restoran;çeşit;taze;bar;menü;a la carte,2026-08-23
+gm_c4e3aa598a0e0914,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,2,LOW,NOISE,gürültü;ses,2026-08-23
+gm_c4e3aa598a0e0914,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,2,LOW,POOL,havuz;havuz kenarı,2026-08-23
+gm_c4e3aa598a0e0914,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,2,LOW,PRICE_VALUE,fiyat;değer,2026-08-23
+gm_c4e3aa598a0e0914,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,2,LOW,ROOM,oda,2026-08-23
+gm_c4e3aa598a0e0914,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,2,LOW,STAFF_SERVICE,personel;resepsiyon;hizmet;karşılama,2026-08-23
+gm_c4e3aa598a0e0914,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,2,LOW,TRANSPORT_TRANSFER,otopark,2026-08-23
+gm_a0d7527ed27a5c42,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,3,MIXED,BEACH_SEA,deniz,2026-08-23
+gm_a0d7527ed27a5c42,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,3,MIXED,CLEANLINESS_HYGIENE,kirli,2026-08-23
+gm_a0d7527ed27a5c42,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,3,MIXED,FAMILY_CHILDREN,çocuk,2026-08-23
+gm_a0d7527ed27a5c42,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,3,MIXED,FOOD_BEVERAGE,lezzetli;çeşit;içecek;bar,2026-08-23
+gm_a0d7527ed27a5c42,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,3,MIXED,POOL,havuz,2026-08-23
+gm_a0d7527ed27a5c42,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,3,MIXED,ROOM,oda;manzara,2026-08-23
+gm_a0d7527ed27a5c42,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,3,MIXED,STAFF_SERVICE,personel;çalışan;animasyon;güler yüzlü;nazik,2026-08-23
+gm_2baa21b979b7aafd,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,3,MIXED,CLEANLINESS_HYGIENE,temiz;tertemiz;temizlik,2026-08-23
+gm_2baa21b979b7aafd,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,3,MIXED,FOOD_BEVERAGE,yemek;lezzetli;içecek;bar,2026-08-23
+gm_2baa21b979b7aafd,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,3,MIXED,ROOM,oda,2026-08-23
+gm_2baa21b979b7aafd,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,3,MIXED,STAFF_SERVICE,çalışan;servis,2026-08-23
+gm_d4ead23944f69d15,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,4,HIGH,BEACH_SEA,deniz;sahil,2026-08-21
+gm_d4ead23944f69d15,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,4,HIGH,CLEANLINESS_HYGIENE,temiz;hijyen,2026-08-21
+gm_d4ead23944f69d15,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,4,HIGH,FAMILY_CHILDREN,çocuk,2026-08-21
+gm_d4ead23944f69d15,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,4,HIGH,FOOD_BEVERAGE,yemek,2026-08-21
+gm_d4ead23944f69d15,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,4,HIGH,NOISE,sakin,2026-08-21
+gm_d4ead23944f69d15,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,4,HIGH,POOL,havuz,2026-08-21
+gm_d4ead23944f69d15,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,4,HIGH,PRICE_VALUE,fiyat;fiyat performans,2026-08-21
+gm_d4ead23944f69d15,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,4,HIGH,ROOM,oda;manzara,2026-08-21
+gm_d4ead23944f69d15,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,4,HIGH,STAFF_SERVICE,karşılama,2026-08-21
+gm_aa1b1eb7852930f8,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,3,MIXED,CHECKIN_CHECKOUT,giriş,2026-08-21
+gm_aa1b1eb7852930f8,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,3,MIXED,FOOD_BEVERAGE,bar,2026-08-21
+gm_aa1b1eb7852930f8,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,3,MIXED,ROOM,oda,2026-08-21
+gm_59f5c2861bd08413,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,4,HIGH,FOOD_BEVERAGE,içecek,2026-08-21
+gm_e47a85a190a2cb33,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,5,HIGH,BEACH_SEA,şezlong,2026-08-20
+gm_e47a85a190a2cb33,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,5,HIGH,CLEANLINESS_HYGIENE,temiz;temizlik,2026-08-20
+gm_e47a85a190a2cb33,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,5,HIGH,FACILITIES_MAINTENANCE,bakım,2026-08-20
+gm_e47a85a190a2cb33,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,5,HIGH,FOOD_BEVERAGE,yemek;lezzetli;bar,2026-08-20
+gm_e47a85a190a2cb33,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,5,HIGH,POOL,havuz,2026-08-20
+gm_e47a85a190a2cb33,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,5,HIGH,STAFF_SERVICE,personel;güler yüzlü,2026-08-20
+gm_69c474719e904c37,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,5,HIGH,RESERVATION,rezervasyon,2026-08-20
+gm_69c474719e904c37,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,5,HIGH,ROOM,oda,2026-08-20
+gm_69c474719e904c37,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,5,HIGH,STAFF_SERVICE,resepsiyon;yardımcı,2026-08-20
+gm_9b3fac1907851125,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,3,MIXED,BEACH_SEA,deniz,2026-08-20
+gm_9b3fac1907851125,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,3,MIXED,FOOD_BEVERAGE,yemek;lezzetli;bar,2026-08-20
+gm_9b3fac1907851125,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,3,MIXED,ROOM,eski,2026-08-20
+gm_9b3fac1907851125,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,3,MIXED,STAFF_SERVICE,personel,2026-08-20
+gm_0e3f3b1f0cc5456e,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,4,HIGH,BEACH_SEA,deniz,2026-08-19
+gm_0e3f3b1f0cc5456e,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,4,HIGH,FAMILY_CHILDREN,çocuk,2026-08-19
+gm_db18e326bc8ea275,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,5,HIGH,PRICE_VALUE,fiyat,2026-08-19
+gm_5683b94847a3a33a,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,5,HIGH,FOOD_BEVERAGE,yemek,2026-08-19
+gm_5683b94847a3a33a,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,5,HIGH,STAFF_SERVICE,hizmet,2026-08-19
+gm_8641e593cb3a2120,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,1,LOW,BEACH_SEA,deniz,2026-08-19
+gm_8641e593cb3a2120,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,1,LOW,MANAGEMENT_COMMUNICATION,yönetim,2026-08-19
+gm_8641e593cb3a2120,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,1,LOW,ROOM,oda,2026-08-19
+gm_bae342e435dbd7c0,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,3,MIXED,AIR_CONDITIONING,havalandırma,2026-08-21
+gm_bae342e435dbd7c0,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,3,MIXED,BEACH_SEA,deniz,2026-08-21
+gm_bae342e435dbd7c0,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,3,MIXED,CHECKIN_CHECKOUT,giriş,2026-08-21
+gm_bae342e435dbd7c0,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,3,MIXED,CLEANLINESS_HYGIENE,temiz,2026-08-21
+gm_bae342e435dbd7c0,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,3,MIXED,FAMILY_CHILDREN,çocuk;aile;çocuk kulübü,2026-08-21
+gm_bae342e435dbd7c0,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,3,MIXED,FOOD_BEVERAGE,yemek;içecek;bar,2026-08-21
+gm_bae342e435dbd7c0,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,3,MIXED,POOL,havuz;çocuk havuzu;kaydırak,2026-08-21
+gm_bae342e435dbd7c0,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,3,MIXED,ROOM,oda;banyo;duş,2026-08-21
+gm_fc3e9a7b8f5e7fc0,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,5,HIGH,BEACH_SEA,şezlong,2026-08-20
+gm_fc3e9a7b8f5e7fc0,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,5,HIGH,CLEANLINESS_HYGIENE,temiz;temizlik,2026-08-20
+gm_fc3e9a7b8f5e7fc0,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,5,HIGH,FACILITIES_MAINTENANCE,bakım,2026-08-20
+gm_fc3e9a7b8f5e7fc0,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,5,HIGH,FOOD_BEVERAGE,yemek;lezzetli;bar,2026-08-20
+gm_fc3e9a7b8f5e7fc0,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,5,HIGH,POOL,havuz,2026-08-20
+gm_fc3e9a7b8f5e7fc0,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,5,HIGH,STAFF_SERVICE,personel;güler yüzlü,2026-08-20
+gm_6631713eb0acbafc,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,5,HIGH,AIR_CONDITIONING,klima,2026-08-20
+gm_6631713eb0acbafc,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,5,HIGH,BEACH_SEA,deniz;iskele;şezlong,2026-08-20
+gm_6631713eb0acbafc,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,5,HIGH,CLEANLINESS_HYGIENE,temiz;havlu,2026-08-20
+gm_6631713eb0acbafc,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,5,HIGH,FAMILY_CHILDREN,çocuk;aile,2026-08-20
+gm_6631713eb0acbafc,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,5,HIGH,FOOD_BEVERAGE,yemek;restoran;lezzetli;çeşit;içecek;bar,2026-08-20
+gm_6631713eb0acbafc,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,5,HIGH,MANAGEMENT_COMMUNICATION,müdür,2026-08-20
+gm_6631713eb0acbafc,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,5,HIGH,POOL,havuz;kaydırak,2026-08-20
+gm_6631713eb0acbafc,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,5,HIGH,RESERVATION,rezervasyon,2026-08-20
+gm_6631713eb0acbafc,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,5,HIGH,ROOM,oda;banyo;duş;balkon;klima,2026-08-20
+gm_6631713eb0acbafc,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,5,HIGH,STAFF_SERVICE,personel;resepsiyon;animasyon;ilgili;yardımcı;servis,2026-08-20
+gm_1f42b1d2647a2872,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,3,MIXED,BEACH_SEA,deniz,2026-08-20
+gm_1f42b1d2647a2872,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,3,MIXED,CLEANLINESS_HYGIENE,temiz,2026-08-20
+gm_1f42b1d2647a2872,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,3,MIXED,FOOD_BEVERAGE,yemek;lezzetli;bar,2026-08-20
+gm_1f42b1d2647a2872,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,3,MIXED,ROOM,eski,2026-08-20
+gm_1f42b1d2647a2872,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,3,MIXED,STAFF_SERVICE,personel,2026-08-20
+gm_3ddb633625d86b80,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,5,HIGH,CHECKIN_CHECKOUT,çıkış,2026-08-19
+gm_3ddb633625d86b80,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,5,HIGH,CLEANLINESS_HYGIENE,temiz,2026-08-19
+gm_3ddb633625d86b80,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,5,HIGH,FACILITIES_MAINTENANCE,tesis,2026-08-19
+gm_3ddb633625d86b80,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,5,HIGH,FOOD_BEVERAGE,yemek;restoran;bar,2026-08-19
+gm_3ddb633625d86b80,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,5,HIGH,MANAGEMENT_COMMUNICATION,müdür,2026-08-19
+gm_3ddb633625d86b80,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,5,HIGH,PRICE_VALUE,fiyat,2026-08-19
+gm_3ddb633625d86b80,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,5,HIGH,STAFF_SERVICE,garson,2026-08-19
+gm_1293c64805d6ea42,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,1,LOW,BEACH_SEA,deniz,2026-08-19
+gm_1293c64805d6ea42,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,1,LOW,MANAGEMENT_COMMUNICATION,yönetim;şikayet,2026-08-19
+gm_1293c64805d6ea42,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,1,LOW,ROOM,oda,2026-08-19
+gm_a6b0b0449953703b,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,1,LOW,CLEANLINESS_HYGIENE,hijyen;pis,2026-08-18
+gm_a6b0b0449953703b,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,1,LOW,FOOD_BEVERAGE,yemek,2026-08-18
+gm_a6b0b0449953703b,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,1,LOW,ROOM,oda;konforlu,2026-08-18
+gm_272c379bd9d1617f,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,1,LOW,ROOM,oda,2026-08-18
+gm_62207d6755288218,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,5,HIGH,BEACH_SEA,deniz,2026-08-18
+gm_62207d6755288218,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,5,HIGH,FAMILY_CHILDREN,çocuk,2026-08-18
+gm_62207d6755288218,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,5,HIGH,FOOD_BEVERAGE,yemek,2026-08-18
+gm_62207d6755288218,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,5,HIGH,STAFF_SERVICE,çalışan,2026-08-18
+gm_a1f05aeeb011f9cf,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,2,LOW,CLEANLINESS_HYGIENE,temiz;hijyen,2026-08-18
+gm_a1f05aeeb011f9cf,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,2,LOW,ROOM,oda;yatak,2026-08-18
+gm_1240c7e2ca406ca2,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,3,MIXED,CLEANLINESS_HYGIENE,temiz,2026-08-18
+gm_1240c7e2ca406ca2,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,3,MIXED,ROOM,oda;eski,2026-08-18
+gm_1240c7e2ca406ca2,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,3,MIXED,STAFF_SERVICE,resepsiyon;karşılama,2026-08-18
+gm_80fb2b6fbd903553,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,1,LOW,CLEANLINESS_HYGIENE,temiz;temizlik,2026-08-18
+gm_80fb2b6fbd903553,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,1,LOW,STAFF_SERVICE,ilgisiz,2026-08-18
+gm_f36be9a8c66ae017,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,4,HIGH,BEACH_SEA,deniz;koy,2026-08-18
+gm_f36be9a8c66ae017,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,4,HIGH,FOOD_BEVERAGE,yemek,2026-08-18
+gm_f36be9a8c66ae017,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,4,HIGH,POOL,havuz,2026-08-18
+gm_48ab9f55c7ed5802,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,1,LOW,ROOM,oda,2026-08-18
+gm_508934631f3560d0,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,5,HIGH,BEACH_SEA,deniz,2026-08-18
+gm_508934631f3560d0,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,5,HIGH,CLEANLINESS_HYGIENE,temiz,2026-08-18
+gm_508934631f3560d0,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,5,HIGH,FAMILY_CHILDREN,çocuk,2026-08-18
+gm_508934631f3560d0,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,5,HIGH,FOOD_BEVERAGE,yemek;lezzetli;çeşit;içecek;bar,2026-08-18
+gm_508934631f3560d0,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,5,HIGH,ROOM,oda,2026-08-18
+gm_508934631f3560d0,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,5,HIGH,STAFF_SERVICE,çalışan;animasyon,2026-08-18
+gm_a9b9f64108008dcf,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,2,LOW,BEACH_SEA,plaj;deniz,2026-08-18
+gm_a9b9f64108008dcf,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,2,LOW,CLEANLINESS_HYGIENE,temiz;hijyen;pis;koku;havlu,2026-08-18
+gm_a9b9f64108008dcf,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,2,LOW,FOOD_BEVERAGE,yemek;bar;menü,2026-08-18
+gm_a9b9f64108008dcf,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,2,LOW,ROOM,oda;yatak;banyo,2026-08-18
+gm_3e37f9827f95dba9,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,3,MIXED,BEACH_SEA,deniz,2026-08-18
+gm_3e37f9827f95dba9,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,3,MIXED,CLEANLINESS_HYGIENE,temiz,2026-08-18
+gm_3e37f9827f95dba9,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,3,MIXED,FOOD_BEVERAGE,yemek;lezzetli,2026-08-18
+gm_3e37f9827f95dba9,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,3,MIXED,ROOM,oda;eski,2026-08-18
+gm_3e37f9827f95dba9,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,3,MIXED,STAFF_SERVICE,resepsiyon;karşılama,2026-08-18
+gm_8b7851f43012432e,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,1,LOW,BEACH_SEA,koy,2026-08-18
+gm_8b7851f43012432e,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,1,LOW,CLEANLINESS_HYGIENE,temiz;hijyen;pis;temizlik,2026-08-18
+gm_8b7851f43012432e,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,1,LOW,FAMILY_CHILDREN,aile,2026-08-18
+gm_8b7851f43012432e,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,1,LOW,FOOD_BEVERAGE,yemek,2026-08-18
+gm_8b7851f43012432e,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,1,LOW,POOL,havuz,2026-08-18
+gm_8b7851f43012432e,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,1,LOW,ROOM,banyo,2026-08-18
+gm_8b7851f43012432e,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,1,LOW,STAFF_SERVICE,çalışan;animasyon;ilgisiz;servis,2026-08-18
+gm_1528b510450c84e1,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,4,HIGH,BEACH_SEA,deniz;koy,2026-08-18
+gm_1528b510450c84e1,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,4,HIGH,FAMILY_CHILDREN,aile,2026-08-18
+gm_1528b510450c84e1,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,4,HIGH,FOOD_BEVERAGE,yemek;mutfak,2026-08-18
+gm_1528b510450c84e1,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,4,HIGH,POOL,havuz,2026-08-18
+gm_1528b510450c84e1,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,4,HIGH,ROOM,oda;yatak;eski,2026-08-18
+gm_5a179c103a2bd7ae,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,3,MIXED,BEACH_SEA,koy,2026-08-18
+gm_5a179c103a2bd7ae,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,3,MIXED,CLEANLINESS_HYGIENE,hijyen,2026-08-18
+gm_5a179c103a2bd7ae,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,3,MIXED,FOOD_BEVERAGE,restoran,2026-08-18
+gm_5a179c103a2bd7ae,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,3,MIXED,NOISE,ses;sessiz,2026-08-18
+gm_520764b8b2fd9265,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,5,HIGH,FAMILY_CHILDREN,çocuk,2026-08-18
+gm_520764b8b2fd9265,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,5,HIGH,MANAGEMENT_COMMUNICATION,müdür,2026-08-18
+gm_520764b8b2fd9265,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,5,HIGH,STAFF_SERVICE,ilgili,2026-08-18
+gm_304b4f22431d623a,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,3,MIXED,ROOM,oda,2026-08-18
+gm_304b4f22431d623a,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,3,MIXED,STAFF_SERVICE,çalışan;garson,2026-08-18
+gm_7f85f6850f4d8e46,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,5,HIGH,BEACH_SEA,deniz,2026-08-18
+gm_7f85f6850f4d8e46,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,5,HIGH,FOOD_BEVERAGE,yemek,2026-08-18
+gm_a0dcf24538b55c91,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,1,LOW,ROOM,oda;yatak,2026-08-18
+gm_fcba1a6aabffec46,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,3,MIXED,BEACH_SEA,iskele;koy,2026-08-18
+gm_fcba1a6aabffec46,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,3,MIXED,CLEANLINESS_HYGIENE,hijyen;koku,2026-08-18
+gm_fcba1a6aabffec46,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,3,MIXED,FAMILY_CHILDREN,çocuk,2026-08-18
+gm_fcba1a6aabffec46,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,3,MIXED,FOOD_BEVERAGE,restoran;bar,2026-08-18
+gm_fcba1a6aabffec46,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,3,MIXED,NOISE,ses;sessiz,2026-08-18
+gm_fcba1a6aabffec46,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,3,MIXED,POOL,havuz,2026-08-18
+gm_fcba1a6aabffec46,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,3,MIXED,SAFETY_SECURITY,güvenli,2026-08-18
+gm_fcba1a6aabffec46,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,3,MIXED,STAFF_SERVICE,yardımcı,2026-08-18
+gm_e973e47b0e27afa6,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,4,HIGH,BEACH_SEA,deniz;iskele;şezlong,2026-08-18
+gm_e973e47b0e27afa6,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,4,HIGH,FOOD_BEVERAGE,yemek;kahvaltı;bar;menü,2026-08-18
+gm_e973e47b0e27afa6,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,4,HIGH,POOL,havuz,2026-08-18
+gm_e973e47b0e27afa6,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,4,HIGH,ROOM,yatak;geniş,2026-08-18
+gm_e973e47b0e27afa6,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,4,HIGH,STAFF_SERVICE,animasyon,2026-08-18
+gm_e973e47b0e27afa6,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,4,HIGH,TRANSPORT_TRANSFER,otopark,2026-08-18
+gm_ffd55ff693fabc6b,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,5,HIGH,BEACH_SEA,deniz,2026-08-18
+gm_ffd55ff693fabc6b,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,5,HIGH,CLEANLINESS_HYGIENE,temiz,2026-08-18
+gm_ffd55ff693fabc6b,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,5,HIGH,FACILITIES_MAINTENANCE,bozuk,2026-08-18
+gm_ffd55ff693fabc6b,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,5,HIGH,FAMILY_CHILDREN,çocuk;aile,2026-08-18
+gm_ffd55ff693fabc6b,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,5,HIGH,FOOD_BEVERAGE,yemek;lezzetli;içecek;mutfak,2026-08-18
+gm_ffd55ff693fabc6b,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,5,HIGH,MANAGEMENT_COMMUNICATION,müdür,2026-08-18
+gm_ffd55ff693fabc6b,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,5,HIGH,STAFF_SERVICE,personel;garson;ilgili,2026-08-18
+gm_f9bd5f6209c610a3,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,3,MIXED,BEACH_SEA,sahil,2026-08-18
+gm_f9bd5f6209c610a3,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,3,MIXED,CLEANLINESS_HYGIENE,temiz,2026-08-18
+gm_f9bd5f6209c610a3,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,3,MIXED,FOOD_BEVERAGE,yemek;içecek;bar,2026-08-18
+gm_f9bd5f6209c610a3,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,3,MIXED,ROOM,oda,2026-08-18
+gm_f9bd5f6209c610a3,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,3,MIXED,STAFF_SERVICE,çalışan;garson,2026-08-18
+gm_71e0a801a2552a56,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,3,MIXED,CLEANLINESS_HYGIENE,temiz;pis;koku,2026-08-18
+gm_71e0a801a2552a56,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,3,MIXED,FAMILY_CHILDREN,çocuk;bebek,2026-08-18
+gm_71e0a801a2552a56,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,3,MIXED,FOOD_BEVERAGE,yemek;restoran;çeşit;bar,2026-08-18
+gm_71e0a801a2552a56,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,3,MIXED,POOL,havuz,2026-08-18
+gm_71e0a801a2552a56,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,3,MIXED,ROOM,oda;yatak;duş,2026-08-18
+gm_71e0a801a2552a56,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,3,MIXED,SPA_WELLNESS,masaj,2026-08-18
+gm_17612f01cda27081,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,1,LOW,AIR_CONDITIONING,havalandırma,2026-08-18
+gm_17612f01cda27081,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,1,LOW,BEACH_SEA,plaj,2026-08-18
+gm_17612f01cda27081,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,1,LOW,CLEANLINESS_HYGIENE,lekeli;koku,2026-08-18
+gm_17612f01cda27081,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,1,LOW,FAMILY_CHILDREN,aile,2026-08-18
+gm_17612f01cda27081,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,1,LOW,FOOD_BEVERAGE,yemek;kahvaltı;içecek;bar,2026-08-18
+gm_17612f01cda27081,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,1,LOW,POOL,havuz,2026-08-18
+gm_17612f01cda27081,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,1,LOW,ROOM,oda;yatak;eski,2026-08-18
+gm_17612f01cda27081,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,1,LOW,STAFF_SERVICE,çalışan;kaba,2026-08-18
+gm_67199d50c69942a4,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,5,HIGH,FOOD_BEVERAGE,restoran,2026-08-18
+gm_67199d50c69942a4,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,5,HIGH,MANAGEMENT_COMMUNICATION,müdür,2026-08-18
+gm_67199d50c69942a4,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,5,HIGH,STAFF_SERVICE,personel;güler yüzlü;hizmet,2026-08-18
+gm_8d7e10c7e1211edd,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,5,HIGH,BEACH_SEA,deniz,2026-08-18
+gm_8d7e10c7e1211edd,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,5,HIGH,NOISE,sakin,2026-08-18
+gm_8d7e10c7e1211edd,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,5,HIGH,ROOM,manzara,2026-08-18
+gm_dba24e7a84307097,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,5,HIGH,FACILITIES_MAINTENANCE,tesis,2026-08-18
+gm_dba24e7a84307097,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,5,HIGH,ROOM,oda,2026-08-18
+gm_6897bacd884111d7,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,4,HIGH,BEACH_SEA,deniz,2026-08-11
+gm_6897bacd884111d7,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,4,HIGH,FOOD_BEVERAGE,yemek,2026-08-11
+gm_6897bacd884111d7,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,4,HIGH,PRICE_VALUE,fiyat;fiyat performans,2026-08-11
+gm_06b6550370ac89a8,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,5,HIGH,STAFF_SERVICE,animasyon,2026-08-11
+gm_534fb5c3d85572a3,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,1,LOW,BEACH_SEA,deniz;sahil;şezlong;koy,2026-08-11
+gm_534fb5c3d85572a3,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,1,LOW,CLEANLINESS_HYGIENE,kirli,2026-08-11
+gm_534fb5c3d85572a3,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,1,LOW,FAMILY_CHILDREN,çocuk,2026-08-11
+gm_534fb5c3d85572a3,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,1,LOW,FOOD_BEVERAGE,soğuk;içecek;bar,2026-08-11
+gm_534fb5c3d85572a3,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,1,LOW,POOL,havuz,2026-08-11
+gm_b70ec87681fe5625,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,5,HIGH,FOOD_BEVERAGE,restoran,2026-08-18
+gm_b70ec87681fe5625,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,5,HIGH,MANAGEMENT_COMMUNICATION,müdür,2026-08-18
+gm_b70ec87681fe5625,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,5,HIGH,STAFF_SERVICE,personel;güler yüzlü;hizmet,2026-08-18
+gm_4ada513d02fb0af6,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,5,HIGH,BEACH_SEA,deniz;koy,2026-08-18
+gm_4ada513d02fb0af6,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,5,HIGH,CLEANLINESS_HYGIENE,temiz,2026-08-18
+gm_4ada513d02fb0af6,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,5,HIGH,FAMILY_CHILDREN,çocuk,2026-08-18
+gm_4ada513d02fb0af6,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,5,HIGH,FOOD_BEVERAGE,yemek;restoran;büfe;açık büfe;lezzetli;çeşit;soğuk;içecek;bar,2026-08-18
+gm_4ada513d02fb0af6,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,5,HIGH,NOISE,sakin,2026-08-18
+gm_4ada513d02fb0af6,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,5,HIGH,POOL,havuz,2026-08-18
+gm_4ada513d02fb0af6,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,5,HIGH,ROOM,oda;manzara;konforlu,2026-08-18
+gm_4ada513d02fb0af6,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,5,HIGH,STAFF_SERVICE,çalışan;güler yüzlü,2026-08-18
+gm_4329b51e99226d4f,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,5,HIGH,BEACH_SEA,deniz,2026-08-18
+gm_4329b51e99226d4f,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,5,HIGH,FACILITIES_MAINTENANCE,tesis,2026-08-18
+gm_4329b51e99226d4f,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,5,HIGH,FAMILY_CHILDREN,çocuk,2026-08-18
+gm_4329b51e99226d4f,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,5,HIGH,ROOM,oda;manzara,2026-08-18
+gm_4329b51e99226d4f,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,5,HIGH,STAFF_SERVICE,personel;çalışan;ilgili,2026-08-18
+gm_ce15a7776d924472,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,4,HIGH,BEACH_SEA,deniz,2026-08-11
+gm_ce15a7776d924472,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,4,HIGH,CHECKIN_CHECKOUT,giriş;çıkış,2026-08-11
+gm_ce15a7776d924472,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,4,HIGH,CLEANLINESS_HYGIENE,temiz;temizlik,2026-08-11
+gm_ce15a7776d924472,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,4,HIGH,FAMILY_CHILDREN,çocuk,2026-08-11
+gm_ce15a7776d924472,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,4,HIGH,FOOD_BEVERAGE,yemek;bar,2026-08-11
+gm_ce15a7776d924472,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,4,HIGH,PRICE_VALUE,fiyat;fiyat performans,2026-08-11
+gm_ce15a7776d924472,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,4,HIGH,ROOM,oda,2026-08-11
+gm_ce15a7776d924472,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,4,HIGH,STAFF_SERVICE,çalışan;animasyon;güler yüzlü;yardımcı,2026-08-11
+gm_277e3e319644ee17,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,1,LOW,BEACH_SEA,deniz;sahil;şezlong;koy,2026-08-11
+gm_277e3e319644ee17,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,1,LOW,CLEANLINESS_HYGIENE,temiz;kirli;temizlik,2026-08-11
+gm_277e3e319644ee17,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,1,LOW,FACILITIES_MAINTENANCE,bakım,2026-08-11
+gm_277e3e319644ee17,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,1,LOW,FAMILY_CHILDREN,çocuk,2026-08-11
+gm_277e3e319644ee17,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,1,LOW,FOOD_BEVERAGE,yemek;restoran;soğuk;içecek;bar;menü,2026-08-11
+gm_277e3e319644ee17,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,1,LOW,POOL,havuz,2026-08-11
+gm_277e3e319644ee17,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,1,LOW,RESERVATION,rezervasyon,2026-08-11
+gm_277e3e319644ee17,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,1,LOW,ROOM,oda,2026-08-11
+gm_277e3e319644ee17,BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,1,LOW,STAFF_SERVICE,garson,2026-08-11
+gm_608eea1dbe32fa22,BOD106,La Blanche Island Bodrum,Güvercinlik,2,LOW,CLEANLINESS_HYGIENE,temiz,2026-07-28
+gm_608eea1dbe32fa22,BOD106,La Blanche Island Bodrum,Güvercinlik,2,LOW,ROOM,oda,2026-07-28
+gm_608eea1dbe32fa22,BOD106,La Blanche Island Bodrum,Güvercinlik,2,LOW,STAFF_SERVICE,ilgili;güler yüzlü,2026-07-28
+gm_7f39a17d45fea0ef,BOD106,La Blanche Island Bodrum,Güvercinlik,4,HIGH,FACILITIES_MAINTENANCE,bakım,2026-07-26
+gm_7f39a17d45fea0ef,BOD106,La Blanche Island Bodrum,Güvercinlik,4,HIGH,FOOD_BEVERAGE,yemek;restoran;taze,2026-07-26
+gm_7f39a17d45fea0ef,BOD106,La Blanche Island Bodrum,Güvercinlik,4,HIGH,ROOM,oda;banyo;duş;eski;konforlu,2026-07-26
+gm_7f39a17d45fea0ef,BOD106,La Blanche Island Bodrum,Güvercinlik,4,HIGH,STAFF_SERVICE,ilgili;güler yüzlü;hizmet;karşılama;profesyonel,2026-07-26
+gm_4dba20a9b750958d,BOD106,La Blanche Island Bodrum,Güvercinlik,4,HIGH,BEACH_SEA,deniz,2026-07-26
+gm_4dba20a9b750958d,BOD106,La Blanche Island Bodrum,Güvercinlik,4,HIGH,FOOD_BEVERAGE,yemek;kahvaltı;lezzetli;çeşit;içecek;bar,2026-07-26
+gm_4dba20a9b750958d,BOD106,La Blanche Island Bodrum,Güvercinlik,4,HIGH,POOL,havuz,2026-07-26
+gm_4dba20a9b750958d,BOD106,La Blanche Island Bodrum,Güvercinlik,4,HIGH,RESERVATION,iptal,2026-07-26
+gm_4dba20a9b750958d,BOD106,La Blanche Island Bodrum,Güvercinlik,4,HIGH,ROOM,manzara,2026-07-26
+gm_4dba20a9b750958d,BOD106,La Blanche Island Bodrum,Güvercinlik,4,HIGH,STAFF_SERVICE,personel;çalışan;resepsiyon,2026-07-26
+gm_04acc455e25ba9d5,BOD106,La Blanche Island Bodrum,Güvercinlik,5,HIGH,BEACH_SEA,plaj;deniz,2026-06-26
+gm_04acc455e25ba9d5,BOD106,La Blanche Island Bodrum,Güvercinlik,5,HIGH,CHECKIN_CHECKOUT,giriş,2026-06-26
+gm_04acc455e25ba9d5,BOD106,La Blanche Island Bodrum,Güvercinlik,5,HIGH,CLEANLINESS_HYGIENE,temiz,2026-06-26
+gm_04acc455e25ba9d5,BOD106,La Blanche Island Bodrum,Güvercinlik,5,HIGH,FACILITIES_MAINTENANCE,bakım;tesis,2026-06-26
+gm_04acc455e25ba9d5,BOD106,La Blanche Island Bodrum,Güvercinlik,5,HIGH,FOOD_BEVERAGE,yemek;restoran;lezzetli;çeşit;çeşitlilik;soğuk;içecek;bar,2026-06-26
+gm_04acc455e25ba9d5,BOD106,La Blanche Island Bodrum,Güvercinlik,5,HIGH,ROOM,oda;manzara;konforlu,2026-06-26
+gm_04acc455e25ba9d5,BOD106,La Blanche Island Bodrum,Güvercinlik,5,HIGH,STAFF_SERVICE,personel;çalışan;güler yüzlü;yardımcı;nazik;hizmet;karşılama;profesyonel,2026-06-26
+gm_04acc455e25ba9d5,BOD106,La Blanche Island Bodrum,Güvercinlik,5,HIGH,TRANSPORT_TRANSFER,shuttle;ulaşım,2026-06-26
+gm_a2df5bb0ce54cc9f,BOD106,La Blanche Island Bodrum,Güvercinlik,3,MIXED,BEACH_SEA,plaj;deniz,2026-08-04
+gm_a2df5bb0ce54cc9f,BOD106,La Blanche Island Bodrum,Güvercinlik,3,MIXED,CHECKIN_CHECKOUT,giriş,2026-08-04
+gm_a2df5bb0ce54cc9f,BOD106,La Blanche Island Bodrum,Güvercinlik,3,MIXED,CLEANLINESS_HYGIENE,koku;çarşaf;havlu,2026-08-04
+gm_a2df5bb0ce54cc9f,BOD106,La Blanche Island Bodrum,Güvercinlik,3,MIXED,FACILITIES_MAINTENANCE,bakım;bakımsız,2026-08-04
+gm_a2df5bb0ce54cc9f,BOD106,La Blanche Island Bodrum,Güvercinlik,3,MIXED,ROOM,oda;manzara,2026-08-04
+gm_a2df5bb0ce54cc9f,BOD106,La Blanche Island Bodrum,Güvercinlik,3,MIXED,STAFF_SERVICE,garson;resepsiyon;animasyon;güler yüzlü;hizmet,2026-08-04
+gm_a00e1bb690b785bb,BOD106,La Blanche Island Bodrum,Güvercinlik,4,HIGH,BEACH_SEA,plaj,2026-07-26
+gm_a00e1bb690b785bb,BOD106,La Blanche Island Bodrum,Güvercinlik,4,HIGH,CLEANLINESS_HYGIENE,temiz;pis;koku;havlu,2026-07-26
+gm_a00e1bb690b785bb,BOD106,La Blanche Island Bodrum,Güvercinlik,4,HIGH,FACILITIES_MAINTENANCE,asansör,2026-07-26
+gm_a00e1bb690b785bb,BOD106,La Blanche Island Bodrum,Güvercinlik,4,HIGH,FOOD_BEVERAGE,yemek,2026-07-26
+gm_a00e1bb690b785bb,BOD106,La Blanche Island Bodrum,Güvercinlik,4,HIGH,PRICE_VALUE,fiyat,2026-07-26
+gm_a00e1bb690b785bb,BOD106,La Blanche Island Bodrum,Güvercinlik,4,HIGH,ROOM,oda;duş,2026-07-26
+gm_a00e1bb690b785bb,BOD106,La Blanche Island Bodrum,Güvercinlik,4,HIGH,STAFF_SERVICE,personel,2026-07-26
+gm_e6f66b6670c76d10,BOD106,La Blanche Island Bodrum,Güvercinlik,3,MIXED,BEACH_SEA,deniz;sahil,2026-08-04
+gm_e6f66b6670c76d10,BOD106,La Blanche Island Bodrum,Güvercinlik,3,MIXED,CHECKIN_CHECKOUT,giriş,2026-08-04
+gm_e6f66b6670c76d10,BOD106,La Blanche Island Bodrum,Güvercinlik,3,MIXED,CLEANLINESS_HYGIENE,hijyen,2026-08-04
+gm_e6f66b6670c76d10,BOD106,La Blanche Island Bodrum,Güvercinlik,3,MIXED,FACILITIES_MAINTENANCE,tesis,2026-08-04
+gm_e6f66b6670c76d10,BOD106,La Blanche Island Bodrum,Güvercinlik,3,MIXED,FOOD_BEVERAGE,yemek;restoran;büfe;açık büfe;lezzetli;çeşit;soğuk;bar;a la carte,2026-08-04
+gm_e6f66b6670c76d10,BOD106,La Blanche Island Bodrum,Güvercinlik,3,MIXED,PAYMENT_REFUND,iade,2026-08-04
+gm_e6f66b6670c76d10,BOD106,La Blanche Island Bodrum,Güvercinlik,3,MIXED,PRICE_VALUE,fiyat;değer,2026-08-04
+gm_e6f66b6670c76d10,BOD106,La Blanche Island Bodrum,Güvercinlik,3,MIXED,RESERVATION,rezervasyon,2026-08-04
+gm_e6f66b6670c76d10,BOD106,La Blanche Island Bodrum,Güvercinlik,3,MIXED,ROOM,oda,2026-08-04
+gm_e6f66b6670c76d10,BOD106,La Blanche Island Bodrum,Güvercinlik,3,MIXED,STAFF_SERVICE,personel;çalışan;resepsiyon;ilgili;güler yüzlü;yardımcı;servis,2026-08-04
+gm_33de61495da4f8b0,BOD106,La Blanche Island Bodrum,Güvercinlik,3,MIXED,BEACH_SEA,deniz,2026-08-04
+gm_33de61495da4f8b0,BOD106,La Blanche Island Bodrum,Güvercinlik,3,MIXED,CLEANLINESS_HYGIENE,temiz,2026-08-04
+gm_33de61495da4f8b0,BOD106,La Blanche Island Bodrum,Güvercinlik,3,MIXED,FACILITIES_MAINTENANCE,tesis,2026-08-04
+gm_33de61495da4f8b0,BOD106,La Blanche Island Bodrum,Güvercinlik,3,MIXED,FOOD_BEVERAGE,yemek;restoran,2026-08-04
+gm_33de61495da4f8b0,BOD106,La Blanche Island Bodrum,Güvercinlik,3,MIXED,POOL,havuz,2026-08-04
+gm_33de61495da4f8b0,BOD106,La Blanche Island Bodrum,Güvercinlik,3,MIXED,PRICE_VALUE,fiyat;fiyat performans,2026-08-04
+gm_33de61495da4f8b0,BOD106,La Blanche Island Bodrum,Güvercinlik,3,MIXED,ROOM,oda,2026-08-04
+gm_0efe78df72a8bf7d,BOD106,La Blanche Island Bodrum,Güvercinlik,5,HIGH,BEACH_SEA,plaj;deniz,2026-08-04
+gm_0efe78df72a8bf7d,BOD106,La Blanche Island Bodrum,Güvercinlik,5,HIGH,FAMILY_CHILDREN,aile,2026-08-04
+gm_0efe78df72a8bf7d,BOD106,La Blanche Island Bodrum,Güvercinlik,5,HIGH,FOOD_BEVERAGE,çeşit;çeşitlilik;bar;mutfak,2026-08-04
+gm_0efe78df72a8bf7d,BOD106,La Blanche Island Bodrum,Güvercinlik,5,HIGH,NOISE,ses,2026-08-04
+gm_0efe78df72a8bf7d,BOD106,La Blanche Island Bodrum,Güvercinlik,5,HIGH,ROOM,oda;yatak;manzara,2026-08-04
+gm_0efe78df72a8bf7d,BOD106,La Blanche Island Bodrum,Güvercinlik,5,HIGH,SPA_WELLNESS,spa,2026-08-04
+gm_0efe78df72a8bf7d,BOD106,La Blanche Island Bodrum,Güvercinlik,5,HIGH,STAFF_SERVICE,personel;çalışan;resepsiyon;animasyon;ilgili;güler yüzlü;hizmet;servis,2026-08-04
+gm_53f13caaaff30e1b,BOD106,La Blanche Island Bodrum,Güvercinlik,3,MIXED,BEACH_SEA,plaj;deniz;sahil;şezlong;koy,2026-07-26
+gm_53f13caaaff30e1b,BOD106,La Blanche Island Bodrum,Güvercinlik,3,MIXED,CHECKIN_CHECKOUT,giriş;çıkış,2026-07-26
+gm_53f13caaaff30e1b,BOD106,La Blanche Island Bodrum,Güvercinlik,3,MIXED,CLEANLINESS_HYGIENE,havlu,2026-07-26
+gm_53f13caaaff30e1b,BOD106,La Blanche Island Bodrum,Güvercinlik,3,MIXED,FOOD_BEVERAGE,yemek;restoran;bar,2026-07-26
+gm_53f13caaaff30e1b,BOD106,La Blanche Island Bodrum,Güvercinlik,3,MIXED,POOL,havuz,2026-07-26
+gm_53f13caaaff30e1b,BOD106,La Blanche Island Bodrum,Güvercinlik,3,MIXED,PRICE_VALUE,fiyat;fiyatına göre;değer,2026-07-26
+gm_53f13caaaff30e1b,BOD106,La Blanche Island Bodrum,Güvercinlik,3,MIXED,ROOM,oda,2026-07-26
+gm_53f13caaaff30e1b,BOD106,La Blanche Island Bodrum,Güvercinlik,3,MIXED,STAFF_SERVICE,garson,2026-07-26
+gm_4778f418a46bc1b9,BOD106,La Blanche Island Bodrum,Güvercinlik,5,HIGH,STAFF_SERVICE,personel;ilgili;hizmet,2026-08-25
+gm_4778f418a46bc1b9,BOD106,La Blanche Island Bodrum,Güvercinlik,5,HIGH,TRANSPORT_TRANSFER,transfer,2026-08-25
+gm_e88c08b762c73cea,BOD106,La Blanche Island Bodrum,Güvercinlik,5,HIGH,BEACH_SEA,plaj;deniz,2026-08-25
+gm_e88c08b762c73cea,BOD106,La Blanche Island Bodrum,Güvercinlik,5,HIGH,CLEANLINESS_HYGIENE,temiz,2026-08-25
+gm_e88c08b762c73cea,BOD106,La Blanche Island Bodrum,Güvercinlik,5,HIGH,FAMILY_CHILDREN,aile,2026-08-25
+gm_e88c08b762c73cea,BOD106,La Blanche Island Bodrum,Güvercinlik,5,HIGH,FOOD_BEVERAGE,yemek;lezzetli;çeşit,2026-08-25
+gm_e88c08b762c73cea,BOD106,La Blanche Island Bodrum,Güvercinlik,5,HIGH,POOL,havuz,2026-08-25
+gm_e88c08b762c73cea,BOD106,La Blanche Island Bodrum,Güvercinlik,5,HIGH,STAFF_SERVICE,personel;ilgili;güler yüzlü,2026-08-25
+gm_0aafbfd2ced6d3ca,BOD106,La Blanche Island Bodrum,Güvercinlik,5,HIGH,AIR_CONDITIONING,klima,2026-08-25
+gm_0aafbfd2ced6d3ca,BOD106,La Blanche Island Bodrum,Güvercinlik,5,HIGH,BEACH_SEA,plaj;deniz;koy,2026-08-25
+gm_0aafbfd2ced6d3ca,BOD106,La Blanche Island Bodrum,Güvercinlik,5,HIGH,CLEANLINESS_HYGIENE,temiz,2026-08-25
+gm_0aafbfd2ced6d3ca,BOD106,La Blanche Island Bodrum,Güvercinlik,5,HIGH,FOOD_BEVERAGE,yemek;restoran;bar,2026-08-25
+gm_0aafbfd2ced6d3ca,BOD106,La Blanche Island Bodrum,Güvercinlik,5,HIGH,ROOM,oda;klima,2026-08-25
+gm_0aafbfd2ced6d3ca,BOD106,La Blanche Island Bodrum,Güvercinlik,5,HIGH,STAFF_SERVICE,animasyon;ilgisiz;hizmet,2026-08-25
+gm_7bb5d5ffe92929eb,BOD106,La Blanche Island Bodrum,Güvercinlik,5,HIGH,FOOD_BEVERAGE,yemek;lezzetli,2026-08-24
+gm_7bb5d5ffe92929eb,BOD106,La Blanche Island Bodrum,Güvercinlik,5,HIGH,STAFF_SERVICE,servis,2026-08-24
+gm_7d40216c0370cec7,BOD106,La Blanche Island Bodrum,Güvercinlik,5,HIGH,FOOD_BEVERAGE,yemek;restoran;bar,2026-08-24
+gm_7d40216c0370cec7,BOD106,La Blanche Island Bodrum,Güvercinlik,5,HIGH,STAFF_SERVICE,personel;güler yüzlü;kibar;hizmet,2026-08-24
+gm_22ab396b75fec871,BOD106,La Blanche Island Bodrum,Güvercinlik,5,HIGH,BEACH_SEA,deniz,2026-08-24
+gm_22ab396b75fec871,BOD106,La Blanche Island Bodrum,Güvercinlik,5,HIGH,CLEANLINESS_HYGIENE,temiz,2026-08-24
+gm_22ab396b75fec871,BOD106,La Blanche Island Bodrum,Güvercinlik,5,HIGH,FOOD_BEVERAGE,yemek;restoran;lezzetli;çeşit;içecek;bar,2026-08-24
+gm_22ab396b75fec871,BOD106,La Blanche Island Bodrum,Güvercinlik,5,HIGH,ROOM,oda,2026-08-24
+gm_22ab396b75fec871,BOD106,La Blanche Island Bodrum,Güvercinlik,5,HIGH,STAFF_SERVICE,personel;kibar,2026-08-24
+gm_5259d70fbd610bda,BOD106,La Blanche Island Bodrum,Güvercinlik,5,HIGH,STAFF_SERVICE,animasyon,2026-08-24
+gm_92541765932a4ecb,BOD106,La Blanche Island Bodrum,Güvercinlik,5,HIGH,FOOD_BEVERAGE,yemek;lezzetli,2026-08-24
+gm_92541765932a4ecb,BOD106,La Blanche Island Bodrum,Güvercinlik,5,HIGH,STAFF_SERVICE,animasyon,2026-08-24
+gm_421c455aa1c56f24,BOD160,La Blanche Resort Bodrum,Turgutreis,5,HIGH,BEACH_SEA,deniz,2026-07-26
+gm_421c455aa1c56f24,BOD160,La Blanche Resort Bodrum,Turgutreis,5,HIGH,CLEANLINESS_HYGIENE,temiz;tertemiz;hijyen;koku,2026-07-26
+gm_421c455aa1c56f24,BOD160,La Blanche Resort Bodrum,Turgutreis,5,HIGH,FAMILY_CHILDREN,çocuk;aile;çocuklu,2026-07-26
+gm_421c455aa1c56f24,BOD160,La Blanche Resort Bodrum,Turgutreis,5,HIGH,FOOD_BEVERAGE,yemek;restoran;çeşit;taze,2026-07-26
+gm_421c455aa1c56f24,BOD160,La Blanche Resort Bodrum,Turgutreis,5,HIGH,POOL,havuz,2026-07-26
+gm_421c455aa1c56f24,BOD160,La Blanche Resort Bodrum,Turgutreis,5,HIGH,ROOM,oda;manzara,2026-07-26
+gm_421c455aa1c56f24,BOD160,La Blanche Resort Bodrum,Turgutreis,5,HIGH,STAFF_SERVICE,personel;çalışan,2026-07-26
+gm_69c8dd127ece44dc,BOD160,La Blanche Resort Bodrum,Turgutreis,5,HIGH,BEACH_SEA,deniz,2026-07-28
+gm_69c8dd127ece44dc,BOD160,La Blanche Resort Bodrum,Turgutreis,5,HIGH,FAMILY_CHILDREN,çocuk;aile,2026-07-28
+gm_69c8dd127ece44dc,BOD160,La Blanche Resort Bodrum,Turgutreis,5,HIGH,FOOD_BEVERAGE,restoran;büfe;açık büfe;lezzetli;içecek;bar,2026-07-28
+gm_69c8dd127ece44dc,BOD160,La Blanche Resort Bodrum,Turgutreis,5,HIGH,ROOM,oda;konforlu,2026-07-28
+gm_69c8dd127ece44dc,BOD160,La Blanche Resort Bodrum,Turgutreis,5,HIGH,STAFF_SERVICE,çalışan;ilgili;güler yüzlü;hizmet,2026-07-28
+gm_06e149bedd27e71a,BOD160,La Blanche Resort Bodrum,Turgutreis,1,LOW,AIR_CONDITIONING,klima,2026-06-26
+gm_06e149bedd27e71a,BOD160,La Blanche Resort Bodrum,Turgutreis,1,LOW,BEACH_SEA,şezlong,2026-06-26
+gm_06e149bedd27e71a,BOD160,La Blanche Resort Bodrum,Turgutreis,1,LOW,CLEANLINESS_HYGIENE,temiz;çarşaf;havlu,2026-06-26
+gm_06e149bedd27e71a,BOD160,La Blanche Resort Bodrum,Turgutreis,1,LOW,FOOD_BEVERAGE,kahvaltı,2026-06-26
+gm_06e149bedd27e71a,BOD160,La Blanche Resort Bodrum,Turgutreis,1,LOW,POOL,havuz,2026-06-26
+gm_06e149bedd27e71a,BOD160,La Blanche Resort Bodrum,Turgutreis,1,LOW,ROOM,oda;banyo;eski;klima,2026-06-26
+gm_06e149bedd27e71a,BOD160,La Blanche Resort Bodrum,Turgutreis,1,LOW,SAFETY_SECURITY,güvenli,2026-06-26
+gm_06e149bedd27e71a,BOD160,La Blanche Resort Bodrum,Turgutreis,1,LOW,STAFF_SERVICE,personel;hizmet,2026-06-26
+gm_186c32acdcc05442,BOD160,La Blanche Resort Bodrum,Turgutreis,5,HIGH,CHECKIN_CHECKOUT,giriş,2026-06-26
+gm_186c32acdcc05442,BOD160,La Blanche Resort Bodrum,Turgutreis,5,HIGH,CLEANLINESS_HYGIENE,temiz;hijyen;temizlik,2026-06-26
+gm_186c32acdcc05442,BOD160,La Blanche Resort Bodrum,Turgutreis,5,HIGH,FOOD_BEVERAGE,yemek;restoran;lezzetli;çeşit;çeşitlilik,2026-06-26
+gm_186c32acdcc05442,BOD160,La Blanche Resort Bodrum,Turgutreis,5,HIGH,MANAGEMENT_COMMUNICATION,iletişim,2026-06-26
+gm_186c32acdcc05442,BOD160,La Blanche Resort Bodrum,Turgutreis,5,HIGH,POOL,havuz,2026-06-26
+gm_186c32acdcc05442,BOD160,La Blanche Resort Bodrum,Turgutreis,5,HIGH,ROOM,oda,2026-06-26
+gm_186c32acdcc05442,BOD160,La Blanche Resort Bodrum,Turgutreis,5,HIGH,STAFF_SERVICE,animasyon;hizmet,2026-06-26
+gm_ee4ceb041169d370,BOD160,La Blanche Resort Bodrum,Turgutreis,5,HIGH,CLEANLINESS_HYGIENE,temiz,2026-07-26
+gm_ee4ceb041169d370,BOD160,La Blanche Resort Bodrum,Turgutreis,5,HIGH,FOOD_BEVERAGE,yemek;lezzetli;çeşit,2026-07-26
+gm_ee4ceb041169d370,BOD160,La Blanche Resort Bodrum,Turgutreis,5,HIGH,PRICE_VALUE,fiyat;fiyatına göre,2026-07-26
+gm_ee4ceb041169d370,BOD160,La Blanche Resort Bodrum,Turgutreis,5,HIGH,STAFF_SERVICE,personel;çalışan;animasyon;ilgili;güler yüzlü;hizmet;profesyonel,2026-07-26
+gm_fb6f7fdf04f5c121,BOD160,La Blanche Resort Bodrum,Turgutreis,5,HIGH,BEACH_SEA,deniz;şezlong,2026-07-26
+gm_fb6f7fdf04f5c121,BOD160,La Blanche Resort Bodrum,Turgutreis,5,HIGH,CLEANLINESS_HYGIENE,temiz,2026-07-26
+gm_fb6f7fdf04f5c121,BOD160,La Blanche Resort Bodrum,Turgutreis,5,HIGH,FAMILY_CHILDREN,çocuk,2026-07-26
+gm_fb6f7fdf04f5c121,BOD160,La Blanche Resort Bodrum,Turgutreis,5,HIGH,FOOD_BEVERAGE,yemek;restoran;lezzetli;çeşit;içecek;bar,2026-07-26
+gm_fb6f7fdf04f5c121,BOD160,La Blanche Resort Bodrum,Turgutreis,5,HIGH,POOL,havuz;kaydırak,2026-07-26
+gm_fb6f7fdf04f5c121,BOD160,La Blanche Resort Bodrum,Turgutreis,5,HIGH,ROOM,oda;manzara,2026-07-26
+gm_fb6f7fdf04f5c121,BOD160,La Blanche Resort Bodrum,Turgutreis,5,HIGH,STAFF_SERVICE,çalışan;güler yüzlü,2026-07-26
+gm_fb6f7fdf04f5c121,BOD160,La Blanche Resort Bodrum,Turgutreis,5,HIGH,TRANSPORT_TRANSFER,otopark,2026-07-26
+gm_97b78173e069c32e,BOD160,La Blanche Resort Bodrum,Turgutreis,5,HIGH,BEACH_SEA,deniz;şezlong,2026-07-26
+gm_97b78173e069c32e,BOD160,La Blanche Resort Bodrum,Turgutreis,5,HIGH,CLEANLINESS_HYGIENE,temiz,2026-07-26
+gm_97b78173e069c32e,BOD160,La Blanche Resort Bodrum,Turgutreis,5,HIGH,FACILITIES_MAINTENANCE,eskimiş,2026-07-26
+gm_97b78173e069c32e,BOD160,La Blanche Resort Bodrum,Turgutreis,5,HIGH,FAMILY_CHILDREN,aile,2026-07-26
+gm_97b78173e069c32e,BOD160,La Blanche Resort Bodrum,Turgutreis,5,HIGH,MANAGEMENT_COMMUNICATION,yönetim,2026-07-26
+gm_97b78173e069c32e,BOD160,La Blanche Resort Bodrum,Turgutreis,5,HIGH,ROOM,oda;eski,2026-07-26
+gm_97b78173e069c32e,BOD160,La Blanche Resort Bodrum,Turgutreis,5,HIGH,STAFF_SERVICE,animasyon,2026-07-26
+gm_20ba9effccb097f4,BOD160,La Blanche Resort Bodrum,Turgutreis,1,LOW,CHECKIN_CHECKOUT,giriş,2026-07-26
+gm_20ba9effccb097f4,BOD160,La Blanche Resort Bodrum,Turgutreis,1,LOW,CLEANLINESS_HYGIENE,temiz;çarşaf;havlu,2026-07-26
+gm_20ba9effccb097f4,BOD160,La Blanche Resort Bodrum,Turgutreis,1,LOW,FACILITIES_MAINTENANCE,bakım;asansör,2026-07-26
+gm_20ba9effccb097f4,BOD160,La Blanche Resort Bodrum,Turgutreis,1,LOW,FAMILY_CHILDREN,çocuk;bebek,2026-07-26
+gm_20ba9effccb097f4,BOD160,La Blanche Resort Bodrum,Turgutreis,1,LOW,FOOD_BEVERAGE,yemek;çeşit;bar,2026-07-26
+gm_20ba9effccb097f4,BOD160,La Blanche Resort Bodrum,Turgutreis,1,LOW,POOL,havuz;çocuk havuzu;kaydırak,2026-07-26
+gm_20ba9effccb097f4,BOD160,La Blanche Resort Bodrum,Turgutreis,1,LOW,ROOM,oda;banyo;manzara,2026-07-26
+gm_20ba9effccb097f4,BOD160,La Blanche Resort Bodrum,Turgutreis,1,LOW,STAFF_SERVICE,personel;resepsiyon;kaba,2026-07-26
+gm_89912ae76edc75ae,BOD160,La Blanche Resort Bodrum,Turgutreis,4,HIGH,CHECKIN_CHECKOUT,giriş,2026-07-28
+gm_89912ae76edc75ae,BOD160,La Blanche Resort Bodrum,Turgutreis,4,HIGH,CLEANLINESS_HYGIENE,havlu,2026-07-28
+gm_89912ae76edc75ae,BOD160,La Blanche Resort Bodrum,Turgutreis,4,HIGH,FOOD_BEVERAGE,yemek;restoran;çeşit;içecek,2026-07-28
+gm_89912ae76edc75ae,BOD160,La Blanche Resort Bodrum,Turgutreis,4,HIGH,MANAGEMENT_COMMUNICATION,yönetim;iletişim,2026-07-28
+gm_89912ae76edc75ae,BOD160,La Blanche Resort Bodrum,Turgutreis,4,HIGH,RESERVATION,rezervasyon,2026-07-28
+gm_89912ae76edc75ae,BOD160,La Blanche Resort Bodrum,Turgutreis,4,HIGH,ROOM,oda;eski,2026-07-28
+gm_89912ae76edc75ae,BOD160,La Blanche Resort Bodrum,Turgutreis,4,HIGH,SAFETY_SECURITY,güvenlik;güvenli,2026-07-28
+gm_89912ae76edc75ae,BOD160,La Blanche Resort Bodrum,Turgutreis,4,HIGH,STAFF_SERVICE,personel;çalışan;animasyon;güler yüzlü;hizmet;karşılama;profesyonel,2026-07-28
+gm_52e4ef8974ee3d3c,BOD160,La Blanche Resort Bodrum,Turgutreis,4,HIGH,BEACH_SEA,deniz,2026-07-26
+gm_52e4ef8974ee3d3c,BOD160,La Blanche Resort Bodrum,Turgutreis,4,HIGH,CLEANLINESS_HYGIENE,temiz,2026-07-26
+gm_52e4ef8974ee3d3c,BOD160,La Blanche Resort Bodrum,Turgutreis,4,HIGH,FAMILY_CHILDREN,bebek,2026-07-26
+gm_52e4ef8974ee3d3c,BOD160,La Blanche Resort Bodrum,Turgutreis,4,HIGH,FOOD_BEVERAGE,yemek;restoran;çeşit;menü,2026-07-26
+gm_52e4ef8974ee3d3c,BOD160,La Blanche Resort Bodrum,Turgutreis,4,HIGH,POOL,havuz,2026-07-26
+gm_52e4ef8974ee3d3c,BOD160,La Blanche Resort Bodrum,Turgutreis,4,HIGH,ROOM,oda;yatak;manzara,2026-07-26
+gm_52e4ef8974ee3d3c,BOD160,La Blanche Resort Bodrum,Turgutreis,4,HIGH,STAFF_SERVICE,resepsiyon;ilgili,2026-07-26
+gm_cf658e56c51fcaaf,BOD160,La Blanche Resort Bodrum,Turgutreis,5,HIGH,FOOD_BEVERAGE,bar,2026-07-28
+gm_cf658e56c51fcaaf,BOD160,La Blanche Resort Bodrum,Turgutreis,5,HIGH,MANAGEMENT_COMMUNICATION,iletişim,2026-07-28
+gm_cf658e56c51fcaaf,BOD160,La Blanche Resort Bodrum,Turgutreis,5,HIGH,STAFF_SERVICE,personel;çalışan;animasyon;karşılama,2026-07-28
+gm_aaf3fb9b907af5a4,BOD160,La Blanche Resort Bodrum,Turgutreis,5,HIGH,BEACH_SEA,şezlong,2026-06-26
+gm_aaf3fb9b907af5a4,BOD160,La Blanche Resort Bodrum,Turgutreis,5,HIGH,CLEANLINESS_HYGIENE,havlu,2026-06-26
+gm_aaf3fb9b907af5a4,BOD160,La Blanche Resort Bodrum,Turgutreis,5,HIGH,FOOD_BEVERAGE,yemek;restoran;bar,2026-06-26
+gm_aaf3fb9b907af5a4,BOD160,La Blanche Resort Bodrum,Turgutreis,5,HIGH,MANAGEMENT_COMMUNICATION,iletişim,2026-06-26
+gm_aaf3fb9b907af5a4,BOD160,La Blanche Resort Bodrum,Turgutreis,5,HIGH,POOL,havuz;havuz kenarı,2026-06-26
+gm_aaf3fb9b907af5a4,BOD160,La Blanche Resort Bodrum,Turgutreis,5,HIGH,STAFF_SERVICE,çalışan;animasyon;güler yüzlü;hizmet,2026-06-26
+gm_01e6421cde3f1948,BOD160,La Blanche Resort Bodrum,Turgutreis,5,HIGH,BEACH_SEA,deniz;sahil,2026-08-04
+gm_01e6421cde3f1948,BOD160,La Blanche Resort Bodrum,Turgutreis,5,HIGH,CLEANLINESS_HYGIENE,temiz,2026-08-04
+gm_01e6421cde3f1948,BOD160,La Blanche Resort Bodrum,Turgutreis,5,HIGH,FOOD_BEVERAGE,bar,2026-08-04
+gm_01e6421cde3f1948,BOD160,La Blanche Resort Bodrum,Turgutreis,5,HIGH,RESERVATION,rezervasyon,2026-08-04
+gm_01e6421cde3f1948,BOD160,La Blanche Resort Bodrum,Turgutreis,5,HIGH,ROOM,eski,2026-08-04
+gm_01e6421cde3f1948,BOD160,La Blanche Resort Bodrum,Turgutreis,5,HIGH,STAFF_SERVICE,animasyon;yardımcı;servis,2026-08-04
+gm_de22c79ba067639a,BOD160,La Blanche Resort Bodrum,Turgutreis,5,HIGH,CLEANLINESS_HYGIENE,temiz,2026-06-26
+gm_de22c79ba067639a,BOD160,La Blanche Resort Bodrum,Turgutreis,5,HIGH,FAMILY_CHILDREN,çocuk;aile;mini club;çocuklu,2026-06-26
+gm_de22c79ba067639a,BOD160,La Blanche Resort Bodrum,Turgutreis,5,HIGH,FOOD_BEVERAGE,yemek;restoran;lezzetli;çeşit;çeşitlilik;bar,2026-06-26
+gm_de22c79ba067639a,BOD160,La Blanche Resort Bodrum,Turgutreis,5,HIGH,ROOM,oda,2026-06-26
+gm_de22c79ba067639a,BOD160,La Blanche Resort Bodrum,Turgutreis,5,HIGH,STAFF_SERVICE,çalışan;animasyon;ilgili;güler yüzlü;hizmet,2026-06-26
+gm_3993cfa26565f1d4,BOD160,La Blanche Resort Bodrum,Turgutreis,5,HIGH,BEACH_SEA,plaj;deniz,2026-06-26
+gm_3993cfa26565f1d4,BOD160,La Blanche Resort Bodrum,Turgutreis,5,HIGH,CLEANLINESS_HYGIENE,temiz,2026-06-26
+gm_3993cfa26565f1d4,BOD160,La Blanche Resort Bodrum,Turgutreis,5,HIGH,FACILITIES_MAINTENANCE,asansör,2026-06-26
+gm_3993cfa26565f1d4,BOD160,La Blanche Resort Bodrum,Turgutreis,5,HIGH,FAMILY_CHILDREN,aile,2026-06-26
+gm_3993cfa26565f1d4,BOD160,La Blanche Resort Bodrum,Turgutreis,5,HIGH,FOOD_BEVERAGE,restoran;bar,2026-06-26
+gm_3993cfa26565f1d4,BOD160,La Blanche Resort Bodrum,Turgutreis,5,HIGH,POOL,havuz,2026-06-26
+gm_3993cfa26565f1d4,BOD160,La Blanche Resort Bodrum,Turgutreis,5,HIGH,ROOM,oda;yatak,2026-06-26
+gm_3993cfa26565f1d4,BOD160,La Blanche Resort Bodrum,Turgutreis,5,HIGH,STAFF_SERVICE,personel;çalışan;animasyon;güler yüzlü;hizmet,2026-06-26
+gm_4304e0b323d95ef3,BOD160,La Blanche Resort Bodrum,Turgutreis,1,LOW,BEACH_SEA,koy,2026-07-28
+gm_4304e0b323d95ef3,BOD160,La Blanche Resort Bodrum,Turgutreis,1,LOW,FAMILY_CHILDREN,aile,2026-07-28
+gm_4304e0b323d95ef3,BOD160,La Blanche Resort Bodrum,Turgutreis,1,LOW,FOOD_BEVERAGE,yemek,2026-07-28
+gm_4304e0b323d95ef3,BOD160,La Blanche Resort Bodrum,Turgutreis,1,LOW,STAFF_SERVICE,personel;yardımcı;kaba;hizmet,2026-07-28
+gm_27df786abb418544,BOD160,La Blanche Resort Bodrum,Turgutreis,5,HIGH,CLEANLINESS_HYGIENE,temiz;tertemiz,2026-07-26
+gm_27df786abb418544,BOD160,La Blanche Resort Bodrum,Turgutreis,5,HIGH,FAMILY_CHILDREN,aile,2026-07-26
+gm_27df786abb418544,BOD160,La Blanche Resort Bodrum,Turgutreis,5,HIGH,FOOD_BEVERAGE,yemek;çeşit;içecek,2026-07-26
+gm_27df786abb418544,BOD160,La Blanche Resort Bodrum,Turgutreis,5,HIGH,POOL,havuz,2026-07-26
+gm_27df786abb418544,BOD160,La Blanche Resort Bodrum,Turgutreis,5,HIGH,PRICE_VALUE,değer,2026-07-26
+gm_27df786abb418544,BOD160,La Blanche Resort Bodrum,Turgutreis,5,HIGH,ROOM,oda,2026-07-26
+gm_27df786abb418544,BOD160,La Blanche Resort Bodrum,Turgutreis,5,HIGH,STAFF_SERVICE,çalışan;animasyon;ilgili;güler yüzlü;profesyonel,2026-07-26
+gm_a916867f20466606,BOD160,La Blanche Resort Bodrum,Turgutreis,4,HIGH,BEACH_SEA,deniz;şezlong,2026-08-11
+gm_a916867f20466606,BOD160,La Blanche Resort Bodrum,Turgutreis,4,HIGH,CLEANLINESS_HYGIENE,temiz;temizlik,2026-08-11
+gm_a916867f20466606,BOD160,La Blanche Resort Bodrum,Turgutreis,4,HIGH,FAMILY_CHILDREN,çocuk;aile;çocuklu,2026-08-11
+gm_a916867f20466606,BOD160,La Blanche Resort Bodrum,Turgutreis,4,HIGH,FOOD_BEVERAGE,yemek,2026-08-11
+gm_a916867f20466606,BOD160,La Blanche Resort Bodrum,Turgutreis,4,HIGH,POOL,havuz,2026-08-11
+gm_a916867f20466606,BOD160,La Blanche Resort Bodrum,Turgutreis,4,HIGH,PRICE_VALUE,fiyat,2026-08-11
+gm_a916867f20466606,BOD160,La Blanche Resort Bodrum,Turgutreis,4,HIGH,ROOM,oda,2026-08-11
+gm_a916867f20466606,BOD160,La Blanche Resort Bodrum,Turgutreis,4,HIGH,STAFF_SERVICE,personel,2026-08-11
+gm_266e411220fc48ff,BOD160,La Blanche Resort Bodrum,Turgutreis,5,HIGH,STAFF_SERVICE,çalışan;animasyon;güler yüzlü;yardımcı;profesyonel,2026-06-26
+gm_8b6515f3ff8f4f12,BOD160,La Blanche Resort Bodrum,Turgutreis,5,HIGH,BEACH_SEA,plaj,2026-08-25
+gm_8b6515f3ff8f4f12,BOD160,La Blanche Resort Bodrum,Turgutreis,5,HIGH,CLEANLINESS_HYGIENE,temiz;temizlik,2026-08-25
+gm_8b6515f3ff8f4f12,BOD160,La Blanche Resort Bodrum,Turgutreis,5,HIGH,FOOD_BEVERAGE,yemek;bar,2026-08-25
+gm_8b6515f3ff8f4f12,BOD160,La Blanche Resort Bodrum,Turgutreis,5,HIGH,PRICE_VALUE,değer,2026-08-25
+gm_8b6515f3ff8f4f12,BOD160,La Blanche Resort Bodrum,Turgutreis,5,HIGH,STAFF_SERVICE,personel;garson;nazik;hizmet;servis,2026-08-25
+gm_bb95fa91e330732b,BOD160,La Blanche Resort Bodrum,Turgutreis,5,HIGH,FAMILY_CHILDREN,çocuk,2026-08-25
+gm_bb95fa91e330732b,BOD160,La Blanche Resort Bodrum,Turgutreis,5,HIGH,FOOD_BEVERAGE,yemek;lezzetli,2026-08-25
+gm_bb95fa91e330732b,BOD160,La Blanche Resort Bodrum,Turgutreis,5,HIGH,STAFF_SERVICE,hizmet,2026-08-25
+gm_f138eacce039a637,BOD160,La Blanche Resort Bodrum,Turgutreis,5,HIGH,BEACH_SEA,plaj,2026-08-25
+gm_f138eacce039a637,BOD160,La Blanche Resort Bodrum,Turgutreis,5,HIGH,CLEANLINESS_HYGIENE,temiz,2026-08-25
+gm_f138eacce039a637,BOD160,La Blanche Resort Bodrum,Turgutreis,5,HIGH,FAMILY_CHILDREN,çocuk;aile,2026-08-25
+gm_f138eacce039a637,BOD160,La Blanche Resort Bodrum,Turgutreis,5,HIGH,FOOD_BEVERAGE,çeşit,2026-08-25
+gm_f138eacce039a637,BOD160,La Blanche Resort Bodrum,Turgutreis,5,HIGH,NOISE,ses;sessiz,2026-08-25
+gm_f138eacce039a637,BOD160,La Blanche Resort Bodrum,Turgutreis,5,HIGH,POOL,havuz;kaydırak,2026-08-25
+gm_f138eacce039a637,BOD160,La Blanche Resort Bodrum,Turgutreis,5,HIGH,ROOM,oda;geniş,2026-08-25
+gm_f138eacce039a637,BOD160,La Blanche Resort Bodrum,Turgutreis,5,HIGH,STAFF_SERVICE,animasyon,2026-08-25
+gm_59a71324dc03b4bf,BOD160,La Blanche Resort Bodrum,Turgutreis,5,HIGH,FOOD_BEVERAGE,yemek;restoran;lezzetli,2026-08-25
+gm_68ea54c58bfc9ca6,BOD160,La Blanche Resort Bodrum,Turgutreis,5,HIGH,FOOD_BEVERAGE,yemek,2026-08-25
+gm_13f2e0df59c305df,BOD160,La Blanche Resort Bodrum,Turgutreis,5,HIGH,CLEANLINESS_HYGIENE,temiz,2026-08-25
+gm_13f2e0df59c305df,BOD160,La Blanche Resort Bodrum,Turgutreis,5,HIGH,FOOD_BEVERAGE,yemek,2026-08-25
+gm_8c70b7d0630d4517,BOD160,La Blanche Resort Bodrum,Turgutreis,5,HIGH,CLEANLINESS_HYGIENE,temiz,2026-08-25
+gm_8c70b7d0630d4517,BOD160,La Blanche Resort Bodrum,Turgutreis,5,HIGH,FAMILY_CHILDREN,çocuk,2026-08-25
+gm_8c70b7d0630d4517,BOD160,La Blanche Resort Bodrum,Turgutreis,5,HIGH,FOOD_BEVERAGE,yemek;lezzetli,2026-08-25
+gm_8c70b7d0630d4517,BOD160,La Blanche Resort Bodrum,Turgutreis,5,HIGH,STAFF_SERVICE,personel;güler yüzlü;nazik,2026-08-25
+gm_55dcff36cc6acb60,BOD160,La Blanche Resort Bodrum,Turgutreis,5,HIGH,BEACH_SEA,deniz;deniz suyu,2026-08-25
+gm_55dcff36cc6acb60,BOD160,La Blanche Resort Bodrum,Turgutreis,5,HIGH,FOOD_BEVERAGE,yemek,2026-08-25
+gm_8723700c46b35cf7,BOD160,La Blanche Resort Bodrum,Turgutreis,5,HIGH,STAFF_SERVICE,animasyon;yardımcı,2026-08-25
+gm_d3ce85eece342d31,BOD160,La Blanche Resort Bodrum,Turgutreis,5,HIGH,STAFF_SERVICE,ilgili,2026-08-24
+gm_ae68fd0e652666bb,BOD012,Selectum Collection Bodrum,Akyarlar,2,LOW,FAMILY_CHILDREN,aile,2026-08-04
+gm_ae68fd0e652666bb,BOD012,Selectum Collection Bodrum,Akyarlar,2,LOW,FOOD_BEVERAGE,bar,2026-08-04
+gm_ee9edbb50945655c,BOD012,Selectum Collection Bodrum,Akyarlar,4,HIGH,CHECKIN_CHECKOUT,çıkış,2026-07-26
+gm_ee9edbb50945655c,BOD012,Selectum Collection Bodrum,Akyarlar,4,HIGH,CLEANLINESS_HYGIENE,temiz;havlu;temizlik,2026-07-26
+gm_ee9edbb50945655c,BOD012,Selectum Collection Bodrum,Akyarlar,4,HIGH,FOOD_BEVERAGE,restoran;büfe;açık büfe;içecek;bar,2026-07-26
+gm_ee9edbb50945655c,BOD012,Selectum Collection Bodrum,Akyarlar,4,HIGH,MANAGEMENT_COMMUNICATION,müdür,2026-07-26
+gm_ee9edbb50945655c,BOD012,Selectum Collection Bodrum,Akyarlar,4,HIGH,PRICE_VALUE,değer,2026-07-26
+gm_ee9edbb50945655c,BOD012,Selectum Collection Bodrum,Akyarlar,4,HIGH,ROOM,oda;eski,2026-07-26
+gm_ee9edbb50945655c,BOD012,Selectum Collection Bodrum,Akyarlar,4,HIGH,STAFF_SERVICE,personel;çalışan;garson;resepsiyon;animasyon;ilgili;güler yüzlü;hizmet;profesyonel,2026-07-26
+gm_1c03d29ad7fee448,BOD012,Selectum Collection Bodrum,Akyarlar,5,HIGH,BEACH_SEA,plaj;deniz,2026-07-26
+gm_1c03d29ad7fee448,BOD012,Selectum Collection Bodrum,Akyarlar,5,HIGH,CLEANLINESS_HYGIENE,temiz;tertemiz,2026-07-26
+gm_1c03d29ad7fee448,BOD012,Selectum Collection Bodrum,Akyarlar,5,HIGH,FACILITIES_MAINTENANCE,tesis,2026-07-26
+gm_1c03d29ad7fee448,BOD012,Selectum Collection Bodrum,Akyarlar,5,HIGH,FAMILY_CHILDREN,çocuk;aile;çocuklu,2026-07-26
+gm_1c03d29ad7fee448,BOD012,Selectum Collection Bodrum,Akyarlar,5,HIGH,FOOD_BEVERAGE,yemek;lezzetli;çeşit;bar,2026-07-26
+gm_1c03d29ad7fee448,BOD012,Selectum Collection Bodrum,Akyarlar,5,HIGH,MANAGEMENT_COMMUNICATION,yönetim,2026-07-26
+gm_1c03d29ad7fee448,BOD012,Selectum Collection Bodrum,Akyarlar,5,HIGH,NOISE,ses;sessiz;sakin,2026-07-26
+gm_1c03d29ad7fee448,BOD012,Selectum Collection Bodrum,Akyarlar,5,HIGH,POOL,havuz,2026-07-26
+gm_1c03d29ad7fee448,BOD012,Selectum Collection Bodrum,Akyarlar,5,HIGH,ROOM,oda;yatak;geniş;balkon,2026-07-26
+gm_1c03d29ad7fee448,BOD012,Selectum Collection Bodrum,Akyarlar,5,HIGH,STAFF_SERVICE,çalışan;animasyon;profesyonel,2026-07-26
+gm_148121139b3fa4c1,BOD012,Selectum Collection Bodrum,Akyarlar,4,HIGH,BEACH_SEA,plaj;deniz;şezlong;koy,2026-08-04
+gm_148121139b3fa4c1,BOD012,Selectum Collection Bodrum,Akyarlar,4,HIGH,CLEANLINESS_HYGIENE,temiz;pis;çarşaf;havlu;temizlik,2026-08-04
+gm_148121139b3fa4c1,BOD012,Selectum Collection Bodrum,Akyarlar,4,HIGH,FOOD_BEVERAGE,yemek;çeşit,2026-08-04
+gm_148121139b3fa4c1,BOD012,Selectum Collection Bodrum,Akyarlar,4,HIGH,PRICE_VALUE,fiyat,2026-08-04
+gm_148121139b3fa4c1,BOD012,Selectum Collection Bodrum,Akyarlar,4,HIGH,ROOM,oda,2026-08-04
+gm_6a66ad03c6ff2900,BOD012,Selectum Collection Bodrum,Akyarlar,5,HIGH,BEACH_SEA,plaj;deniz;sahil,2026-07-26
+gm_6a66ad03c6ff2900,BOD012,Selectum Collection Bodrum,Akyarlar,5,HIGH,CLEANLINESS_HYGIENE,temiz,2026-07-26
+gm_6a66ad03c6ff2900,BOD012,Selectum Collection Bodrum,Akyarlar,5,HIGH,FOOD_BEVERAGE,yemek;lezzetli;bar;a la carte,2026-07-26
+gm_6a66ad03c6ff2900,BOD012,Selectum Collection Bodrum,Akyarlar,5,HIGH,POOL,havuz,2026-07-26
+gm_6a66ad03c6ff2900,BOD012,Selectum Collection Bodrum,Akyarlar,5,HIGH,RESERVATION,rezervasyon,2026-07-26
+gm_6a66ad03c6ff2900,BOD012,Selectum Collection Bodrum,Akyarlar,5,HIGH,ROOM,oda,2026-07-26
+gm_6a66ad03c6ff2900,BOD012,Selectum Collection Bodrum,Akyarlar,5,HIGH,STAFF_SERVICE,çalışan;ilgili;güler yüzlü;servis,2026-07-26
+gm_527bc402ce1729db,BOD012,Selectum Collection Bodrum,Akyarlar,5,HIGH,CLEANLINESS_HYGIENE,temiz,2026-07-26
+gm_527bc402ce1729db,BOD012,Selectum Collection Bodrum,Akyarlar,5,HIGH,FACILITIES_MAINTENANCE,bakım;tesis,2026-07-26
+gm_527bc402ce1729db,BOD012,Selectum Collection Bodrum,Akyarlar,5,HIGH,FAMILY_CHILDREN,çocuk,2026-07-26
+gm_527bc402ce1729db,BOD012,Selectum Collection Bodrum,Akyarlar,5,HIGH,FOOD_BEVERAGE,yemek;kahvaltı;çeşit,2026-07-26
+gm_527bc402ce1729db,BOD012,Selectum Collection Bodrum,Akyarlar,5,HIGH,POOL,havuz,2026-07-26
+gm_527bc402ce1729db,BOD012,Selectum Collection Bodrum,Akyarlar,5,HIGH,ROOM,oda,2026-07-26
+gm_527bc402ce1729db,BOD012,Selectum Collection Bodrum,Akyarlar,5,HIGH,STAFF_SERVICE,çalışan;animasyon;hizmet,2026-07-26
+gm_70322fc4dec58026,BOD012,Selectum Collection Bodrum,Akyarlar,5,HIGH,BEACH_SEA,deniz,2026-07-26
+gm_70322fc4dec58026,BOD012,Selectum Collection Bodrum,Akyarlar,5,HIGH,CHECKIN_CHECKOUT,giriş,2026-07-26
+gm_70322fc4dec58026,BOD012,Selectum Collection Bodrum,Akyarlar,5,HIGH,NOISE,ses,2026-07-26
+gm_70322fc4dec58026,BOD012,Selectum Collection Bodrum,Akyarlar,5,HIGH,POOL,havuz,2026-07-26
+gm_70322fc4dec58026,BOD012,Selectum Collection Bodrum,Akyarlar,5,HIGH,ROOM,oda,2026-07-26
+gm_70322fc4dec58026,BOD012,Selectum Collection Bodrum,Akyarlar,5,HIGH,STAFF_SERVICE,çalışan;güler yüzlü;hizmet;karşılama;profesyonel,2026-07-26
+gm_f012514408b16166,BOD012,Selectum Collection Bodrum,Akyarlar,1,LOW,CLEANLINESS_HYGIENE,temiz;pis,2026-05-27
+gm_f012514408b16166,BOD012,Selectum Collection Bodrum,Akyarlar,1,LOW,FAMILY_CHILDREN,çocuk;aile;çocuklu,2026-05-27
+gm_f012514408b16166,BOD012,Selectum Collection Bodrum,Akyarlar,1,LOW,FOOD_BEVERAGE,yemek;bar,2026-05-27
+gm_f012514408b16166,BOD012,Selectum Collection Bodrum,Akyarlar,1,LOW,NOISE,gürültü,2026-05-27
+gm_f012514408b16166,BOD012,Selectum Collection Bodrum,Akyarlar,1,LOW,PRICE_VALUE,fiyat;bütçe,2026-05-27
+gm_f012514408b16166,BOD012,Selectum Collection Bodrum,Akyarlar,1,LOW,RESERVATION,rezervasyon,2026-05-27
+gm_f012514408b16166,BOD012,Selectum Collection Bodrum,Akyarlar,1,LOW,STAFF_SERVICE,personel;kibar;hizmet,2026-05-27
+gm_9dc96d1a6c2962c3,BOD012,Selectum Collection Bodrum,Akyarlar,5,HIGH,FAMILY_CHILDREN,aile,2026-08-04
+gm_9dc96d1a6c2962c3,BOD012,Selectum Collection Bodrum,Akyarlar,5,HIGH,FOOD_BEVERAGE,yemek,2026-08-04
+gm_9dc96d1a6c2962c3,BOD012,Selectum Collection Bodrum,Akyarlar,5,HIGH,STAFF_SERVICE,animasyon,2026-08-04
+gm_9dc96d1a6c2962c3,BOD012,Selectum Collection Bodrum,Akyarlar,5,HIGH,TRANSPORT_TRANSFER,ulaşım,2026-08-04
+gm_607e60fcab4deb86,BOD012,Selectum Collection Bodrum,Akyarlar,5,HIGH,BEACH_SEA,deniz;şezlong,2026-07-26
+gm_607e60fcab4deb86,BOD012,Selectum Collection Bodrum,Akyarlar,5,HIGH,CLEANLINESS_HYGIENE,temiz;tertemiz,2026-07-26
+gm_607e60fcab4deb86,BOD012,Selectum Collection Bodrum,Akyarlar,5,HIGH,FOOD_BEVERAGE,yemek;çeşit;bar,2026-07-26
+gm_607e60fcab4deb86,BOD012,Selectum Collection Bodrum,Akyarlar,5,HIGH,MANAGEMENT_COMMUNICATION,müdür,2026-07-26
+gm_607e60fcab4deb86,BOD012,Selectum Collection Bodrum,Akyarlar,5,HIGH,POOL,havuz,2026-07-26
+gm_10388c4692ade23b,BOD012,Selectum Collection Bodrum,Akyarlar,2,LOW,CLEANLINESS_HYGIENE,kirli,2026-08-24
+gm_10388c4692ade23b,BOD012,Selectum Collection Bodrum,Akyarlar,2,LOW,ROOM,oda,2026-08-24
+gm_cc20d516f4f04178,BOD012,Selectum Collection Bodrum,Akyarlar,5,HIGH,STAFF_SERVICE,animasyon,2026-08-24
+gm_239a5ea37123905e,BOD012,Selectum Collection Bodrum,Akyarlar,1,LOW,CLEANLINESS_HYGIENE,temiz;pis;temizlik,2026-08-24
+gm_239a5ea37123905e,BOD012,Selectum Collection Bodrum,Akyarlar,1,LOW,FOOD_BEVERAGE,yemek,2026-08-24
+gm_239a5ea37123905e,BOD012,Selectum Collection Bodrum,Akyarlar,1,LOW,PRICE_VALUE,fiyat,2026-08-24
+gm_239a5ea37123905e,BOD012,Selectum Collection Bodrum,Akyarlar,1,LOW,RESERVATION,rezervasyon;iptal,2026-08-24
+gm_239a5ea37123905e,BOD012,Selectum Collection Bodrum,Akyarlar,1,LOW,ROOM,oda;yatak;eski,2026-08-24
+gm_239a5ea37123905e,BOD012,Selectum Collection Bodrum,Akyarlar,1,LOW,STAFF_SERVICE,personel;çalışan;yardımcı,2026-08-24
+gm_914d4d8c7165eda3,BOD068,Selectum Colours Bodrum,Gümbet,5,HIGH,CHECKIN_CHECKOUT,giriş,2026-07-26
+gm_914d4d8c7165eda3,BOD068,Selectum Colours Bodrum,Gümbet,5,HIGH,FOOD_BEVERAGE,bar,2026-07-26
+gm_914d4d8c7165eda3,BOD068,Selectum Colours Bodrum,Gümbet,5,HIGH,STAFF_SERVICE,güler yüzlü;profesyonel,2026-07-26
+gm_7b4219eac9cc5335,BOD068,Selectum Colours Bodrum,Gümbet,5,HIGH,BEACH_SEA,deniz;iskele,2026-08-11
+gm_7b4219eac9cc5335,BOD068,Selectum Colours Bodrum,Gümbet,5,HIGH,CHECKIN_CHECKOUT,giriş,2026-08-11
+gm_7b4219eac9cc5335,BOD068,Selectum Colours Bodrum,Gümbet,5,HIGH,CLEANLINESS_HYGIENE,temiz;tertemiz,2026-08-11
+gm_7b4219eac9cc5335,BOD068,Selectum Colours Bodrum,Gümbet,5,HIGH,FACILITIES_MAINTENANCE,bakım,2026-08-11
+gm_7b4219eac9cc5335,BOD068,Selectum Colours Bodrum,Gümbet,5,HIGH,FOOD_BEVERAGE,yemek;kahvaltı;restoran;lezzetli;çeşit;çeşitlilik;bar;a la carte,2026-08-11
+gm_7b4219eac9cc5335,BOD068,Selectum Colours Bodrum,Gümbet,5,HIGH,POOL,havuz,2026-08-11
+gm_7b4219eac9cc5335,BOD068,Selectum Colours Bodrum,Gümbet,5,HIGH,PRICE_VALUE,değer,2026-08-11
+gm_7b4219eac9cc5335,BOD068,Selectum Colours Bodrum,Gümbet,5,HIGH,RESERVATION,rezervasyon,2026-08-11
+gm_7b4219eac9cc5335,BOD068,Selectum Colours Bodrum,Gümbet,5,HIGH,ROOM,oda;geniş,2026-08-11
+gm_7b4219eac9cc5335,BOD068,Selectum Colours Bodrum,Gümbet,5,HIGH,STAFF_SERVICE,personel;çalışan;animasyon;güler yüzlü;yardımcı;hizmet;servis;karşılama;profesyonel,2026-08-11
+gm_97db28cfe4442fdb,BOD068,Selectum Colours Bodrum,Gümbet,5,HIGH,BEACH_SEA,plaj,2026-07-26
+gm_97db28cfe4442fdb,BOD068,Selectum Colours Bodrum,Gümbet,5,HIGH,CHECKIN_CHECKOUT,giriş,2026-07-26
+gm_97db28cfe4442fdb,BOD068,Selectum Colours Bodrum,Gümbet,5,HIGH,CLEANLINESS_HYGIENE,temiz;hijyen,2026-07-26
+gm_97db28cfe4442fdb,BOD068,Selectum Colours Bodrum,Gümbet,5,HIGH,FACILITIES_MAINTENANCE,bakım;tesis,2026-07-26
+gm_97db28cfe4442fdb,BOD068,Selectum Colours Bodrum,Gümbet,5,HIGH,FAMILY_CHILDREN,çocuk;aile,2026-07-26
+gm_97db28cfe4442fdb,BOD068,Selectum Colours Bodrum,Gümbet,5,HIGH,FOOD_BEVERAGE,yemek;restoran;lezzetli;çeşit;taze;bar,2026-07-26
+gm_97db28cfe4442fdb,BOD068,Selectum Colours Bodrum,Gümbet,5,HIGH,POOL,havuz,2026-07-26
+gm_97db28cfe4442fdb,BOD068,Selectum Colours Bodrum,Gümbet,5,HIGH,PRICE_VALUE,değer,2026-07-26
+gm_97db28cfe4442fdb,BOD068,Selectum Colours Bodrum,Gümbet,5,HIGH,ROOM,oda;konforlu,2026-07-26
+gm_97db28cfe4442fdb,BOD068,Selectum Colours Bodrum,Gümbet,5,HIGH,STAFF_SERVICE,çalışan;animasyon;ilgili;güler yüzlü;yardımcı;nazik;hizmet;profesyonel,2026-07-26
+gm_432250d11a2478f0,BOD068,Selectum Colours Bodrum,Gümbet,4,HIGH,BEACH_SEA,deniz,2026-07-26
+gm_432250d11a2478f0,BOD068,Selectum Colours Bodrum,Gümbet,4,HIGH,CLEANLINESS_HYGIENE,temiz,2026-07-26
+gm_432250d11a2478f0,BOD068,Selectum Colours Bodrum,Gümbet,4,HIGH,FOOD_BEVERAGE,yemek;restoran;içecek,2026-07-26
+gm_432250d11a2478f0,BOD068,Selectum Colours Bodrum,Gümbet,4,HIGH,POOL,havuz,2026-07-26
+gm_432250d11a2478f0,BOD068,Selectum Colours Bodrum,Gümbet,4,HIGH,ROOM,oda;eski,2026-07-26
+gm_432250d11a2478f0,BOD068,Selectum Colours Bodrum,Gümbet,4,HIGH,STAFF_SERVICE,personel;çalışan;garson;resepsiyon;güler yüzlü;karşılama,2026-07-26
+gm_6884551a8d93d06c,BOD068,Selectum Colours Bodrum,Gümbet,5,HIGH,BEACH_SEA,plaj;deniz,2026-06-26
+gm_6884551a8d93d06c,BOD068,Selectum Colours Bodrum,Gümbet,5,HIGH,CHECKIN_CHECKOUT,giriş,2026-06-26
+gm_6884551a8d93d06c,BOD068,Selectum Colours Bodrum,Gümbet,5,HIGH,CLEANLINESS_HYGIENE,temiz,2026-06-26
+gm_6884551a8d93d06c,BOD068,Selectum Colours Bodrum,Gümbet,5,HIGH,FACILITIES_MAINTENANCE,tesis,2026-06-26
+gm_6884551a8d93d06c,BOD068,Selectum Colours Bodrum,Gümbet,5,HIGH,FOOD_BEVERAGE,yemek;restoran;büfe;açık büfe;lezzetli;çeşit;bar,2026-06-26
+gm_6884551a8d93d06c,BOD068,Selectum Colours Bodrum,Gümbet,5,HIGH,POOL,havuz,2026-06-26
+gm_6884551a8d93d06c,BOD068,Selectum Colours Bodrum,Gümbet,5,HIGH,ROOM,oda;manzara;geniş;konforlu,2026-06-26
+gm_6884551a8d93d06c,BOD068,Selectum Colours Bodrum,Gümbet,5,HIGH,STAFF_SERVICE,personel;çalışan;animasyon;ilgili;güler yüzlü;hizmet;profesyonel,2026-06-26
+gm_a73b4200e265d96a,BOD068,Selectum Colours Bodrum,Gümbet,2,LOW,BEACH_SEA,deniz,2026-08-04
+gm_a73b4200e265d96a,BOD068,Selectum Colours Bodrum,Gümbet,2,LOW,CLEANLINESS_HYGIENE,havlu,2026-08-04
+gm_a73b4200e265d96a,BOD068,Selectum Colours Bodrum,Gümbet,2,LOW,FACILITIES_MAINTENANCE,yenilenmiş,2026-08-04
+gm_a73b4200e265d96a,BOD068,Selectum Colours Bodrum,Gümbet,2,LOW,FOOD_BEVERAGE,yemek;içecek;bar,2026-08-04
+gm_a73b4200e265d96a,BOD068,Selectum Colours Bodrum,Gümbet,2,LOW,POOL,havuz,2026-08-04
+gm_a73b4200e265d96a,BOD068,Selectum Colours Bodrum,Gümbet,2,LOW,PRICE_VALUE,fiyat;fiyatına göre;fiyat performans,2026-08-04
+gm_a73b4200e265d96a,BOD068,Selectum Colours Bodrum,Gümbet,2,LOW,ROOM,oda;yatak;eski,2026-08-04
+gm_a73b4200e265d96a,BOD068,Selectum Colours Bodrum,Gümbet,2,LOW,STAFF_SERVICE,personel;ilgili,2026-08-04
+gm_55df7485bea28d84,BOD068,Selectum Colours Bodrum,Gümbet,1,LOW,CLEANLINESS_HYGIENE,temiz,2026-08-04
+gm_55df7485bea28d84,BOD068,Selectum Colours Bodrum,Gümbet,1,LOW,FOOD_BEVERAGE,yemek;restoran;lezzetli;çeşit;soğuk;içecek;bar,2026-08-04
+gm_55df7485bea28d84,BOD068,Selectum Colours Bodrum,Gümbet,1,LOW,NOISE,ses,2026-08-04
+gm_55df7485bea28d84,BOD068,Selectum Colours Bodrum,Gümbet,1,LOW,ROOM,oda,2026-08-04
+gm_55df7485bea28d84,BOD068,Selectum Colours Bodrum,Gümbet,1,LOW,STAFF_SERVICE,personel;çalışan;garson;animasyon;ilgili;ilgisiz;hizmet;servis;karşılama,2026-08-04
+gm_74c2d41c7bb33d62,BOD068,Selectum Colours Bodrum,Gümbet,5,HIGH,BEACH_SEA,deniz;sahil,2026-07-26
+gm_74c2d41c7bb33d62,BOD068,Selectum Colours Bodrum,Gümbet,5,HIGH,CLEANLINESS_HYGIENE,temiz,2026-07-26
+gm_74c2d41c7bb33d62,BOD068,Selectum Colours Bodrum,Gümbet,5,HIGH,FACILITIES_MAINTENANCE,bakım,2026-07-26
+gm_74c2d41c7bb33d62,BOD068,Selectum Colours Bodrum,Gümbet,5,HIGH,FAMILY_CHILDREN,çocuk;aile,2026-07-26
+gm_74c2d41c7bb33d62,BOD068,Selectum Colours Bodrum,Gümbet,5,HIGH,FOOD_BEVERAGE,yemek;çeşit;bar,2026-07-26
+gm_74c2d41c7bb33d62,BOD068,Selectum Colours Bodrum,Gümbet,5,HIGH,POOL,havuz,2026-07-26
+gm_74c2d41c7bb33d62,BOD068,Selectum Colours Bodrum,Gümbet,5,HIGH,ROOM,oda;konforlu,2026-07-26
+gm_74c2d41c7bb33d62,BOD068,Selectum Colours Bodrum,Gümbet,5,HIGH,STAFF_SERVICE,çalışan;ilgili;güler yüzlü;yardımcı;nazik;hizmet;profesyonel,2026-07-26
+gm_f44c21590c927758,BOD068,Selectum Colours Bodrum,Gümbet,4,HIGH,BEACH_SEA,deniz,2026-06-26
+gm_f44c21590c927758,BOD068,Selectum Colours Bodrum,Gümbet,4,HIGH,CHECKIN_CHECKOUT,giriş,2026-06-26
+gm_f44c21590c927758,BOD068,Selectum Colours Bodrum,Gümbet,4,HIGH,FACILITIES_MAINTENANCE,tesis,2026-06-26
+gm_f44c21590c927758,BOD068,Selectum Colours Bodrum,Gümbet,4,HIGH,FOOD_BEVERAGE,yemek;çeşit;çeşitlilik;bar,2026-06-26
+gm_f44c21590c927758,BOD068,Selectum Colours Bodrum,Gümbet,4,HIGH,MANAGEMENT_COMMUNICATION,müdür,2026-06-26
+gm_f44c21590c927758,BOD068,Selectum Colours Bodrum,Gümbet,4,HIGH,NOISE,ses,2026-06-26
+gm_f44c21590c927758,BOD068,Selectum Colours Bodrum,Gümbet,4,HIGH,PAYMENT_REFUND,ödeme;kredi kartı,2026-06-26
+gm_f44c21590c927758,BOD068,Selectum Colours Bodrum,Gümbet,4,HIGH,POOL,havuz,2026-06-26
+gm_f44c21590c927758,BOD068,Selectum Colours Bodrum,Gümbet,4,HIGH,ROOM,oda;geniş,2026-06-26
+gm_f44c21590c927758,BOD068,Selectum Colours Bodrum,Gümbet,4,HIGH,SPA_WELLNESS,spa,2026-06-26
+gm_f44c21590c927758,BOD068,Selectum Colours Bodrum,Gümbet,4,HIGH,STAFF_SERVICE,personel;ilgili;hizmet;profesyonel,2026-06-26
+gm_182577327c7d55e2,BOD068,Selectum Colours Bodrum,Gümbet,3,MIXED,BEACH_SEA,deniz,2026-07-26
+gm_182577327c7d55e2,BOD068,Selectum Colours Bodrum,Gümbet,3,MIXED,CLEANLINESS_HYGIENE,temiz;hijyen;temizlik,2026-07-26
+gm_182577327c7d55e2,BOD068,Selectum Colours Bodrum,Gümbet,3,MIXED,FOOD_BEVERAGE,yemek;bar,2026-07-26
+gm_182577327c7d55e2,BOD068,Selectum Colours Bodrum,Gümbet,3,MIXED,POOL,havuz,2026-07-26
+gm_182577327c7d55e2,BOD068,Selectum Colours Bodrum,Gümbet,3,MIXED,ROOM,oda,2026-07-26
+gm_182577327c7d55e2,BOD068,Selectum Colours Bodrum,Gümbet,3,MIXED,STAFF_SERVICE,garson;resepsiyon;animasyon;hizmet,2026-07-26
+gm_c76ff2db5b19b1f3,BOD068,Selectum Colours Bodrum,Gümbet,5,HIGH,FOOD_BEVERAGE,yemek;lezzetli,2026-08-25
+gm_c76ff2db5b19b1f3,BOD068,Selectum Colours Bodrum,Gümbet,5,HIGH,ROOM,geniş,2026-08-25
+gm_c76ff2db5b19b1f3,BOD068,Selectum Colours Bodrum,Gümbet,5,HIGH,STAFF_SERVICE,personel;ilgili;güler yüzlü,2026-08-25
+gm_53f3fcf314503425,BOD068,Selectum Colours Bodrum,Gümbet,5,HIGH,STAFF_SERVICE,personel;güler yüzlü;hizmet,2026-08-25
+gm_98b7b05f388ae94f,BOD068,Selectum Colours Bodrum,Gümbet,5,HIGH,CLEANLINESS_HYGIENE,temiz,2026-08-25
+gm_98b7b05f388ae94f,BOD068,Selectum Colours Bodrum,Gümbet,5,HIGH,NOISE,ses,2026-08-25
+gm_98b7b05f388ae94f,BOD068,Selectum Colours Bodrum,Gümbet,5,HIGH,ROOM,oda;konforlu,2026-08-25
+gm_98b7b05f388ae94f,BOD068,Selectum Colours Bodrum,Gümbet,5,HIGH,STAFF_SERVICE,personel;güler yüzlü,2026-08-25
+gm_6d26e149924167ac,BOD068,Selectum Colours Bodrum,Gümbet,5,HIGH,CLEANLINESS_HYGIENE,temiz,2026-08-25
+gm_6d26e149924167ac,BOD068,Selectum Colours Bodrum,Gümbet,5,HIGH,ROOM,oda,2026-08-25
+gm_6c37de0ecce300de,BOD068,Selectum Colours Bodrum,Gümbet,5,HIGH,CLEANLINESS_HYGIENE,temiz;çarşaf,2026-08-25
+gm_6c37de0ecce300de,BOD068,Selectum Colours Bodrum,Gümbet,5,HIGH,FACILITIES_MAINTENANCE,yenilenmiş,2026-08-25
+gm_6c37de0ecce300de,BOD068,Selectum Colours Bodrum,Gümbet,5,HIGH,FOOD_BEVERAGE,restoran,2026-08-25
+gm_6c37de0ecce300de,BOD068,Selectum Colours Bodrum,Gümbet,5,HIGH,POOL,havuz,2026-08-25
+gm_6c37de0ecce300de,BOD068,Selectum Colours Bodrum,Gümbet,5,HIGH,ROOM,oda;geniş,2026-08-25
+gm_6c37de0ecce300de,BOD068,Selectum Colours Bodrum,Gümbet,5,HIGH,STAFF_SERVICE,çalışan;ilgili;güler yüzlü,2026-08-25
+gm_eb7f90935220d5d7,BOD068,Selectum Colours Bodrum,Gümbet,5,HIGH,CLEANLINESS_HYGIENE,temiz,2026-08-25
+gm_eb7f90935220d5d7,BOD068,Selectum Colours Bodrum,Gümbet,5,HIGH,FOOD_BEVERAGE,bar,2026-08-25
+gm_eb7f90935220d5d7,BOD068,Selectum Colours Bodrum,Gümbet,5,HIGH,ROOM,oda;konforlu,2026-08-25
+gm_eb7f90935220d5d7,BOD068,Selectum Colours Bodrum,Gümbet,5,HIGH,STAFF_SERVICE,personel;güler yüzlü;kibar;hizmet,2026-08-25
+gm_c36484b86aaa1e91,BOD068,Selectum Colours Bodrum,Gümbet,5,HIGH,FAMILY_CHILDREN,çocuk,2026-08-25
+gm_c36484b86aaa1e91,BOD068,Selectum Colours Bodrum,Gümbet,5,HIGH,STAFF_SERVICE,ilgili,2026-08-25
+gm_2978df1068b82ee8,BOD068,Selectum Colours Bodrum,Gümbet,5,HIGH,CLEANLINESS_HYGIENE,temiz,2026-08-25
+gm_2978df1068b82ee8,BOD068,Selectum Colours Bodrum,Gümbet,5,HIGH,FACILITIES_MAINTENANCE,bakım,2026-08-25
+gm_2978df1068b82ee8,BOD068,Selectum Colours Bodrum,Gümbet,5,HIGH,FOOD_BEVERAGE,yemek;lezzetli;çeşit;çeşitlilik,2026-08-25
+gm_2978df1068b82ee8,BOD068,Selectum Colours Bodrum,Gümbet,5,HIGH,ROOM,oda,2026-08-25
+gm_2978df1068b82ee8,BOD068,Selectum Colours Bodrum,Gümbet,5,HIGH,STAFF_SERVICE,personel;ilgili;güler yüzlü,2026-08-25
+gm_f08f26b5b4b50a6d,BOD068,Selectum Colours Bodrum,Gümbet,5,HIGH,STAFF_SERVICE,hizmet,2026-08-25
+gm_0b6154b5a63c6e14,BOD068,Selectum Colours Bodrum,Gümbet,5,HIGH,FAMILY_CHILDREN,çocuk;çocuk kulübü,2026-08-25
+gm_3b2098cbefb10e80,BOD068,Selectum Colours Bodrum,Gümbet,5,HIGH,CLEANLINESS_HYGIENE,temiz,2026-08-25
+gm_3b2098cbefb10e80,BOD068,Selectum Colours Bodrum,Gümbet,5,HIGH,FOOD_BEVERAGE,yemek;lezzetli,2026-08-25
+gm_3b2098cbefb10e80,BOD068,Selectum Colours Bodrum,Gümbet,5,HIGH,ROOM,oda;konforlu,2026-08-25
+gm_3b2098cbefb10e80,BOD068,Selectum Colours Bodrum,Gümbet,5,HIGH,STAFF_SERVICE,personel;ilgili;güler yüzlü;hizmet,2026-08-25
+gm_e7b463c6dc9e9d7e,BOD068,Selectum Colours Bodrum,Gümbet,5,HIGH,CHECKIN_CHECKOUT,giriş,2026-08-25
+gm_e7b463c6dc9e9d7e,BOD068,Selectum Colours Bodrum,Gümbet,5,HIGH,FOOD_BEVERAGE,yemek;bar,2026-08-25
+gm_e7b463c6dc9e9d7e,BOD068,Selectum Colours Bodrum,Gümbet,5,HIGH,MANAGEMENT_COMMUNICATION,müdür,2026-08-25
+gm_e7b463c6dc9e9d7e,BOD068,Selectum Colours Bodrum,Gümbet,5,HIGH,ROOM,oda,2026-08-25
+gm_e7b463c6dc9e9d7e,BOD068,Selectum Colours Bodrum,Gümbet,5,HIGH,STAFF_SERVICE,personel;ilgili;nazik,2026-08-25
+gm_2ec01904f551c806,BOD068,Selectum Colours Bodrum,Gümbet,5,HIGH,FOOD_BEVERAGE,restoran,2026-08-24
+gm_2ec01904f551c806,BOD068,Selectum Colours Bodrum,Gümbet,5,HIGH,MANAGEMENT_COMMUNICATION,iletişim,2026-08-24
+gm_2ec01904f551c806,BOD068,Selectum Colours Bodrum,Gümbet,5,HIGH,ROOM,oda,2026-08-24
+gm_2ec01904f551c806,BOD068,Selectum Colours Bodrum,Gümbet,5,HIGH,SAFETY_SECURITY,kaza,2026-08-24
+gm_2ec01904f551c806,BOD068,Selectum Colours Bodrum,Gümbet,5,HIGH,STAFF_SERVICE,personel;çalışan;hizmet,2026-08-24
+gm_37ccd5db447b1a18,BOD068,Selectum Colours Bodrum,Gümbet,5,HIGH,BEACH_SEA,deniz,2026-08-24
+gm_37ccd5db447b1a18,BOD068,Selectum Colours Bodrum,Gümbet,5,HIGH,FOOD_BEVERAGE,yemek;restoran;lezzetli;çeşit;bar,2026-08-24
+gm_37ccd5db447b1a18,BOD068,Selectum Colours Bodrum,Gümbet,5,HIGH,POOL,havuz,2026-08-24
+gm_37ccd5db447b1a18,BOD068,Selectum Colours Bodrum,Gümbet,5,HIGH,STAFF_SERVICE,personel;garson;ilgili;güler yüzlü;yardımcı;servis,2026-08-24
+gm_5eb1119942d5108e,BOD068,Selectum Colours Bodrum,Gümbet,5,HIGH,BEACH_SEA,deniz,2026-08-24
+gm_5eb1119942d5108e,BOD068,Selectum Colours Bodrum,Gümbet,5,HIGH,CLEANLINESS_HYGIENE,temiz,2026-08-24
+gm_5eb1119942d5108e,BOD068,Selectum Colours Bodrum,Gümbet,5,HIGH,FOOD_BEVERAGE,yemek;restoran;mutfak,2026-08-24
+gm_5eb1119942d5108e,BOD068,Selectum Colours Bodrum,Gümbet,5,HIGH,RESERVATION,rezervasyon,2026-08-24
+gm_5eb1119942d5108e,BOD068,Selectum Colours Bodrum,Gümbet,5,HIGH,ROOM,oda,2026-08-24
+gm_5eb1119942d5108e,BOD068,Selectum Colours Bodrum,Gümbet,5,HIGH,STAFF_SERVICE,personel;animasyon;ilgili;güler yüzlü;yardımcı,2026-08-24
+gm_65c79e78a3820128,BOD068,Selectum Colours Bodrum,Gümbet,5,HIGH,BEACH_SEA,deniz,2026-08-24
+gm_65c79e78a3820128,BOD068,Selectum Colours Bodrum,Gümbet,5,HIGH,CLEANLINESS_HYGIENE,temiz,2026-08-24
+gm_65c79e78a3820128,BOD068,Selectum Colours Bodrum,Gümbet,5,HIGH,FOOD_BEVERAGE,yemek;restoran;çeşit;içecek,2026-08-24
+gm_65c79e78a3820128,BOD068,Selectum Colours Bodrum,Gümbet,5,HIGH,STAFF_SERVICE,çalışan;ilgili;güler yüzlü;hizmet,2026-08-24
+gm_6747e5597673d28a,BOD068,Selectum Colours Bodrum,Gümbet,5,HIGH,CLEANLINESS_HYGIENE,temiz,2026-08-24
+gm_6747e5597673d28a,BOD068,Selectum Colours Bodrum,Gümbet,5,HIGH,FOOD_BEVERAGE,yemek;restoran,2026-08-24
+gm_6747e5597673d28a,BOD068,Selectum Colours Bodrum,Gümbet,5,HIGH,STAFF_SERVICE,çalışan;hizmet,2026-08-24
+gm_109bfa137c330578,BOD068,Selectum Colours Bodrum,Gümbet,5,HIGH,CLEANLINESS_HYGIENE,temiz,2026-08-24
+gm_109bfa137c330578,BOD068,Selectum Colours Bodrum,Gümbet,5,HIGH,FOOD_BEVERAGE,yemek;restoran;çeşit,2026-08-24
+gm_109bfa137c330578,BOD068,Selectum Colours Bodrum,Gümbet,5,HIGH,MANAGEMENT_COMMUNICATION,iletişim,2026-08-24
+gm_109bfa137c330578,BOD068,Selectum Colours Bodrum,Gümbet,5,HIGH,PRICE_VALUE,değer,2026-08-24
+gm_109bfa137c330578,BOD068,Selectum Colours Bodrum,Gümbet,5,HIGH,ROOM,oda;konforlu,2026-08-24
+gm_109bfa137c330578,BOD068,Selectum Colours Bodrum,Gümbet,5,HIGH,STAFF_SERVICE,personel;ilgili;güler yüzlü;yardımcı;nazik;hizmet,2026-08-24
+gm_09783714754da06a,BOD068,Selectum Colours Bodrum,Gümbet,4,HIGH,BEACH_SEA,deniz;koy,2026-08-24
+gm_09783714754da06a,BOD068,Selectum Colours Bodrum,Gümbet,4,HIGH,FAMILY_CHILDREN,aile,2026-08-24
+gm_09783714754da06a,BOD068,Selectum Colours Bodrum,Gümbet,4,HIGH,FOOD_BEVERAGE,yemek;çeşit;bar,2026-08-24
+gm_09783714754da06a,BOD068,Selectum Colours Bodrum,Gümbet,4,HIGH,ROOM,oda,2026-08-24
+gm_09783714754da06a,BOD068,Selectum Colours Bodrum,Gümbet,4,HIGH,STAFF_SERVICE,çalışan,2026-08-24
+gm_a79d61d9461a76f7,BOD068,Selectum Colours Bodrum,Gümbet,5,HIGH,FAMILY_CHILDREN,aile,2026-08-25
+gm_5454fe4bddecad40,BOD068,Selectum Colours Bodrum,Gümbet,5,HIGH,CLEANLINESS_HYGIENE,temiz,2026-08-25
+gm_5454fe4bddecad40,BOD068,Selectum Colours Bodrum,Gümbet,5,HIGH,FOOD_BEVERAGE,yemek,2026-08-25
+gm_5454fe4bddecad40,BOD068,Selectum Colours Bodrum,Gümbet,5,HIGH,POOL,havuz,2026-08-25
+gm_5454fe4bddecad40,BOD068,Selectum Colours Bodrum,Gümbet,5,HIGH,ROOM,oda,2026-08-25
+gm_5454fe4bddecad40,BOD068,Selectum Colours Bodrum,Gümbet,5,HIGH,STAFF_SERVICE,resepsiyon,2026-08-25

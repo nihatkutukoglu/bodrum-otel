@@ -1,0 +1,3 @@
+Clean reviews: 50
+Text reviews: 50
+Exact duplicates removed: 0

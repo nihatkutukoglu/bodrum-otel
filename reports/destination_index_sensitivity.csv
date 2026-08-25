@@ -1,0 +1,43 @@
+﻿area,scenario,rating_weight,inverse_price_weight,value_index,rank,rank_spread,ranking_sensitive
+Akyarlar,balanced,0.5,0.5,84.6540966226355,5.0,1.0,False
+Bitez,balanced,0.5,0.5,64.52580294205931,9.0,4.0,True
+Bodrum Merkez,balanced,0.5,0.5,62.39549773398004,10.0,1.0,False
+Göltürkbükü,balanced,0.5,0.5,92.8820750441433,2.0,2.0,False
+Gümbet,balanced,0.5,0.5,47.417840375586856,12.0,3.0,False
+Gümüşlük,balanced,0.5,0.5,94.3299077827669,1.0,2.0,False
+Gündoğan,balanced,0.5,0.5,90.19953051643192,4.0,2.0,False
+Güvercinlik,balanced,0.5,0.5,55.53622057285903,11.0,2.0,False
+Kadıkalesi,balanced,0.5,0.5,35.27856041609604,14.0,1.0,False
+Ortakent-Yahşi,balanced,0.5,0.5,78.10466488197632,7.0,3.0,False
+Torba,balanced,0.5,0.5,79.32110094234187,6.0,2.0,False
+Turgutreis,balanced,0.5,0.5,91.84304347484287,3.0,2.0,False
+Türkbükü,balanced,0.5,0.5,43.09376024268005,13.0,5.0,True
+Yalıkavak,balanced,0.5,0.5,67.7022623450702,8.0,5.0,True
+Akyarlar,rating_heavy,0.7,0.3,86.63780099938924,5.0,1.0,False
+Bitez,rating_heavy,0.7,0.3,52.73049031606613,11.0,4.0,True
+Bodrum Merkez,rating_heavy,0.7,0.3,53.26918978531852,10.0,1.0,False
+Göltürkbükü,rating_heavy,0.7,0.3,95.574811165087,1.0,2.0,False
+Gümbet,rating_heavy,0.7,0.3,28.450704225352112,14.0,3.0,False
+Gümüşlük,rating_heavy,0.7,0.3,92.06187089587365,3.0,2.0,False
+Gündoğan,rating_heavy,0.7,0.3,94.11971830985915,2.0,2.0,False
+Güvercinlik,rating_heavy,0.7,0.3,43.055873121251466,12.0,2.0,False
+Kadıkalesi,rating_heavy,0.7,0.3,41.31486721164244,13.0,1.0,False
+Ortakent-Yahşi,rating_heavy,0.7,0.3,71.6000519615274,8.0,3.0,False
+Torba,rating_heavy,0.7,0.3,84.38287465261196,6.0,2.0,False
+Turgutreis,rating_heavy,0.7,0.3,90.22345335304293,4.0,2.0,False
+Türkbükü,rating_heavy,0.7,0.3,60.33126433975206,9.0,5.0,True
+Yalıkavak,rating_heavy,0.7,0.3,75.76908277605602,7.0,5.0,True
+Akyarlar,price_heavy,0.3,0.7,82.67039224588177,6.0,1.0,False
+Bitez,price_heavy,0.3,0.7,76.32111556805248,7.0,4.0,True
+Bodrum Merkez,price_heavy,0.3,0.7,71.52180568264154,9.0,1.0,False
+Göltürkbükü,price_heavy,0.3,0.7,90.18933892319959,3.0,2.0,False
+Gümbet,price_heavy,0.3,0.7,66.3849765258216,11.0,3.0,False
+Gümüşlük,price_heavy,0.3,0.7,96.59794466966014,1.0,2.0,False
+Gündoğan,price_heavy,0.3,0.7,86.27934272300467,4.0,2.0,False
+Güvercinlik,price_heavy,0.3,0.7,68.0165680244666,10.0,2.0,False
+Kadıkalesi,price_heavy,0.3,0.7,29.242253620549633,13.0,1.0,False
+Ortakent-Yahşi,price_heavy,0.3,0.7,84.60927780242523,5.0,3.0,False
+Torba,price_heavy,0.3,0.7,74.25932723207178,8.0,2.0,False
+Turgutreis,price_heavy,0.3,0.7,93.4626335966428,2.0,2.0,False
+Türkbükü,price_heavy,0.3,0.7,25.85625614560803,14.0,5.0,True
+Yalıkavak,price_heavy,0.3,0.7,59.63544191408437,12.0,5.0,True

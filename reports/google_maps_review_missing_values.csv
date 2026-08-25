@@ -1,0 +1,15 @@
+column,missing_count,missing_pct
+hotel_id,236,100.0
+hotel_name,0,0.0
+area,0,0.0
+review_text,0,0.0
+review_details_raw,57,24.15
+review_date_raw,0,0.0
+review_date_is_relative,0,0.0
+review_rating_raw,0,0.0
+review_rating_numeric,0,0.0
+review_source,0,0.0
+google_travel_entity_id,0,0.0
+google_travel_url,0,0.0
+review_hash,0,0.0
+collected_at,0,0.0

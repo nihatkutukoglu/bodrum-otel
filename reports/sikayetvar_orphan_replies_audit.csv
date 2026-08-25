@@ -1,0 +1,1 @@
+complaint_id,canonical_complaint_url,hotel_id,hotel_name,reply_order,reply_author_type,reply_date_raw,reply_text,reply_text_clean,reply_author_type_clean,reply_order_numeric,reply_date,reply_date_is_approximate,reply_date_pattern,reply_date_parse_failed_flag,reply_id

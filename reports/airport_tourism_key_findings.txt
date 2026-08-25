@@ -1,0 +1,14 @@
+Bodrum Hotel & Destination Intelligence — Airport × Tourism Temel Bulgular
+
+- Milas-Bodrum Airport 2025 peak total passenger ayı Ağustos: 822,443.
+- International passenger zirvesi Ağustos: 381,648.
+- Muğla tourism total arrival peak ayı Ağustos; airport peak ile ay farkı 0.
+- Muğla foreign arrival peak ayı Ağustos; international airport peak ile ay farkı 0.
+- Airport total passengers ile Muğla tourism total arrivals Spearman ρ=0.986 (n=12).
+- Airport international passengers ile Muğla foreign arrivals Spearman ρ=0.965 (n=12).
+- Airport domestic passengers ile Muğla domestic arrivals Spearman ρ=0.930 (n=12).
+- Airport total passengers ile Muğla overnights Spearman ρ=0.993 (n=12).
+- Airport total passengers ile Muğla occupancy Spearman ρ=0.993 (n=12); occupancy supply availability'den de etkilenir.
+- En büyük total normalized divergence Haziran ayında 56.8 indeks puanıdır.
+- Total pair için lag 0 Spearman ρ=0.986, lag 1 ρ=0.909; international–foreign için lag 0 ρ=0.965, lag 1 ρ=0.909.
+- En önemli sınırlılık airport passenger ile accommodation arrival'ın aynı kişi, population veya grain olmamasıdır.

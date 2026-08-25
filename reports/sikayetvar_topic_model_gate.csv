@@ -1,0 +1,7 @@
+gate,value,status,note
+text_document_count,229.0,PASS,229 non-empty complaint texts
+median_document_tokens,112.0,PASS,Narratives are long enough for term/aspect analysis
+hotel_distribution,15.0,CAUTION,15/32 hotels are LOW_SAMPLE
+aspect_coverage_pct,100.0,PASS,Rule-based taxonomy already structures most text documents
+human_topic_validation,0.0,FAIL,No independently reviewed topic labels/representatives yet
+stability_evidence,0.0,FAIL,No multi-seed coherence/stability benchmark approved

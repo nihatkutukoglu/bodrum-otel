@@ -1,0 +1,15 @@
+﻿check,value,status,dataset
+row_count,12,PASS,airport
+unique_period,12,PASS,airport
+missing_cells,0,PASS,airport
+negative_passenger_values,0,PASS,airport
+monthly_passenger_total_mismatch_rows,0,PASS,airport
+cumulative_domestic_mismatch_rows,0,PASS,airport
+cumulative_international_mismatch_rows,0,PASS,airport
+cumulative_total_mismatch_rows,0,PASS,airport
+annual_sum_minus_year_end_cumulative,0,PASS,airport
+row_count,12,PASS,tourism
+unique_period,12,PASS,tourism
+missing_core_cells,0,PASS,tourism
+arrival_total_mismatch_rows,0,PASS,tourism
+occupancy_out_of_range_rows,0,PASS,tourism

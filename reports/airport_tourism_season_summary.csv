@@ -1,0 +1,4 @@
+﻿season_group,month_count,avg_airport_total,avg_airport_domestic,avg_airport_international,avg_airport_international_share_pct,avg_tourism_arrivals,avg_foreign_arrivals,avg_overnights,avg_occupancy
+LOW,4,102237.25,97159.25,5078.0,4.968886830727747,117403.5,11993.5,245781.25,3.5250000000000004
+PEAK,4,661838.0,352099.0,309739.0,46.9693933581573,1642239.5,862636.0,4394380.25,63.125
+SHOULDER,4,339145.75,197075.25,142070.5,33.337892541770415,522823.75,296082.5,1527211.0,22.224999999999998

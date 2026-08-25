@@ -1,0 +1,21 @@
+finding_id,layer,finding,evidence_metric,evidence_value,confidence,main_limitation,source_notebook
+F01,Data,Hotel snapshot 192 benzersiz otel ve 14 destinasyon içeriyor.,hotel_count / destination_count,192 / 14,HIGH,Örneklem tam census olmayabilir.,01–03
+F02,Data quality,Tam satır duplicate yok; tüm cleaning kontrolleri geçti.,duplicate_rows / validation,0 / 9 PASS,HIGH,Geçen kontroller analitik zenginlik garantisi değildir.,02–03
+F03,Hotel market,Fiyat snapshot coverage yüksek fakat tek tarihlidir.,price coverage,168/192 (87.5%),MEDIUM,Yıllık fiyat stratejisi değildir.,02/05
+F04,Official match,Resmî özellikler yalnız yüksek güvenli eşleşmelerde kullanıldı.,high-confidence match,52/192 (27.1%),HIGH,Coverage eksik; eşleşmeyen otellere özellik atanmadı.,06
+F05,Official attributes,Resmî yıldız ile Google rating ilişkisi zayıf.,Spearman,"rho=0.238, n=51",MEDIUM,Küçük gruplar; nedensellik yok.,07
+F06,Official attributes,5 yıldız medyan fiyat snapshot'ı 4 yıldızdan daha yüksek.,median price,$304 vs $216 (+40.7%),MEDIUM,Tek fiyat snapshot'ı; n=19/15.,07
+F07,Capacity,Oda sayısı ile Google yorum hacmi güçlü birlikte değişiyor.,Spearman,"rho=0.859, n=52",MEDIUM,Review count gerçek misafir sayısı değildir.,07
+F08,Destination,Ağırlıklı memnuniyet sinyali en yüksek alan Gündoğan.,weighted rating,4.417,MEDIUM,Platform puanı; örneklem içi karşılaştırma.,08
+F09,Destination,Toplam Google görünürlüğü en yüksek alan Gümbet.,total reviews,32519,MEDIUM,Görünürlük talep veya kaliteye eşit değildir.,08
+F10,Destination,Fiyat snapshot indeksi en yüksek alan Türkbükü.,price index,318.6,MEDIUM,Tek tarihli fiyat snapshot'ı.,08
+F11,Destination,14 alanın 10'u düşük resmî coverage taşıyor.,low coverage areas,10/14,HIGH,Luxury/capacity rank'leri kısıtlıdır.,08
+F12,Tourism,Muğla toplam geliş 2009–2025 arasında güçlü arttı.,total arrival change,176.5%,HIGH,İl düzeyi resmî konaklama serisi.,09
+F13,Tourism,"2020, 2019'a göre keskin kırılma gösterdi.",total arrivals YoY,-48.9%,HIGH,Betimsel yıllık değişim.,09
+F14,Tourism,2025 seride en yüksek toplam geliş yılıdır.,total arrivals,9129867,HIGH,Muğla ili; tüm seyahatleri kapsamaz.,09
+F15,Seasonality,İlk üç ay 2025 gelişlerinin çoğunu topladı.,top-3 month share,59.6%,HIGH,Muğla aylık serisi Bodrum değildir.,09
+F16,Bodrum,"Bodrum, Muğla 2025 gelişlerinin yaklaşık üçte birini oluşturdu.",Bodrum share,30.9%,HIGH,Yıllık ortak konaklama-istatistiği kapsamı.,09
+F17,Bodrum,Bodrum visitor mix'i domestic ağırlıklıdır.,domestic share,57.5%,HIGH,Yalnız 2025 yıllık profil.,09
+F18,Airport,Milas-Bodrum Airport 2025 toplam yolcu sayısı doğrulandı.,annual passengers,4412884,HIGH,Passenger turist değildir; seri kesin olmayan DHMİ notu taşır.,10
+F19,Airport × Tourism,Airport total ve Muğla arrivals aynı aylarda çok güçlü hareket etti.,Spearman,"rho=0.986, n=12",MEDIUM,Farklı population/grain; nedensellik yok.,10
+F20,Airport × Tourism,En büyük normalize ayrışma Haziran ayında oluştu.,absolute index gap,56.8,MEDIUM,Nedeni veri tarafından açıklanmıyor.,10

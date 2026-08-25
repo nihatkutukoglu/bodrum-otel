@@ -1,0 +1,10 @@
+- 2025 monthly dataset Muğla il seviyesindedir; Bodrum aylık talebi değildir.
+- Bodrum için bu aşamada yalnız annual 2025 ilçe seviyesi veri vardır.
+- Muğla monthly sonuçları Bodrum'un aylık demandı veya 14 Bodrum destinasyonunun aylık talebi olarak kullanılamaz.
+- 2025 monthly dataset yalnızca 12 gözlem içerir.
+- Tek yıllık monthly seriyle uzun dönem seasonal decomposition veya forecasting modeli kurulamaz.
+- Occupancy, arrivals dışında açık tesis/oda-yatak arzı ve kapasite kullanılabilirliğinden etkilenir.
+- Arrivals benzersiz kişi sayısı olmak zorunda değildir; konaklama tesislerine geliş kaydıdır.
+- Accommodation arrivals ile airport passenger aynı kavram değildir.
+- Tourism demand 2025, hotel master/Google snapshot 2026 tarihlidir.
+- Korelasyon nedensellik değildir; aylık ilişkiler ortak sezon deseninden kaynaklanabilir.

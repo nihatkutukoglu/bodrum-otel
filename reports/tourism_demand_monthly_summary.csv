@@ -1,0 +1,8 @@
+﻿metric,n,mean,median,minimum,minimum_period,maximum,maximum_period
+domestic_arrivals,12,370584.9166666667,260194.0,48810.0,Şubat,1061003.0,Ağustos
+foreign_arrivals,12,390237.3333333333,304501.5,2953.0,Şubat,942171.0,Ağustos
+total_arrivals,12,760822.25,470906.5,51763.0,Şubat,2003174.0,Ağustos
+total_overnights,12,2055790.8333333333,1384440.5,105629.0,Şubat,5317523.0,Ağustos
+occupancy_rate_pct,12,29.625,19.9,1.7,Şubat,75.8,Ağustos
+derived_avg_stay_nights_recalculated,12,2.5300648386310125,2.650835122783351,2.0406274752236153,Şubat,3.1424031277358693,Haziran
+derived_foreign_arrival_share_pct_recalculated,12,39.32665166333575,46.39557490151998,5.621033544877607,Ocak,68.2758080822381,Mayıs

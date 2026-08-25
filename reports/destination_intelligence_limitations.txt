@@ -1,0 +1,10 @@
+- 192 otellik Google kaynaklı örneklem Bodrum'daki tüm konaklama tesisleri evreni değildir.
+- High-confidence official hotel matching coverage sınırlıdır; doğrulanmış yıldız/oda/yatak tüm otellerde yoktur.
+- Destinasyon metrikleri alan başına farklı sample ve official coverage oranlarından etkilenir.
+- Google rating ve review count platform görünürlüğü ve kullanıcı davranışı yanlılığı taşır.
+- Fiyat tek tarihli arama snapshot'ıdır; yıllık veya sezon geneli fiyat seviyesi değildir.
+- 14 destinasyon istatistiksel çıkarım ve korelasyon analizi için küçük örneklemdir.
+- Marina ve haftalık pazar bağlamları betimseldir; nedensel değişken olarak yorumlanamaz.
+- Restoran, plaj, gece hayatı, Blue Flag, POI, yürünebilirlik ve güvenilir erişim süresi katmanları henüz yoktur.
+- Alt indeksler açıklanabilir karşılaştırma araçlarıdır; tek ve kesin bir Destination Score değildir.
+- Min-max indeksleri bu 14 alanın mevcut örneklem aralığına bağlıdır ve yeni veri geldiğinde değişebilir.

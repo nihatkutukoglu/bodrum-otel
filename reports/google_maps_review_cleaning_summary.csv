@@ -1,0 +1,2 @@
+raw_row_count,clean_row_count,rows_dropped,exact_duplicates_found,near_duplicate_pairs_found,invalid_rating_count,date_parse_failed_count,very_short_review_count,metadata_artifact_count,hotel_id_unmatched_count,hotel_count
+236,236,0,0,1,0,0,9,13,0,5

@@ -1,0 +1,31 @@
+column_name,dtype,non_null_count,missing_count,missing_pct,unique_count,expected_role,notes
+complaint_id,object,248,0,0.0,245,complaint identifier,Preserve raw; do not overwrite
+complaint_url,object,248,0,0.0,245,source URL,Preserve raw; do not overwrite
+canonical_complaint_url,object,248,0,0.0,245,preferred dedupe/join key,Preserve raw; do not overwrite
+hotel_id,object,248,0,0.0,34,project hotel join key,Preserve raw; do not overwrite
+hotel_name,object,248,0,0.0,34,raw mapped hotel label,Preserve raw; do not overwrite
+area,object,248,0,0.0,12,raw mapped area,Preserve raw; do not overwrite
+sikayetvar_company_name,object,248,0,0.0,34,platform company label,Preserve raw; do not overwrite
+complaint_id.1,object,248,0,0.0,245,source-specific / duplicate extraction field,Inspect before downstream use
+complaint_url.1,object,248,0,0.0,245,source-specific / duplicate extraction field,Inspect before downstream use
+complaint_title,object,248,0,0.0,243,raw title,Preserve raw; do not overwrite
+complaint_text,object,241,7,2.82258064516129,238,raw complaint body,Preserve raw; do not overwrite
+complaint_date_raw,object,245,3,1.2096774193548387,241,raw displayed date,Preserve raw; do not overwrite
+view_count,object,237,11,4.435483870967742,223,raw engagement count,Preserve raw; do not overwrite
+support_count,object,0,248,100.0,0,raw support count; missing is not zero,Preserve raw; do not overwrite
+category,object,1,247,99.59677419354838,1,optional platform category,Preserve raw; do not overwrite
+product_name,object,0,248,100.0,0,optional product label,Preserve raw; do not overwrite
+company_response_exists,object,248,0,0.0,2,raw response-presence flag,Preserve raw; do not overwrite
+company_response_date,object,43,205,82.66129032258065,43,raw response date,Preserve raw; do not overwrite
+company_response_text,object,43,205,82.66129032258065,42,raw company response,Preserve raw; do not overwrite
+progress_exists,object,248,0,0.0,1,raw progress-presence flag,Preserve raw; do not overwrite
+progress_date,object,0,248,100.0,0,raw progress date,Preserve raw; do not overwrite
+progress_text,object,0,248,100.0,0,raw progress text,Preserve raw; do not overwrite
+user_reply_count,object,248,0,0.0,4,raw user reply count,Preserve raw; do not overwrite
+first_user_reply_date,object,44,204,82.25806451612904,43,source-specific / duplicate extraction field,Inspect before downstream use
+first_user_reply_text,object,44,204,82.25806451612904,43,source-specific / duplicate extraction field,Inspect before downstream use
+entity_match_status,object,248,0,0.0,2,complaint-level corpus authority,Preserve raw; do not overwrite
+entity_match_score,object,0,248,100.0,0,optional entity score,Preserve raw; do not overwrite
+entity_match_reason,object,248,0,0.0,6,entity decision evidence,Preserve raw; do not overwrite
+source_page,object,248,0,0.0,34,discovery page,Preserve raw; do not overwrite
+collected_at,object,248,0,0.0,1,collection timestamp,Preserve raw; do not overwrite

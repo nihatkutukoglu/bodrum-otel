@@ -1,0 +1,14 @@
+SIKAYETVAR TOP-3 BODRUM HOTELS — SCRAPING SUMMARY
+=======================================================
+
+Selectum Colours Bodrum -> 17 complaint(s) (matched: 9, review: 3, excluded: 5)
+Green Bay Resort & Spa Bodrum -> 11 complaint(s) (matched: 11, review: 0, excluded: 0)
+La Blanche Island Bodrum -> 19 complaint(s) (matched: 19, review: 0, excluded: 0)
+
+Toplam benzersiz complaint -> 47
+Duplicate URL kaldirilan kayit -> 0
+Company response bulunan -> 5
+Review required -> 3
+Selectum'dan excluded (baska tesis) -> 5
+Links discovered (raw, all source pages) -> 47
+Failed detail pages -> 0

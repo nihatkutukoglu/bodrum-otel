@@ -1,0 +1,17 @@
+{
+  "clean_review_count": 50,
+  "text_review_count": 50,
+  "hotel_coverage": 5,
+  "area_coverage": 4,
+  "positive_driver_ready_hotels": 0,
+  "negative_driver_ready_hotels": 0,
+  "full_driver_ready_hotels": 0,
+  "low_sample_hotels": 5,
+  "top_overall_aspects": [
+    "FOOD_BEVERAGE",
+    "STAFF_SERVICE",
+    "ROOM",
+    "CLEANLINESS_HYGIENE",
+    "BEACH_SEA"
+  ]
+}

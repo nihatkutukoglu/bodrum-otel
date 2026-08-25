@@ -1,0 +1,30 @@
+SIKAYETVAR ALL-HOTELS SCRAPING SUMMARY
+=======================================================
+
+Project hotels: 192
+Exact matches: 31
+High confidence matches: 1
+Review required: 43
+Ambiguous: 1
+Not found: 104
+Page found no complaint: 12
+Hotels with >=1 matched complaint: 32
+Total unique complaints (matched, across hotels): 236
+Complaint review required: 12
+Complaint excluded wrong property: 0
+Company responses: 43
+Replies: 97
+Detail rows collected: 248
+Failed details: 0
+
+Top 10 complaint-volume hotels:
+  Kefaluka Resort (Akyarlar) -> 29 matched complaint(s)
+  Azure By Yelken Hotel (Kadıkalesi) -> 26 matched complaint(s)
+  Yasmin Bodrum Resort (Kadıkalesi) -> 23 matched complaint(s)
+  La Blanche Island Bodrum (Güvercinlik) -> 19 matched complaint(s)
+  Petunya Beach Resort (Ortakent-Yahşi) -> 13 matched complaint(s)
+  Bendis Beach Hotel (Akyarlar) -> 12 matched complaint(s)
+  La Blanche Resort Bodrum (Turgutreis) -> 12 matched complaint(s)
+  Green Bay Resort & Spa Bodrum (Güvercinlik) -> 11 matched complaint(s)
+  The Oba Hotel (Torba) -> 10 matched complaint(s)
+  Selectum Colours Bodrum (Gümbet) -> 8 matched complaint(s)

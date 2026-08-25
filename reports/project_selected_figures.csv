@@ -1,0 +1,16 @@
+figure_order,section,figure_path,figure_title,research_question,why_selected,source_notebook
+1,Hotel market,reports/figures/eda/hotels_by_review_count.png,Hotel visibility / review volume,Hangi oteller dijital olarak en görünür?,Görünürlüğü kaliteyle eşitlemeden gösterir.,05
+2,Hotel market,reports/figures/eda/rating_vs_review_count.png,Rating × review count,Puan ve görünürlük nasıl birlikte değişiyor?,İki ayrı pazar boyutunu ve outlier'ları gösterir.,05
+3,Hotel market,reports/figures/eda/median_price_by_destination.png,Median price by destination,Alanlar tek snapshot'ta nasıl fiyatlanıyor?,Güçlü ve okunabilir destinasyon fiyat farkı.,05
+4,Official matching,reports/figures/destination_intelligence/coverage_by_area.png,Official match coverage,Resmî sonuçlar nerede güvenilir?,Coverage'ı yorumun merkezine koyar.,06/08
+5,Official attributes,reports/figures/hotel_attributes/rating_by_star.png,Rating by verified star,Yıldız ve müşteri algısı birlikte nasıl değişiyor?,Resmî sınıf ile platform puanını ayırır.,07
+6,Official attributes,reports/figures/hotel_attributes/median_price_by_star.png,Median price by verified star,Yıldız grupları snapshot fiyatta ayrışıyor mu?,Medyan ve n ile sade karşılaştırma.,07
+7,Official attributes,reports/figures/hotel_attributes/destination_room_capacity.png,Official room capacity by destination,Otel sayısı kapasiteyle aynı mı?,Sayım ile kapasite farkını gösterir.,07
+8,Destination,reports/figures/destination_intelligence/destination_subindices_heatmap.png,Destination sub-indices,14 alan hangi boyutlarda farklılaşıyor?,Tek score yerine çok boyutlu profil.,08
+9,Destination,reports/figures/destination_intelligence/popularity_satisfaction_quadrant.png,Popularity × satisfaction,Görünürlük ve memnuniyet nasıl ayrışıyor?,Tekrar etmeyen iki boyutlu destination özeti.,08
+10,Tourism,reports/figures/tourism_demand/01_total_arrivals_2009_2025.png,Muğla annual arrivals,Uzun dönem talep nasıl değişti?,"2019, 2020 ve toparlanma kırılmalarını taşır.",09
+11,Seasonality,reports/figures/tourism_demand/06_monthly_total_arrivals_2025.png,Muğla monthly arrivals,2025 talebi ne kadar sezonluk?,Peak ve yoğunlaşmayı doğrudan gösterir.,09
+12,Bodrum,reports/figures/tourism_demand/14_bodrum_vs_mugla_visitor_mix_2025.png,Bodrum vs Muğla visitor mix,İlçe ve il ziyaretçi kompozisyonu farklı mı?,Aynı yıllık tanım içinde karşılaştırılabilir.,09
+13,Airport × Tourism,reports/figures/airport_tourism/03_airport_vs_tourism_normalized.png,Normalized airport × tourism,İki sezon şekli birlikte mi hareket ediyor?,Farklı ölçekleri doğru biçimde karşılaştırır.,10
+14,Airport × Tourism,reports/figures/airport_tourism/04_international_vs_foreign_normalized.png,International × foreign,Uluslararası erişim ve yabancı talep nasıl hizalanıyor?,Alt segmentte de ortak sezonu test eder.,10
+15,Airport × Tourism,reports/figures/airport_tourism/11_monthly_divergence.png,Monthly normalized divergence,Güçlü korelasyon hangi aylarda ayrışıyor?,Korelasyonun sakladığı aylık farkı gösterir.,10

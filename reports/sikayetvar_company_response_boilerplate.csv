@@ -1,0 +1,2 @@
+response_a_complaint_id,response_b_complaint_id,cosine_similarity,candidate_flag
+balayi-konseptinde-sunulan-haklarin-eksikligi-ve-ilgisiz-otel-yonetimi,kefaluka-resort-balayi-tatilimizde-buyuk-hayal-kirikligi-hizmet-ve-ilgi-sifir,0.999999999999999,STANDARDIZED_RESPONSE_PATTERN_CANDIDATE

@@ -1,0 +1,35 @@
+﻿area,company_response_count,complaint_links_found,details_failed,details_success,hotel_id,hotel_name,last_error,last_page_checked,last_updated,mapping_score,mapping_status,scrape_status,source_page,source_page_accessible,unique_complaints_found
+Turgutreis,0,1,0,1,BOD158,Arin Resort Bodrum,,2,2026-08-25T13:06:21.640478+00:00,0.85,FOUND_EXACT,DETAILS_COLLECTED,https://www.sikayetvar.com/arin-resort-bodrum,True,1
+Kadıkalesi,1,26,0,26,BOD112,Azure By Yelken Hotel,,3,2026-08-25T13:06:21.640602+00:00,0.7,FOUND_EXACT,DETAILS_COLLECTED,https://www.sikayetvar.com/azure-by-yelken-hotel,True,26
+Akyarlar,5,12,0,12,BOD004,Bendis Beach Hotel,,2,2026-08-25T13:06:21.640631+00:00,0.7,FOUND_EXACT,DETAILS_COLLECTED,https://www.sikayetvar.com/bendis-beach-hotel,True,12
+Gümbet,0,3,0,3,BOD058,Bodrum Beach Resort,,2,2026-08-25T13:06:21.640683+00:00,0.85,FOUND_EXACT,DETAILS_COLLECTED,https://www.sikayetvar.com/bodrum-beach-resort,True,3
+Bodrum Merkez,0,1,0,1,BOD038,Casa Mare Bodrum,,2,2026-08-25T13:06:21.640709+00:00,0.85,FOUND_EXACT,DETAILS_COLLECTED,https://www.sikayetvar.com/casa-mare-bodrum,True,1
+Ortakent-Yahşi,0,2,0,2,BOD120,Celeste Bella Luxury Hotel & Spa,,2,2026-08-25T13:06:21.640727+00:00,0.7,FOUND_EXACT,DETAILS_COLLECTED,https://www.sikayetvar.com/celeste-bella-luxury-hotel-spa,True,2
+Akyarlar,0,5,0,5,BOD006,Club Marma Hotel,,2,2026-08-25T13:06:21.640754+00:00,0.85,FOUND_EXACT,DETAILS_COLLECTED,https://www.sikayetvar.com/club-marma-hotel-bodrum,True,5
+Gümbet,0,1,0,1,BOD060,Club Shark Hotel,,2,2026-08-25T13:06:21.640775+00:00,0.7,FOUND_EXACT,DETAILS_COLLECTED,https://www.sikayetvar.com/club-shark-hotel,True,1
+Bitez,0,1,0,1,BOD023,Doria Hotel Bodrum,,2,2026-08-25T13:06:21.640795+00:00,0.85,FOUND_EXACT,DETAILS_COLLECTED,https://www.sikayetvar.com/doria-hotel-bodrum,True,1
+Güvercinlik,0,11,0,11,BOD103,Green Bay Resort & Spa Bodrum,,2,2026-08-25T13:06:21.640816+00:00,0.7,FOUND_EXACT,DETAILS_COLLECTED,https://www.sikayetvar.com/green-bay-resort-spa,True,11
+Gümbet,0,2,0,2,BOD061,Gümbet Anıl Beach,,2,2026-08-25T13:06:21.640849+00:00,0.85,FOUND_EXACT,DETAILS_COLLECTED,https://www.sikayetvar.com/gumbet-anil-beach,True,2
+Ortakent-Yahşi,0,1,0,1,BOD124,Irmak Boutique Hotel,,2,2026-08-25T13:06:21.640880+00:00,0.7,FOUND_EXACT,DETAILS_COLLECTED,https://www.sikayetvar.com/irmak-boutique-hotel,True,1
+Kadıkalesi,2,7,0,7,BOD113,Kadıkale Resort,,2,2026-08-25T13:06:21.640928+00:00,0.7,FOUND_EXACT,DETAILS_COLLECTED,https://www.sikayetvar.com/kadikale-resort,True,7
+Akyarlar,22,29,0,29,BOD007,Kefaluka Resort,,3,2026-08-25T13:06:21.640960+00:00,0.7,FOUND_EXACT,DETAILS_COLLECTED,https://www.sikayetvar.com/kefaluka-resort,True,29
+Türkbükü,0,1,0,1,BOD168,Kuum Hotel & SPA Bodrum,,2,2026-08-25T13:06:21.640992+00:00,0.85,FOUND_EXACT,DETAILS_COLLECTED,https://www.sikayetvar.com/kuum-hotel-spa-bodrum,True,1
+Güvercinlik,5,19,0,19,BOD106,La Blanche Island Bodrum,,3,2026-08-25T13:06:21.641011+00:00,0.85,FOUND_EXACT,DETAILS_COLLECTED,https://www.sikayetvar.com/la-blanche-island-bodrum,True,19
+Turgutreis,0,12,0,12,BOD160,La Blanche Resort Bodrum,,2,2026-08-25T13:06:21.641024+00:00,0.7763,FOUND_HIGH_CONFIDENCE,DETAILS_COLLECTED,https://www.sikayetvar.com/la-blanche-resort-spa-bodrum,True,12
+Bodrum Merkez,0,5,0,5,BOD041,La Quinta by Wyndham Bodrum,,2,2026-08-25T13:06:21.641042+00:00,0.85,FOUND_EXACT,DETAILS_COLLECTED,https://www.sikayetvar.com/la-quinta-by-wyndham-bodrum,True,5
+Gümüşlük,0,7,0,7,BOD077,Ladonia Hotels Zemda,,2,2026-08-25T13:06:21.641066+00:00,0.7,FOUND_EXACT,DETAILS_COLLECTED,https://www.sikayetvar.com/ladonia-hotels-zemda,True,7
+Güvercinlik,0,4,0,4,BOD107,Le Méridien Bodrum Beach Resort,,2,2026-08-25T13:06:21.641077+00:00,0.8208,FOUND_EXACT,DETAILS_COLLECTED,https://www.sikayetvar.com/le-meridien-bodrum-beach-resort,True,4
+Göltürkbükü,0,2,0,2,BOD056,"Mandarin Oriental, Bodrum",,2,2026-08-25T13:06:21.641099+00:00,0.85,FOUND_EXACT,DETAILS_COLLECTED,https://www.sikayetvar.com/mandarin-oriental-bodrum,True,2
+Akyarlar,0,1,0,1,BOD010,Mare Garden Hotel,,2,2026-08-25T13:06:21.641112+00:00,0.7,FOUND_EXACT,DETAILS_COLLECTED,https://www.sikayetvar.com/mare-garden-hotel,True,1
+Güvercinlik,4,5,0,5,BOD109,Oscar Seaside Hotel & Spa,,2,2026-08-25T13:06:21.641124+00:00,0.85,FOUND_EXACT,DETAILS_COLLECTED,https://www.sikayetvar.com/oscar-seaside-hotel-spa-bodrum,True,5
+Ortakent-Yahşi,0,13,0,13,BOD130,Petunya Beach Resort,,2,2026-08-25T13:06:21.641154+00:00,0.7,FOUND_EXACT,DETAILS_COLLECTED,https://www.sikayetvar.com/petunya-beach-resort,True,13
+Bodrum Merkez,0,7,0,7,BOD045,Salmakis Resort & Spa,,2,2026-08-25T13:06:21.641183+00:00,0.7,FOUND_EXACT,DETAILS_COLLECTED,https://www.sikayetvar.com/salmakis-resort-spa,True,7
+Gümbet,0,6,0,6,BOD067,Sami Beach Hotel,,2,2026-08-25T13:06:21.641227+00:00,0.7,FOUND_EXACT,DETAILS_COLLECTED,https://www.sikayetvar.com/sami-beach-hotel,True,6
+Gümbet,0,1,0,1,BOD069,Siesta Beach Apart,,2,2026-08-25T13:06:21.641241+00:00,0.7,FOUND_EXACT,DETAILS_COLLECTED,https://www.sikayetvar.com/siesta-beach-apart,True,1
+Torba,0,10,0,10,BOD153,The Oba Hotel,,2,2026-08-25T13:06:21.641262+00:00,0.7,FOUND_EXACT,DETAILS_COLLECTED,https://www.sikayetvar.com/the-oba-hotel,True,10
+Güvercinlik,0,5,0,5,BOD110,Titanic Luxury Collection Bodrum,,2,2026-08-25T13:06:21.641283+00:00,0.85,FOUND_EXACT,DETAILS_COLLECTED,https://www.sikayetvar.com/titanic-luxury-collection-bodrum,True,5
+Gümbet,0,3,0,3,BOD072,VERY CHIC BODRUM,,2,2026-08-25T13:06:21.641303+00:00,0.85,FOUND_EXACT,DETAILS_COLLECTED,https://www.sikayetvar.com/very-chic-bodrum,True,3
+Akyarlar,4,4,0,4,BOD016,Xanadu Island,,2,2026-08-25T13:06:21.641326+00:00,0.7,FOUND_EXACT,DETAILS_COLLECTED,https://www.sikayetvar.com/xanadu-island,True,4
+Kadıkalesi,0,23,0,23,BOD115,Yasmin Bodrum Resort,,3,2026-08-25T13:06:21.641339+00:00,0.85,FOUND_EXACT,DETAILS_COLLECTED,https://www.sikayetvar.com/yasmin-bodrum-resort,True,23
+Gümbet,0,14,0,14,BOD068,Selectum Colours Bodrum,,2,2026-08-25T13:06:21.641356+00:00,0.535,REVIEW_REQUIRED,DETAILS_COLLECTED,https://www.sikayetvar.com/selectum-hotels/selectum-bodrum,True,14
+Akyarlar,0,4,0,4,BOD012,Selectum Collection Bodrum,,2,2026-08-25T13:06:21.641362+00:00,0.6426,REVIEW_REQUIRED,DETAILS_COLLECTED,https://www.sikayetvar.com/selectum-hotels/selectum-collection-bodrum,True,4

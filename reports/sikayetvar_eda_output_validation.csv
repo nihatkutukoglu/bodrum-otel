@@ -1,0 +1,9 @@
+check,passed,detail
+clean_complaint_hashes_unchanged,True,Notebook 12 clean files remain immutable
+hotel_aggregation_reconciles,True,Hotel counts sum to corpus
+area_aggregation_reconciles,True,Area counts sum to corpus
+response_count_reconciles,True,Response counts reconcile
+cross_platform_denominators_positive,True,No invalid denominator
+no_infinite_visibility_ratios,True,Ratios are finite
+all_18_figures_present,True,Expected chart inventory
+mandatory_outputs_present,True,All required/recommended reports exist

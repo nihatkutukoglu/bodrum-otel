@@ -1,0 +1,17 @@
+Bodrum Hotel & Destination Intelligence — Resmî Otel Özellikleri Temel Bulgular
+
+- Ana 192 otelin 52 tanesi (%27.1) yüksek güvenli resmî eşleşme ile analiz edildi.
+- Doğrulanmış yıldız 51 otelde; oda ve yatak sayısı 52/52 otelde mevcuttur.
+- En geniş doğrulanmış yıldız grubu 5 yıldızdır (n=21, pay %41.2).
+- Yıldız ile Google puanı arasındaki Spearman ilişki ρ=0.24 (p=0.092, n=51).
+- 5 yıldızlıların medyan fiyatı 4 yıldızlılara göre %40.7 farklıdır (fiyat n=19/15).
+- Resmî oda sayısı medyanı 82; IQR 44–166 odadır.
+- Oda sayısı ile Google puanı Spearman ρ=-0.17 (n=52).
+- Oda sayısı ile Google yorum hacmi Spearman ρ=0.86 (n=52).
+- Oda sayısı ile fiyat snapshot'ı Spearman ρ=0.13 (n=46).
+- Oda ve yatak kapasitesi Spearman ρ=0.98 (n=52); yatak sayısı büyük ölçüde aynı kapasite boyutunu temsil eder.
+- Oda başına yatak kapasitesi medyanı 2.03'dir; bu metrik oda tipi bilgisini doğrudan vermez.
+- En yüksek toplam eşleşen resmî oda kapasitesi Torba bölgesindedir (1,303 oda; n=9).
+- En yüksek verified 5 yıldız payı Turgutreis bölgesindedir (%100.0; adet=4, verified n=4).
+- Destinasyon düzeyinde toplam resmî oda kapasitesi ile ortalama rating Spearman ρ=-0.41 (n=12).
+- Yıldız grupları için Kruskal–Wallis p=0.137 ve epsilon-kare=0.054 bulunmuştur; küçük gruplar nedeniyle sonuç ihtiyatla okunmalıdır.

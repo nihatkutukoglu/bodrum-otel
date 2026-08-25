@@ -1,0 +1,91 @@
+rating_group,ngram_type,term,document_count,total_count
+LOW,unigram,odalar,18,21
+LOW,unigram,vardı,17,26
+LOW,unigram,güzel,17,24
+LOW,unigram,yemek,15,21
+LOW,unigram,oda,15,16
+LOW,unigram,denizi,14,18
+LOW,unigram,ilk,13,18
+LOW,unigram,küçük,13,14
+LOW,unigram,şekilde,12,16
+LOW,unigram,yemekler,12,16
+LOW,unigram,oldukça,10,19
+LOW,unigram,rağmen,10,16
+LOW,unigram,hizmet,10,15
+LOW,unigram,konusunda,10,14
+LOW,unigram,personel,10,14
+LOW,bigram,zorunda kaldık,6,7
+LOW,bigram,sivrisinek dolu,4,5
+LOW,bigram,yemek çeşitliliği,4,4
+LOW,bigram,hayal kırıklığı,4,4
+LOW,bigram,denizi güzel,4,4
+LOW,bigram,son derece,4,4
+LOW,bigram,google tarafından,4,4
+LOW,bigram,tarafından çevrildi,4,4
+LOW,bigram,ets tur,3,5
+LOW,bigram,ilk defa,3,4
+LOW,bigram,gitmiş biri,3,4
+LOW,bigram,hizmet kalitesi,3,3
+LOW,bigram,ızgara bölümünde,3,3
+LOW,bigram,hijyen açısından,3,3
+LOW,bigram,çocuklu aileler,3,3
+MIXED,unigram,güzel,15,18
+MIXED,unigram,deniz,12,19
+MIXED,unigram,yemek,10,19
+MIXED,unigram,iyi,10,19
+MIXED,unigram,oda,9,17
+MIXED,unigram,bar,9,16
+MIXED,unigram,konusunda,9,11
+MIXED,unigram,yemekler,9,10
+MIXED,unigram,odalar,8,8
+MIXED,unigram,tatil,7,13
+MIXED,unigram,temiz,7,10
+MIXED,unigram,denizi,7,10
+MIXED,unigram,giriş,7,7
+MIXED,unigram,konum,7,7
+MIXED,unigram,bile,6,11
+MIXED,bigram,yemek konusunda,4,4
+MIXED,bigram,kids club,4,4
+MIXED,bigram,oda temizliği,3,4
+MIXED,bigram,olmasına rağmen,3,4
+MIXED,bigram,yemek çeşitliliği,3,3
+MIXED,bigram,odalar temiz,3,3
+MIXED,bigram,güzel tatil,3,3
+MIXED,bigram,konusunda iyi,3,3
+MIXED,bigram,iyi tatiller,3,3
+MIXED,bigram,mini bar,3,3
+MIXED,bigram,herşey dahil,3,3
+MIXED,bigram,beş karış,2,4
+MIXED,bigram,yoğunluğu nedeniyle,2,3
+MIXED,bigram,odaklı tatil,2,3
+MIXED,bigram,snack bar,2,3
+HIGH,unigram,güzel,59,98
+HIGH,unigram,güler,54,73
+HIGH,unigram,yemekler,48,49
+HIGH,unigram,yüzlü,45,48
+HIGH,unigram,gerçekten,43,66
+HIGH,unigram,memnun,42,51
+HIGH,unigram,genel,38,65
+HIGH,unigram,tatil,37,58
+HIGH,unigram,iyi,36,50
+HIGH,unigram,animasyon,36,42
+HIGH,unigram,kaldık,34,36
+HIGH,unigram,deniz,33,40
+HIGH,unigram,bey,32,52
+HIGH,unigram,harika,32,37
+HIGH,unigram,keyifli,31,45
+HIGH,bigram,güler yüzlü,45,48
+HIGH,bigram,google tarafından,25,25
+HIGH,bigram,tarafından çevrildi,25,25
+HIGH,bigram,memnun kaldık,23,25
+HIGH,bigram,son derece,18,20
+HIGH,bigram,güler yüzü,12,15
+HIGH,bigram,animasyon ekibi,12,12
+HIGH,bigram,emeği geçen,11,11
+HIGH,bigram,misafir ilişkileri,11,11
+HIGH,bigram,tatil geçirdik,10,11
+HIGH,bigram,gönül rahatlığıyla,9,9
+HIGH,bigram,fiyat performans,8,9
+HIGH,bigram,snack bar,8,9
+HIGH,bigram,çocuklu aileler,8,8
+HIGH,bigram,yemekler lezzetli,8,8

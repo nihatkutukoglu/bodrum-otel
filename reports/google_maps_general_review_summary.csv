@@ -1,0 +1,37 @@
+metric,hotel_name,value
+review_n,Green Bay Resort & Spa Bodrum,134.0
+review_n,La Blanche Island Bodrum,21.0
+review_n,La Blanche Resort Bodrum,30.0
+review_n,Selectum Collection Bodrum,18.0
+review_n,Selectum Colours Bodrum,33.0
+mean_rating,Green Bay Resort & Spa Bodrum,3.38
+mean_rating,La Blanche Island Bodrum,4.33
+mean_rating,La Blanche Resort Bodrum,4.47
+mean_rating,Selectum Collection Bodrum,4.11
+mean_rating,Selectum Colours Bodrum,4.64
+low_share_pct,Green Bay Resort & Spa Bodrum,31.3
+low_share_pct,La Blanche Island Bodrum,4.8
+low_share_pct,La Blanche Resort Bodrum,10.0
+low_share_pct,Selectum Collection Bodrum,22.2
+low_share_pct,Selectum Colours Bodrum,6.1
+mixed_share_pct,Green Bay Resort & Spa Bodrum,16.4
+mixed_share_pct,La Blanche Island Bodrum,19.0
+mixed_share_pct,La Blanche Resort Bodrum,0.0
+mixed_share_pct,Selectum Collection Bodrum,0.0
+mixed_share_pct,Selectum Colours Bodrum,3.0
+high_share_pct,Green Bay Resort & Spa Bodrum,52.2
+high_share_pct,La Blanche Island Bodrum,76.2
+high_share_pct,La Blanche Resort Bodrum,90.0
+high_share_pct,Selectum Collection Bodrum,77.8
+high_share_pct,Selectum Colours Bodrum,90.9
+median_word_count,Green Bay Resort & Spa Bodrum,54.0
+median_word_count,La Blanche Island Bodrum,131.0
+median_word_count,La Blanche Resort Bodrum,113.0
+median_word_count,Selectum Collection Bodrum,106.0
+median_word_count,Selectum Colours Bodrum,82.0
+review_n,OVERALL,236.0
+mean_rating,OVERALL,3.83
+low_share_pct,OVERALL,22.0
+mixed_share_pct,OVERALL,11.4
+high_share_pct,OVERALL,66.5
+median_word_count,OVERALL,82.0

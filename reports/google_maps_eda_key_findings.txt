@@ -1,0 +1,14 @@
+GOOGLE MAPS REVIEWS — GENERAL REVIEWS & RATING GROUPS EDA — KEY FINDINGS
+Notebook: 16_google_maps_reviews_eda_rating_groups.ipynb
+
+1. Corpus: 236 reviews across 5 hotels (Top-5 most-reviewed-on-Google-Travel case study).
+2. Mean rating 3.83, median 5 — rating distribution is U-shaped (5-star and 1-star are the two largest single-star buckets).
+3. Rating groups: LOW=52 (22.0%), MIXED=27 (11.4%), HIGH=157 (66.5%).
+4. extreme_share (1-star + 5-star combined) = 70.3% of the corpus — a polarized rating pattern typical of public review platforms.
+5. Hotel-level HIGH share ranges from 52% (Green Bay Resort & Spa Bodrum) to 91% (Selectum Colours Bodrum) — hotels differ materially in rating-group mix.
+6. Two of five hotels (La Blanche Resort Bodrum, Selectum Collection Bodrum) recorded zero MIXED (3-star) reviews in this corpus.
+7. LOW reviews are longer than HIGH reviews: median 110 vs 69 words. Spearman correlation (rating vs. word count) r=-0.15, p=0.030 (significant, weak). Kruskal-Wallis across the 3 rating groups: p=0.124 (not significant at the group level — MIXED n is small).
+8. Date coverage spans 2025-08 to 2026-08 (approximate, relative-date derived); heavily concentrated in the most recent 2-3 months, consistent with a recency-biased platform sort rather than a historical census.
+9. Hotel x rating_group sample readiness: 8 of 15 cells are LOW_SAMPLE (n<10) — mostly LOW/MIXED cells for the three smaller hotels (La Blanche Island, La Blanche Resort, Selectum Collection, Selectum Colours). These cells should not receive hotel-level driver classification in notebook 17 (INSUFFICIENT_SAMPLE).
+10. Green Bay Resort & Spa Bodrum is the only hotel with HIGH_SAMPLE-tier LOW and MIXED cells simultaneously — the strongest single-hotel case study for rating-aware driver analysis.
+11. Corpus-wide, all three rating groups (LOW n=52, MIXED n=27, HIGH n=157) clear the >=10 minimum-support bar used for the overall (non-hotel-specific) driver analysis in notebook 17.

@@ -1,0 +1,15 @@
+Bodrum Hotel & Destination Intelligence — Tourism Demand Temel Bulgular
+
+- Muğla toplam arrivals 2009'daki 3,302,223 seviyesinden 2025'te 9,129,867 seviyesine çıktı; değişim %176.5.
+- 2025, 2009–2025 serisinin en yüksek toplam arrivals (9,129,867), foreign arrivals (4,682,848) ve overnight (24,669,490) yılıdır.
+- 2020'de 2019'a göre toplam arrivals %-48.9, foreign arrivals %-71.6, overnights %-55.2; doluluk -12.8 yüzde puan değişti.
+- 2025 toplam arrivals 2019'un %102.0 üzerinde; ortalama kalış 2.70 gece ile 2019'daki 3.21 geceden daha kısa.
+- Muğla 2025 peak toplam arrivals ayı Ağustos: 2,003,174.
+- Top 3 ay (Ağustos, Temmuz, Eylül) yıllık arrivals'ın %59.6'ini oluşturdu.
+- Foreign arrivals zirvesi Ağustos (942,171); foreign-share zirvesi ise Mayıs (%68.3).
+- Domestic ve foreign aylık sezon şekilleri Spearman ρ=0.93 ile güçlü birliktelik gösterdi (n=12).
+- En yüksek occupancy Ağustos ayında %75.8.
+- En yüksek yeniden hesaplanan ortalama kalış Haziran ayında 3.14 gece.
+- Ortak resmî konaklama istatistiği kapsamında Bodrum, Muğla 2025 toplam arrivals'ın %30.9'ini ve overnights'ın %30.7'ini oluşturdu.
+- Bodrum visitor mix'i domestic ağırlıklıdır (%57.5); Muğla genelinde foreign payı %51.3 ile daha yüksektir.
+- En kritik metodolojik sınırlılık, aylık serinin Muğla il düzeyinde olması ve Bodrum için yalnız yıllık 2025 değerinin bulunmasıdır.

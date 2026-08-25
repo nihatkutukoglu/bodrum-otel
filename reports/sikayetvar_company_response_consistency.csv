@@ -1,0 +1,5 @@
+check,issue_count,share_pct,status
+response_true_text_missing,0,0.0,PASS
+response_false_text_present,0,0.0,PASS
+progress_true_text_missing,0,0.0,PASS
+progress_false_text_present,0,0.0,PASS

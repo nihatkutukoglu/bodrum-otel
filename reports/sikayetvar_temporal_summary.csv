@@ -1,0 +1,17 @@
+granularity,period,complaint_count
+year,2023,3
+year,2024,45
+year,2025,92
+year,2026,86
+month_of_year,Jan,0
+month_of_year,Feb,0
+month_of_year,Mar,2
+month_of_year,Apr,3
+month_of_year,May,13
+month_of_year,Jun,38
+month_of_year,Jul,58
+month_of_year,Aug,71
+month_of_year,Sep,30
+month_of_year,Oct,9
+month_of_year,Nov,2
+month_of_year,Dec,0

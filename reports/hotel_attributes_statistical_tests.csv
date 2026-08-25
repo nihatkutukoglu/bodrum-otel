@@ -1,0 +1,10 @@
+﻿test,n,group_count,group_sizes,statistic,p_value,effect_size_epsilon_squared,status,method
+Kruskal-Wallis: star vs google_rating,51,4.0,"[3, 10, 17, 21]",5.5291467069143,0.13690567767494735,0.05381163206200639,COMPUTED,
+official_star_rating_verified vs google_rating,51,,,0.23823656824393277,0.0922770052569473,,COMPUTED,spearman
+room_count vs google_rating,52,,,-0.05615360440331262,0.6925490307102418,,COMPUTED,pearson
+room_count vs google_rating,52,,,-0.1652946693322812,0.24157546540639044,,COMPUTED,spearman
+room_count vs google_review_count,52,,,0.8586615529743022,3.9815206934685506e-16,,COMPUTED,spearman
+room_count vs price_snapshot,46,,,0.11491761052889368,0.44696530805571516,,COMPUTED,pearson
+room_count vs price_snapshot,46,,,0.12942228857727014,0.3913116366051147,,COMPUTED,spearman
+room_count vs bed_count,52,,,0.9747545444984962,3.1868353387420004e-34,,COMPUTED,pearson
+room_count vs bed_count,52,,,0.9841581621760108,3.1009478945467735e-39,,COMPUTED,spearman

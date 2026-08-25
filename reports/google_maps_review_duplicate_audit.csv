@@ -1,0 +1,2 @@
+method,duplicate_type,duplicate_key,row_index,review_id,hotel_name,review_id_a,review_id_b,similarity,action
+NEAR,,,,,Selectum Collection Bodrum,gm_6e997bb63090d3e7,gm_34b3ea72271326e0,0.95,REVIEW_ONLY

@@ -1,0 +1,9 @@
+metric,value
+total_clean_rows,236.0
+text_documents,229.0
+complaints_with_at_least_one_aspect,229.0
+no_aspect_count,7.0
+aspect_coverage_pct_all_clean_rows,97.03389830508475
+aspect_coverage_pct_text_documents,100.0
+mean_aspects_per_complaint,5.796610169491525
+median_aspects_per_complaint,6.0

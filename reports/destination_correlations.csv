@@ -1,0 +1,6 @@
+﻿metric_x,metric_y,n,spearman_rho,p_value,interpretation_note
+price_index,avg_weighted_google_rating,14,0.23956043956043957,0.4094298928517326,Exploratory; small destination n and coverage differences limit inference.
+price_index,verified_five_star_share,12,-0.06039848153856435,0.8520837075160527,Exploratory; small destination n and coverage differences limit inference.
+total_official_rooms,reviews_per_sample_hotel,12,0.4895104895104896,0.106252371759346,Exploratory; small destination n and coverage differences limit inference.
+total_official_rooms,avg_weighted_google_rating,12,-0.2517482517482518,0.42991878503288405,Exploratory; small destination n and coverage differences limit inference.
+verified_five_star_share,price_index,12,-0.06039848153856435,0.8520837075160527,Exploratory; small destination n and coverage differences limit inference.

@@ -1,0 +1,18 @@
+- Clean NLP corpus keeps 236 rows; 229 have non-empty complaint_text_clean across 32 hotels and 11 represented areas.
+- Standard preprocessing yields 28690 tokens and 8259 unique surface tokens; median document length is 112 tokens.
+- Top domain-filtered unigrams: hiçbir, oda, rezervasyon, odada, yok, giriş, saat, aynı, derece, hizmet.
+- Top supported bigrams: hayal kırıklığı, iade edilmesini, ücret iadesi, ultra dahil, geri dönüş, giriş yaptık, hayal kırıklığına, çözüm sunulmadı, kabul edilemez, tarafıma iade.
+- Final explainable taxonomy contains 18 multi-label aspects; no overall sentiment model was run.
+- At least one aspect is detected in 229/236 clean rows (97.0%); no-aspect n=7.
+- Mean/median aspects per clean complaint are 5.80/6; totals exceed document n because detection is multi-label.
+- Top aspect mention rates: STAFF_SERVICE %67.4; ROOM %60.2; MANAGEMENT_COMMUNICATION %59.3; PAYMENT_REFUND %52.1; FOOD_BEVERAGE %51.7; PRICE_VALUE %47.9; CLEANLINESS_HYGIENE %44.9; RESERVATION %39.8; FACILITIES_MAINTENANCE %39.0; BEACH_SEA %29.7.
+- Strongest supported co-occurrences: STAFF_SERVICE×ROOM n=108; STAFF_SERVICE×FOOD_BEVERAGE n=107; STAFF_SERVICE×MANAGEMENT_COMMUNICATION n=94; FOOD_BEVERAGE×ROOM n=92; PAYMENT_REFUND×MANAGEMENT_COMMUNICATION n=89.
+- Major-aspect company response shares: NOISE %23.1 (n=13); BEACH_SEA %21.4 (n=70); SAFETY_SECURITY %21.2 (n=52); PRICE_VALUE %20.4 (n=113); RESERVATION %20.2 (n=94); response is not resolution.
+- Response-time analysis includes 14 aspects with response-date n>=3; approximate dates limit precision.
+- Hotel aspect heatmap includes 17 HIGH/MEDIUM-sample hotels; LOW_SAMPLE hotels remain in CSV with caution flags.
+- Area heatmap includes 8 areas with n>=10; mapping coverage is unequal.
+- TF-IDF distinctive terms are produced for 17 hotels and 8 areas, as relative corpus markers rather than definitive problems.
+- Google-rating × aspect correlations are exploratory across 17 eligible hotels and are not multiple-comparison adjusted.
+- Official room coverage is 10/32 complaint hotels, so size/star aspect context is descriptive only.
+- Topic status is TOPIC_MODEL_NOT_RELIABLE: independent human labels and multi-seed stability evidence are not yet available.
+- Segmentation-ready features include aspect mention rates, response behavior, text/view medians, sample reliability, Google context and explicit coverage indicators.

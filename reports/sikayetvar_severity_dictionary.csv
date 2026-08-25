@@ -1,0 +1,50 @@
+severity_tier,keyword,keyword_type,document_count
+HIGH,hakaret,UNIGRAM,5
+HIGH,küfür,UNIGRAM,5
+HIGH,zehirlenme,UNIGRAM,4
+HIGH,ambulans,UNIGRAM,4
+HIGH,tehdit,UNIGRAM,4
+HIGH,yasal,UNIGRAM,3
+HIGH,çalındı,UNIGRAM,3
+HIGH,tazminat,UNIGRAM,3
+HIGH,avukat,UNIGRAM,2
+HIGH,felaket,UNIGRAM,2
+HIGH,tehlike,UNIGRAM,2
+HIGH,mahkeme,UNIGRAM,1
+HIGH,tüketici hakem heyeti,PHRASE,1
+HIGH,tüketici mahkemesi,PHRASE,1
+HIGH,rezillik,UNIGRAM,1
+HIGH,rezalet,UNIGRAM,1
+HIGH,hastalandık,UNIGRAM,1
+HIGH,can güvenliği,PHRASE,1
+HIGH,taciz,UNIGRAM,1
+HIGH,saldırı,UNIGRAM,1
+HIGH,dava,UNIGRAM,0
+HIGH,basına,UNIGRAM,0
+HIGH,sosyal medyada,PHRASE,0
+HIGH,ifşa,UNIGRAM,0
+HIGH,teşhir,UNIGRAM,0
+HIGH,skandal,UNIGRAM,0
+HIGH,iğrenç,UNIGRAM,0
+HIGH,berbat,UNIGRAM,0
+HIGH,dehşet,UNIGRAM,0
+HIGH,hastalandım,UNIGRAM,0
+HIGH,dolandırıcılık,UNIGRAM,0
+HIGH,hırsızlık,UNIGRAM,0
+HIGH,gasp,UNIGRAM,0
+MEDIUM,mağdur,UNIGRAM,77
+MEDIUM,yetersiz,UNIGRAM,36
+MEDIUM,hayal kırıklığı,PHRASE,26
+MEDIUM,asla,UNIGRAM,25
+MEDIUM,kabul edilemez,PHRASE,15
+MEDIUM,pişman,UNIGRAM,13
+MEDIUM,yazık,UNIGRAM,11
+MEDIUM,memnun kalmadık,PHRASE,5
+MEDIUM,memnun kalmadım,PHRASE,5
+MEDIUM,üzücü,UNIGRAM,5
+MEDIUM,tavsiye etmiyorum,PHRASE,2
+MEDIUM,bir daha gelmem,PHRASE,1
+MEDIUM,beklentimizin altında,PHRASE,0
+MEDIUM,beklentimin altında,PHRASE,0
+MEDIUM,bir daha gelmeyiz,PHRASE,0
+MEDIUM,tavsiye etmem,PHRASE,0

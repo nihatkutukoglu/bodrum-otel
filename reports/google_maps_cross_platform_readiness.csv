@@ -1,0 +1,6 @@
+hotel_id,hotel_name,google_maps_review_n,has_low_sample,has_high_sample,aspect_analysis_ready,shared_aspect_count,cross_platform_ready
+BOD103,Green Bay Resort & Spa Bodrum,134,True,True,True,18,True
+BOD106,La Blanche Island Bodrum,21,False,True,True,18,False
+BOD160,La Blanche Resort Bodrum,30,False,True,True,18,False
+BOD012,Selectum Collection Bodrum,18,False,True,True,18,False
+BOD068,Selectum Colours Bodrum,33,False,True,True,18,False

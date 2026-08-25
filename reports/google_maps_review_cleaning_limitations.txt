@@ -1,0 +1,9 @@
+GOOGLE MAPS REVIEWS — AUDIT & CLEANING — LIMITATIONS
+
+- This corpus is a Top-5 most-reviewed-on-Google-Travel case study (5 hotels, 236 reviews); it is not representative of Bodrum hotels generally and must not be presented as such.
+- "Google Maps" is a simplification: Google Travel's aggregated hotel review panel also surfaces Tripadvisor and Trip.com reviews (see review_source). This corpus is not Google-only.
+- All review dates are approximate, derived from a relative "N <unit> önce" string anchored at collection time (collected_at), not an absolute posting date. Month/week-level date_raw units carry wider uncertainty than day/hour-level ones.
+- COMPLETED_STABLE_END scraping semantics (per the collector's own README) mean unique-review completeness relative to Google's summary count is not guaranteed.
+- 13 reviews (5.5%) have no real review text; their raw review_text field happens to contain the reviewer's real name, which is preserved untouched in the raw column only for audit/raw-immutability purposes and is nulled out of review_text_clean everywhere else. Any future notebook must use review_text_clean, not review_text, for anything user-facing or NLP-facing.
+- Duplicate detection is text-similarity based (exact + near-duplicate on normalized text); it cannot detect duplicates that were rendered with substantively different wording.
+- Hotel-level comparisons must use rates/shares, not raw counts — hotel sample sizes range from 18 to 134 reviews.

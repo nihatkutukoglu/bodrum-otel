@@ -1,0 +1,15 @@
+﻿area,project_hotel_count,hotels_with_text_reviews,hotels_general_nlp_ready,hotels_full_driver_ready,text_review_n,low_n,mixed_n,high_n,aspect_STAFF_SERVICE_rate_pct,aspect_CLEANLINESS_HYGIENE_rate_pct,aspect_FOOD_BEVERAGE_rate_pct,aspect_ROOM_rate_pct,aspect_BEACH_SEA_rate_pct,aspect_POOL_rate_pct,aspect_FACILITIES_MAINTENANCE_rate_pct,aspect_RESERVATION_rate_pct,aspect_PAYMENT_REFUND_rate_pct,aspect_PRICE_VALUE_rate_pct,aspect_CHECKIN_CHECKOUT_rate_pct,aspect_AIR_CONDITIONING_rate_pct,aspect_NOISE_rate_pct,aspect_FAMILY_CHILDREN_rate_pct,aspect_TRANSPORT_TRANSFER_rate_pct,aspect_MANAGEMENT_COMMUNICATION_rate_pct,aspect_SPA_WELLNESS_rate_pct,aspect_SAFETY_SECURITY_rate_pct
+Akyarlar,16,1,0,0,10,2,0,8,70.0,70.0,90.0,60.0,50.0,50.0,20.0,20.0,0.0,30.0,20.0,0.0,30.0,50.0,10.0,30.0,0.0,0.0
+Bitez,18,0,0,0,0,0,0,0,,,,,,,,,,,,,,,,,,
+Bodrum Merkez,13,0,0,0,0,0,0,0,,,,,,,,,,,,,,,,,,
+Göltürkbükü,10,0,0,0,0,0,0,0,,,,,,,,,,,,,,,,,,
+Gümbet,15,1,0,0,10,2,1,7,100.0,80.0,100.0,90.0,80.0,80.0,60.0,10.0,10.0,30.0,50.0,0.0,20.0,20.0,0.0,10.0,10.0,0.0
+Gümüşlük,15,0,0,0,0,0,0,0,,,,,,,,,,,,,,,,,,
+Gündoğan,14,0,0,0,0,0,0,0,,,,,,,,,,,,,,,,,,
+Güvercinlik,10,2,0,0,20,6,4,10,75.0,70.0,80.0,85.0,75.0,30.0,55.0,15.0,5.0,30.0,30.0,0.0,20.0,25.0,5.0,0.0,10.0,5.0
+Kadıkalesi,4,0,0,0,0,0,0,0,,,,,,,,,,,,,,,,,,
+Ortakent-Yahşi,21,0,0,0,0,0,0,0,,,,,,,,,,,,,,,,,,
+Torba,21,0,0,0,0,0,0,0,,,,,,,,,,,,,,,,,,
+Turgutreis,7,1,0,0,10,2,0,8,90.0,80.0,80.0,80.0,50.0,50.0,20.0,10.0,0.0,10.0,30.0,10.0,0.0,50.0,10.0,30.0,0.0,20.0
+Türkbükü,6,0,0,0,0,0,0,0,,,,,,,,,,,,,,,,,,
+Yalıkavak,22,0,0,0,0,0,0,0,,,,,,,,,,,,,,,,,,

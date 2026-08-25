@@ -1,0 +1,4 @@
+﻿hotel_size_group,n,min_room_count,median_room_count,max_room_count,avg_google_rating,median_google_rating,median_review_count,median_price
+Small,18,12.0,34.0,50.0,4.416666666666667,4.5,342.0,138.5
+Medium,16,60.0,81.5,110.0,4.46875,4.4,945.5,260.5
+Large,18,116.0,190.0,540.0,4.266666666666667,4.3,2507.5,226.5

@@ -1,0 +1,23 @@
+GOOGLE MAPS ALL-HOTELS COLLECTION SUMMARY
+
+project_hotel_count: 192
+hotels_attempted: 10
+hotels_exact_high_confidence_mapped: 10
+hotels_with_reviews: 5
+hotels_with_text_reviews: 5
+total_reviews_collected: 50
+total_text_reviews: 50
+median_reviews_per_hotel: 10.0
+hotels_reaching_75: 0
+low_n: 12
+mixed_n: 5
+high_n: 33
+hotels_blocked: 0
+hotels_not_found: 0
+hotels_review_required: 0
+duplicate_count: 0
+collection_success_rate_pct: 50.0
+areas_with_text_reviews: 4
+project_area_count: 14
+hotels_low_sample: 5
+full_collection_safe_to_continue: NO

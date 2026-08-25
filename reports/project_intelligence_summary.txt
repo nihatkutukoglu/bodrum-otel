@@ -1,0 +1,35 @@
+Bodrum Hotel & Destination Intelligence — Project Intelligence Summary
+
+PROJECT PURPOSE
+Bodrum konaklama pazarını hotel snapshot, güvenilir resmî tesis özellikleri, destination intelligence,
+resmî turizm talebi ve airport seasonal co-movement katmanlarında açıklamak.
+
+DATA SCOPE
+- Hotels: 192 tesis, 14 destinasyon, snapshot 2026-08-24.
+- Official attributes: 52 yüksek güvenli eşleşme / 192 proje oteli.
+- Tourism: Muğla annual 2009–2025, Muğla monthly 2025, Bodrum annual 2025.
+- Airport: Milas-Bodrum monthly passengers, 2025.
+
+TOP 10 FINDINGS
+1. Hotel snapshot 192 benzersiz otel ve 14 destinasyon içeriyor. Kanıt: 192 / 14. Güven: HIGH.
+2. Fiyat snapshot coverage yüksek fakat tek tarihlidir. Kanıt: 168/192 (87.5%). Güven: MEDIUM.
+3. Resmî özellikler yalnız yüksek güvenli eşleşmelerde kullanıldı. Kanıt: 52/192 (27.1%). Güven: HIGH.
+4. Resmî yıldız ile Google rating ilişkisi zayıf. Kanıt: rho=0.238, n=51. Güven: MEDIUM.
+5. Ağırlıklı memnuniyet sinyali en yüksek alan Gündoğan. Kanıt: 4.417. Güven: MEDIUM.
+6. Muğla toplam geliş 2009–2025 arasında güçlü arttı. Kanıt: 176.5%. Güven: HIGH.
+7. İlk üç ay 2025 gelişlerinin çoğunu topladı. Kanıt: 59.6%. Güven: HIGH.
+8. Bodrum, Muğla 2025 gelişlerinin yaklaşık üçte birini oluşturdu. Kanıt: 30.9%. Güven: HIGH.
+9. Milas-Bodrum Airport 2025 toplam yolcu sayısı doğrulandı. Kanıt: 4412884. Güven: HIGH.
+10. Airport total ve Muğla arrivals aynı aylarda çok güçlü hareket etti. Kanıt: rho=0.986, n=12. Güven: MEDIUM.
+
+TOP LIMITATIONS
+- Hotel örneklemi tam census olmayabilir; Google platform etkisi vardır.
+- Fiyat yalnız tek snapshot'tır.
+- Resmî eşleşme coverage eksiktir; 10/14 area düşük coverage taşır.
+- Muğla monthly tourism Bodrum monthly tourism değildir.
+- Airport passengers tourist arrivals değildir; correlation causation değildir.
+- Katmanlar farklı zaman ve grain'lerde ölçülmüştür.
+
+NEXT ANALYTICAL LAYERS
+Şikayetvar discovery/scraping → complaint audit/cleaning → complaint EDA → NLP/aspect analysis →
+hotel segmentation → anomaly/opportunity analysis → recommendation system → final dashboard.

@@ -1,0 +1,193 @@
+﻿hotel_id,hotel_name,area,sample_review_n,sample_text_review_n,low_n,high_n,sample_reliability,top_overall_aspect_1,top_overall_aspect_2,top_overall_aspect_3,top_positive_driver_1,top_positive_driver_2,top_negative_driver_1,top_negative_driver_2,profile_note
+BOD068,Selectum Colours Bodrum,Gümbet,10,10,2,7,LOW,STAFF_SERVICE,FOOD_BEVERAGE,ROOM,,,,,Düşük puanlı yorum sayısı karşılaştırma için yetersiz.
+BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,10,10,5,4,LOW,FOOD_BEVERAGE,ROOM,CLEANLINESS_HYGIENE,,,,,Düşük puanlı yorum sayısı karşılaştırma için yetersiz.
+BOD106,La Blanche Island Bodrum,Güvercinlik,10,10,1,6,LOW,ROOM,STAFF_SERVICE,FOOD_BEVERAGE,,,,,Düşük puanlı yorum sayısı karşılaştırma için yetersiz.
+BOD012,Selectum Collection Bodrum,Akyarlar,10,10,2,8,LOW,FOOD_BEVERAGE,STAFF_SERVICE,CLEANLINESS_HYGIENE,,,,,Düşük puanlı yorum sayısı karşılaştırma için yetersiz.
+BOD160,La Blanche Resort Bodrum,Turgutreis,10,10,2,8,LOW,STAFF_SERVICE,ROOM,FOOD_BEVERAGE,,,,,Düşük puanlı yorum sayısı karşılaştırma için yetersiz.
+BOD115,Yasmin Bodrum Resort,Kadıkalesi,0,0,0,0,NO_DATA,,,,,,,,Bu otel için Google review metin örneklemi mevcut değil.
+BOD141,DUJA BODRUM,Torba,0,0,0,0,NO_DATA,,,,,,,,Bu otel için Google review metin örneklemi mevcut değil.
+BOD148,Rixos Premium Bodrum,Torba,0,0,0,0,NO_DATA,,,,,,,,Bu otel için Google review metin örneklemi mevcut değil.
+BOD110,Titanic Luxury Collection Bodrum,Güvercinlik,0,0,0,0,NO_DATA,,,,,,,,Bu otel için Google review metin örneklemi mevcut değil.
+BOD007,Kefaluka Resort,Akyarlar,0,0,0,0,NO_DATA,,,,,,,,Bu otel için Google review metin örneklemi mevcut değil.
+BOD066,Royal Asarlik Beach Hotel & Spa,Gümbet,0,0,0,0,NO_DATA,,,,,,,,Bu otel için Google review metin örneklemi mevcut değil.
+BOD114,Sianji Well-Being Resort Thermal & Spa,Kadıkalesi,0,0,0,0,NO_DATA,,,,,,,,Bu otel için Google review metin örneklemi mevcut değil.
+BOD011,"Radisson Collection Hotel, Bodrum",Akyarlar,0,0,0,0,NO_DATA,,,,,,,,Bu otel için Google review metin örneklemi mevcut değil.
+BOD002,Armonia Holiday Village & Spa,Akyarlar,0,0,0,0,NO_DATA,,,,,,,,Bu otel için Google review metin örneklemi mevcut değil.
+BOD108,Lujo Hotel Bodrum,Güvercinlik,0,0,0,0,NO_DATA,,,,,,,,Bu otel için Google review metin örneklemi mevcut değil.
+BOD040,Diamond of Bodrum Hotel,Bodrum Merkez,0,0,0,0,NO_DATA,,,,,,,,Bu otel için Google review metin örneklemi mevcut değil.
+BOD161,MyElla Hotel Resort & Spa,Turgutreis,0,0,0,0,NO_DATA,,,,,,,,Bu otel için Google review metin örneklemi mevcut değil.
+BOD156,Voyage Torba,Torba,0,0,0,0,NO_DATA,,,,,,,,Bu otel için Google review metin örneklemi mevcut değil.
+BOD056,"Mandarin Oriental, Bodrum",Göltürkbükü,0,0,0,0,NO_DATA,,,,,,,,Bu otel için Google review metin örneklemi mevcut değil.
+BOD140,DoubleTree by Hilton Bodrum Işıl Club All-Inclusive Resort,Torba,0,0,0,0,NO_DATA,,,,,,,,Bu otel için Google review metin örneklemi mevcut değil.
+BOD130,Petunya Beach Resort,Ortakent-Yahşi,0,0,0,0,NO_DATA,,,,,,,,Bu otel için Google review metin örneklemi mevcut değil.
+BOD045,Salmakis Resort & Spa,Bodrum Merkez,0,0,0,0,NO_DATA,,,,,,,,Bu otel için Google review metin örneklemi mevcut değil.
+BOD019,Bitez Garden Life Hotel&Suites,Bitez,0,0,0,0,NO_DATA,,,,,,,,Bu otel için Google review metin örneklemi mevcut değil.
+BOD150,Samara Hotel,Torba,0,0,0,0,NO_DATA,,,,,,,,Bu otel için Google review metin örneklemi mevcut değil.
+BOD004,Bendis Beach Hotel,Akyarlar,0,0,0,0,NO_DATA,,,,,,,,Bu otel için Google review metin örneklemi mevcut değil.
+BOD177,Delta Hotels By Marriott Bodrum,Yalıkavak,0,0,0,0,NO_DATA,,,,,,,,Bu otel için Google review metin örneklemi mevcut değil.
+BOD063,Jasmin Beach Hotel,Gümbet,0,0,0,0,NO_DATA,,,,,,,,Bu otel için Google review metin örneklemi mevcut değil.
+BOD113,Kadıkale Resort,Kadıkalesi,0,0,0,0,NO_DATA,,,,,,,,Bu otel için Google review metin örneklemi mevcut değil.
+BOD067,Sami Beach Hotel,Gümbet,0,0,0,0,NO_DATA,,,,,,,,Bu otel için Google review metin örneklemi mevcut değil.
+BOD016,Xanadu Island,Akyarlar,0,0,0,0,NO_DATA,,,,,,,,Bu otel için Google review metin örneklemi mevcut değil.
+BOD088,Baia Bodrum Hotel,Gündoğan,0,0,0,0,NO_DATA,,,,,,,,Bu otel için Google review metin örneklemi mevcut değil.
+BOD035,Azka Otel - Bardakçı Koyu,Bodrum Merkez,0,0,0,0,NO_DATA,,,,,,,,Bu otel için Google review metin örneklemi mevcut değil.
+BOD065,Mirada Exclusive Bodrum,Gümbet,0,0,0,0,NO_DATA,,,,,,,,Bu otel için Google review metin örneklemi mevcut değil.
+BOD037,Bodrum Bay Resort,Bodrum Merkez,0,0,0,0,NO_DATA,,,,,,,,Bu otel için Google review metin örneklemi mevcut değil.
+BOD041,La Quinta by Wyndham Bodrum,Bodrum Merkez,0,0,0,0,NO_DATA,,,,,,,,Bu otel için Google review metin örneklemi mevcut değil.
+BOD158,Arin Resort Bodrum,Turgutreis,0,0,0,0,NO_DATA,,,,,,,,Bu otel için Google review metin örneklemi mevcut değil.
+BOD058,Bodrum Beach Resort,Gümbet,0,0,0,0,NO_DATA,,,,,,,,Bu otel için Google review metin örneklemi mevcut değil.
+BOD072,VERY CHIC BODRUM,Gümbet,0,0,0,0,NO_DATA,,,,,,,,Bu otel için Google review metin örneklemi mevcut değil.
+BOD013,"Sentido Bellazure - Akyarlar, Bodrum / Turkey",Akyarlar,0,0,0,0,NO_DATA,,,,,,,,Bu otel için Google review metin örneklemi mevcut değil.
+BOD042,Mandarin Resort Hotel,Bodrum Merkez,0,0,0,0,NO_DATA,,,,,,,,Bu otel için Google review metin örneklemi mevcut değil.
+BOD164,Swissôtel Resort Bodrum Sahili,Turgutreis,0,0,0,0,NO_DATA,,,,,,,,Bu otel için Google review metin örneklemi mevcut değil.
+BOD043,METT Hotel & Beach Resort Bodrum,Bodrum Merkez,0,0,0,0,NO_DATA,,,,,,,,Bu otel için Google review metin örneklemi mevcut değil.
+BOD125,Kefi Beach Bodrum,Ortakent-Yahşi,0,0,0,0,NO_DATA,,,,,,,,Bu otel için Google review metin örneklemi mevcut değil.
+BOD061,Gümbet Anıl Beach,Gümbet,0,0,0,0,NO_DATA,,,,,,,,Bu otel için Google review metin örneklemi mevcut değil.
+BOD006,Club Marma Hotel,Akyarlar,0,0,0,0,NO_DATA,,,,,,,,Bu otel için Google review metin örneklemi mevcut değil.
+BOD089,Cape Bodrum Luxury Hotel & Beach,Gündoğan,0,0,0,0,NO_DATA,,,,,,,,Bu otel için Google review metin örneklemi mevcut değil.
+BOD163,Sundance Resort,Turgutreis,0,0,0,0,NO_DATA,,,,,,,,Bu otel için Google review metin örneklemi mevcut değil.
+BOD017,Ambrosia Otel Beach & Spa,Bitez,0,0,0,0,NO_DATA,,,,,,,,Bu otel için Google review metin örneklemi mevcut değil.
+BOD104,Greenport Bodrum,Güvercinlik,0,0,0,0,NO_DATA,,,,,,,,Bu otel için Google review metin örneklemi mevcut değil.
+BOD169,MACAKIZI BODRUM,Türkbükü,0,0,0,0,NO_DATA,,,,,,,,Bu otel için Google review metin örneklemi mevcut değil.
+BOD070,The Luvi Hotel,Gümbet,0,0,0,0,NO_DATA,,,,,,,,Bu otel için Google review metin örneklemi mevcut değil.
+BOD032,Paloma Family Club Bitez,Bitez,0,0,0,0,NO_DATA,,,,,,,,Bu otel için Google review metin örneklemi mevcut değil.
+BOD060,Club Shark Hotel,Gümbet,0,0,0,0,NO_DATA,,,,,,,,Bu otel için Google review metin örneklemi mevcut değil.
+BOD036,Bodrium Hotel & SPA,Bodrum Merkez,0,0,0,0,NO_DATA,,,,,,,,Bu otel için Google review metin örneklemi mevcut değil.
+BOD046,Senses Hotel,Bodrum Merkez,0,0,0,0,NO_DATA,,,,,,,,Bu otel için Google review metin örneklemi mevcut değil.
+BOD189,The Bodrum EDITION,Yalıkavak,0,0,0,0,NO_DATA,,,,,,,,Bu otel için Google review metin örneklemi mevcut değil.
+BOD047,The Marmara Bodrum,Bodrum Merkez,0,0,0,0,NO_DATA,,,,,,,,Bu otel için Google review metin örneklemi mevcut değil.
+BOD168,Kuum Hotel & SPA Bodrum,Türkbükü,0,0,0,0,NO_DATA,,,,,,,,Bu otel için Google review metin örneklemi mevcut değil.
+BOD030,Natur Garden Hotel Bitez Bodrum,Bitez,0,0,0,0,NO_DATA,,,,,,,,Bu otel için Google review metin örneklemi mevcut değil.
+BOD020,Bitez Risa Hotel,Bitez,0,0,0,0,NO_DATA,,,,,,,,Bu otel için Google review metin örneklemi mevcut değil.
+BOD021,"Caresse, a Luxury Collection Resort & Spa, Bodrum",Bitez,0,0,0,0,NO_DATA,,,,,,,,Bu otel için Google review metin örneklemi mevcut değil.
+BOD152,"Susona Bodrum, LXR Hotels & Resorts",Torba,0,0,0,0,NO_DATA,,,,,,,,Bu otel için Google review metin örneklemi mevcut değil.
+BOD026,Manuela Otel Bitez,Bitez,0,0,0,0,NO_DATA,,,,,,,,Bu otel için Google review metin örneklemi mevcut değil.
+BOD033,Ramada Resort by Wyndham Bodrum,Bitez,0,0,0,0,NO_DATA,,,,,,,,Bu otel için Google review metin örneklemi mevcut değil.
+BOD107,Le Méridien Bodrum Beach Resort,Güvercinlik,0,0,0,0,NO_DATA,,,,,,,,Bu otel için Google review metin örneklemi mevcut değil.
+BOD109,Oscar Seaside Hotel & Spa,Güvercinlik,0,0,0,0,NO_DATA,,,,,,,,Bu otel için Google review metin örneklemi mevcut değil.
+BOD023,Doria Hotel Bodrum,Bitez,0,0,0,0,NO_DATA,,,,,,,,Bu otel için Google review metin örneklemi mevcut değil.
+BOD052,Flamm Bodrum,Göltürkbükü,0,0,0,0,NO_DATA,,,,,,,,Bu otel için Google review metin örneklemi mevcut değil.
+BOD166,Divan Bodrum,Türkbükü,0,0,0,0,NO_DATA,,,,,,,,Bu otel için Google review metin örneklemi mevcut değil.
+BOD132,Viras Hotel & Beach,Ortakent-Yahşi,0,0,0,0,NO_DATA,,,,,,,,Bu otel için Google review metin örneklemi mevcut değil.
+BOD014,Suum Bodrum Hotel & Beach,Akyarlar,0,0,0,0,NO_DATA,,,,,,,,Bu otel için Google review metin örneklemi mevcut değil.
+BOD128,Lugga Boutique Hotel & Beach,Ortakent-Yahşi,0,0,0,0,NO_DATA,,,,,,,,Bu otel için Google review metin örneklemi mevcut değil.
+BOD090,Costa Farilya Special Class Hotel Bodrum,Gündoğan,0,0,0,0,NO_DATA,,,,,,,,Bu otel için Google review metin örneklemi mevcut değil.
+BOD186,Sirene Luxury Hotel Bodrum,Yalıkavak,0,0,0,0,NO_DATA,,,,,,,,Bu otel için Google review metin örneklemi mevcut değil.
+BOD180,MGallery The Bodrum Hotel Yalıkavak,Yalıkavak,0,0,0,0,NO_DATA,,,,,,,,Bu otel için Google review metin örneklemi mevcut değil.
+BOD151,Sarpedor Boutique Hotel & SPA,Torba,0,0,0,0,NO_DATA,,,,,,,,Bu otel için Google review metin örneklemi mevcut değil.
+BOD192,Yalıpark Beach Hotel,Yalıkavak,0,0,0,0,NO_DATA,,,,,,,,Bu otel için Google review metin örneklemi mevcut değil.
+BOD131,Regia Mare Beach Hotel Bodrum,Ortakent-Yahşi,0,0,0,0,NO_DATA,,,,,,,,Bu otel için Google review metin örneklemi mevcut değil.
+BOD162,Rammos Managed by Dedeman,Turgutreis,0,0,0,0,NO_DATA,,,,,,,,Bu otel için Google review metin örneklemi mevcut değil.
+BOD087,Wanderheaven Camping & Tiny House Bodrum,Gümüşlük,0,0,0,0,NO_DATA,,,,,,,,Bu otel için Google review metin örneklemi mevcut değil.
+BOD095,Mivara Luxury Bodrum,Gündoğan,0,0,0,0,NO_DATA,,,,,,,,Bu otel için Google review metin örneklemi mevcut değil.
+BOD153,The Oba Hotel,Torba,0,0,0,0,NO_DATA,,,,,,,,Bu otel için Google review metin örneklemi mevcut değil.
+BOD064,Jasmin Elite Residence & Spa,Gümbet,0,0,0,0,NO_DATA,,,,,,,,Bu otel için Google review metin örneklemi mevcut değil.
+BOD050,Daphnis Hotel Gölköy,Göltürkbükü,0,0,0,0,NO_DATA,,,,,,,,Bu otel için Google review metin örneklemi mevcut değil.
+BOD057,Selvi Bodrum,Göltürkbükü,0,0,0,0,NO_DATA,,,,,,,,Bu otel için Google review metin örneklemi mevcut değil.
+BOD112,Azure By Yelken Hotel,Kadıkalesi,0,0,0,0,NO_DATA,,,,,,,,Bu otel için Google review metin örneklemi mevcut değil.
+BOD157,Voyage Torba Private,Torba,0,0,0,0,NO_DATA,,,,,,,,Bu otel için Google review metin örneklemi mevcut değil.
+BOD009,LİV OTEL,Akyarlar,0,0,0,0,NO_DATA,,,,,,,,Bu otel için Google review metin örneklemi mevcut değil.
+BOD173,Allium Bodrum Resort & Spa,Yalıkavak,0,0,0,0,NO_DATA,,,,,,,,Bu otel için Google review metin örneklemi mevcut değil.
+BOD069,Siesta Beach Apart,Gümbet,0,0,0,0,NO_DATA,,,,,,,,Bu otel için Google review metin örneklemi mevcut değil.
+BOD142,Hotel Torbahan,Torba,0,0,0,0,NO_DATA,,,,,,,,Bu otel için Google review metin örneklemi mevcut değil.
+BOD127,Kriss Hotel,Ortakent-Yahşi,0,0,0,0,NO_DATA,,,,,,,,Bu otel için Google review metin örneklemi mevcut değil.
+BOD075,Benjamin Otel,Gümüşlük,0,0,0,0,NO_DATA,,,,,,,,Bu otel için Google review metin örneklemi mevcut değil.
+BOD086,Vega Aparts,Gümüşlük,0,0,0,0,NO_DATA,,,,,,,,Bu otel için Google review metin örneklemi mevcut değil.
+BOD031,Okaliptus Otel,Bitez,0,0,0,0,NO_DATA,,,,,,,,Bu otel için Google review metin örneklemi mevcut değil.
+BOD136,Zest Exclusive Hotel and Spa,Ortakent-Yahşi,0,0,0,0,NO_DATA,,,,,,,,Bu otel için Google review metin örneklemi mevcut değil.
+BOD059,Bodrum Hotel Baba,Gümbet,0,0,0,0,NO_DATA,,,,,,,,Bu otel için Google review metin örneklemi mevcut değil.
+BOD183,Ruins Luxury Resort,Yalıkavak,0,0,0,0,NO_DATA,,,,,,,,Bu otel için Google review metin örneklemi mevcut değil.
+BOD126,Khai Hotel Bodrum,Ortakent-Yahşi,0,0,0,0,NO_DATA,,,,,,,,Bu otel için Google review metin örneklemi mevcut değil.
+BOD082,Otel Gümüşlük,Gümüşlük,0,0,0,0,NO_DATA,,,,,,,,Bu otel için Google review metin örneklemi mevcut değil.
+BOD175,Avantgarde Refined Hotel | Yalıkavak,Yalıkavak,0,0,0,0,NO_DATA,,,,,,,,Bu otel için Google review metin örneklemi mevcut değil.
+BOD008,LA BREZZA SUITE &HOTEL,Akyarlar,0,0,0,0,NO_DATA,,,,,,,,Bu otel için Google review metin örneklemi mevcut değil.
+BOD078,Liman Hotel Gümüslük (Adult only),Gümüşlük,0,0,0,0,NO_DATA,,,,,,,,Bu otel için Google review metin örneklemi mevcut değil.
+BOD178,Highlight Hotel Yalıkavak,Yalıkavak,0,0,0,0,NO_DATA,,,,,,,,Bu otel için Google review metin örneklemi mevcut değil.
+BOD077,Ladonia Hotels Zemda,Gümüşlük,0,0,0,0,NO_DATA,,,,,,,,Bu otel için Google review metin örneklemi mevcut değil.
+BOD051,Faros Bodrum Hotel Göltürkbükü,Göltürkbükü,0,0,0,0,NO_DATA,,,,,,,,Bu otel için Google review metin örneklemi mevcut değil.
+BOD111,Zena Hotel Bodrum,Güvercinlik,0,0,0,0,NO_DATA,,,,,,,,Bu otel için Google review metin örneklemi mevcut değil.
+BOD143,Hotel Zeytinada,Torba,0,0,0,0,NO_DATA,,,,,,,,Bu otel için Google review metin örneklemi mevcut değil.
+BOD098,Swissôtel Living Bodrum,Gündoğan,0,0,0,0,NO_DATA,,,,,,,,Bu otel için Google review metin örneklemi mevcut değil.
+BOD145,Moyo Luxury Hotel & Beach,Torba,0,0,0,0,NO_DATA,,,,,,,,Bu otel için Google review metin örneklemi mevcut değil.
+BOD101,Vita Bella Hotel Resort & Spa,Gündoğan,0,0,0,0,NO_DATA,,,,,,,,Bu otel için Google review metin örneklemi mevcut değil.
+BOD079,Metin's Gümüşlük - Hotel & Restaurant,Gümüşlük,0,0,0,0,NO_DATA,,,,,,,,Bu otel için Google review metin örneklemi mevcut değil.
+BOD116,Acropol Of Bodrum Beach Hotel - Restaurant,Ortakent-Yahşi,0,0,0,0,NO_DATA,,,,,,,,Bu otel için Google review metin örneklemi mevcut değil.
+BOD102,Akyalı Butik Hotel,Güvercinlik,0,0,0,0,NO_DATA,,,,,,,,Bu otel için Google review metin örneklemi mevcut değil.
+BOD187,Spektr Boutique Hotel Yalikavak,Yalıkavak,0,0,0,0,NO_DATA,,,,,,,,Bu otel için Google review metin örneklemi mevcut değil.
+BOD170,No:81 Hotel,Türkbükü,0,0,0,0,NO_DATA,,,,,,,,Bu otel için Google review metin örneklemi mevcut değil.
+BOD139,Casa Dell'arte Otel,Torba,0,0,0,0,NO_DATA,,,,,,,,Bu otel için Google review metin örneklemi mevcut değil.
+BOD155,Trend Life | Trendlife Hotels & Beach Club Bodrum Torba,Torba,0,0,0,0,NO_DATA,,,,,,,,Bu otel için Google review metin örneklemi mevcut değil.
+BOD024,HAKAN OTEL,Bitez,0,0,0,0,NO_DATA,,,,,,,,Bu otel için Google review metin örneklemi mevcut değil.
+BOD092,Liona Hotel,Gündoğan,0,0,0,0,NO_DATA,,,,,,,,Bu otel için Google review metin örneklemi mevcut değil.
+BOD174,Arts Hotel Bodrum Yalıkavak,Yalıkavak,0,0,0,0,NO_DATA,,,,,,,,Bu otel için Google review metin örneklemi mevcut değil.
+BOD184,Sea Palm Otel -YALIKAVAK,Yalıkavak,0,0,0,0,NO_DATA,,,,,,,,Bu otel için Google review metin örneklemi mevcut değil.
+BOD010,Mare Garden Hotel,Akyarlar,0,0,0,0,NO_DATA,,,,,,,,Bu otel için Google review metin örneklemi mevcut değil.
+BOD071,Tropicana Beach Hotel,Gümbet,0,0,0,0,NO_DATA,,,,,,,,Bu otel için Google review metin örneklemi mevcut değil.
+BOD081,Oda Bodrum Gümüşlük,Gümüşlük,0,0,0,0,NO_DATA,,,,,,,,Bu otel için Google review metin örneklemi mevcut değil.
+BOD038,Casa Mare Bodrum,Bodrum Merkez,0,0,0,0,NO_DATA,,,,,,,,Bu otel için Google review metin örneklemi mevcut değil.
+BOD028,Mira Beach Resort Bodrum,Bitez,0,0,0,0,NO_DATA,,,,,,,,Bu otel için Google review metin örneklemi mevcut değil.
+BOD191,Yalıkavak Marina Hotel by METT Collection,Yalıkavak,0,0,0,0,NO_DATA,,,,,,,,Bu otel için Google review metin örneklemi mevcut değil.
+BOD049,Casa Del Mar Bodrum,Göltürkbükü,0,0,0,0,NO_DATA,,,,,,,,Bu otel için Google review metin örneklemi mevcut değil.
+BOD124,Irmak Boutique Hotel,Ortakent-Yahşi,0,0,0,0,NO_DATA,,,,,,,,Bu otel için Google review metin örneklemi mevcut değil.
+BOD129,Meggs Bodrum,Ortakent-Yahşi,0,0,0,0,NO_DATA,,,,,,,,Bu otel için Google review metin örneklemi mevcut değil.
+BOD181,Palmalife Bodrum Resort & Spa,Yalıkavak,0,0,0,0,NO_DATA,,,,,,,,Bu otel için Google review metin örneklemi mevcut değil.
+BOD120,Celeste Bella Luxury Hotel & Spa,Ortakent-Yahşi,0,0,0,0,NO_DATA,,,,,,,,Bu otel için Google review metin örneklemi mevcut değil.
+BOD003,ASPAT HOTEL BODRUM Beach Restaurant,Akyarlar,0,0,0,0,NO_DATA,,,,,,,,Bu otel için Google review metin örneklemi mevcut değil.
+BOD100,Villa Rustica Hotel,Gündoğan,0,0,0,0,NO_DATA,,,,,,,,Bu otel için Google review metin örneklemi mevcut değil.
+BOD039,Casa Nonna Bodrum,Bodrum Merkez,0,0,0,0,NO_DATA,,,,,,,,Bu otel için Google review metin örneklemi mevcut değil.
+BOD154,Toka Bodrum Hotel & Beach Club,Torba,0,0,0,0,NO_DATA,,,,,,,,Bu otel için Google review metin örneklemi mevcut değil.
+BOD062,"Gümbet Cove Hotel, Muğla Türkiye",Gümbet,0,0,0,0,NO_DATA,,,,,,,,Bu otel için Google review metin örneklemi mevcut değil.
+BOD167,Elista Hotel & Spa,Türkbükü,0,0,0,0,NO_DATA,,,,,,,,Bu otel için Google review metin örneklemi mevcut değil.
+BOD034,Çınar Butik Otel Bodrum,Bitez,0,0,0,0,NO_DATA,,,,,,,,Bu otel için Google review metin örneklemi mevcut değil.
+BOD048,Babana Hotel,Göltürkbükü,0,0,0,0,NO_DATA,,,,,,,,Bu otel için Google review metin örneklemi mevcut değil.
+BOD105,İsolina Hotel,Güvercinlik,0,0,0,0,NO_DATA,,,,,,,,Bu otel için Google review metin örneklemi mevcut değil.
+BOD073,Arriba Apartment & Restaurant & Bungalows,Gümüşlük,0,0,0,0,NO_DATA,,,,,,,,Bu otel için Google review metin örneklemi mevcut değil.
+BOD022,Dolce Vita Luxury Bungalows,Bitez,0,0,0,0,NO_DATA,,,,,,,,Bu otel için Google review metin örneklemi mevcut değil.
+BOD053,Gölköy Suites,Göltürkbükü,0,0,0,0,NO_DATA,,,,,,,,Bu otel için Google review metin örneklemi mevcut değil.
+BOD005,ByAkkan,Akyarlar,0,0,0,0,NO_DATA,,,,,,,,Bu otel için Google review metin örneklemi mevcut değil.
+BOD018,Bitez Deniz Hotel - Restaurant - Beach,Bitez,0,0,0,0,NO_DATA,,,,,,,,Bu otel için Google review metin örneklemi mevcut değil.
+BOD171,4 reasons Hotel Yalikavak,Yalıkavak,0,0,0,0,NO_DATA,,,,,,,,Bu otel için Google review metin örneklemi mevcut değil.
+BOD133,Yahşi Beach Hotel & Restaurant,Ortakent-Yahşi,0,0,0,0,NO_DATA,,,,,,,,Bu otel için Google review metin örneklemi mevcut değil.
+BOD147,Omar Hotel & Suites,Torba,0,0,0,0,NO_DATA,,,,,,,,Bu otel için Google review metin örneklemi mevcut değil.
+BOD080,Myndos Oda & kahvalti,Gümüşlük,0,0,0,0,NO_DATA,,,,,,,,Bu otel için Google review metin örneklemi mevcut değil.
+BOD099,Villa Oliva Butik Otel,Gündoğan,0,0,0,0,NO_DATA,,,,,,,,Bu otel için Google review metin örneklemi mevcut değil.
+BOD159,Bodrum Ada Otel Turgutreis,Turgutreis,0,0,0,0,NO_DATA,,,,,,,,Bu otel için Google review metin örneklemi mevcut değil.
+BOD096,Olira Boutique Hotel&SPA,Gündoğan,0,0,0,0,NO_DATA,,,,,,,,Bu otel için Google review metin örneklemi mevcut değil.
+BOD146,Olivia Hotel,Torba,0,0,0,0,NO_DATA,,,,,,,,Bu otel için Google review metin örneklemi mevcut değil.
+BOD083,Oza butik hotel,Gümüşlük,0,0,0,0,NO_DATA,,,,,,,,Bu otel için Google review metin örneklemi mevcut değil.
+BOD054,Lavinya Maison,Göltürkbükü,0,0,0,0,NO_DATA,,,,,,,,Bu otel için Google review metin örneklemi mevcut değil.
+BOD001,Aksoy Taş Ev,Akyarlar,0,0,0,0,NO_DATA,,,,,,,,Bu otel için Google review metin örneklemi mevcut değil.
+BOD165,Caja by Maxx Royal,Türkbükü,0,0,0,0,NO_DATA,,,,,,,,Bu otel için Google review metin örneklemi mevcut değil.
+BOD027,Meis Apart Hotel,Bitez,0,0,0,0,NO_DATA,,,,,,,,Bu otel için Google review metin örneklemi mevcut değil.
+BOD134,Yakamoz Otel,Ortakent-Yahşi,0,0,0,0,NO_DATA,,,,,,,,Bu otel için Google review metin örneklemi mevcut değil.
+BOD055,Lavinya Otel Göltürkbükü,Göltürkbükü,0,0,0,0,NO_DATA,,,,,,,,Bu otel için Google review metin örneklemi mevcut değil.
+BOD121,Eskiyalı Otel,Ortakent-Yahşi,0,0,0,0,NO_DATA,,,,,,,,Bu otel için Google review metin örneklemi mevcut değil.
+BOD176,Blue Point Yalikavak,Yalıkavak,0,0,0,0,NO_DATA,,,,,,,,Bu otel için Google review metin örneklemi mevcut değil.
+BOD093,Malta Bodrum Hotel,Gündoğan,0,0,0,0,NO_DATA,,,,,,,,Bu otel için Google review metin örneklemi mevcut değil.
+BOD122,Florida Otel,Ortakent-Yahşi,0,0,0,0,NO_DATA,,,,,,,,Bu otel için Google review metin örneklemi mevcut değil.
+BOD190,The Sign Highlight Hotel,Yalıkavak,0,0,0,0,NO_DATA,,,,,,,,Bu otel için Google review metin örneklemi mevcut değil.
+BOD179,Lizbonia Otel Yalikavak,Yalıkavak,0,0,0,0,NO_DATA,,,,,,,,Bu otel için Google review metin örneklemi mevcut değil.
+BOD144,Mira Suites,Torba,0,0,0,0,NO_DATA,,,,,,,,Bu otel için Google review metin örneklemi mevcut değil.
+BOD135,Yılmaz Hotel | Bodrum Ortakent Otelleri,Ortakent-Yahşi,0,0,0,0,NO_DATA,,,,,,,,Bu otel için Google review metin örneklemi mevcut değil.
+BOD185,Sezz Hotels Spa Wellness Yalıkavak,Yalıkavak,0,0,0,0,NO_DATA,,,,,,,,Bu otel için Google review metin örneklemi mevcut değil.
+BOD123,Hotel Marma Beach,Ortakent-Yahşi,0,0,0,0,NO_DATA,,,,,,,,Bu otel için Google review metin örneklemi mevcut değil.
+BOD044,Noa Suite Hotel,Bodrum Merkez,0,0,0,0,NO_DATA,,,,,,,,Bu otel için Google review metin örneklemi mevcut değil.
+BOD118,Amfora Hotel,Ortakent-Yahşi,0,0,0,0,NO_DATA,,,,,,,,Bu otel için Google review metin örneklemi mevcut değil.
+BOD188,Tangiers Hotel Yalıkavak,Yalıkavak,0,0,0,0,NO_DATA,,,,,,,,Bu otel için Google review metin örneklemi mevcut değil.
+BOD025,Halikarya Hotel & Restaurant Beach,Bitez,0,0,0,0,NO_DATA,,,,,,,,Bu otel için Google review metin örneklemi mevcut değil.
+BOD097,OLİVE TREE HOTEL,Gündoğan,0,0,0,0,NO_DATA,,,,,,,,Bu otel için Google review metin örneklemi mevcut değil.
+BOD137,Armagan Apart Hotel,Torba,0,0,0,0,NO_DATA,,,,,,,,Bu otel için Google review metin örneklemi mevcut değil.
+BOD117,Altınkaya Hotel,Ortakent-Yahşi,0,0,0,0,NO_DATA,,,,,,,,Bu otel için Google review metin örneklemi mevcut değil.
+BOD029,Mumu Bodrum Hotel,Bitez,0,0,0,0,NO_DATA,,,,,,,,Bu otel için Google review metin örneklemi mevcut değil.
+BOD172,Ailla Yalıkavak,Yalıkavak,0,0,0,0,NO_DATA,,,,,,,,Bu otel için Google review metin örneklemi mevcut değil.
+BOD091,Gündoğan Suites,Gündoğan,0,0,0,0,NO_DATA,,,,,,,,Bu otel için Google review metin örneklemi mevcut değil.
+BOD119,"Bodrum Suites Apart Otel, Ortakent - Yahşi",Ortakent-Yahşi,0,0,0,0,NO_DATA,,,,,,,,Bu otel için Google review metin örneklemi mevcut değil.
+BOD149,Roota Bodrum,Torba,0,0,0,0,NO_DATA,,,,,,,,Bu otel için Google review metin örneklemi mevcut değil.
+BOD084,Paradise Garden Apartments,Gümüşlük,0,0,0,0,NO_DATA,,,,,,,,Bu otel için Google review metin örneklemi mevcut değil.
+BOD076,Gümüşlük No3,Gümüşlük,0,0,0,0,NO_DATA,,,,,,,,Bu otel için Google review metin örneklemi mevcut değil.
+BOD138,Bodrum Blue Bay Otel,Torba,0,0,0,0,NO_DATA,,,,,,,,Bu otel için Google review metin örneklemi mevcut değil.
+BOD015,The Ni Villas Akyarlar,Akyarlar,0,0,0,0,NO_DATA,,,,,,,,Bu otel için Google review metin örneklemi mevcut değil.
+BOD182,Root Redrock Villas Yalıkavak - Bodrum,Yalıkavak,0,0,0,0,NO_DATA,,,,,,,,Bu otel için Google review metin örneklemi mevcut değil.
+BOD085,Paradise Gümüşlük,Gümüşlük,0,0,0,0,NO_DATA,,,,,,,,Bu otel için Google review metin örneklemi mevcut değil.
+BOD074,Begonvil Gümüşlük,Gümüşlük,0,0,0,0,NO_DATA,,,,,,,,Bu otel için Google review metin örneklemi mevcut değil.
+BOD094,Marje Villas,Gündoğan,0,0,0,0,NO_DATA,,,,,,,,Bu otel için Google review metin örneklemi mevcut değil.

@@ -1,0 +1,33 @@
+hotel_id,hotel_name,area,complaint_n,response_n,response_date_available_n,median_response_time_days,q25_response_time_days,q75_response_time_days
+BOD004,Bendis Beach Hotel,Akyarlar,12,5,5.0,0.47708333333333336,0.13125,18.560416666666665
+BOD006,Club Marma Hotel,Akyarlar,5,0,,,,
+BOD007,Kefaluka Resort,Akyarlar,29,22,21.0,0.6895833333333333,0.30972222222222223,1.0284722222222222
+BOD010,Mare Garden Hotel,Akyarlar,1,0,,,,
+BOD012,Selectum Collection Bodrum,Akyarlar,4,0,,,,
+BOD016,Xanadu Island,Akyarlar,4,4,3.0,9.708333333333334,4.9013888888888895,10.3875
+BOD023,Doria Hotel Bodrum,Bitez,1,0,,,,
+BOD038,Casa Mare Bodrum,Bodrum Merkez,1,0,,,,
+BOD041,La Quinta by Wyndham Bodrum,Bodrum Merkez,5,0,,,,
+BOD045,Salmakis Resort & Spa,Bodrum Merkez,7,0,,,,
+BOD056,"Mandarin Oriental, Bodrum",Göltürkbükü,2,0,,,,
+BOD058,Bodrum Beach Resort,Gümbet,3,0,,,,
+BOD060,Club Shark Hotel,Gümbet,1,0,,,,
+BOD061,Gümbet Anıl Beach,Gümbet,2,0,,,,
+BOD067,Sami Beach Hotel,Gümbet,6,0,,,,
+BOD068,Selectum Colours Bodrum,Gümbet,8,0,,,,
+BOD069,Siesta Beach Apart,Gümbet,1,0,,,,
+BOD072,VERY CHIC BODRUM,Gümbet,3,0,,,,
+BOD077,Ladonia Hotels Zemda,Gümüşlük,7,0,,,,
+BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,11,0,,,,
+BOD106,La Blanche Island Bodrum,Güvercinlik,19,5,5.0,0.9604166666666667,0.04583333333333333,1.7729166666666667
+BOD107,Le Méridien Bodrum Beach Resort,Güvercinlik,4,0,,,,
+BOD110,Titanic Luxury Collection Bodrum,Güvercinlik,5,0,,,,
+BOD112,Azure By Yelken Hotel,Kadıkalesi,26,1,1.0,0.43680555555555556,0.43680555555555556,0.43680555555555556
+BOD113,Kadıkale Resort,Kadıkalesi,7,2,2.0,0.011458333333333333,0.00954861111111111,0.013368055555555555
+BOD115,Yasmin Bodrum Resort,Kadıkalesi,23,0,,,,
+BOD120,Celeste Bella Luxury Hotel & Spa,Ortakent-Yahşi,2,0,,,,
+BOD124,Irmak Boutique Hotel,Ortakent-Yahşi,1,0,,,,
+BOD130,Petunya Beach Resort,Ortakent-Yahşi,13,0,,,,
+BOD153,The Oba Hotel,Torba,10,0,,,,
+BOD158,Arin Resort Bodrum,Turgutreis,1,0,,,,
+BOD160,La Blanche Resort Bodrum,Turgutreis,12,0,,,,

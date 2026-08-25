@@ -1,0 +1,18 @@
+- Clean EDA corpus: 236 canonical-unique complaint, 32 hotel, 11 represented area.
+- Top-5 corpus-volume hotels: Kefaluka Resort, Azure By Yelken Hotel, Yasmin Bodrum Resort, La Blanche Island Bodrum, Petunya Beach Resort.
+- Top-3 / Top-5 / Top-10 complaint corpus shares: 33.1% / 46.6% / 69.1%.
+- 14 hotels account for 80% of the clean complaint corpus; HHI=0.063.
+- Highest area corpus volume is Kadıkalesi with 56 complaints; area results must be read with mapping coverage (rho=0.841, n=14).
+- Google review count vs clean complaint count: Spearman rho=0.587, n=32; raw volume requires visibility context.
+- Google rating vs cross-platform visibility index: rho=-0.452, n=32; index is not a real complaint rate.
+- Highest cross-platform visibility candidates: Azure By Yelken Hotel, Ladonia Hotels Zemda, The Oba Hotel, Celeste Bella Luxury Hotel & Spa, Kefaluka Resort; low Google denominators and small complaint n are flagged.
+- Date coverage: 95.8%; observed 2023-08-28 to 2026-08-24, with 86 approximate dates.
+- Complaint text coverage: 229/236; median 144 words (Q1 92, Q3 205).
+- View coverage: 225/236; median 794; views accumulate with age.
+- Matched company response observed for 39/236 complaints (16.5%); response does not imply resolution.
+- Among hotels with n>=5, matched-response shares span 0.0% to 75.9%; this is behavior, not outcome quality.
+- Valid response lag n=37; median 0.68 days, P75 1.33, max 296.61; approximate dates limit precision.
+- Clean replies: 97 across 62 complaints; any-reply share 26.3%.
+- Official room coverage: 10/32 hotels; capacity correlations are highly exploratory.
+- NLP readiness: HIGH=4, MEDIUM=13, LOW=15 hotels; low samples should be pooled.
+- Notebook 14 should prioritize pooled aspect mentions, sufficient-N hotel/area contrasts, distinctive terms and company response by aspect with human validation.

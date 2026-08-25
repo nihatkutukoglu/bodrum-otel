@@ -1,0 +1,10 @@
+metric,value
+total_clean_rows,236.0
+text_documents,229.0
+total_tokens_standard,28690.0
+vocabulary_size_standard,8259.0
+total_tokens_domain_filtered,24676.0
+vocabulary_size_domain_filtered,8164.0
+median_tokens_per_document,112.0
+hotel_count,32.0
+area_count,11.0

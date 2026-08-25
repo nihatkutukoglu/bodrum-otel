@@ -1,0 +1,9 @@
+﻿metric,source_column,peak_period,peak_month,peak_month_number,peak_value,month_difference_vs_airport_total_peak,month_difference_vs_airport_international_peak
+airport_total,airport_total_passengers,2025-08,Ağustos,8,822443.0,0,0
+airport_domestic,airport_domestic_passengers,2025-08,Ağustos,8,440795.0,0,0
+airport_international,airport_international_passengers,2025-08,Ağustos,8,381648.0,0,0
+tourism_total_arrivals,tourism_total_arrivals,2025-08,Ağustos,8,2003174.0,0,0
+tourism_domestic_arrivals,tourism_domestic_arrivals,2025-08,Ağustos,8,1061003.0,0,0
+tourism_foreign_arrivals,tourism_foreign_arrivals,2025-08,Ağustos,8,942171.0,0,0
+tourism_overnights,tourism_total_overnights,2025-08,Ağustos,8,5317523.0,0,0
+tourism_occupancy,tourism_occupancy_rate_pct,2025-08,Ağustos,8,75.8,0,0

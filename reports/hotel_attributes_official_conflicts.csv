@@ -1,0 +1,9 @@
+﻿duplicate_group_id,official_facility_id,official_name,official_type,official_star_rating,room_count,bed_count,official_address_area,official_phone,official_duplicate_candidate,official_conflict_flag,conflict_reason
+1,OFFBOD025,DOUBLETREE BY HİLTON BODRUM MARİNA VİST,A5 YILDIZLI OTEL,5.0,87.0,176.0,ESKİÇEŞME MAH.,0252 316 2269,True,True,"Farklı değerler: official_star_rating, official_type"
+1,OFFBOD064,DOUBLETREE BY HİLTON BODRUM MARİNA VİST,A4 YILDIZLI OTEL,4.0,87.0,176.0,ESKİÇEŞME MAH.,0252 316 2269,True,True,"Farklı değerler: official_star_rating, official_type"
+3,OFFBOD047,VOYAGE BODRUM,5 YILDIZLI OTEL,5.0,150.0,300.0,ESKİÇEŞME MAH.,0252 316 4443,True,True,"Farklı değerler: official_star_rating, official_type, room_count, bed_count"
+3,OFFBOD080,VOYAGE BODRUM PRIVATE,4 YILDIZLI OTEL,4.0,26.0,52.0,ESKİÇEŞME MAH.,0252 316 4443,True,True,"Farklı değerler: official_star_rating, official_type, room_count, bed_count"
+4,OFFBOD061,CHARM BEACH HOTEL,4 YILDIZLI OTEL,4.0,112.0,236.0,TURGUTREİS MAH.,0252 319 5550,True,True,"Farklı değerler: room_count, bed_count"
+4,OFFBOD074,PARKIM AYAZ OTEL,4 YILDIZLI OTEL,4.0,237.0,474.0,GÜMBET MAHALLESİ,0252 319 5550,True,True,"Farklı değerler: room_count, bed_count"
+5,OFFBOD058,CACTUS FLEUR BEACH CLUB,4 YILDIZLI OTEL,4.0,137.0,328.0,YALIKAVAK MAH.,0252 385 3717,True,True,"Farklı değerler: official_type, room_count, bed_count"
+5,OFFBOD152,ELEMENTA BY CACTUS HOTELS,BUTİK OTEL,,52.0,111.0,YALIKAVAK MAH.,0252 385 3717,True,True,"Farklı değerler: official_type, room_count, bed_count"

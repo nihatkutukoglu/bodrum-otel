@@ -1,0 +1,83 @@
+{
+  "_notes": "Kaynak URL'ler 2026-08-25 tarihinde tarayici olmadan (requests) dogrudan ziyaret edilip dogrulanmistir. Selectum icin paylasilan sayfa Selectum Hotels umbrella hesabinin altindaki iki filtre/tag sayfasidir ve digerlerine ek olarak Selectum Collection Bodrum, Selectum Colours Side, Selectum Family, Selectum Luxury (Belek) gibi farkli tesislerin sikayetlerini de barindirir; bu yuzden requires_entity_validation=true.",
+  "targets": [
+    {
+      "canonical_hotel_name": "Selectum Colours Bodrum",
+      "area": "Gümbet",
+      "source_pages": [
+        "https://www.sikayetvar.com/selectum-hotels/selectum-bodrum",
+        "https://www.sikayetvar.com/selectum-hotels/selectum-colours"
+      ],
+      "requires_entity_validation": true,
+      "aliases": [
+        "Selectum Colours Bodrum",
+        "Selectum Colors Bodrum",
+        "Selectum Bodrum Colours",
+        "Selectum Bodrum Colors",
+        "Selectum Colours",
+        "Bodrum Gümbet"
+      ],
+      "match_patterns": [
+        "selectum colours bodrum",
+        "selectum colors bodrum",
+        "selectum bodrum colours",
+        "selectum bodrum colors",
+        "selectum-colours-bodrum",
+        "selectum-colors-bodrum"
+      ],
+      "exclude_patterns": [
+        "selectum collection",
+        "collection bodrum",
+        "colours side",
+        "colors side",
+        "selectum family",
+        "selectum luxury",
+        "belek",
+        "noa belek",
+        "selectum side"
+      ],
+      "ambiguous_terms": [
+        "selectum bodrum",
+        "selectum hotels",
+        "selectum colours",
+        "selectum colors",
+        "selectum otel"
+      ]
+    },
+    {
+      "canonical_hotel_name": "Green Bay Resort & Spa Bodrum",
+      "area": "Güvercinlik",
+      "source_pages": [
+        "https://www.sikayetvar.com/green-bay-resort",
+        "https://www.sikayetvar.com/green-bay-resort-spa"
+      ],
+      "requires_entity_validation": false,
+      "aliases": [
+        "Green Bay Resort",
+        "Green Bay Resort & Spa",
+        "Green Bay Resort Bodrum",
+        "Green Bay Resort & Spa Bodrum",
+        "Green Bay Resort Spa"
+      ],
+      "match_patterns": [],
+      "exclude_patterns": [],
+      "ambiguous_terms": []
+    },
+    {
+      "canonical_hotel_name": "La Blanche Island Bodrum",
+      "area": "Güvercinlik",
+      "source_pages": [
+        "https://www.sikayetvar.com/la-blanche-island-bodrum"
+      ],
+      "requires_entity_validation": false,
+      "aliases": [
+        "La Blanche Island Bodrum",
+        "La Blanche Island",
+        "La Blanche Güvercinlik"
+      ],
+      "match_patterns": [],
+      "exclude_patterns": [],
+      "ambiguous_terms": []
+    }
+  ]
+}

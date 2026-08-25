@@ -1,0 +1,10 @@
+{
+  "request_delay_seconds": 1.5,
+  "page_delay_seconds": 1.5,
+  "max_retries": 2,
+  "max_pages_per_hotel": null,
+  "max_slug_candidates_per_hotel": 5,
+  "auto_match_threshold": 0.75,
+  "review_required_threshold": 0.45,
+  "allow_review_required_scraping": false
+}

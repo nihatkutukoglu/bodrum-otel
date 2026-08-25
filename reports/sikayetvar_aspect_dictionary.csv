@@ -1,0 +1,207 @@
+aspect,keyword,keyword_type,source,document_count,included,notes
+STAFF_SERVICE,personel,UNIGRAM,SEED,63,True,Phrase-first and word-boundary matching; manual validation pending.
+STAFF_SERVICE,çalışan,UNIGRAM,SEED,50,True,Phrase-first and word-boundary matching; manual validation pending.
+STAFF_SERVICE,görevli,UNIGRAM,SEED,28,True,Phrase-first and word-boundary matching; manual validation pending.
+STAFF_SERVICE,garson,UNIGRAM,SEED,18,True,Phrase-first and word-boundary matching; manual validation pending.
+STAFF_SERVICE,resepsiyonist,UNIGRAM,SEED,0,True,Phrase-first and word-boundary matching; manual validation pending.
+STAFF_SERVICE,hizmet,UNIGRAM,SEED,87,True,Phrase-first and word-boundary matching; manual validation pending.
+STAFF_SERVICE,servis,UNIGRAM,SEED,32,True,Phrase-first and word-boundary matching; manual validation pending.
+STAFF_SERVICE,ilgisiz,UNIGRAM,SEED,24,True,Phrase-first and word-boundary matching; manual validation pending.
+STAFF_SERVICE,kaba,UNIGRAM,SEED,12,True,Phrase-first and word-boundary matching; manual validation pending.
+STAFF_SERVICE,saygısız,UNIGRAM,SEED,13,True,Phrase-first and word-boundary matching; manual validation pending.
+STAFF_SERVICE,tecrübesiz,UNIGRAM,SEED,2,True,Phrase-first and word-boundary matching; manual validation pending.
+STAFF_SERVICE,profesyonellik,UNIGRAM,SEED,3,True,Phrase-first and word-boundary matching; manual validation pending.
+STAFF_SERVICE,yardımcı olmadı,PHRASE,SEED,2,True,Phrase-first and word-boundary matching; manual validation pending.
+STAFF_SERVICE,ilgi yok,PHRASE,SEED,0,True,Phrase-first and word-boundary matching; manual validation pending.
+STAFF_SERVICE,muhatap yok,PHRASE,SEED,0,True,Phrase-first and word-boundary matching; manual validation pending.
+STAFF_SERVICE,animasyon ekibi,PHRASE,SEED,3,True,Phrase-first and word-boundary matching; manual validation pending.
+CLEANLINESS_HYGIENE,temizlik,UNIGRAM,SEED,30,True,Phrase-first and word-boundary matching; manual validation pending.
+CLEANLINESS_HYGIENE,temiz,UNIGRAM,SEED,62,True,Phrase-first and word-boundary matching; manual validation pending.
+CLEANLINESS_HYGIENE,kirli,UNIGRAM,SEED,21,True,Phrase-first and word-boundary matching; manual validation pending.
+CLEANLINESS_HYGIENE,pis,UNIGRAM,SEED,12,True,Phrase-first and word-boundary matching; manual validation pending.
+CLEANLINESS_HYGIENE,hijyen,UNIGRAM,SEED,45,True,Phrase-first and word-boundary matching; manual validation pending.
+CLEANLINESS_HYGIENE,çarşaf,UNIGRAM,SEED,8,True,Phrase-first and word-boundary matching; manual validation pending.
+CLEANLINESS_HYGIENE,havlu,UNIGRAM,SEED,20,True,Phrase-first and word-boundary matching; manual validation pending.
+CLEANLINESS_HYGIENE,leke,UNIGRAM,SEED,7,True,Phrase-first and word-boundary matching; manual validation pending.
+CLEANLINESS_HYGIENE,koku,UNIGRAM,SEED,24,True,Phrase-first and word-boundary matching; manual validation pending.
+CLEANLINESS_HYGIENE,küf,UNIGRAM,CORPUS_DISCOVERED,5,True,Phrase-first and word-boundary matching; manual validation pending.
+CLEANLINESS_HYGIENE,böcek,UNIGRAM,SEED,12,True,Phrase-first and word-boundary matching; manual validation pending.
+CLEANLINESS_HYGIENE,haşere,UNIGRAM,SEED,1,True,Phrase-first and word-boundary matching; manual validation pending.
+CLEANLINESS_HYGIENE,tahtakurusu,UNIGRAM,CORPUS_DISCOVERED,0,True,Phrase-first and word-boundary matching; manual validation pending.
+CLEANLINESS_HYGIENE,örümcek ağı,PHRASE,CORPUS_DISCOVERED,0,True,Phrase-first and word-boundary matching; manual validation pending.
+CLEANLINESS_HYGIENE,saç kılı,PHRASE,SEED,0,True,Phrase-first and word-boundary matching; manual validation pending.
+CLEANLINESS_HYGIENE,kan lekesi,PHRASE,CORPUS_DISCOVERED,0,True,Phrase-first and word-boundary matching; manual validation pending.
+CLEANLINESS_HYGIENE,oda temizliği,PHRASE,SEED,13,True,Phrase-first and word-boundary matching; manual validation pending.
+CLEANLINESS_HYGIENE,kötü koku,PHRASE,SEED,0,True,Phrase-first and word-boundary matching; manual validation pending.
+FOOD_BEVERAGE,yemek,UNIGRAM,SEED,85,True,Phrase-first and word-boundary matching; manual validation pending.
+FOOD_BEVERAGE,kahvaltı,UNIGRAM,SEED,15,True,Phrase-first and word-boundary matching; manual validation pending.
+FOOD_BEVERAGE,restoran,UNIGRAM,SEED,44,True,Phrase-first and word-boundary matching; manual validation pending.
+FOOD_BEVERAGE,restaurant,UNIGRAM,SEED,0,True,Phrase-first and word-boundary matching; manual validation pending.
+FOOD_BEVERAGE,büfe,UNIGRAM,SEED,10,True,Phrase-first and word-boundary matching; manual validation pending.
+FOOD_BEVERAGE,açık büfe,PHRASE,SEED,5,True,Phrase-first and word-boundary matching; manual validation pending.
+FOOD_BEVERAGE,içecek,UNIGRAM,SEED,13,True,Phrase-first and word-boundary matching; manual validation pending.
+FOOD_BEVERAGE,bar,UNIGRAM,SEED,18,True,Phrase-first and word-boundary matching; manual validation pending.
+FOOD_BEVERAGE,lezzet,UNIGRAM,SEED,22,True,Phrase-first and word-boundary matching; manual validation pending.
+FOOD_BEVERAGE,yiyecek,UNIGRAM,SEED,6,True,Phrase-first and word-boundary matching; manual validation pending.
+FOOD_BEVERAGE,mutfak,UNIGRAM,SEED,7,True,Phrase-first and word-boundary matching; manual validation pending.
+FOOD_BEVERAGE,snack,UNIGRAM,SEED,12,True,Phrase-first and word-boundary matching; manual validation pending.
+FOOD_BEVERAGE,alkol,UNIGRAM,SEED,12,True,Phrase-first and word-boundary matching; manual validation pending.
+FOOD_BEVERAGE,tabak,UNIGRAM,SEED,11,True,Phrase-first and word-boundary matching; manual validation pending.
+FOOD_BEVERAGE,çatal,UNIGRAM,SEED,6,True,Phrase-first and word-boundary matching; manual validation pending.
+FOOD_BEVERAGE,zehirlenme,UNIGRAM,SEED,4,True,Phrase-first and word-boundary matching; manual validation pending.
+FOOD_BEVERAGE,a la carte,PHRASE,SEED,8,True,Phrase-first and word-boundary matching; manual validation pending.
+FOOD_BEVERAGE,her şey dahil,PHRASE,SEED,23,True,Phrase-first and word-boundary matching; manual validation pending.
+ROOM,oda,UNIGRAM,SEED,132,True,Phrase-first and word-boundary matching; manual validation pending.
+ROOM,yatak,UNIGRAM,SEED,17,True,Phrase-first and word-boundary matching; manual validation pending.
+ROOM,banyo,UNIGRAM,SEED,20,True,Phrase-first and word-boundary matching; manual validation pending.
+ROOM,duş,UNIGRAM,SEED,10,True,Phrase-first and word-boundary matching; manual validation pending.
+ROOM,tuvalet,UNIGRAM,SEED,16,True,Phrase-first and word-boundary matching; manual validation pending.
+ROOM,lavabo,UNIGRAM,SEED,2,True,Phrase-first and word-boundary matching; manual validation pending.
+ROOM,minibar,UNIGRAM,SEED,4,True,Phrase-first and word-boundary matching; manual validation pending.
+ROOM,balkon,UNIGRAM,SEED,6,True,Phrase-first and word-boundary matching; manual validation pending.
+ROOM,mobilya,UNIGRAM,SEED,2,True,Phrase-first and word-boundary matching; manual validation pending.
+ROOM,nevresim,UNIGRAM,SEED,2,True,Phrase-first and word-boundary matching; manual validation pending.
+ROOM,anahtar,UNIGRAM,SEED,4,True,Phrase-first and word-boundary matching; manual validation pending.
+ROOM,oda değişikliği,PHRASE,SEED,12,True,Phrase-first and word-boundary matching; manual validation pending.
+ROOM,oda manzarası,PHRASE,SEED,0,True,Phrase-first and word-boundary matching; manual validation pending.
+ROOM,oda teslimi,PHRASE,SEED,0,True,Phrase-first and word-boundary matching; manual validation pending.
+BEACH_SEA,plaj,UNIGRAM,SEED,25,True,Phrase-first and word-boundary matching; manual validation pending.
+BEACH_SEA,sahil,UNIGRAM,SEED,10,True,Phrase-first and word-boundary matching; manual validation pending.
+BEACH_SEA,deniz,UNIGRAM,SEED,39,True,Phrase-first and word-boundary matching; manual validation pending.
+BEACH_SEA,iskele,UNIGRAM,SEED,3,True,Phrase-first and word-boundary matching; manual validation pending.
+BEACH_SEA,şezlong,UNIGRAM,SEED,19,True,Phrase-first and word-boundary matching; manual validation pending.
+BEACH_SEA,kumsal,UNIGRAM,SEED,3,True,Phrase-first and word-boundary matching; manual validation pending.
+BEACH_SEA,koy,UNIGRAM,SEED,0,True,Phrase-first and word-boundary matching; manual validation pending.
+BEACH_SEA,taşlı deniz,PHRASE,SEED,1,True,Phrase-first and word-boundary matching; manual validation pending.
+BEACH_SEA,kum plaj,PHRASE,SEED,2,True,Phrase-first and word-boundary matching; manual validation pending.
+BEACH_SEA,denize giriş,PHRASE,SEED,0,True,Phrase-first and word-boundary matching; manual validation pending.
+POOL,havuz,UNIGRAM,SEED,38,True,Phrase-first and word-boundary matching; manual validation pending.
+POOL,kaydırak,UNIGRAM,SEED,0,True,Phrase-first and word-boundary matching; manual validation pending.
+POOL,aquapark,UNIGRAM,SEED,1,True,Phrase-first and word-boundary matching; manual validation pending.
+POOL,su parkı,PHRASE,SEED,0,True,Phrase-first and word-boundary matching; manual validation pending.
+POOL,çocuk havuzu,PHRASE,SEED,0,True,Phrase-first and word-boundary matching; manual validation pending.
+POOL,havuz kenarı,PHRASE,SEED,0,True,Phrase-first and word-boundary matching; manual validation pending.
+FACILITIES_MAINTENANCE,bakım,UNIGRAM,SEED,17,True,Phrase-first and word-boundary matching; manual validation pending.
+FACILITIES_MAINTENANCE,bakımsız,UNIGRAM,SEED,14,True,Phrase-first and word-boundary matching; manual validation pending.
+FACILITIES_MAINTENANCE,bozuk,UNIGRAM,SEED,12,True,Phrase-first and word-boundary matching; manual validation pending.
+FACILITIES_MAINTENANCE,kırık,UNIGRAM,SEED,52,True,Phrase-first and word-boundary matching; manual validation pending.
+FACILITIES_MAINTENANCE,eski,UNIGRAM,SEED,16,True,Phrase-first and word-boundary matching; manual validation pending.
+FACILITIES_MAINTENANCE,asansör,UNIGRAM,SEED,5,True,Phrase-first and word-boundary matching; manual validation pending.
+FACILITIES_MAINTENANCE,kapı,UNIGRAM,SEED,16,True,Phrase-first and word-boundary matching; manual validation pending.
+FACILITIES_MAINTENANCE,elektrik,UNIGRAM,SEED,6,True,Phrase-first and word-boundary matching; manual validation pending.
+FACILITIES_MAINTENANCE,tamir,UNIGRAM,SEED,3,True,Phrase-first and word-boundary matching; manual validation pending.
+FACILITIES_MAINTENANCE,arızalı,UNIGRAM,SEED,3,True,Phrase-first and word-boundary matching; manual validation pending.
+FACILITIES_MAINTENANCE,damlama,UNIGRAM,CORPUS_DISCOVERED,1,True,Phrase-first and word-boundary matching; manual validation pending.
+FACILITIES_MAINTENANCE,su kesintisi,PHRASE,SEED,1,True,Phrase-first and word-boundary matching; manual validation pending.
+FACILITIES_MAINTENANCE,sıcak su,PHRASE,SEED,0,True,Phrase-first and word-boundary matching; manual validation pending.
+FACILITIES_MAINTENANCE,spor salonu,PHRASE,CORPUS_DISCOVERED,2,True,Phrase-first and word-boundary matching; manual validation pending.
+FACILITIES_MAINTENANCE,ortak alan,PHRASE,SEED,1,True,Phrase-first and word-boundary matching; manual validation pending.
+RESERVATION,rezervasyon,UNIGRAM,SEED,83,True,Phrase-first and word-boundary matching; manual validation pending.
+RESERVATION,booking,UNIGRAM,SEED,0,True,Phrase-first and word-boundary matching; manual validation pending.
+RESERVATION,otelz,UNIGRAM,SEED,0,True,Phrase-first and word-boundary matching; manual validation pending.
+RESERVATION,tatilbudur,UNIGRAM,SEED,20,True,Phrase-first and word-boundary matching; manual validation pending.
+RESERVATION,acente,UNIGRAM,SEED,4,True,Phrase-first and word-boundary matching; manual validation pending.
+RESERVATION,tur şirketi,PHRASE,SEED,0,True,Phrase-first and word-boundary matching; manual validation pending.
+RESERVATION,iptal,UNIGRAM,SEED,31,True,Phrase-first and word-boundary matching; manual validation pending.
+RESERVATION,rezervasyon iptali,PHRASE,SEED,1,True,Phrase-first and word-boundary matching; manual validation pending.
+RESERVATION,yer ayırma,PHRASE,SEED,0,True,Phrase-first and word-boundary matching; manual validation pending.
+RESERVATION,tarih değişikliği,PHRASE,SEED,0,True,Phrase-first and word-boundary matching; manual validation pending.
+RESERVATION,yanıltıcı bilgilendirme,PHRASE,CORPUS_DISCOVERED,0,True,Phrase-first and word-boundary matching; manual validation pending.
+PAYMENT_REFUND,iade,UNIGRAM,SEED,72,True,Phrase-first and word-boundary matching; manual validation pending.
+PAYMENT_REFUND,geri ödeme,PHRASE,SEED,0,True,Phrase-first and word-boundary matching; manual validation pending.
+PAYMENT_REFUND,ücret iadesi,PHRASE,SEED,20,True,Phrase-first and word-boundary matching; manual validation pending.
+PAYMENT_REFUND,para iadesi,PHRASE,SEED,4,True,Phrase-first and word-boundary matching; manual validation pending.
+PAYMENT_REFUND,ödeme,UNIGRAM,SEED,60,True,Phrase-first and word-boundary matching; manual validation pending.
+PAYMENT_REFUND,tahsilat,UNIGRAM,SEED,2,True,Phrase-first and word-boundary matching; manual validation pending.
+PAYMENT_REFUND,provizyon,UNIGRAM,SEED,0,True,Phrase-first and word-boundary matching; manual validation pending.
+PAYMENT_REFUND,kredi kartı,PHRASE,SEED,11,True,Phrase-first and word-boundary matching; manual validation pending.
+PAYMENT_REFUND,kesinti,UNIGRAM,SEED,15,True,Phrase-first and word-boundary matching; manual validation pending.
+PAYMENT_REFUND,fatura,UNIGRAM,SEED,5,True,Phrase-first and word-boundary matching; manual validation pending.
+PAYMENT_REFUND,para,UNIGRAM,SEED,41,True,Phrase-first and word-boundary matching; manual validation pending.
+PAYMENT_REFUND,tutar,UNIGRAM,SEED,31,True,Phrase-first and word-boundary matching; manual validation pending.
+PRICE_VALUE,fiyat,UNIGRAM,SEED,16,True,Phrase-first and word-boundary matching; manual validation pending.
+PRICE_VALUE,pahalı,UNIGRAM,SEED,3,True,Phrase-first and word-boundary matching; manual validation pending.
+PRICE_VALUE,ucuz,UNIGRAM,SEED,3,True,Phrase-first and word-boundary matching; manual validation pending.
+PRICE_VALUE,değer,UNIGRAM,SEED,10,True,Phrase-first and word-boundary matching; manual validation pending.
+PRICE_VALUE,ücret,UNIGRAM,SEED,84,True,Phrase-first and word-boundary matching; manual validation pending.
+PRICE_VALUE,fiyat performans,PHRASE,SEED,1,True,Phrase-first and word-boundary matching; manual validation pending.
+PRICE_VALUE,ödediğimiz,UNIGRAM,SEED,32,True,Phrase-first and word-boundary matching; manual validation pending.
+PRICE_VALUE,karşılığını,UNIGRAM,SEED,12,True,Phrase-first and word-boundary matching; manual validation pending.
+PRICE_VALUE,hak etmeyen,PHRASE,CORPUS_DISCOVERED,4,True,Phrase-first and word-boundary matching; manual validation pending.
+PRICE_VALUE,yüksek fiyat,PHRASE,SEED,0,True,Phrase-first and word-boundary matching; manual validation pending.
+PRICE_VALUE,ekstra ücret,PHRASE,SEED,2,True,Phrase-first and word-boundary matching; manual validation pending.
+CHECKIN_CHECKOUT,check in,PHRASE,SEED,2,True,Phrase-first and word-boundary matching; manual validation pending.
+CHECKIN_CHECKOUT,check-in,UNIGRAM,SEED,2,True,Phrase-first and word-boundary matching; manual validation pending.
+CHECKIN_CHECKOUT,checkin,UNIGRAM,SEED,0,True,Phrase-first and word-boundary matching; manual validation pending.
+CHECKIN_CHECKOUT,check out,PHRASE,SEED,1,True,Phrase-first and word-boundary matching; manual validation pending.
+CHECKIN_CHECKOUT,check-out,UNIGRAM,SEED,1,True,Phrase-first and word-boundary matching; manual validation pending.
+CHECKIN_CHECKOUT,checkout,UNIGRAM,SEED,0,True,Phrase-first and word-boundary matching; manual validation pending.
+CHECKIN_CHECKOUT,giriş saati,PHRASE,SEED,1,True,Phrase-first and word-boundary matching; manual validation pending.
+CHECKIN_CHECKOUT,çıkış saati,PHRASE,SEED,0,True,Phrase-first and word-boundary matching; manual validation pending.
+CHECKIN_CHECKOUT,oda teslim,PHRASE,SEED,0,True,Phrase-first and word-boundary matching; manual validation pending.
+CHECKIN_CHECKOUT,erken giriş,PHRASE,SEED,0,True,Phrase-first and word-boundary matching; manual validation pending.
+CHECKIN_CHECKOUT,geç giriş,PHRASE,SEED,0,True,Phrase-first and word-boundary matching; manual validation pending.
+AIR_CONDITIONING,klima,UNIGRAM,SEED,16,True,Phrase-first and word-boundary matching; manual validation pending.
+AIR_CONDITIONING,havalandırma,UNIGRAM,SEED,6,True,Phrase-first and word-boundary matching; manual validation pending.
+AIR_CONDITIONING,soğutmuyor,UNIGRAM,SEED,1,True,Phrase-first and word-boundary matching; manual validation pending.
+AIR_CONDITIONING,ısıtma,UNIGRAM,SEED,0,True,Phrase-first and word-boundary matching; manual validation pending.
+AIR_CONDITIONING,klimasız,UNIGRAM,SEED,2,True,Phrase-first and word-boundary matching; manual validation pending.
+AIR_CONDITIONING,klima çalışmıyor,PHRASE,SEED,1,True,Phrase-first and word-boundary matching; manual validation pending.
+NOISE,gürültü,UNIGRAM,SEED,5,True,Phrase-first and word-boundary matching; manual validation pending.
+NOISE,yüksek ses,PHRASE,SEED,0,True,Phrase-first and word-boundary matching; manual validation pending.
+NOISE,müzik sesi,PHRASE,SEED,0,True,Phrase-first and word-boundary matching; manual validation pending.
+NOISE,ses,UNIGRAM,SEED,8,True,Phrase-first and word-boundary matching; manual validation pending.
+NOISE,uyuyamadım,UNIGRAM,SEED,0,True,Phrase-first and word-boundary matching; manual validation pending.
+NOISE,uyuyamadık,UNIGRAM,SEED,2,True,Phrase-first and word-boundary matching; manual validation pending.
+NOISE,rahatsız edici müzik,PHRASE,SEED,0,True,Phrase-first and word-boundary matching; manual validation pending.
+FAMILY_CHILDREN,çocuk,UNIGRAM,SEED,21,True,Phrase-first and word-boundary matching; manual validation pending.
+FAMILY_CHILDREN,bebek,UNIGRAM,SEED,8,True,Phrase-first and word-boundary matching; manual validation pending.
+FAMILY_CHILDREN,aile,UNIGRAM,SEED,28,True,Phrase-first and word-boundary matching; manual validation pending.
+FAMILY_CHILDREN,çocuk kulübü,PHRASE,SEED,0,True,Phrase-first and word-boundary matching; manual validation pending.
+FAMILY_CHILDREN,kids club,PHRASE,SEED,0,True,Phrase-first and word-boundary matching; manual validation pending.
+FAMILY_CHILDREN,mini club,PHRASE,SEED,0,True,Phrase-first and word-boundary matching; manual validation pending.
+FAMILY_CHILDREN,çocuğum,UNIGRAM,SEED,13,True,Phrase-first and word-boundary matching; manual validation pending.
+FAMILY_CHILDREN,oğlum,UNIGRAM,SEED,7,True,Phrase-first and word-boundary matching; manual validation pending.
+FAMILY_CHILDREN,kızım,UNIGRAM,SEED,3,True,Phrase-first and word-boundary matching; manual validation pending.
+TRANSPORT_TRANSFER,transfer,UNIGRAM,SEED,3,True,Phrase-first and word-boundary matching; manual validation pending.
+TRANSPORT_TRANSFER,servis aracı,PHRASE,SEED,0,True,Phrase-first and word-boundary matching; manual validation pending.
+TRANSPORT_TRANSFER,shuttle,UNIGRAM,SEED,1,True,Phrase-first and word-boundary matching; manual validation pending.
+TRANSPORT_TRANSFER,taksi,UNIGRAM,SEED,2,True,Phrase-first and word-boundary matching; manual validation pending.
+TRANSPORT_TRANSFER,ulaşım,UNIGRAM,SEED,5,True,Phrase-first and word-boundary matching; manual validation pending.
+TRANSPORT_TRANSFER,havaalanı,UNIGRAM,SEED,0,True,Phrase-first and word-boundary matching; manual validation pending.
+TRANSPORT_TRANSFER,otopark,UNIGRAM,SEED,4,True,Phrase-first and word-boundary matching; manual validation pending.
+TRANSPORT_TRANSFER,araç servisi,PHRASE,SEED,0,True,Phrase-first and word-boundary matching; manual validation pending.
+MANAGEMENT_COMMUNICATION,iletişim,UNIGRAM,SEED,27,True,Phrase-first and word-boundary matching; manual validation pending.
+MANAGEMENT_COMMUNICATION,müdür,UNIGRAM,SEED,22,True,Phrase-first and word-boundary matching; manual validation pending.
+MANAGEMENT_COMMUNICATION,yönetim,UNIGRAM,SEED,66,True,Phrase-first and word-boundary matching; manual validation pending.
+MANAGEMENT_COMMUNICATION,yönetici,UNIGRAM,SEED,4,True,Phrase-first and word-boundary matching; manual validation pending.
+MANAGEMENT_COMMUNICATION,yetkili,UNIGRAM,SEED,46,True,Phrase-first and word-boundary matching; manual validation pending.
+MANAGEMENT_COMMUNICATION,telefon,UNIGRAM,SEED,41,True,Phrase-first and word-boundary matching; manual validation pending.
+MANAGEMENT_COMMUNICATION,ulaşamadım,UNIGRAM,SEED,1,True,Phrase-first and word-boundary matching; manual validation pending.
+MANAGEMENT_COMMUNICATION,geri dönüş,PHRASE,SEED,17,True,Phrase-first and word-boundary matching; manual validation pending.
+MANAGEMENT_COMMUNICATION,çözüm sunulmadı,PHRASE,CORPUS_DISCOVERED,16,True,Phrase-first and word-boundary matching; manual validation pending.
+MANAGEMENT_COMMUNICATION,muhatap,UNIGRAM,CORPUS_DISCOVERED,6,True,Phrase-first and word-boundary matching; manual validation pending.
+MANAGEMENT_COMMUNICATION,müşteri hizmetleri,PHRASE,CORPUS_DISCOVERED,6,True,Phrase-first and word-boundary matching; manual validation pending.
+MANAGEMENT_COMMUNICATION,cevap vermedi,PHRASE,SEED,1,True,Phrase-first and word-boundary matching; manual validation pending.
+MANAGEMENT_COMMUNICATION,bilgilendirme,UNIGRAM,SEED,20,True,Phrase-first and word-boundary matching; manual validation pending.
+SPA_WELLNESS,spa,UNIGRAM,SEED,9,True,Phrase-first and word-boundary matching; manual validation pending.
+SPA_WELLNESS,hamam,UNIGRAM,SEED,5,True,Phrase-first and word-boundary matching; manual validation pending.
+SPA_WELLNESS,sauna,UNIGRAM,SEED,1,True,Phrase-first and word-boundary matching; manual validation pending.
+SPA_WELLNESS,masaj,UNIGRAM,SEED,4,True,Phrase-first and word-boundary matching; manual validation pending.
+SPA_WELLNESS,wellness,UNIGRAM,SEED,0,True,Phrase-first and word-boundary matching; manual validation pending.
+SPA_WELLNESS,buhar odası,PHRASE,SEED,0,True,Phrase-first and word-boundary matching; manual validation pending.
+SAFETY_SECURITY,güvenlik,UNIGRAM,SEED,18,True,Phrase-first and word-boundary matching; manual validation pending.
+SAFETY_SECURITY,güvenli,UNIGRAM,SEED,26,True,Phrase-first and word-boundary matching; manual validation pending.
+SAFETY_SECURITY,hırsızlık,UNIGRAM,SEED,0,True,Phrase-first and word-boundary matching; manual validation pending.
+SAFETY_SECURITY,kasa,UNIGRAM,SEED,3,True,Phrase-first and word-boundary matching; manual validation pending.
+SAFETY_SECURITY,kayboldu,UNIGRAM,SEED,0,True,Phrase-first and word-boundary matching; manual validation pending.
+SAFETY_SECURITY,çalındı,UNIGRAM,SEED,3,True,Phrase-first and word-boundary matching; manual validation pending.
+SAFETY_SECURITY,tehlike,UNIGRAM,SEED,2,True,Phrase-first and word-boundary matching; manual validation pending.
+SAFETY_SECURITY,kaza,UNIGRAM,SEED,3,True,Phrase-first and word-boundary matching; manual validation pending.
+SAFETY_SECURITY,sağlık,UNIGRAM,SEED,18,True,Phrase-first and word-boundary matching; manual validation pending.
+SAFETY_SECURITY,hastane,UNIGRAM,SEED,11,True,Phrase-first and word-boundary matching; manual validation pending.
+SAFETY_SECURITY,doktor,UNIGRAM,SEED,9,True,Phrase-first and word-boundary matching; manual validation pending.
+SAFETY_SECURITY,yaralandı,UNIGRAM,SEED,2,True,Phrase-first and word-boundary matching; manual validation pending.
+SAFETY_SECURITY,zehirlenme,UNIGRAM,SEED,4,True,Phrase-first and word-boundary matching; manual validation pending.
+SAFETY_SECURITY,can güvenliği,PHRASE,SEED,1,True,Phrase-first and word-boundary matching; manual validation pending.
+SAFETY_SECURITY,ayrımcı,UNIGRAM,CORPUS_DISCOVERED,4,True,Phrase-first and word-boundary matching; manual validation pending.

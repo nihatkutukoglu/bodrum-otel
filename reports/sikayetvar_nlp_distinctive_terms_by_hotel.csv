@@ -1,0 +1,171 @@
+hotel_name,hotel_n,term,tfidf_score,document_count,rank
+Azure By Yelken Hotel,26,by,0.07193527042469237,20,1
+Azure By Yelken Hotel,26,kötü,0.046805511090614996,10,2
+Azure By Yelken Hotel,26,hijyen,0.04083112688087249,11,3
+Azure By Yelken Hotel,26,genel,0.03391491041027414,10,4
+Azure By Yelken Hotel,26,müşteri,0.03347649532150493,9,5
+Azure By Yelken Hotel,26,sorunları,0.031658711153369275,8,6
+Azure By Yelken Hotel,26,hizmet,0.03128700174725744,10,7
+Azure By Yelken Hotel,26,oda,0.02945446261480876,10,8
+Azure By Yelken Hotel,26,çözüm,0.02708215345317074,8,9
+Azure By Yelken Hotel,26,odada,0.026855395346634267,10,10
+Bendis Beach Hotel,12,genel,0.04711117487059145,6,1
+Bendis Beach Hotel,12,duş,0.042882751571975894,4,2
+Bendis Beach Hotel,12,hijyen,0.04193808780635011,6,3
+Bendis Beach Hotel,12,yemekler,0.041811497308704884,6,4
+Bendis Beach Hotel,12,açısından,0.04029541892624111,4,5
+Bendis Beach Hotel,12,derece,0.03971266567264274,7,6
+Bendis Beach Hotel,12,yaptık,0.039018170738618116,5,7
+Bendis Beach Hotel,12,ertesi,0.03825572934170526,4,8
+Bendis Beach Hotel,12,su,0.03790288515993804,2,9
+Bendis Beach Hotel,12,hamam,0.03774618948510206,2,10
+Club Marma Hotel,5,alkollü,0.17232021483813875,4,1
+Club Marma Hotel,5,küfürler,0.17170567837271306,3,2
+Club Marma Hotel,5,işletme,0.12255075988494424,3,3
+Club Marma Hotel,5,hakaret,0.11247315623344455,3,4
+Club Marma Hotel,5,sarhoş,0.10510306142883821,2,5
+Club Marma Hotel,5,asla,0.09580432201920677,3,6
+Club Marma Hotel,5,işletmecisi,0.09093389312532263,2,7
+Club Marma Hotel,5,ışıkları,0.08916924550548733,2,8
+Club Marma Hotel,5,aşırı,0.08873363998259466,2,9
+Club Marma Hotel,5,etti,0.08868637113775812,2,10
+Green Bay Resort & Spa Bodrum,10,eylül,0.04110989667189798,3,1
+Green Bay Resort & Spa Bodrum,10,yemek,0.04038039152591263,5,2
+Green Bay Resort & Spa Bodrum,10,hijyen,0.04024807786413575,4,3
+Green Bay Resort & Spa Bodrum,10,sürekli,0.03880962334235456,5,4
+Green Bay Resort & Spa Bodrum,10,bugün,0.0370603480758008,4,5
+Green Bay Resort & Spa Bodrum,10,rahatsız,0.03656539164422832,4,6
+Green Bay Resort & Spa Bodrum,10,ye,0.03654436948896585,4,7
+Green Bay Resort & Spa Bodrum,10,misafirler,0.03608493745391313,4,8
+Green Bay Resort & Spa Bodrum,10,rahatsız edici,0.03463866606376713,3,9
+Green Bay Resort & Spa Bodrum,10,kabul,0.034578245498527144,4,10
+Kadıkale Resort,7,sürekli,0.056608605625241254,3,1
+Kadıkale Resort,7,odanın,0.05472666986673775,2,2
+Kadıkale Resort,7,rahatsız,0.04435325172295387,3,3
+Kadıkale Resort,7,oda,0.04395464063323921,3,4
+Kadıkale Resort,7,çalışan,0.04303392162298829,2,5
+Kadıkale Resort,7,temmuz,0.04262815385429498,2,6
+Kadıkale Resort,7,etmeyeceğim,0.03977615492649997,1,7
+Kadıkale Resort,7,asla tercih,0.03977615492649997,1,8
+Kadıkale Resort,7,devam etti,0.03967897716038159,2,9
+Kadıkale Resort,7,iki,0.03934923439713493,3,10
+Kefaluka Resort,27,rezervasyon,0.03464815867023575,11,1
+Kefaluka Resort,27,akşam,0.029328326232692666,9,2
+Kefaluka Resort,27,güvenlik,0.028678863931984704,5,3
+Kefaluka Resort,27,hiçbir,0.026974520790895934,12,4
+Kefaluka Resort,27,kaldık,0.026016449880280835,9,5
+Kefaluka Resort,27,hijyen,0.02576914232057923,6,6
+Kefaluka Resort,27,saat,0.025601511248865998,9,7
+Kefaluka Resort,27,dediler,0.025027941448261055,5,8
+Kefaluka Resort,27,resmi,0.024847475931522114,7,9
+Kefaluka Resort,27,durumu,0.02451534938310728,9,10
+La Blanche Island Bodrum,18,la,0.06587663744360388,13,1
+La Blanche Island Bodrum,18,oda,0.03987195993015018,8,2
+La Blanche Island Bodrum,18,balayı,0.03708436076973164,3,3
+La Blanche Island Bodrum,18,büyük,0.034876432492595914,6,4
+La Blanche Island Bodrum,18,altında,0.03370728439266325,6,5
+La Blanche Island Bodrum,18,müşteri,0.03218981219627299,6,6
+La Blanche Island Bodrum,18,çoğu,0.03011097911275755,4,7
+La Blanche Island Bodrum,18,derece,0.028800013208064454,7,8
+La Blanche Island Bodrum,18,personel,0.028133822217757704,7,9
+La Blanche Island Bodrum,18,oda verildi,0.027794328162165538,3,10
+La Blanche Resort Bodrum,12,la,0.066135813962615,9,1
+La Blanche Resort Bodrum,12,var,0.04666356087503102,5,2
+La Blanche Resort Bodrum,12,oda,0.04597499700034016,5,3
+La Blanche Resort Bodrum,12,sabah,0.04042373641667331,4,4
+La Blanche Resort Bodrum,12,güvenlik,0.040393428463932596,3,5
+La Blanche Resort Bodrum,12,hizmet,0.03973752186285271,5,6
+La Blanche Resort Bodrum,12,çocuğun,0.03891430586812053,2,7
+La Blanche Resort Bodrum,12,yok,0.03826199249023668,5,8
+La Blanche Resort Bodrum,12,şemsiye,0.036983356977654716,2,9
+La Blanche Resort Bodrum,12,yetersiz,0.03667300362308236,2,10
+La Quinta by Wyndham Bodrum,5,arkadaş,0.09444191352903154,2,1
+La Quinta by Wyndham Bodrum,5,ışığı,0.08574422028637611,1,2
+La Quinta by Wyndham Bodrum,5,la by,0.08335859758784508,3,3
+La Quinta by Wyndham Bodrum,5,vale,0.0698863759796509,1,4
+La Quinta by Wyndham Bodrum,5,hizmetin,0.05796738310048573,2,5
+La Quinta by Wyndham Bodrum,5,by otelinde,0.05629414434012249,2,6
+La Quinta by Wyndham Bodrum,5,yazılı,0.05516484655166096,2,7
+La Quinta by Wyndham Bodrum,5,oda,0.05475819761875334,2,8
+La Quinta by Wyndham Bodrum,5,by,0.05379309586660916,3,9
+La Quinta by Wyndham Bodrum,5,rezervasyon,0.0535679947024897,2,10
+Ladonia Hotels Zemda,7,iade,0.12568976607159718,6,1
+Ladonia Hotels Zemda,7,tarafıma,0.08330276208239398,5,2
+Ladonia Hotels Zemda,7,yaklaşık,0.08074583954619358,5,3
+Ladonia Hotels Zemda,7,rezervasyon,0.07764797827465848,7,4
+Ladonia Hotels Zemda,7,iade edilmesini,0.0744467775386493,6,5
+Ladonia Hotels Zemda,7,iptal,0.07146427182424346,4,6
+Ladonia Hotels Zemda,7,tarafıma iade,0.07030228418033888,4,7
+Ladonia Hotels Zemda,7,edilmesini,0.06771815723359938,6,8
+Ladonia Hotels Zemda,7,rezervasyonu,0.06648592021633633,4,9
+Ladonia Hotels Zemda,7,temmuz,0.06601298605229286,4,10
+Petunya Beach Resort,13,tarafıma,0.06867749136124922,6,1
+Petunya Beach Resort,13,iptal,0.06520062960817996,6,2
+Petunya Beach Resort,13,iade,0.06296528979568039,7,3
+Petunya Beach Resort,13,günü,0.059072391070453076,6,4
+Petunya Beach Resort,13,iş günü,0.05380500382655644,5,5
+Petunya Beach Resort,13,günü içinde,0.05255859280733368,4,6
+Petunya Beach Resort,13,iş,0.049674526859418144,5,7
+Petunya Beach Resort,13,paramın,0.04313857469952987,3,8
+Petunya Beach Resort,13,jolly,0.041678983123349875,2,9
+Petunya Beach Resort,13,istiyoruz,0.03822578025675593,3,10
+Salmakis Resort & Spa,7,adeta,0.05513107415795168,3,1
+Salmakis Resort & Spa,7,düzgün,0.05411954329373121,4,2
+Salmakis Resort & Spa,7,gerekli,0.0497750191472582,4,3
+Salmakis Resort & Spa,7,plaj,0.046986865031423075,3,4
+Salmakis Resort & Spa,7,yoktu,0.046809904246126896,3,5
+Salmakis Resort & Spa,7,hissettik,0.0466525174075218,3,6
+Salmakis Resort & Spa,7,yerinde,0.04211892944000871,2,7
+Salmakis Resort & Spa,7,dışarı,0.041437177949937835,1,8
+Salmakis Resort & Spa,7,yaklaşımı,0.040610955335898646,3,9
+Salmakis Resort & Spa,7,derece,0.04030990761014343,4,10
+Sami Beach Hotel,6,yardımcı,0.08530558906825308,5,1
+Sami Beach Hotel,6,dediler,0.0587103891126429,2,2
+Sami Beach Hotel,6,tekrar,0.05512565848425126,3,3
+Sami Beach Hotel,6,önce,0.05494476671740135,3,4
+Sami Beach Hotel,6,istedim,0.054668124626119974,2,5
+Sami Beach Hotel,6,oda,0.05333384269249035,3,6
+Sami Beach Hotel,6,rezervasyon,0.05252375003857041,3,7
+Sami Beach Hotel,6,iptal,0.05207539602013858,2,8
+Sami Beach Hotel,6,giriş,0.05183677998153865,3,9
+Sami Beach Hotel,6,arayıp,0.05156486077838873,3,10
+Selectum Colours Bodrum,8,bey,0.07045798970050536,3,1
+Selectum Colours Bodrum,8,balayı,0.06369755650823455,2,2
+Selectum Colours Bodrum,8,iki,0.059907044775883864,3,3
+Selectum Colours Bodrum,8,adet,0.05323295308653153,1,4
+Selectum Colours Bodrum,8,çıktı,0.051280427098534094,3,5
+Selectum Colours Bodrum,8,tane,0.051222964337619074,1,6
+Selectum Colours Bodrum,8,restoran,0.049428600670424996,3,7
+Selectum Colours Bodrum,8,böcek,0.046909693364896414,2,8
+Selectum Colours Bodrum,8,kendilerinin,0.046112986452217564,2,9
+Selectum Colours Bodrum,8,odada,0.04204083986649462,5,10
+The Oba Hotel,10,erken,0.06922117829397063,3,1
+The Oba Hotel,10,parayı,0.06382297131317197,4,2
+The Oba Hotel,10,rezervasyon,0.058083802084410066,5,3
+The Oba Hotel,10,ödeme,0.053486610727493486,4,4
+The Oba Hotel,10,iade,0.052851171141807984,3,5
+The Oba Hotel,10,geliyor,0.05280154049117723,3,6
+The Oba Hotel,10,bayanlar,0.048092772779962746,3,7
+The Oba Hotel,10,banyo,0.04243762077244588,2,8
+The Oba Hotel,10,akşam,0.03766191663533709,3,9
+The Oba Hotel,10,hak,0.03687202852605796,3,10
+Titanic Luxury Collection Bodrum,5,beklerdim,0.0826844862317471,2,1
+Titanic Luxury Collection Bodrum,5,numaram,0.08075184108610345,2,2
+Titanic Luxury Collection Bodrum,5,dönüş,0.07491876811125986,2,3
+Titanic Luxury Collection Bodrum,5,sebebiyle,0.06864357781278893,3,4
+Titanic Luxury Collection Bodrum,5,merdiven,0.06735871114009137,1,5
+Titanic Luxury Collection Bodrum,5,sağlık,0.06705043324083854,2,6
+Titanic Luxury Collection Bodrum,5,yapılacağı söylendi,0.06413661224696392,2,7
+Titanic Luxury Collection Bodrum,5,talebinde,0.06413661224696392,2,8
+Titanic Luxury Collection Bodrum,5,geri dönüş,0.06313391808524457,2,9
+Titanic Luxury Collection Bodrum,5,kullanım,0.06171491926291689,2,10
+Yasmin Bodrum Resort,21,jolly,0.04938945000094194,5,1
+Yasmin Bodrum Resort,21,yok,0.045450871837757485,9,2
+Yasmin Bodrum Resort,21,jolly tur,0.03756299235725744,4,3
+Yasmin Bodrum Resort,21,sıfır,0.03373555396250845,4,4
+Yasmin Bodrum Resort,21,tur,0.03341468334973475,4,5
+Yasmin Bodrum Resort,21,yıl,0.03279162476397183,4,6
+Yasmin Bodrum Resort,21,in,0.03226114705463702,4,7
+Yasmin Bodrum Resort,21,saat,0.030717943995915088,8,8
+Yasmin Bodrum Resort,21,sanki,0.030484682076284502,3,9
+Yasmin Bodrum Resort,21,değil,0.028571588560610327,5,10

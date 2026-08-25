@@ -1,0 +1,7 @@
+﻿metric_pair,airport_metric,tourism_metric,lag_months,alignment,n,pearson_r,spearman_rho,p_value,note
+total airport vs total tourism,airport_total_passengers,tourism_total_arrivals,0,airport_t vs tourism_t,12,0.952369373859555,0.9860139860139862,4.1168959116543284e-09,Exploratory only; lag is not predictive or causal.
+total airport vs total tourism,airport_total_passengers,tourism_total_arrivals,1,airport_t vs tourism_t+1,11,0.9189895366562817,0.9090909090909091,0.0001055933763036088,Exploratory only; lag is not predictive or causal.
+international airport vs foreign tourism,airport_international_passengers,tourism_foreign_arrivals,0,airport_t vs tourism_t,12,0.9466786844123276,0.965034965034965,3.88098529962746e-07,Exploratory only; lag is not predictive or causal.
+international airport vs foreign tourism,airport_international_passengers,tourism_foreign_arrivals,1,airport_t vs tourism_t+1,11,0.8991449302600814,0.9090909090909091,0.0001055933763036088,Exploratory only; lag is not predictive or causal.
+domestic airport vs domestic tourism,airport_domestic_passengers,tourism_domestic_arrivals,0,airport_t vs tourism_t,12,0.926860036547609,0.9300699300699302,1.170222792865967e-05,Exploratory only; lag is not predictive or causal.
+domestic airport vs domestic tourism,airport_domestic_passengers,tourism_domestic_arrivals,1,airport_t vs tourism_t+1,11,0.8471962722292012,0.9272727272727275,3.973774256558551e-05,Exploratory only; lag is not predictive or causal.

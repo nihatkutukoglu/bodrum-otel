@@ -1,0 +1,1 @@
+Keyword aspect detection is descriptive and requires manual validation. Public capped samples are not probability samples. Missing or insufficient-sample values remain blank/NaN, never synthetic zero. Hotel Explorer integration is intentionally outside this task.

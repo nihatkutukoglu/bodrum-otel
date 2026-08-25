@@ -1,0 +1,14 @@
+ŞİKAYETVAR ALL-HOTELS AUDIT & CLEANING — KEY FINDINGS
+
+- Raw complaint corpus 248 satırdır; 236 complaint-level matched, 12 review-required kaydı vardır.
+- Ana clean corpus 236 canonical-unique matched complaint içerir; review-required kayıtlar ayrı dosyadadır.
+- Raw canonical URL duplicate excess 3; clean corpusta duplicate canonical URL yoktur.
+- Clean corpusta missing complaint text 7; bu kayıtlar flag ile korunmuştur.
+- Clean date parse coverage 226/236 (%95.8); 86 kayıt approximate'tir.
+- Raw replies 97; clean linked replies 97; orphan replies 0.
+- Raw company response flag count 43; clean matched corpusta 39.
+- Company response flag/text mismatch 0; raw flag vs derived COMPANY reply mismatch 4.
+- User reply count mismatch 0; mismatch'ler sessizce overwrite edilmemiştir.
+- En yüksek clean complaint coverage: Kefaluka Resort (29).
+- Clean complaint bulunan area 11/14; sıfır clean complaint gözlenen area 3.
+- Corpus audit/cleaning açısından Notebook 13 EDA'ya hazırdır; complaint hacmi kalite metriği olarak kullanılmamalıdır.

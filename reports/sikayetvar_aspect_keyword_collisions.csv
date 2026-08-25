@@ -1,0 +1,3 @@
+aspect,keyword,keyword_type,source,document_count,included,notes
+FOOD_BEVERAGE,zehirlenme,UNIGRAM,SEED,4,True,Phrase-first and word-boundary matching; manual validation pending.
+SAFETY_SECURITY,zehirlenme,UNIGRAM,SEED,4,True,Phrase-first and word-boundary matching; manual validation pending.

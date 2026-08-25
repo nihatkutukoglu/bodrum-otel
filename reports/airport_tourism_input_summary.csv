@@ -1,0 +1,3 @@
+﻿dataset_name,row_count,geography,geography_level,time_grain,start_period,end_period,main_metrics,source_origin
+Milas-Bodrum Airport Monthly 2025,12,Muğla Milas-Bodrum,airport / regional gateway,monthly,2025-01,2025-12,"domestic, international, total passengers; cumulative passengers",DHMİ passenger statistics (documented in data_status/source_url)
+Muğla Tourism Monthly 2025,12,Muğla,province,monthly,2025-01,2025-12,"domestic/foreign/total accommodation arrivals, overnights, occupancy",T.C. Kültür ve Turizm Bakanlığı konaklama istatistikleri
