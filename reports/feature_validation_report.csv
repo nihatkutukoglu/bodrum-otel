@@ -1,0 +1,9 @@
+﻿check,status,issue_count,detail
+row_count_preserved,PASS,0,Satır eklenmemeli veya silinmemelidir.
+source_columns_unchanged,PASS,0,Değişen kaynak kolonlar: []
+keys_preserved,PASS,0,Otel kimlikleri ve sırası korunmalıdır.
+area_hotel_count_matches,PASS,0,Bölge sayısı ana tablodan hesaplanmalıdır.
+confidence_weight_in_range,PASS,0,Güven ağırlığı 0-1 aralığında olmalıdır.
+weighted_rating_in_range,PASS,0,Ağırlıklı puan 0-5 aralığında olmalıdır.
+price_availability_matches,PASS,0,Fiyat varlık göstergesi gerçek eksiklikle eşleşmelidir.
+missing_prices_not_imputed,PASS,0,Eksik otel fiyatından otel düzeyi fiyat özelliği üretilmemelidir.

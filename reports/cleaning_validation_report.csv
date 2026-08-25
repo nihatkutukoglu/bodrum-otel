@@ -1,0 +1,10 @@
+﻿check,status,issue_count,detail
+row_count_preserved,PASS,0,Temizleme satır eklememeli veya silmemelidir.
+required_ids_present,PASS,0,hotel_id ve place_id zorunludur.
+required_ids_unique,PASS,0,hotel_id/place_id çifti benzersiz olmalıdır.
+google_rating_in_range,PASS,0,Google müşteri puanı 0-5 aralığında olmalıdır.
+google_rating_scale_is_five,PASS,0,Mevcut puan ölçeği 5 olmalıdır.
+review_count_non_negative,PASS,0,Yorum sayısı negatif olamaz.
+snapshot_price_positive,PASS,0,Dolu fiyat snapshot değeri pozitif olmalıdır.
+official_star_in_range,PASS,0,Dolu resmî yıldız 1-5 aralığında olmalıdır.
+area_hotel_count_matches,PASS,0,Bölge otel sayısı ana tablodan türetilmelidir.

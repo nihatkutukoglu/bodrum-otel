@@ -1,0 +1,15 @@
+﻿feature,dtype,feature_group,definition,missing_policy,caution
+has_price_snapshot,boolean,availability,Fiyat snapshot değerinin bulunup bulunmadığı.,Eksik fiyat doldurulmaz; False olarak işaretlenir.,Fiyatın kalitesi veya güncelliği hakkında hüküm vermez.
+has_official_star_rating,boolean,availability,Doğrulanmış resmî yıldız bilgisinin bulunup bulunmadığı.,Eksik yıldız doldurulmaz; False olarak işaretlenir.,Google müşteri puanından yıldız türetilmez.
+has_phone,boolean,availability,Telefon bilgisinin bulunup bulunmadığı.,Eksik telefon doldurulmaz; False olarak işaretlenir.,İletişim kalitesini ölçmez.
+has_business_status,boolean,availability,Google business status bilgisinin bulunup bulunmadığı.,Eksik durum doldurulmaz; False olarak işaretlenir.,Eksiklik işletmenin kapalı olduğu anlamına gelmez.
+review_count_log1p,Float64,distribution,Google yorum sayısının log(1+x) dönüşümü.,Yorum sayısı eksikse sonuç eksik kalır.,Orijinal yorum sayısının yerine geçmez.
+review_confidence_weight,Float64,rating,"v/(v+m); v yorum sayısı, m veri seti medyan yorum sayısıdır.",Puan veya yorum sayısı eksikse sonuç eksik kalır.,İstatistiksel güven aralığı değildir; şeffaf bir ağırlıktır.
+weighted_google_rating,Float64,rating,Yorum hacmine göre genel ortalamaya daraltılmış Google puanı.,Puan veya yorum sayısı eksikse sonuç eksik kalır.,Rating tahmininde girdi olarak kullanılırsa hedef sızıntısı yaratır.
+area_median_google_rating,Float64,area_context,Otelin bölgesindeki medyan Google müşteri puanı.,Bölgedeki mevcut puanlardan hesaplanır.,Küçük bölgelerde örneklem hassasiyeti vardır.
+rating_gap_from_area_median,Float64,area_context,Otel puanı eksi bölge medyan puanı.,Gerekli değer eksikse sonuç eksik kalır.,Nedensel etki göstermez.
+area_median_price_snapshot,Float64,price_context,Aynı bölgedeki dolu fiyat snapshotlarının medyanı.,Eksik fiyatlar medyan hesabında yok sayılır; doldurulmaz.,Yalnızca aynı snapshot bağlamında yorumlanmalıdır.
+price_gap_from_area_median,Float64,price_context,Otel fiyat snapshotı eksi bölge medyan fiyat snapshotı.,Otel fiyatı eksikse sonuç eksik kalır.,Kalıcı otel fiyatı değildir.
+price_ratio_to_area_median,Float64,price_context,Otel fiyat snapshotının bölge medyanına oranı.,Otel fiyatı eksik veya medyan sıfırsa sonuç eksik kalır.,Oda ve rezervasyon koşulları bilinmeden performans skoru değildir.
+price_percentile_within_area,Float64,price_context,Fiyatın kendi bölgesindeki yüzdelik sırası.,Eksik fiyatın sırası eksik kalır.,Az fiyat gözlemli bölgelerde dikkatle yorumlanmalıdır.
+review_count_percentile_within_area,Float64,popularity_context,Yorum sayısının kendi bölgesindeki yüzdelik sırası.,Eksik yorum sayısının sırası eksik kalır.,Yorum sayısı tek başına talep veya kalite ölçüsü değildir.

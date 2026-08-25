@@ -1,0 +1,11 @@
+﻿check_name,issue_count,status
+google_rating_above_scale,0,PASS
+google_rating_below_zero,0,PASS
+google_review_count_negative,0,PASS
+search_price_non_positive,0,PASS
+official_star_out_of_range,0,PASS
+district_not_bodrum,0,PASS
+province_not_mugla,0,PASS
+country_not_turkiye,0,PASS
+hotel_id_duplicate,0,PASS
+place_id_duplicate,0,PASS

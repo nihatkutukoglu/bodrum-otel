@@ -1,0 +1,15 @@
+﻿area,hotel_count,avg_google_rating,median_google_rating,total_google_reviews,median_price_snapshot,low_sample_area
+Kadıkalesi,4,4.3,4.35,11520,446.0,True
+Türkbükü,6,4.45,4.45,3670,532.0,False
+Turgutreis,7,4.428571428571429,4.6,14095,123.5,False
+Göltürkbükü,10,4.4799999999999995,4.45,6008,165.0,False
+Güvercinlik,10,4.16,4.25,25239,162.5,False
+Bodrum Merkez,13,4.3,4.3,18174,169.0,False
+Gündoğan,14,4.585714285714286,4.5,6520,189.5,False
+Gümbet,15,4.093333333333333,4.0,32519,128.0,False
+Gümüşlük,15,4.506666666666666,4.5,4166,106.0,False
+Akyarlar,16,4.45,4.4,27426,192.5,False
+Bitez,18,4.227777777777778,4.35,12354,131.5,False
+Ortakent-Yahşi,21,4.295238095238095,4.3,9874,130.0,False
+Torba,21,4.366666666666667,4.4,23707,248.0,False
+Yalıkavak,22,4.463636363636364,4.45,9571,329.5,False

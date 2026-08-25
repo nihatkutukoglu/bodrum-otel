@@ -1,0 +1,6 @@
+﻿dimension,score,weight,weighted_score
+Completeness,88.671875,0.3,26.6015625
+Uniqueness,100.0,0.2,20.0
+Validity,100.0,0.25,25.0
+Consistency,100.0,0.15,15.0
+Source coverage,100.0,0.1,10.0

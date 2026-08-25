@@ -1,0 +1,36 @@
+﻿step,column,affected_rows,note
+trim_whitespace,hotel_id,0,Baş/son boşlukları kaldırıldı.
+empty_string_to_null,hotel_id,0,Boş metinler eksik değer olarak işaretlendi.
+trim_whitespace,place_id,0,Baş/son boşlukları kaldırıldı.
+empty_string_to_null,place_id,0,Boş metinler eksik değer olarak işaretlendi.
+trim_whitespace,hotel_name,0,Baş/son boşlukları kaldırıldı.
+empty_string_to_null,hotel_name,0,Boş metinler eksik değer olarak işaretlendi.
+trim_whitespace,area,0,Baş/son boşlukları kaldırıldı.
+empty_string_to_null,area,0,Boş metinler eksik değer olarak işaretlendi.
+trim_whitespace,district,0,Baş/son boşlukları kaldırıldı.
+empty_string_to_null,district,0,Boş metinler eksik değer olarak işaretlendi.
+trim_whitespace,province,0,Baş/son boşlukları kaldırıldı.
+empty_string_to_null,province,0,Boş metinler eksik değer olarak işaretlendi.
+trim_whitespace,country,0,Baş/son boşlukları kaldırıldı.
+empty_string_to_null,country,0,Boş metinler eksik değer olarak işaretlendi.
+trim_whitespace,property_category,0,Baş/son boşlukları kaldırıldı.
+empty_string_to_null,property_category,0,Boş metinler eksik değer olarak işaretlendi.
+trim_whitespace,price_note,0,Baş/son boşlukları kaldırıldı.
+empty_string_to_null,price_note,0,Boş metinler eksik değer olarak işaretlendi.
+trim_whitespace,address,0,Baş/son boşlukları kaldırıldı.
+empty_string_to_null,address,0,Boş metinler eksik değer olarak işaretlendi.
+trim_whitespace,phone,0,Baş/son boşlukları kaldırıldı.
+empty_string_to_null,phone,0,Boş metinler eksik değer olarak işaretlendi.
+trim_whitespace,business_status,0,Baş/son boşlukları kaldırıldı.
+empty_string_to_null,business_status,0,Boş metinler eksik değer olarak işaretlendi.
+trim_whitespace,source_url,0,Baş/son boşlukları kaldırıldı.
+empty_string_to_null,source_url,0,Boş metinler eksik değer olarak işaretlendi.
+convert_to_nullable_float,official_star_rating,0,Sayısala çevrilemeyen dolu değer sayısıdır.
+convert_to_nullable_float,google_rating,0,Sayısala çevrilemeyen dolu değer sayısıdır.
+convert_to_nullable_float,search_price_usd_snapshot,0,Sayısala çevrilemeyen dolu değer sayısıdır.
+convert_to_nullable_integer,google_rating_scale,0,Sayısala çevrilemeyen veya tam sayı olmayan değer sayısıdır.
+non_integer_values,google_rating_scale,0,Tam sayı kolonunda bulunan ondalıklı değer sayısıdır.
+convert_to_nullable_integer,google_review_count,0,Sayısala çevrilemeyen veya tam sayı olmayan değer sayısıdır.
+non_integer_values,google_review_count,0,Tam sayı kolonunda bulunan ondalıklı değer sayısıdır.
+parse_iso_date,collected_at,0,Geçersiz dolu tarih sayısıdır.
+derive_area_hotel_count,area_hotel_count,192,Ayrı bölge özet dosyası kullanmadan ana DataFrame içinden hesaplandı.

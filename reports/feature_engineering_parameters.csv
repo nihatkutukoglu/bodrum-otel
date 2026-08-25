@@ -1,0 +1,3 @@
+﻿parameter,value,definition
+global_mean_google_rating,4.363541666666666,Ağırlıklı puanda kullanılan tüm otellerin ortalama Google puanı.
+review_count_median_m,466.0,Ağırlıklı puanda kullanılan veri seti medyan yorum sayısı.

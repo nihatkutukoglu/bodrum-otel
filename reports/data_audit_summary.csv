@@ -1,0 +1,11 @@
+﻿metric,value
+rows,192.0
+columns,20.0
+total_cells,3840.0
+missing_cells,435.0
+missing_percentage,11.328125
+duplicate_rows,0.0
+unique_hotel_id,192.0
+unique_place_id,192.0
+destination_count,14.0
+memory_usage_mb,0.2644920349121094
