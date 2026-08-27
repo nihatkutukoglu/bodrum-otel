@@ -1,0 +1,912 @@
+{
+  "master_n": 192,
+  "trip_verified_n": 96,
+  "google_verified_n": 108,
+  "google": {
+    "clean_reviews": 2336,
+    "hotels": 104,
+    "mean_rating": 4.13,
+    "rating_group_dist": {
+      "HIGH": 1785,
+      "LOW": 407,
+      "MID": 141
+    },
+    "rating_group_pct": {
+      "HIGH": 76.5,
+      "LOW": 17.4,
+      "MID": 6.0
+    },
+    "aspects": [
+      {
+        "aspect": "ANIMATION_ENTERTAINMENT",
+        "n_mentions": 278,
+        "mean_rating_when_mentioned": 4.24,
+        "median_rating_when_mentioned": 5.0,
+        "low_rating_share_when_mentioned": 12.9,
+        "high_rating_share_when_mentioned": 80.6,
+        "driver_score": 67.69999999999999
+      },
+      {
+        "aspect": "STAFF",
+        "n_mentions": 1376,
+        "mean_rating_when_mentioned": 4.21,
+        "median_rating_when_mentioned": 5.0,
+        "low_rating_share_when_mentioned": 15.3,
+        "high_rating_share_when_mentioned": 79.0,
+        "driver_score": 63.7
+      },
+      {
+        "aspect": "LOCATION",
+        "n_mentions": 815,
+        "mean_rating_when_mentioned": 4.19,
+        "median_rating_when_mentioned": 5.0,
+        "low_rating_share_when_mentioned": 15.3,
+        "high_rating_share_when_mentioned": 77.8,
+        "driver_score": 62.5
+      },
+      {
+        "aspect": "FOOD",
+        "n_mentions": 1377,
+        "mean_rating_when_mentioned": 4.18,
+        "median_rating_when_mentioned": 5.0,
+        "low_rating_share_when_mentioned": 15.5,
+        "high_rating_share_when_mentioned": 77.9,
+        "driver_score": 62.400000000000006
+      },
+      {
+        "aspect": "TRANSPORT_TRANSFER",
+        "n_mentions": 21,
+        "mean_rating_when_mentioned": 3.9,
+        "median_rating_when_mentioned": 4.0,
+        "low_rating_share_when_mentioned": 19.0,
+        "high_rating_share_when_mentioned": 81.0,
+        "driver_score": 62.0
+      },
+      {
+        "aspect": "CLEANLINESS",
+        "n_mentions": 1174,
+        "mean_rating_when_mentioned": 4.15,
+        "median_rating_when_mentioned": 5.0,
+        "low_rating_share_when_mentioned": 16.8,
+        "high_rating_share_when_mentioned": 77.4,
+        "driver_score": 60.60000000000001
+      },
+      {
+        "aspect": "FAMILY_KIDS",
+        "n_mentions": 526,
+        "mean_rating_when_mentioned": 4.13,
+        "median_rating_when_mentioned": 5.0,
+        "low_rating_share_when_mentioned": 17.1,
+        "high_rating_share_when_mentioned": 77.2,
+        "driver_score": 60.1
+      },
+      {
+        "aspect": "BEACH_SEA",
+        "n_mentions": 1060,
+        "mean_rating_when_mentioned": 4.12,
+        "median_rating_when_mentioned": 5.0,
+        "low_rating_share_when_mentioned": 16.5,
+        "high_rating_share_when_mentioned": 75.8,
+        "driver_score": 59.3
+      },
+      {
+        "aspect": "BED_COMFORT",
+        "n_mentions": 471,
+        "mean_rating_when_mentioned": 4.12,
+        "median_rating_when_mentioned": 5.0,
+        "low_rating_share_when_mentioned": 18.3,
+        "high_rating_share_when_mentioned": 75.4,
+        "driver_score": 57.10000000000001
+      },
+      {
+        "aspect": "POOL",
+        "n_mentions": 459,
+        "mean_rating_when_mentioned": 4.07,
+        "median_rating_when_mentioned": 5.0,
+        "low_rating_share_when_mentioned": 16.8,
+        "high_rating_share_when_mentioned": 73.6,
+        "driver_score": 56.8
+      },
+      {
+        "aspect": "BAR_DRINKS",
+        "n_mentions": 758,
+        "mean_rating_when_mentioned": 4.01,
+        "median_rating_when_mentioned": 5.0,
+        "low_rating_share_when_mentioned": 18.6,
+        "high_rating_share_when_mentioned": 74.4,
+        "driver_score": 55.800000000000004
+      },
+      {
+        "aspect": "SERVICE",
+        "n_mentions": 700,
+        "mean_rating_when_mentioned": 4.06,
+        "median_rating_when_mentioned": 5.0,
+        "low_rating_share_when_mentioned": 19.0,
+        "high_rating_share_when_mentioned": 73.6,
+        "driver_score": 54.599999999999994
+      },
+      {
+        "aspect": "ROOM",
+        "n_mentions": 1328,
+        "mean_rating_when_mentioned": 3.96,
+        "median_rating_when_mentioned": 5.0,
+        "low_rating_share_when_mentioned": 21.2,
+        "high_rating_share_when_mentioned": 71.6,
+        "driver_score": 50.39999999999999
+      },
+      {
+        "aspect": "MANAGEMENT",
+        "n_mentions": 383,
+        "mean_rating_when_mentioned": 3.92,
+        "median_rating_when_mentioned": 5.0,
+        "low_rating_share_when_mentioned": 25.1,
+        "high_rating_share_when_mentioned": 70.8,
+        "driver_score": 45.699999999999996
+      },
+      {
+        "aspect": "NOISE",
+        "n_mentions": 594,
+        "mean_rating_when_mentioned": 3.85,
+        "median_rating_when_mentioned": 5.0,
+        "low_rating_share_when_mentioned": 23.4,
+        "high_rating_share_when_mentioned": 68.7,
+        "driver_score": 45.300000000000004
+      },
+      {
+        "aspect": "FACILITIES",
+        "n_mentions": 508,
+        "mean_rating_when_mentioned": 3.82,
+        "median_rating_when_mentioned": 5.0,
+        "low_rating_share_when_mentioned": 23.2,
+        "high_rating_share_when_mentioned": 67.1,
+        "driver_score": 43.89999999999999
+      },
+      {
+        "aspect": "PRICE_VALUE",
+        "n_mentions": 690,
+        "mean_rating_when_mentioned": 3.68,
+        "median_rating_when_mentioned": 5.0,
+        "low_rating_share_when_mentioned": 27.4,
+        "high_rating_share_when_mentioned": 64.2,
+        "driver_score": 36.800000000000004
+      },
+      {
+        "aspect": "CHECKIN_CHECKOUT",
+        "n_mentions": 283,
+        "mean_rating_when_mentioned": 3.61,
+        "median_rating_when_mentioned": 5.0,
+        "low_rating_share_when_mentioned": 29.3,
+        "high_rating_share_when_mentioned": 61.5,
+        "driver_score": 32.2
+      },
+      {
+        "aspect": "HYGIENE",
+        "n_mentions": 185,
+        "mean_rating_when_mentioned": 3.08,
+        "median_rating_when_mentioned": 3.0,
+        "low_rating_share_when_mentioned": 42.7,
+        "high_rating_share_when_mentioned": 48.1,
+        "driver_score": 5.399999999999999
+      },
+      {
+        "aspect": "AIR_CONDITIONING",
+        "n_mentions": 65,
+        "mean_rating_when_mentioned": 2.98,
+        "median_rating_when_mentioned": 3.0,
+        "low_rating_share_when_mentioned": 44.6,
+        "high_rating_share_when_mentioned": 49.2,
+        "driver_score": 4.600000000000001
+      },
+      {
+        "aspect": "RESERVATION",
+        "n_mentions": 221,
+        "mean_rating_when_mentioned": 3.07,
+        "median_rating_when_mentioned": 3.0,
+        "low_rating_share_when_mentioned": 43.9,
+        "high_rating_share_when_mentioned": 48.4,
+        "driver_score": 4.5
+      },
+      {
+        "aspect": "COMMUNICATION",
+        "n_mentions": 116,
+        "mean_rating_when_mentioned": 3.1,
+        "median_rating_when_mentioned": 3.0,
+        "low_rating_share_when_mentioned": 43.1,
+        "high_rating_share_when_mentioned": 47.4,
+        "driver_score": 4.299999999999997
+      },
+      {
+        "aspect": "WIFI",
+        "n_mentions": 30,
+        "mean_rating_when_mentioned": 2.73,
+        "median_rating_when_mentioned": 2.5,
+        "low_rating_share_when_mentioned": 50.0,
+        "high_rating_share_when_mentioned": 36.7,
+        "driver_score": -13.299999999999997
+      },
+      {
+        "aspect": "REFUND_PAYMENT",
+        "n_mentions": 109,
+        "mean_rating_when_mentioned": 2.64,
+        "median_rating_when_mentioned": 2.0,
+        "low_rating_share_when_mentioned": 55.0,
+        "high_rating_share_when_mentioned": 36.7,
+        "driver_score": -18.299999999999997
+      }
+    ],
+    "top_reviewed": [
+      {
+        "hotel_id": "BOD128",
+        "hotel_name": "Lugga Boutique Hotel & Beach",
+        "n": 87,
+        "mean_rating": 4.781609195402299
+      },
+      {
+        "hotel_id": "BOD057",
+        "hotel_name": "Selvi Bodrum",
+        "n": 79,
+        "mean_rating": 3.5063291139240507
+      },
+      {
+        "hotel_id": "BOD060",
+        "hotel_name": "Club Shark Hotel",
+        "n": 78,
+        "mean_rating": 4.307692307692308
+      },
+      {
+        "hotel_id": "BOD013",
+        "hotel_name": "Sentido Bellazure - Akyarlar, Bodrum / Turkey",
+        "n": 72,
+        "mean_rating": 4.027777777777778
+      },
+      {
+        "hotel_id": "BOD052",
+        "hotel_name": "Flamm Bodrum",
+        "n": 69,
+        "mean_rating": 4.463768115942029
+      },
+      {
+        "hotel_id": "BOD061",
+        "hotel_name": "Gümbet Anıl Beach",
+        "n": 65,
+        "mean_rating": 4.0
+      },
+      {
+        "hotel_id": "BOD045",
+        "hotel_name": "Salmakis Resort & Spa",
+        "n": 64,
+        "mean_rating": 3.859375
+      },
+      {
+        "hotel_id": "BOD007",
+        "hotel_name": "Kefaluka Resort",
+        "n": 60,
+        "mean_rating": 4.066666666666666
+      },
+      {
+        "hotel_id": "BOD032",
+        "hotel_name": "Paloma Family Club Bitez",
+        "n": 60,
+        "mean_rating": 4.583333333333333
+      },
+      {
+        "hotel_id": "BOD067",
+        "hotel_name": "Sami Beach Hotel",
+        "n": 59,
+        "mean_rating": 3.8135593220338975
+      }
+    ],
+    "hotel_rating_band_dist": {
+      "< 3.0": 8,
+      "3.0-3.5": 6,
+      "3.5-4.0": 26,
+      "4.0-4.5": 25,
+      "4.5-5.0": 39
+    }
+  },
+  "trip": {
+    "clean_reviews": 3013,
+    "hotels": 94,
+    "mean_rating_5scale": 4.38,
+    "traveler_type_coverage_pct": [
+      {
+        "traveler_type": "UNKNOWN",
+        "count": 1468
+      },
+      {
+        "traveler_type": "FAMILY",
+        "count": 603
+      },
+      {
+        "traveler_type": "COUPLE",
+        "count": 506
+      },
+      {
+        "traveler_type": "FRIENDS",
+        "count": 268
+      },
+      {
+        "traveler_type": "SOLO",
+        "count": 88
+      },
+      {
+        "traveler_type": "BUSINESS",
+        "count": 74
+      },
+      {
+        "traveler_type": "OTHER",
+        "count": 6
+      }
+    ],
+    "traveler_type_rating": [
+      {
+        "traveler_type": "BUSINESS",
+        "n": 74,
+        "mean": 4.510135135135135,
+        "median": 5.0,
+        "low_share": 0.054,
+        "high_share": 0.851
+      },
+      {
+        "traveler_type": "COUPLE",
+        "n": 506,
+        "mean": 4.4756916996047424,
+        "median": 5.0,
+        "low_share": 0.069,
+        "high_share": 0.858
+      },
+      {
+        "traveler_type": "FAMILY",
+        "n": 603,
+        "mean": 4.349917081260365,
+        "median": 5.0,
+        "low_share": 0.108,
+        "high_share": 0.823
+      },
+      {
+        "traveler_type": "FRIENDS",
+        "n": 268,
+        "mean": 4.490485074626866,
+        "median": 5.0,
+        "low_share": 0.09,
+        "high_share": 0.869
+      },
+      {
+        "traveler_type": "OTHER",
+        "n": 6,
+        "mean": 4.833333333333333,
+        "median": 5.0,
+        "low_share": 0.0,
+        "high_share": 1.0
+      },
+      {
+        "traveler_type": "SOLO",
+        "n": 88,
+        "mean": 4.508522727272728,
+        "median": 5.0,
+        "low_share": 0.068,
+        "high_share": 0.864
+      },
+      {
+        "traveler_type": "UNKNOWN",
+        "n": 1468,
+        "mean": 4.328678474114441,
+        "median": 5.0,
+        "low_share": 0.11,
+        "high_share": 0.816
+      }
+    ],
+    "room_type_coverage": [
+      {
+        "room_type": "UNKNOWN",
+        "count": 2682
+      },
+      {
+        "room_type": "OTHER",
+        "count": 154
+      },
+      {
+        "room_type": "DELUXE",
+        "count": 72
+      },
+      {
+        "room_type": "STANDARD",
+        "count": 70
+      },
+      {
+        "room_type": "SUITE",
+        "count": 29
+      },
+      {
+        "room_type": "FAMILY",
+        "count": 4
+      },
+      {
+        "room_type": "VILLA",
+        "count": 2
+      }
+    ],
+    "reviewer_location_coverage": [
+      {
+        "reviewer_country": "Turkey",
+        "count": 89
+      },
+      {
+        "reviewer_country": "Russia",
+        "count": 83
+      },
+      {
+        "reviewer_country": "China",
+        "count": 36
+      },
+      {
+        "reviewer_country": "United Kingdom",
+        "count": 26
+      },
+      {
+        "reviewer_country": "Saudi Arabia",
+        "count": 20
+      },
+      {
+        "reviewer_country": "United States",
+        "count": 16
+      },
+      {
+        "reviewer_country": "United Arab Emirates",
+        "count": 12
+      },
+      {
+        "reviewer_country": "Germany",
+        "count": 11
+      },
+      {
+        "reviewer_country": "France",
+        "count": 11
+      },
+      {
+        "reviewer_country": "Slovenia",
+        "count": 4
+      },
+      {
+        "reviewer_country": "Australia",
+        "count": 4
+      },
+      {
+        "reviewer_country": "Netherlands",
+        "count": 4
+      },
+      {
+        "reviewer_country": "Kazakhstan",
+        "count": 3
+      },
+      {
+        "reviewer_country": "Singapore",
+        "count": 3
+      },
+      {
+        "reviewer_country": "Hong Kong, China",
+        "count": 2
+      },
+      {
+        "reviewer_country": "Mongolia",
+        "count": 2
+      },
+      {
+        "reviewer_country": "Malaysia",
+        "count": 2
+      },
+      {
+        "reviewer_country": "Belarus",
+        "count": 2
+      },
+      {
+        "reviewer_country": "aLper B",
+        "count": 1
+      },
+      {
+        "reviewer_country": "Thailand",
+        "count": 1
+      },
+      {
+        "reviewer_country": "Spain",
+        "count": 1
+      },
+      {
+        "reviewer_country": "Canada",
+        "count": 1
+      },
+      {
+        "reviewer_country": "Romania",
+        "count": 1
+      },
+      {
+        "reviewer_country": "Brazil",
+        "count": 1
+      },
+      {
+        "reviewer_country": "Belgium",
+        "count": 1
+      },
+      {
+        "reviewer_country": "Pakistan",
+        "count": 1
+      },
+      {
+        "reviewer_country": "Kyrgyzstan",
+        "count": 1
+      },
+      {
+        "reviewer_country": "Korea, Republic of",
+        "count": 1
+      },
+      {
+        "reviewer_country": "Japan",
+        "count": 1
+      },
+      {
+        "reviewer_country": "India",
+        "count": 1
+      },
+      {
+        "reviewer_country": "Ireland",
+        "count": 1
+      },
+      {
+        "reviewer_country": "Israel",
+        "count": 1
+      },
+      {
+        "reviewer_country": "Solo traveller",
+        "count": 1
+      },
+      {
+        "reviewer_country": "Couple",
+        "count": 1
+      },
+      {
+        "reviewer_country": "Qatar",
+        "count": 1
+      },
+      {
+        "reviewer_country": "Italy",
+        "count": 1
+      },
+      {
+        "reviewer_country": "Taiwan, China",
+        "count": 1
+      },
+      {
+        "reviewer_country": "Bahrain",
+        "count": 1
+      }
+    ],
+    "top_amenities": [
+      {
+        "amenity": "has_wifi",
+        "hotel_count": 88,
+        "share_pct": 92.6
+      },
+      {
+        "amenity": "has_parking",
+        "hotel_count": 81,
+        "share_pct": 85.3
+      },
+      {
+        "amenity": "has_restaurant",
+        "hotel_count": 78,
+        "share_pct": 82.1
+      },
+      {
+        "amenity": "has_bar",
+        "hotel_count": 72,
+        "share_pct": 75.8
+      },
+      {
+        "amenity": "has_private_beach",
+        "hotel_count": 59,
+        "share_pct": 62.1
+      },
+      {
+        "amenity": "has_gym",
+        "hotel_count": 50,
+        "share_pct": 52.6
+      },
+      {
+        "amenity": "has_sauna",
+        "hotel_count": 48,
+        "share_pct": 50.5
+      },
+      {
+        "amenity": "has_spa",
+        "hotel_count": 46,
+        "share_pct": 48.4
+      },
+      {
+        "amenity": "has_conference_room",
+        "hotel_count": 43,
+        "share_pct": 45.3
+      },
+      {
+        "amenity": "has_airport_pickup",
+        "hotel_count": 40,
+        "share_pct": 42.1
+      }
+    ],
+    "policy_hotels": 95,
+    "top_reviewed": [
+      {
+        "hotel_id": "BOD002",
+        "hotel_name": "Armonia Holiday Village & Spa",
+        "area": "Akyarlar",
+        "n": 11,
+        "mean_rating_5": 3.8181818181818175,
+        "median_rating_5": 5.0,
+        "std": 1.834021909257456,
+        "low_share": 0.273,
+        "mid_share": 0.0,
+        "high_share": 0.727,
+        "sample_support": "LOW_SUPPORT",
+        "top_traveler_type": "UNKNOWN",
+        "family_share_pct": 36.4,
+        "couple_share_pct": 18.2,
+        "distinct_countries": 1
+      },
+      {
+        "hotel_id": "BOD003",
+        "hotel_name": "ASPAT HOTEL BODRUM Beach Restaurant",
+        "area": "Akyarlar",
+        "n": 28,
+        "mean_rating_5": 3.678571428571429,
+        "median_rating_5": 4.0,
+        "std": 1.492042384180314,
+        "low_share": 0.214,
+        "mid_share": 0.107,
+        "high_share": 0.679,
+        "sample_support": "MODERATE",
+        "top_traveler_type": "UNKNOWN",
+        "family_share_pct": 7.1,
+        "couple_share_pct": 0.0,
+        "distinct_countries": 0
+      },
+      {
+        "hotel_id": "BOD004",
+        "hotel_name": "Bendis Beach Hotel",
+        "area": "Akyarlar",
+        "n": 11,
+        "mean_rating_5": 3.954545454545455,
+        "median_rating_5": 5.0,
+        "std": 1.5565112504338905,
+        "low_share": 0.182,
+        "mid_share": 0.182,
+        "high_share": 0.636,
+        "sample_support": "LOW_SUPPORT",
+        "top_traveler_type": "FAMILY",
+        "family_share_pct": 36.4,
+        "couple_share_pct": 18.2,
+        "distinct_countries": 2
+      },
+      {
+        "hotel_id": "BOD007",
+        "hotel_name": "Kefaluka Resort",
+        "area": "Akyarlar",
+        "n": 11,
+        "mean_rating_5": 4.259090909090909,
+        "median_rating_5": 4.6,
+        "std": 1.0575486234254623,
+        "low_share": 0.091,
+        "mid_share": 0.091,
+        "high_share": 0.818,
+        "sample_support": "LOW_SUPPORT",
+        "top_traveler_type": "FAMILY",
+        "family_share_pct": 63.6,
+        "couple_share_pct": 27.3,
+        "distinct_countries": 4
+      },
+      {
+        "hotel_id": "BOD008",
+        "hotel_name": "LA BREZZA SUITE &HOTEL",
+        "area": "Akyarlar",
+        "n": 11,
+        "mean_rating_5": 4.009090909090909,
+        "median_rating_5": 5.0,
+        "std": 1.41453493803055,
+        "low_share": 0.182,
+        "mid_share": 0.091,
+        "high_share": 0.727,
+        "sample_support": "LOW_SUPPORT",
+        "top_traveler_type": "UNKNOWN",
+        "family_share_pct": 0.0,
+        "couple_share_pct": 9.1,
+        "distinct_countries": 0
+      },
+      {
+        "hotel_id": "BOD010",
+        "hotel_name": "Mare Garden Hotel",
+        "area": "Akyarlar",
+        "n": 2,
+        "mean_rating_5": 4.0,
+        "median_rating_5": 4.0,
+        "std": 0.0,
+        "low_share": 0.0,
+        "mid_share": 0.0,
+        "high_share": 1.0,
+        "sample_support": "VERY_LOW_SUPPORT",
+        "top_traveler_type": "UNKNOWN",
+        "family_share_pct": 0.0,
+        "couple_share_pct": 0.0,
+        "distinct_countries": 0
+      },
+      {
+        "hotel_id": "BOD011",
+        "hotel_name": "Radisson Collection Hotel, Bodrum",
+        "area": "Akyarlar",
+        "n": 11,
+        "mean_rating_5": 4.75,
+        "median_rating_5": 5.0,
+        "std": 0.5590169943749473,
+        "low_share": 0.0,
+        "mid_share": 0.182,
+        "high_share": 0.818,
+        "sample_support": "LOW_SUPPORT",
+        "top_traveler_type": "COUPLE",
+        "family_share_pct": 27.3,
+        "couple_share_pct": 54.5,
+        "distinct_countries": 6
+      },
+      {
+        "hotel_id": "BOD012",
+        "hotel_name": "Selectum Collection Bodrum",
+        "area": "Akyarlar",
+        "n": 11,
+        "mean_rating_5": 4.613636363636363,
+        "median_rating_5": 5.0,
+        "std": 0.944481579780916,
+        "low_share": 0.091,
+        "mid_share": 0.091,
+        "high_share": 0.818,
+        "sample_support": "LOW_SUPPORT",
+        "top_traveler_type": "FAMILY",
+        "family_share_pct": 81.8,
+        "couple_share_pct": 0.0,
+        "distinct_countries": 2
+      },
+      {
+        "hotel_id": "BOD013",
+        "hotel_name": "Sentido Bellazure - Akyarlar, Bodrum / Turkey",
+        "area": "Akyarlar",
+        "n": 8,
+        "mean_rating_5": 4.375,
+        "median_rating_5": 5.0,
+        "std": 1.4078859531733583,
+        "low_share": 0.125,
+        "mid_share": 0.0,
+        "high_share": 0.875,
+        "sample_support": "LOW_SUPPORT",
+        "top_traveler_type": "FAMILY",
+        "family_share_pct": 37.5,
+        "couple_share_pct": 25.0,
+        "distinct_countries": 0
+      },
+      {
+        "hotel_id": "BOD014",
+        "hotel_name": "Suum Bodrum Hotel & Beach",
+        "area": "Akyarlar",
+        "n": 11,
+        "mean_rating_5": 3.5454545454545454,
+        "median_rating_5": 4.0,
+        "std": 1.752919642404429,
+        "low_share": 0.273,
+        "mid_share": 0.091,
+        "high_share": 0.636,
+        "sample_support": "LOW_SUPPORT",
+        "top_traveler_type": "UNKNOWN",
+        "family_share_pct": 9.1,
+        "couple_share_pct": 27.3,
+        "distinct_countries": 0
+      }
+    ],
+    "profile_columns": [
+      "hotel_id",
+      "hotel_name",
+      "area",
+      "n",
+      "mean_rating_5",
+      "median_rating_5",
+      "std",
+      "low_share",
+      "mid_share",
+      "high_share",
+      "sample_support",
+      "top_traveler_type",
+      "family_share_pct",
+      "couple_share_pct",
+      "distinct_countries"
+    ],
+    "amenity_columns": [
+      "amenity",
+      "hotel_count",
+      "share_pct"
+    ],
+    "traveler_rating_columns": [
+      "traveler_type",
+      "n",
+      "mean",
+      "median",
+      "low_share",
+      "high_share"
+    ]
+  },
+  "hotel360": {
+    "rows": 192,
+    "confidence_dist": {
+      "LOW": 82,
+      "VERY_LOW": 52,
+      "HIGH": 44,
+      "MEDIUM": 14
+    },
+    "columns": [
+      "hotel_id",
+      "hotel_name",
+      "area",
+      "master_google_rating",
+      "master_google_review_count",
+      "google_travel_review_n",
+      "google_travel_mean_rating",
+      "google_travel_low_share",
+      "google_travel_high_share",
+      "google_top_aspects",
+      "google_strength_signals",
+      "google_concern_signals",
+      "trip_review_n",
+      "trip_mean_rating_5",
+      "trip_low_share",
+      "trip_high_share",
+      "trip_top_traveler_type",
+      "trip_family_share",
+      "trip_couple_share",
+      "trip_country_coverage",
+      "policy_status",
+      "amenity_count",
+      "family_feature_count",
+      "wellness_feature_count",
+      "water_feature_count",
+      "has_policy_data",
+      "source_count",
+      "customer_voice_support",
+      "cross_platform_rating_gap",
+      "cross_platform_consistency",
+      "archetypes"
+    ]
+  },
+  "cross_gt": {
+    "coverage_columns": [
+      "hotel_id",
+      "coverage"
+    ],
+    "coverage": null,
+    "rating_columns": [
+      "hotel_id",
+      "google_n",
+      "google_mean",
+      "google_median",
+      "google_low_share",
+      "google_high_share",
+      "trip_n",
+      "trip_mean_5",
+      "trip_median_5",
+      "trip_low_share",
+      "trip_high_share",
+      "rating_gap_mean",
+      "rating_gap_median",
+      "agreement",
+      "comparison_support"
+    ],
+    "agreement_dist": {
+      "HIGH_AGREEMENT": 24,
+      "DISAGREEMENT": 17,
+      "MODERATE_AGREEMENT": 17
+    },
+    "common_hotels": 58,
+    "supported_n": 54
+  }
+}

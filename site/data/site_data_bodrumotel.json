@@ -1,0 +1,900 @@
+{
+  "sikayetvar": {
+    "clean_rows": 353,
+    "complaint_hotels": 44,
+    "company_reply_visible": 40,
+    "reply_visibility_pct": 11.3,
+    "verified_pages": 62,
+    "ambiguous_n": 9,
+    "not_found_n": 104,
+    "top_aspects": [
+      {
+        "aspect": "STAFF_SERVICE",
+        "complaint_count": 244,
+        "mention_rate_pct": 69.12181303116148,
+        "unique_hotel_count": 37,
+        "unique_area_count": 12,
+        "company_response_count": 30,
+        "company_response_rate_within_aspect": 12.295081967213116,
+        "median_view_count": 783.0,
+        "median_complaint_word_count": 165.0
+      },
+      {
+        "aspect": "ROOM",
+        "complaint_count": 217,
+        "mention_rate_pct": 61.47308781869688,
+        "unique_hotel_count": 37,
+        "unique_area_count": 11,
+        "company_response_count": 26,
+        "company_response_rate_within_aspect": 11.981566820276498,
+        "median_view_count": 796.0,
+        "median_complaint_word_count": 167.0
+      },
+      {
+        "aspect": "MANAGEMENT_COMMUNICATION",
+        "complaint_count": 201,
+        "mention_rate_pct": 56.94050991501416,
+        "unique_hotel_count": 38,
+        "unique_area_count": 12,
+        "company_response_count": 25,
+        "company_response_rate_within_aspect": 12.437810945273633,
+        "median_view_count": 561.0,
+        "median_complaint_word_count": 162.0
+      },
+      {
+        "aspect": "FOOD_BEVERAGE",
+        "complaint_count": 184,
+        "mention_rate_pct": 52.12464589235128,
+        "unique_hotel_count": 36,
+        "unique_area_count": 11,
+        "company_response_count": 22,
+        "company_response_rate_within_aspect": 11.956521739130435,
+        "median_view_count": 882.5,
+        "median_complaint_word_count": 184.0
+      },
+      {
+        "aspect": "PAYMENT_REFUND",
+        "complaint_count": 170,
+        "mention_rate_pct": 48.1586402266289,
+        "unique_hotel_count": 37,
+        "unique_area_count": 11,
+        "company_response_count": 20,
+        "company_response_rate_within_aspect": 11.764705882352942,
+        "median_view_count": 680.5,
+        "median_complaint_word_count": 158.5
+      },
+      {
+        "aspect": "CLEANLINESS_HYGIENE",
+        "complaint_count": 169,
+        "mention_rate_pct": 47.875354107648725,
+        "unique_hotel_count": 32,
+        "unique_area_count": 11,
+        "company_response_count": 15,
+        "company_response_rate_within_aspect": 8.875739644970414,
+        "median_view_count": 760.0,
+        "median_complaint_word_count": 174.0
+      },
+      {
+        "aspect": "PRICE_VALUE",
+        "complaint_count": 161,
+        "mention_rate_pct": 45.609065155807365,
+        "unique_hotel_count": 36,
+        "unique_area_count": 12,
+        "company_response_count": 23,
+        "company_response_rate_within_aspect": 14.285714285714286,
+        "median_view_count": 583.0,
+        "median_complaint_word_count": 165.0
+      },
+      {
+        "aspect": "FACILITIES_MAINTENANCE",
+        "complaint_count": 141,
+        "mention_rate_pct": 39.94334277620396,
+        "unique_hotel_count": 32,
+        "unique_area_count": 11,
+        "company_response_count": 16,
+        "company_response_rate_within_aspect": 11.347517730496454,
+        "median_view_count": 643.0,
+        "median_complaint_word_count": 176.0
+      },
+      {
+        "aspect": "RESERVATION",
+        "complaint_count": 140,
+        "mention_rate_pct": 39.6600566572238,
+        "unique_hotel_count": 33,
+        "unique_area_count": 12,
+        "company_response_count": 20,
+        "company_response_rate_within_aspect": 14.285714285714286,
+        "median_view_count": 771.5,
+        "median_complaint_word_count": 158.5
+      },
+      {
+        "aspect": "BEACH_SEA",
+        "complaint_count": 109,
+        "mention_rate_pct": 30.878186968838527,
+        "unique_hotel_count": 29,
+        "unique_area_count": 10,
+        "company_response_count": 15,
+        "company_response_rate_within_aspect": 13.761467889908255,
+        "median_view_count": 749.0,
+        "median_complaint_word_count": 175.0
+      },
+      {
+        "aspect": "SAFETY_SECURITY",
+        "complaint_count": 91,
+        "mention_rate_pct": 25.77903682719547,
+        "unique_hotel_count": 26,
+        "unique_area_count": 12,
+        "company_response_count": 11,
+        "company_response_rate_within_aspect": 12.087912087912088,
+        "median_view_count": 754.5,
+        "median_complaint_word_count": 194.0
+      },
+      {
+        "aspect": "FAMILY_CHILDREN",
+        "complaint_count": 88,
+        "mention_rate_pct": 24.92917847025496,
+        "unique_hotel_count": 25,
+        "unique_area_count": 10,
+        "company_response_count": 9,
+        "company_response_rate_within_aspect": 10.227272727272728,
+        "median_view_count": 1106.0,
+        "median_complaint_word_count": 177.0
+      },
+      {
+        "aspect": "POOL",
+        "complaint_count": 71,
+        "mention_rate_pct": 20.113314447592067,
+        "unique_hotel_count": 21,
+        "unique_area_count": 9,
+        "company_response_count": 7,
+        "company_response_rate_within_aspect": 9.859154929577464,
+        "median_view_count": 1209.0,
+        "median_complaint_word_count": 200.0
+      },
+      {
+        "aspect": "AIR_CONDITIONING",
+        "complaint_count": 29,
+        "mention_rate_pct": 8.215297450424929,
+        "unique_hotel_count": 16,
+        "unique_area_count": 7,
+        "company_response_count": 2,
+        "company_response_rate_within_aspect": 6.896551724137931,
+        "median_view_count": 1242.0,
+        "median_complaint_word_count": 140.0
+      },
+      {
+        "aspect": "SPA_WELLNESS",
+        "complaint_count": 29,
+        "mention_rate_pct": 8.215297450424929,
+        "unique_hotel_count": 15,
+        "unique_area_count": 10,
+        "company_response_count": 1,
+        "company_response_rate_within_aspect": 3.4482758620689653,
+        "median_view_count": 882.5,
+        "median_complaint_word_count": 194.0
+      },
+      {
+        "aspect": "TRANSPORT_TRANSFER",
+        "complaint_count": 25,
+        "mention_rate_pct": 7.0821529745042495,
+        "unique_hotel_count": 17,
+        "unique_area_count": 7,
+        "company_response_count": 2,
+        "company_response_rate_within_aspect": 8.0,
+        "median_view_count": 646.5,
+        "median_complaint_word_count": 203.0
+      },
+      {
+        "aspect": "NOISE",
+        "complaint_count": 19,
+        "mention_rate_pct": 5.38243626062323,
+        "unique_hotel_count": 14,
+        "unique_area_count": 8,
+        "company_response_count": 3,
+        "company_response_rate_within_aspect": 15.789473684210526,
+        "median_view_count": 1248.5,
+        "median_complaint_word_count": 182.0
+      },
+      {
+        "aspect": "CHECKIN_CHECKOUT",
+        "complaint_count": 8,
+        "mention_rate_pct": 2.26628895184136,
+        "unique_hotel_count": 6,
+        "unique_area_count": 4,
+        "company_response_count": 3,
+        "company_response_rate_within_aspect": 37.5,
+        "median_view_count": 1635.5,
+        "median_complaint_word_count": 194.5
+      }
+    ],
+    "reply_top": [
+      {
+        "hotel_id": "BOD007",
+        "hotel_name": "Kefaluka Resort",
+        "area": "Akyarlar",
+        "complaint_n": 29,
+        "company_reply_n": 22,
+        "reply_text_nonempty_n": 22,
+        "reply_date_available_n": 22,
+        "parser_artifact_n": 1,
+        "duplicate_reply_n": 0,
+        "company_reply_visibility_pct": 75.86206896551724,
+        "interpretation": "COMPANY_RESPONSE_VISIBILITY_NOT_RESOLUTION"
+      },
+      {
+        "hotel_id": "BOD161",
+        "hotel_name": "MyElla Hotel Resort & Spa",
+        "area": "Turgutreis",
+        "complaint_n": 28,
+        "company_reply_n": 0,
+        "reply_text_nonempty_n": 0,
+        "reply_date_available_n": 0,
+        "parser_artifact_n": 0,
+        "duplicate_reply_n": 0,
+        "company_reply_visibility_pct": 0.0,
+        "interpretation": "COMPANY_RESPONSE_VISIBILITY_NOT_RESOLUTION"
+      },
+      {
+        "hotel_id": "BOD112",
+        "hotel_name": "Azure By Yelken Hotel",
+        "area": "Kadıkalesi",
+        "complaint_n": 26,
+        "company_reply_n": 1,
+        "reply_text_nonempty_n": 1,
+        "reply_date_available_n": 1,
+        "parser_artifact_n": 0,
+        "duplicate_reply_n": 0,
+        "company_reply_visibility_pct": 3.8461538461538463,
+        "interpretation": "COMPANY_RESPONSE_VISIBILITY_NOT_RESOLUTION"
+      },
+      {
+        "hotel_id": "BOD115",
+        "hotel_name": "Yasmin Bodrum Resort",
+        "area": "Kadıkalesi",
+        "complaint_n": 23,
+        "company_reply_n": 0,
+        "reply_text_nonempty_n": 0,
+        "reply_date_available_n": 0,
+        "parser_artifact_n": 0,
+        "duplicate_reply_n": 0,
+        "company_reply_visibility_pct": 0.0,
+        "interpretation": "COMPANY_RESPONSE_VISIBILITY_NOT_RESOLUTION"
+      },
+      {
+        "hotel_id": "BOD106",
+        "hotel_name": "La Blanche Island Bodrum",
+        "area": "Güvercinlik",
+        "complaint_n": 19,
+        "company_reply_n": 5,
+        "reply_text_nonempty_n": 5,
+        "reply_date_available_n": 5,
+        "parser_artifact_n": 0,
+        "duplicate_reply_n": 0,
+        "company_reply_visibility_pct": 26.31578947368421,
+        "interpretation": "COMPANY_RESPONSE_VISIBILITY_NOT_RESOLUTION"
+      },
+      {
+        "hotel_id": "BOD066",
+        "hotel_name": "Royal Asarlik Beach Hotel & Spa",
+        "area": "Gümbet",
+        "complaint_n": 18,
+        "company_reply_n": 0,
+        "reply_text_nonempty_n": 0,
+        "reply_date_available_n": 0,
+        "parser_artifact_n": 0,
+        "duplicate_reply_n": 0,
+        "company_reply_visibility_pct": 0.0,
+        "interpretation": "COMPANY_RESPONSE_VISIBILITY_NOT_RESOLUTION"
+      },
+      {
+        "hotel_id": "BOD108",
+        "hotel_name": "Lujo Hotel Bodrum",
+        "area": "Güvercinlik",
+        "complaint_n": 15,
+        "company_reply_n": 0,
+        "reply_text_nonempty_n": 0,
+        "reply_date_available_n": 0,
+        "parser_artifact_n": 0,
+        "duplicate_reply_n": 0,
+        "company_reply_visibility_pct": 0.0,
+        "interpretation": "COMPANY_RESPONSE_VISIBILITY_NOT_RESOLUTION"
+      },
+      {
+        "hotel_id": "BOD177",
+        "hotel_name": "Delta Hotels By Marriott Bodrum",
+        "area": "Yalıkavak",
+        "complaint_n": 14,
+        "company_reply_n": 0,
+        "reply_text_nonempty_n": 0,
+        "reply_date_available_n": 0,
+        "parser_artifact_n": 0,
+        "duplicate_reply_n": 0,
+        "company_reply_visibility_pct": 0.0,
+        "interpretation": "COMPANY_RESPONSE_VISIBILITY_NOT_RESOLUTION"
+      },
+      {
+        "hotel_id": "BOD019",
+        "hotel_name": "Bitez Garden Life Hotel&Suites",
+        "area": "Bitez",
+        "complaint_n": 14,
+        "company_reply_n": 0,
+        "reply_text_nonempty_n": 0,
+        "reply_date_available_n": 0,
+        "parser_artifact_n": 0,
+        "duplicate_reply_n": 0,
+        "company_reply_visibility_pct": 0.0,
+        "interpretation": "COMPANY_RESPONSE_VISIBILITY_NOT_RESOLUTION"
+      },
+      {
+        "hotel_id": "BOD130",
+        "hotel_name": "Petunya Beach Resort",
+        "area": "Ortakent-Yahşi",
+        "complaint_n": 13,
+        "company_reply_n": 0,
+        "reply_text_nonempty_n": 0,
+        "reply_date_available_n": 0,
+        "parser_artifact_n": 0,
+        "duplicate_reply_n": 0,
+        "company_reply_visibility_pct": 0.0,
+        "interpretation": "COMPANY_RESPONSE_VISIBILITY_NOT_RESOLUTION"
+      }
+    ],
+    "top_hotels": [
+      {
+        "hotel_id": "BOD007",
+        "hotel_name": "Kefaluka Resort",
+        "area": "Akyarlar",
+        "complaint_n": 29,
+        "top_aspects": "STAFF_SERVICE:65.5%|MANAGEMENT_COMMUNICATION:62.1%|ROOM:62.1%",
+        "company_reply_visibility_pct": 75.86206896551724
+      },
+      {
+        "hotel_id": "BOD161",
+        "hotel_name": "MyElla Hotel Resort & Spa",
+        "area": "Turgutreis",
+        "complaint_n": 28,
+        "top_aspects": "STAFF_SERVICE:78.6%|CLEANLINESS_HYGIENE:64.3%|ROOM:64.3%",
+        "company_reply_visibility_pct": 0.0
+      },
+      {
+        "hotel_id": "BOD112",
+        "hotel_name": "Azure By Yelken Hotel",
+        "area": "Kadıkalesi",
+        "complaint_n": 26,
+        "top_aspects": "STAFF_SERVICE:76.9%|PAYMENT_REFUND:73.1%|ROOM:69.2%",
+        "company_reply_visibility_pct": 3.8461538461538463
+      },
+      {
+        "hotel_id": "BOD115",
+        "hotel_name": "Yasmin Bodrum Resort",
+        "area": "Kadıkalesi",
+        "complaint_n": 23,
+        "top_aspects": "STAFF_SERVICE:65.2%|MANAGEMENT_COMMUNICATION:56.5%|FACILITIES_MAINTENANCE:43.5%",
+        "company_reply_visibility_pct": 0.0
+      },
+      {
+        "hotel_id": "BOD106",
+        "hotel_name": "La Blanche Island Bodrum",
+        "area": "Güvercinlik",
+        "complaint_n": 19,
+        "top_aspects": "STAFF_SERVICE:73.7%|ROOM:68.4%|BEACH_SEA:47.4%",
+        "company_reply_visibility_pct": 26.31578947368421
+      },
+      {
+        "hotel_id": "BOD066",
+        "hotel_name": "Royal Asarlik Beach Hotel & Spa",
+        "area": "Gümbet",
+        "complaint_n": 18,
+        "top_aspects": "RESERVATION:66.7%|STAFF_SERVICE:61.1%|MANAGEMENT_COMMUNICATION:55.6%",
+        "company_reply_visibility_pct": 0.0
+      },
+      {
+        "hotel_id": "BOD108",
+        "hotel_name": "Lujo Hotel Bodrum",
+        "area": "Güvercinlik",
+        "complaint_n": 15,
+        "top_aspects": "STAFF_SERVICE:66.7%|PRICE_VALUE:46.7%|FAMILY_CHILDREN:40.0%",
+        "company_reply_visibility_pct": 0.0
+      },
+      {
+        "hotel_id": "BOD177",
+        "hotel_name": "Delta Hotels By Marriott Bodrum",
+        "area": "Yalıkavak",
+        "complaint_n": 14,
+        "top_aspects": "ROOM:92.9%|STAFF_SERVICE:85.7%|CLEANLINESS_HYGIENE:78.6%",
+        "company_reply_visibility_pct": 0.0
+      },
+      {
+        "hotel_id": "BOD019",
+        "hotel_name": "Bitez Garden Life Hotel&Suites",
+        "area": "Bitez",
+        "complaint_n": 14,
+        "top_aspects": "CLEANLINESS_HYGIENE:85.7%|ROOM:85.7%|STAFF_SERVICE:78.6%",
+        "company_reply_visibility_pct": 0.0
+      },
+      {
+        "hotel_id": "BOD130",
+        "hotel_name": "Petunya Beach Resort",
+        "area": "Ortakent-Yahşi",
+        "complaint_n": 13,
+        "top_aspects": "MANAGEMENT_COMMUNICATION:84.6%|PAYMENT_REFUND:61.5%|RESERVATION:61.5%",
+        "company_reply_visibility_pct": 0.0
+      }
+    ]
+  },
+  "cross_gs": {
+    "coverage": [
+      {
+        "hotel_set": "google_covered",
+        "hotel_count": 104
+      },
+      {
+        "hotel_set": "sikayetvar_verified",
+        "hotel_count": 62
+      },
+      {
+        "hotel_set": "complaint_bearing",
+        "hotel_count": 44
+      },
+      {
+        "hotel_set": "page_no_complaint",
+        "hotel_count": 15
+      },
+      {
+        "hotel_set": "common_verified",
+        "hotel_count": 38
+      },
+      {
+        "hotel_set": "common_complaint_bearing",
+        "hotel_count": 27
+      },
+      {
+        "hotel_set": "common_page_no_complaint",
+        "hotel_count": 9
+      },
+      {
+        "hotel_set": "supported_common",
+        "hotel_count": 15
+      }
+    ],
+    "label_dist": {
+      "NO_SIGNAL": 268,
+      "GOOGLE_GENERAL_ONLY": 228,
+      "LOW_SUPPORT": 192,
+      "BOTH_SOURCE_CONCERN": 48,
+      "GOOGLE_STRENGTH_VS_COMPLAINT": 33,
+      "SIKAYETVAR_ONLY": 29
+    },
+    "canonical_aspect_n": 21,
+    "both_concern_top": [
+      {
+        "hotel_id": "BOD077",
+        "canonical_aspect": "MANAGEMENT_COMMUNICATION",
+        "google_mention_rate_pct": 30.0,
+        "google_support_n": 20,
+        "google_low_context_share": 100.0,
+        "google_high_context_share": 0.0,
+        "sikayetvar_mention_rate_pct": 100.0,
+        "sikayetvar_hotel_n": 7,
+        "sikayetvar_small_n_flag": false,
+        "alignment_label": "BOTH_SOURCE_CONCERN",
+        "hotel_name": "Ladonia Hotels Zemda"
+      },
+      {
+        "hotel_id": "BOD077",
+        "canonical_aspect": "PRICE_VALUE",
+        "google_mention_rate_pct": 50.0,
+        "google_support_n": 20,
+        "google_low_context_share": 90.0,
+        "google_high_context_share": 10.0,
+        "sikayetvar_mention_rate_pct": 100.0,
+        "sikayetvar_hotel_n": 7,
+        "sikayetvar_small_n_flag": false,
+        "alignment_label": "BOTH_SOURCE_CONCERN",
+        "hotel_name": "Ladonia Hotels Zemda"
+      },
+      {
+        "hotel_id": "BOD077",
+        "canonical_aspect": "PAYMENT_REFUND",
+        "google_mention_rate_pct": 20.0,
+        "google_support_n": 20,
+        "google_low_context_share": 100.0,
+        "google_high_context_share": 0.0,
+        "sikayetvar_mention_rate_pct": 100.0,
+        "sikayetvar_hotel_n": 7,
+        "sikayetvar_small_n_flag": false,
+        "alignment_label": "BOTH_SOURCE_CONCERN",
+        "hotel_name": "Ladonia Hotels Zemda"
+      },
+      {
+        "hotel_id": "BOD077",
+        "canonical_aspect": "RESERVATION",
+        "google_mention_rate_pct": 25.0,
+        "google_support_n": 20,
+        "google_low_context_share": 100.0,
+        "google_high_context_share": 0.0,
+        "sikayetvar_mention_rate_pct": 100.0,
+        "sikayetvar_hotel_n": 7,
+        "sikayetvar_small_n_flag": false,
+        "alignment_label": "BOTH_SOURCE_CONCERN",
+        "hotel_name": "Ladonia Hotels Zemda"
+      },
+      {
+        "hotel_id": "BOD113",
+        "canonical_aspect": "ROOM_COMFORT",
+        "google_mention_rate_pct": 63.6,
+        "google_support_n": 11,
+        "google_low_context_share": 100.0,
+        "google_high_context_share": 57.1,
+        "sikayetvar_mention_rate_pct": 85.71428571428571,
+        "sikayetvar_hotel_n": 7,
+        "sikayetvar_small_n_flag": false,
+        "alignment_label": "BOTH_SOURCE_CONCERN",
+        "hotel_name": "Kadıkale Resort"
+      },
+      {
+        "hotel_id": "BOD130",
+        "canonical_aspect": "MANAGEMENT_COMMUNICATION",
+        "google_mention_rate_pct": 20.0,
+        "google_support_n": 10,
+        "google_low_context_share": 100.0,
+        "google_high_context_share": 100.0,
+        "sikayetvar_mention_rate_pct": 84.61538461538461,
+        "sikayetvar_hotel_n": 13,
+        "sikayetvar_small_n_flag": false,
+        "alignment_label": "BOTH_SOURCE_CONCERN",
+        "hotel_name": "Petunya Beach Resort"
+      },
+      {
+        "hotel_id": "BOD006",
+        "canonical_aspect": "FOOD_BEVERAGE",
+        "google_mention_rate_pct": 70.0,
+        "google_support_n": 10,
+        "google_low_context_share": 100.0,
+        "google_high_context_share": 85.7,
+        "sikayetvar_mention_rate_pct": 80.0,
+        "sikayetvar_hotel_n": 5,
+        "sikayetvar_small_n_flag": false,
+        "alignment_label": "BOTH_SOURCE_CONCERN",
+        "hotel_name": "Club Marma Hotel"
+      },
+      {
+        "hotel_id": "BOD161",
+        "canonical_aspect": "STAFF_SERVICE",
+        "google_mention_rate_pct": 80.0,
+        "google_support_n": 10,
+        "google_low_context_share": 87.5,
+        "google_high_context_share": 0.0,
+        "sikayetvar_mention_rate_pct": 78.57142857142857,
+        "sikayetvar_hotel_n": 28,
+        "sikayetvar_small_n_flag": false,
+        "alignment_label": "BOTH_SOURCE_CONCERN",
+        "hotel_name": "MyElla Hotel Resort & Spa"
+      }
+    ],
+    "strength_vs_complaint_top": [
+      {
+        "hotel_id": "BOD006",
+        "canonical_aspect": "STAFF_SERVICE",
+        "google_mention_rate_pct": 60.0,
+        "google_support_n": 10,
+        "google_low_context_share": 16.7,
+        "google_high_context_share": 100.0,
+        "sikayetvar_mention_rate_pct": 100.0,
+        "sikayetvar_hotel_n": 5,
+        "sikayetvar_small_n_flag": false,
+        "alignment_label": "GOOGLE_STRENGTH_VS_COMPLAINT",
+        "hotel_name": "Club Marma Hotel"
+      },
+      {
+        "hotel_id": "BOD045",
+        "canonical_aspect": "STAFF_SERVICE",
+        "google_mention_rate_pct": 65.6,
+        "google_support_n": 64,
+        "google_low_context_share": 43.8,
+        "google_high_context_share": 76.2,
+        "sikayetvar_mention_rate_pct": 100.0,
+        "sikayetvar_hotel_n": 7,
+        "sikayetvar_small_n_flag": false,
+        "alignment_label": "GOOGLE_STRENGTH_VS_COMPLAINT",
+        "hotel_name": "Salmakis Resort & Spa"
+      },
+      {
+        "hotel_id": "BOD068",
+        "canonical_aspect": "ROOM_COMFORT",
+        "google_mention_rate_pct": 88.9,
+        "google_support_n": 9,
+        "google_low_context_share": 25.0,
+        "google_high_context_share": 75.0,
+        "sikayetvar_mention_rate_pct": 88.88888888888889,
+        "sikayetvar_hotel_n": 9,
+        "sikayetvar_small_n_flag": false,
+        "alignment_label": "GOOGLE_STRENGTH_VS_COMPLAINT",
+        "hotel_name": "Selectum Colours Bodrum"
+      },
+      {
+        "hotel_id": "BOD045",
+        "canonical_aspect": "ROOM_COMFORT",
+        "google_mention_rate_pct": 46.9,
+        "google_support_n": 64,
+        "google_low_context_share": 23.3,
+        "google_high_context_share": 76.7,
+        "sikayetvar_mention_rate_pct": 85.71428571428571,
+        "sikayetvar_hotel_n": 7,
+        "sikayetvar_small_n_flag": false,
+        "alignment_label": "GOOGLE_STRENGTH_VS_COMPLAINT",
+        "hotel_name": "Salmakis Resort & Spa"
+      },
+      {
+        "hotel_id": "BOD002",
+        "canonical_aspect": "STAFF_SERVICE",
+        "google_mention_rate_pct": 60.0,
+        "google_support_n": 10,
+        "google_low_context_share": 0.0,
+        "google_high_context_share": 100.0,
+        "sikayetvar_mention_rate_pct": 75.0,
+        "sikayetvar_hotel_n": 8,
+        "sikayetvar_small_n_flag": false,
+        "alignment_label": "GOOGLE_STRENGTH_VS_COMPLAINT",
+        "hotel_name": "Armonia Holiday Village & Spa"
+      },
+      {
+        "hotel_id": "BOD002",
+        "canonical_aspect": "FOOD_BEVERAGE",
+        "google_mention_rate_pct": 80.0,
+        "google_support_n": 10,
+        "google_low_context_share": 25.0,
+        "google_high_context_share": 71.4,
+        "sikayetvar_mention_rate_pct": 75.0,
+        "sikayetvar_hotel_n": 8,
+        "sikayetvar_small_n_flag": false,
+        "alignment_label": "GOOGLE_STRENGTH_VS_COMPLAINT",
+        "hotel_name": "Armonia Holiday Village & Spa"
+      },
+      {
+        "hotel_id": "BOD045",
+        "canonical_aspect": "FOOD_BEVERAGE",
+        "google_mention_rate_pct": 78.1,
+        "google_support_n": 64,
+        "google_low_context_share": 26.9,
+        "google_high_context_share": 78.0,
+        "sikayetvar_mention_rate_pct": 71.42857142857143,
+        "sikayetvar_hotel_n": 7,
+        "sikayetvar_small_n_flag": false,
+        "alignment_label": "GOOGLE_STRENGTH_VS_COMPLAINT",
+        "hotel_name": "Salmakis Resort & Spa"
+      },
+      {
+        "hotel_id": "BOD068",
+        "canonical_aspect": "STAFF_SERVICE",
+        "google_mention_rate_pct": 88.9,
+        "google_support_n": 9,
+        "google_low_context_share": 25.0,
+        "google_high_context_share": 83.3,
+        "sikayetvar_mention_rate_pct": 66.66666666666667,
+        "sikayetvar_hotel_n": 9,
+        "sikayetvar_small_n_flag": false,
+        "alignment_label": "GOOGLE_STRENGTH_VS_COMPLAINT",
+        "hotel_name": "Selectum Colours Bodrum"
+      }
+    ],
+    "key_findings": [
+      {
+        "finding_id": "GSF001",
+        "level": "GLOBAL",
+        "hotel_id": NaN,
+        "hotel_name": NaN,
+        "finding": "27 hotels have both Google Travel review data and at least one visible Sikayetvar complaint.",
+        "evidence_metric": "common_complaint_bearing_hotel_n",
+        "evidence_value": 27.0,
+        "support_n": 27,
+        "confidence": "HIGH",
+        "limitation": "Google and Sikayetvar are different populations with different exposure; this is a coverage fact, not a sentiment comparison."
+      },
+      {
+        "finding_id": "GSF002",
+        "level": "GLOBAL",
+        "hotel_id": NaN,
+        "hotel_name": NaN,
+        "finding": "15 hotels have enough sample size on both sides (Google n>=10, Sikayetvar complaint_n>=5) for a genuinely supported comparison.",
+        "evidence_metric": "supported_common_hotel_n",
+        "evidence_value": 15.0,
+        "support_n": 15,
+        "confidence": "HIGH",
+        "limitation": "Comparisons outside this supported set should be read as directional only."
+      },
+      {
+        "finding_id": "GSF003",
+        "level": "HOTEL",
+        "hotel_id": "BOD077",
+        "hotel_name": "Ladonia Hotels Zemda",
+        "finding": "MANAGEMENT_COMMUNICATION shows up as a concern in BOTH Google Travel (low-rating context) and Sikayetvar (recurrent complaint theme) for this hotel.",
+        "evidence_metric": "sikayetvar_mention_rate_pct",
+        "evidence_value": 100.0,
+        "support_n": 7,
+        "confidence": "MEDIUM",
+        "limitation": "Two independently-biased corpora agreeing increases confidence, but neither is a random sample."
+      },
+      {
+        "finding_id": "GSF004",
+        "level": "HOTEL",
+        "hotel_id": "BOD077",
+        "hotel_name": "Ladonia Hotels Zemda",
+        "finding": "PRICE_VALUE shows up as a concern in BOTH Google Travel (low-rating context) and Sikayetvar (recurrent complaint theme) for this hotel.",
+        "evidence_metric": "sikayetvar_mention_rate_pct",
+        "evidence_value": 100.0,
+        "support_n": 7,
+        "confidence": "MEDIUM",
+        "limitation": "Two independently-biased corpora agreeing increases confidence, but neither is a random sample."
+      },
+      {
+        "finding_id": "GSF005",
+        "level": "HOTEL",
+        "hotel_id": "BOD077",
+        "hotel_name": "Ladonia Hotels Zemda",
+        "finding": "PAYMENT_REFUND shows up as a concern in BOTH Google Travel (low-rating context) and Sikayetvar (recurrent complaint theme) for this hotel.",
+        "evidence_metric": "sikayetvar_mention_rate_pct",
+        "evidence_value": 100.0,
+        "support_n": 7,
+        "confidence": "MEDIUM",
+        "limitation": "Two independently-biased corpora agreeing increases confidence, but neither is a random sample."
+      },
+      {
+        "finding_id": "GSF006",
+        "level": "HOTEL",
+        "hotel_id": "BOD077",
+        "hotel_name": "Ladonia Hotels Zemda",
+        "finding": "RESERVATION shows up as a concern in BOTH Google Travel (low-rating context) and Sikayetvar (recurrent complaint theme) for this hotel.",
+        "evidence_metric": "sikayetvar_mention_rate_pct",
+        "evidence_value": 100.0,
+        "support_n": 7,
+        "confidence": "MEDIUM",
+        "limitation": "Two independently-biased corpora agreeing increases confidence, but neither is a random sample."
+      },
+      {
+        "finding_id": "GSF007",
+        "level": "HOTEL",
+        "hotel_id": "BOD113",
+        "hotel_name": "Kadıkale Resort",
+        "finding": "ROOM_COMFORT shows up as a concern in BOTH Google Travel (low-rating context) and Sikayetvar (recurrent complaint theme) for this hotel.",
+        "evidence_metric": "sikayetvar_mention_rate_pct",
+        "evidence_value": 85.7,
+        "support_n": 7,
+        "confidence": "MEDIUM",
+        "limitation": "Two independently-biased corpora agreeing increases confidence, but neither is a random sample."
+      },
+      {
+        "finding_id": "GSF008",
+        "level": "HOTEL",
+        "hotel_id": "BOD130",
+        "hotel_name": "Petunya Beach Resort",
+        "finding": "MANAGEMENT_COMMUNICATION shows up as a concern in BOTH Google Travel (low-rating context) and Sikayetvar (recurrent complaint theme) for this hotel.",
+        "evidence_metric": "sikayetvar_mention_rate_pct",
+        "evidence_value": 84.6,
+        "support_n": 13,
+        "confidence": "MEDIUM",
+        "limitation": "Two independently-biased corpora agreeing increases confidence, but neither is a random sample."
+      },
+      {
+        "finding_id": "GSF009",
+        "level": "HOTEL",
+        "hotel_id": "BOD006",
+        "hotel_name": "Club Marma Hotel",
+        "finding": "FOOD_BEVERAGE shows up as a concern in BOTH Google Travel (low-rating context) and Sikayetvar (recurrent complaint theme) for this hotel.",
+        "evidence_metric": "sikayetvar_mention_rate_pct",
+        "evidence_value": 80.0,
+        "support_n": 5,
+        "confidence": "MEDIUM",
+        "limitation": "Two independently-biased corpora agreeing increases confidence, but neither is a random sample."
+      },
+      {
+        "finding_id": "GSF010",
+        "level": "HOTEL",
+        "hotel_id": "BOD161",
+        "hotel_name": "MyElla Hotel Resort & Spa",
+        "finding": "STAFF_SERVICE shows up as a concern in BOTH Google Travel (low-rating context) and Sikayetvar (recurrent complaint theme) for this hotel.",
+        "evidence_metric": "sikayetvar_mention_rate_pct",
+        "evidence_value": 78.6,
+        "support_n": 28,
+        "confidence": "MEDIUM",
+        "limitation": "Two independently-biased corpora agreeing increases confidence, but neither is a random sample."
+      },
+      {
+        "finding_id": "GSF011",
+        "level": "HOTEL",
+        "hotel_id": "BOD006",
+        "hotel_name": "Club Marma Hotel",
+        "finding": "STAFF_SERVICE is a Google Travel strength signal (high-rating context) yet still appears as a Sikayetvar complaint theme for this hotel - a genuine source divergence, not a contradiction.",
+        "evidence_metric": "sikayetvar_mention_rate_pct",
+        "evidence_value": 100.0,
+        "support_n": 5,
+        "confidence": "MEDIUM",
+        "limitation": "Complaint corpora over-represent unhappy guests by design; this does not mean the Google signal is wrong."
+      },
+      {
+        "finding_id": "GSF012",
+        "level": "HOTEL",
+        "hotel_id": "BOD045",
+        "hotel_name": "Salmakis Resort & Spa",
+        "finding": "STAFF_SERVICE is a Google Travel strength signal (high-rating context) yet still appears as a Sikayetvar complaint theme for this hotel - a genuine source divergence, not a contradiction.",
+        "evidence_metric": "sikayetvar_mention_rate_pct",
+        "evidence_value": 100.0,
+        "support_n": 7,
+        "confidence": "MEDIUM",
+        "limitation": "Complaint corpora over-represent unhappy guests by design; this does not mean the Google signal is wrong."
+      },
+      {
+        "finding_id": "GSF013",
+        "level": "HOTEL",
+        "hotel_id": "BOD068",
+        "hotel_name": "Selectum Colours Bodrum",
+        "finding": "ROOM_COMFORT is a Google Travel strength signal (high-rating context) yet still appears as a Sikayetvar complaint theme for this hotel - a genuine source divergence, not a contradiction.",
+        "evidence_metric": "sikayetvar_mention_rate_pct",
+        "evidence_value": 88.9,
+        "support_n": 9,
+        "confidence": "MEDIUM",
+        "limitation": "Complaint corpora over-represent unhappy guests by design; this does not mean the Google signal is wrong."
+      },
+      {
+        "finding_id": "GSF014",
+        "level": "HOTEL",
+        "hotel_id": "BOD045",
+        "hotel_name": "Salmakis Resort & Spa",
+        "finding": "ROOM_COMFORT is a Google Travel strength signal (high-rating context) yet still appears as a Sikayetvar complaint theme for this hotel - a genuine source divergence, not a contradiction.",
+        "evidence_metric": "sikayetvar_mention_rate_pct",
+        "evidence_value": 85.7,
+        "support_n": 7,
+        "confidence": "MEDIUM",
+        "limitation": "Complaint corpora over-represent unhappy guests by design; this does not mean the Google signal is wrong."
+      },
+      {
+        "finding_id": "GSF015",
+        "level": "HOTEL",
+        "hotel_id": "BOD002",
+        "hotel_name": "Armonia Holiday Village & Spa",
+        "finding": "STAFF_SERVICE is a Google Travel strength signal (high-rating context) yet still appears as a Sikayetvar complaint theme for this hotel - a genuine source divergence, not a contradiction.",
+        "evidence_metric": "sikayetvar_mention_rate_pct",
+        "evidence_value": 75.0,
+        "support_n": 8,
+        "confidence": "MEDIUM",
+        "limitation": "Complaint corpora over-represent unhappy guests by design; this does not mean the Google signal is wrong."
+      },
+      {
+        "finding_id": "GSF016",
+        "level": "HOTEL",
+        "hotel_id": "BOD002",
+        "hotel_name": "Armonia Holiday Village & Spa",
+        "finding": "FOOD_BEVERAGE is a Google Travel strength signal (high-rating context) yet still appears as a Sikayetvar complaint theme for this hotel - a genuine source divergence, not a contradiction.",
+        "evidence_metric": "sikayetvar_mention_rate_pct",
+        "evidence_value": 75.0,
+        "support_n": 8,
+        "confidence": "MEDIUM",
+        "limitation": "Complaint corpora over-represent unhappy guests by design; this does not mean the Google signal is wrong."
+      },
+      {
+        "finding_id": "GSF017",
+        "level": "HOTEL",
+        "hotel_id": "BOD045",
+        "hotel_name": "Salmakis Resort & Spa",
+        "finding": "FOOD_BEVERAGE is a Google Travel strength signal (high-rating context) yet still appears as a Sikayetvar complaint theme for this hotel - a genuine source divergence, not a contradiction.",
+        "evidence_metric": "sikayetvar_mention_rate_pct",
+        "evidence_value": 71.4,
+        "support_n": 7,
+        "confidence": "MEDIUM",
+        "limitation": "Complaint corpora over-represent unhappy guests by design; this does not mean the Google signal is wrong."
+      },
+      {
+        "finding_id": "GSF018",
+        "level": "HOTEL",
+        "hotel_id": "BOD068",
+        "hotel_name": "Selectum Colours Bodrum",
+        "finding": "STAFF_SERVICE is a Google Travel strength signal (high-rating context) yet still appears as a Sikayetvar complaint theme for this hotel - a genuine source divergence, not a contradiction.",
+        "evidence_metric": "sikayetvar_mention_rate_pct",
+        "evidence_value": 66.7,
+        "support_n": 9,
+        "confidence": "MEDIUM",
+        "limitation": "Complaint corpora over-represent unhappy guests by design; this does not mean the Google signal is wrong."
+      }
+    ]
+  }
+}

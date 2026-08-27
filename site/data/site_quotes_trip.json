@@ -1,0 +1,58 @@
+{
+  "FAMILY": [
+    {
+      "hotel": "La Blanche Island Bodrum",
+      "date": "Posted August 12, 2026",
+      "text": "Everythink was amazing the Staff the Food the Welcome Thanks ❤️",
+      "rating": 5.0
+    },
+    {
+      "hotel": "The Bodrum EDITION",
+      "date": "Posted May 4, 2025",
+      "text": "The service is second to none. The staff is very proffesional and attentive. The facility is a small, well maintained and run resort by the sea. We will definitely come back.",
+      "rating": 5.0
+    }
+  ],
+  "COUPLE": [
+    {
+      "hotel": "Royal Asarlik Beach Hotel & Spa",
+      "date": "Posted July 24, 2026",
+      "text": "The location is excellent, and the staff are very friendly. The entertainment was enjoyable, and the pool was great. The food wasn't bad; you're sure to find something you like. It's definitely a value-for-money hotel. I recommend it.",
+      "rating": 4.75
+    },
+    {
+      "hotel": "Club Shark Hotel",
+      "date": "Posted January 23, 2024",
+      "text": "This is definitely not a 4 star hotel. It is only 2 stars hotel",
+      "rating": 1.0
+    }
+  ],
+  "SOLO": [
+    {
+      "hotel": "Ramada Resort by Wyndham Bodrum",
+      "date": "Posted July 30, 2026",
+      "text": "Everything was really nice, the whole staff were very polite and professional.",
+      "rating": 5.0
+    },
+    {
+      "hotel": "La Quinta by Wyndham Bodrum",
+      "date": "Posted May 21, 2025",
+      "text": "Nice hotel, not too big. Great food. Friendly staff. Bodrum marina is just under a 1-km walk.",
+      "rating": 4.5
+    }
+  ],
+  "FRIENDS": [
+    {
+      "hotel": "Susona Bodrum, LXR Hotels & Resorts",
+      "date": "Posted August 20, 2025",
+      "text": "The hotel and grounds and the room were beyond amazing. Not to mention the views.... Only problem is some staff don’t speak English n we had problems with it. But I notice this is normal all over turkey even in 5 star hotels",
+      "rating": 4.5
+    },
+    {
+      "hotel": "Sirene Luxury Hotel Bodrum",
+      "date": "Posted September 3, 2025",
+      "text": "We had a very very nice experience with the hotel, the staff and managers were incredibly nice! 10/100 definitely will come back",
+      "rating": 5.0
+    }
+  ]
+}

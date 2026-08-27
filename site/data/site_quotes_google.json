@@ -1,0 +1,582 @@
+{
+  "high": {
+    "STAFF": [
+      {
+        "hotel": "Club Shark Hotel",
+        "date": "Google üzerinde bir ay önce",
+        "text": "Otelin konumu merkezde her yere yürüme mesafesi. Temiz ve düzenli odaları var. Güleryüzlü personele sahip. Özellikle mutfak başarılı ve lezzetli Mehmet şefe teşekkürler."
+      },
+      {
+        "hotel": "Flamm Bodrum",
+        "date": "Tripadvisor üzerinde 2 yıl önce",
+        "text": "öncelikle imkanlar doğrultusunda konaklamamızda yardım ve ilgisini esirgemeyen Feyza hanım’a ardından tüm personele teşekkür ederiz. güleryüzleri ve misafirperverlikleriyle bize gerçekten çok huzurlu bir deneyim yaşattılar. tesis için ..."
+      }
+    ],
+    "CLEANLINESS": [
+      {
+        "hotel": "Club Shark Hotel",
+        "date": "Google üzerinde bir ay önce",
+        "text": "Otelin konumu merkezde her yere yürüme mesafesi. Temiz ve düzenli odaları var. Güleryüzlü personele sahip. Özellikle mutfak başarılı ve lezzetli Mehmet şefe teşekkürler."
+      },
+      {
+        "hotel": "Rammos Managed by Dedeman",
+        "date": "Tripadvisor üzerinde bir ay önce",
+        "text": "Rammos Managed by Bodrum'da geçirdiğimiz tatilden son derece memnun ayrılıyoruz.||Otelin en güçlü yanı kesinlikle tertemiz oluşu ve tüm ekibin içten, samimi ve güler yüzlü yaklaşımı. ..."
+      }
+    ],
+    "HYGIENE": [
+      {
+        "hotel": "Susona Bodrum, LXR Hotels & Resorts",
+        "date": "Tripadvisor üzerinde 4 hafta önce",
+        "text": "Öncelikle Otel’e ilk giriş yaptığımız andan itibaren Kübra ve Meryem Hanım bizleri mükemmel karşıladı ve Ön Büro Müd Hakan Bey’ede oda tercihi için teşekkür ederiz.Odamız mükemmeldi.Geniş ve ferah her gün temizliği yapıldı.Hijyene çok ..."
+      },
+      {
+        "hotel": "Paloma Family Club Bitez",
+        "date": "Google üzerinde bir ay önce",
+        "text": "Sineklik var. Klima etkin. Her gün temizleniyor. İki katlı. Kapının önüne sandalye masa bırakmışlar. Her yer ağaçlık, huzurlu bir ortam . Not: İlaçlamanın artırılması lazım. ... Devamı"
+      }
+    ],
+    "FOOD": [
+      {
+        "hotel": "Club Shark Hotel",
+        "date": "Google üzerinde bir ay önce",
+        "text": "Otelin konumu merkezde her yere yürüme mesafesi. Temiz ve düzenli odaları var. Güleryüzlü personele sahip. Özellikle mutfak başarılı ve lezzetli Mehmet şefe teşekkürler."
+      },
+      {
+        "hotel": "Casa Del Mar Bodrum",
+        "date": "Google üzerinde 2 yıl önce",
+        "text": "Ailecek konaklayabileceğiniz bir otel. Otelin denize yürüyüş mesafesinde olması çok iyi. Odaları temiz. Sahibi ve çalışan personel çok ilgililer. Akşam yemeği için hazırladıkları meze ve sıcak yemekler canlı müzikte gayet başarılıydı."
+      }
+    ],
+    "ROOM": [
+      {
+        "hotel": "Club Shark Hotel",
+        "date": "Google üzerinde bir ay önce",
+        "text": "Otelin konumu merkezde her yere yürüme mesafesi. Temiz ve düzenli odaları var. Güleryüzlü personele sahip. Özellikle mutfak başarılı ve lezzetli Mehmet şefe teşekkürler."
+      },
+      {
+        "hotel": "Oscar Seaside Hotel & Spa",
+        "date": "Tripadvisor üzerinde 4 ay önce",
+        "text": "Öncelikle yorumlara bakmıştım kotü yorumlar vardı korkarak gittigim yerden çok memnun ayrıldım yorumlara aldanmayın ve fotograflara gerçekten çok hoş bir otel hizmet kalitesi çok yüksek gorünüm vs odalarıda harika balayı için tercih ..."
+      }
+    ],
+    "BED_COMFORT": [
+      {
+        "hotel": "Gümbet Anıl Beach",
+        "date": "Google üzerinde 2 ay önce",
+        "text": "Tam anlamıyla bir aile oteli. Hizmet konusunda herkes çok ilgili. Konum olarak her yere yakın odalar tertemiz hiçbir sorun yaşamadık. Denize sıfır yemekler mükemmel asla rahatsız olmadık artık favori otelimiz oldu herkese tavsiye ederim 👌🏻👌🏻"
+      },
+      {
+        "hotel": "Manuela Otel Bitez",
+        "date": "Tripadvisor üzerinde bir ay önce",
+        "text": "Haziran ayının sonunda Bodrum Bitez sahilinde bulunan Manuela Hotel’de ailece çok güzel bir tatil geçirdik. Çocuğumuzla birlikte tercih ettiğimiz otelde son derece rahat ettik. ..."
+      }
+    ],
+    "BEACH_SEA": [
+      {
+        "hotel": "Casa Del Mar Bodrum",
+        "date": "Google üzerinde 2 yıl önce",
+        "text": "Ailecek konaklayabileceğiniz bir otel. Otelin denize yürüyüş mesafesinde olması çok iyi. Odaları temiz. Sahibi ve çalışan personel çok ilgililer. Akşam yemeği için hazırladıkları meze ve sıcak yemekler canlı müzikte gayet başarılıydı."
+      },
+      {
+        "hotel": "Gümbet Anıl Beach",
+        "date": "Google üzerinde 2 ay önce",
+        "text": "Tam anlamıyla bir aile oteli. Hizmet konusunda herkes çok ilgili. Konum olarak her yere yakın odalar tertemiz hiçbir sorun yaşamadık. Denize sıfır yemekler mükemmel asla rahatsız olmadık artık favori otelimiz oldu herkese tavsiye ederim 👌🏻👌🏻"
+      }
+    ],
+    "POOL": [
+      {
+        "hotel": "Le Méridien Bodrum Beach Resort",
+        "date": "Tripadvisor üzerinde 3 ay önce",
+        "text": "Otel tek kelimeyle mükemmel! Odaların konforu ve temizliğinden tutun, havuz ve beach’in düzeni ile temizliğine kadar her şey harikaydı. ..."
+      },
+      {
+        "hotel": "Sentido Bellazure - Akyarlar, Bodrum / Turkey",
+        "date": "Google üzerinde bir ay önce",
+        "text": "Sentido Bellazur otelde eşim ile çok keyifli vakit geçirdik. Yemekleri 10 üzerinden 8, eğlence ekibi 10 üzerinden 10, deniz ve havuz olanakları 10 üzerinden 10, oda temizliği ve kalitesi 10 üzerinden 10 diyebilirim abartısız şekilde. En çok ... Devamı"
+      }
+    ],
+    "SERVICE": [
+      {
+        "hotel": "Oscar Seaside Hotel & Spa",
+        "date": "Tripadvisor üzerinde 4 ay önce",
+        "text": "Öncelikle yorumlara bakmıştım kotü yorumlar vardı korkarak gittigim yerden çok memnun ayrıldım yorumlara aldanmayın ve fotograflara gerçekten çok hoş bir otel hizmet kalitesi çok yüksek gorünüm vs odalarıda harika balayı için tercih ..."
+      },
+      {
+        "hotel": "The Bodrum EDITION",
+        "date": "Google üzerinde bir yıl önce",
+        "text": "Tünaydınlar güzel bir pazar günü diliyorum öncelikle nasılsınız iyimisiniz the bodrum edition ailesi ve yönetimdeki kişiler açıldı ilk günden beri kaliteli güler yüzlü hizmet ekibi ile misafirlerini en iyi şekilde ağırlıyor Avrupa ... Devamı"
+      }
+    ],
+    "PRICE_VALUE": [
+      {
+        "hotel": "4 reasons Hotel Yalikavak",
+        "date": "Google üzerinde bir yıl önce",
+        "text": "Merkeze biraz uzak. Odalarda piriz çok az. Kahvaltı fena değil. Service Personeline 5yıldız.\nDiş fırçamızı unutmuştuk.\nMalesef bize ücret ile verdiler.\nYoksa dinlenmek için güzel yer.\nGençler için biraz sıkıcı bir yer."
+      },
+      {
+        "hotel": "Sentido Bellazure - Akyarlar, Bodrum / Turkey",
+        "date": "Google üzerinde bir ay önce",
+        "text": "Otel aile ortamına uygun sessiz sakin huzurlu denizi çok güzel temiz yemekler lezzetli bol çeşitli animasyon sürekli ilgi halinde etkinliklerle geçiyor akşamları da şovlarla geçiyor 10yıldan fazladır bu oteli tercih ediyorum her sene tek tercihim burası"
+      }
+    ],
+    "LOCATION": [
+      {
+        "hotel": "Club Shark Hotel",
+        "date": "Google üzerinde bir ay önce",
+        "text": "Otelin konumu merkezde her yere yürüme mesafesi. Temiz ve düzenli odaları var. Güleryüzlü personele sahip. Özellikle mutfak başarılı ve lezzetli Mehmet şefe teşekkürler."
+      },
+      {
+        "hotel": "Gümbet Anıl Beach",
+        "date": "Google üzerinde 2 ay önce",
+        "text": "Tam anlamıyla bir aile oteli. Hizmet konusunda herkes çok ilgili. Konum olarak her yere yakın odalar tertemiz hiçbir sorun yaşamadık. Denize sıfır yemekler mükemmel asla rahatsız olmadık artık favori otelimiz oldu herkese tavsiye ederim 👌🏻👌🏻"
+      }
+    ],
+    "FACILITIES": [
+      {
+        "hotel": "Flamm Bodrum",
+        "date": "Tripadvisor üzerinde 2 yıl önce",
+        "text": "öncelikle imkanlar doğrultusunda konaklamamızda yardım ve ilgisini esirgemeyen Feyza hanım’a ardından tüm personele teşekkür ederiz. güleryüzleri ve misafirperverlikleriyle bize gerçekten çok huzurlu bir deneyim yaşattılar. tesis için ..."
+      },
+      {
+        "hotel": "Mandarin Oriental, Bodrum",
+        "date": "Google üzerinde 4 ay önce",
+        "text": "olaganüstü bir servis ekibi ve neredeyse her kişiye butler servisi varmış gibi hissettiren bir tesis... bence açık ara Türkiye'deki en iyi resort..."
+      }
+    ],
+    "NOISE": [
+      {
+        "hotel": "Casa Del Mar Bodrum",
+        "date": "Google üzerinde 2 ay önce düzenlendi",
+        "text": "2 günlügüne geldim ve aşırı dinlendim kafam dagıldı sessiz sakin ışıl ışıl. Zaten çok ilgileler. Sahibi Ceyhun beyle tanıştık. Arada kaçacağım nadir yerlerden birisi yenilenmişler. Çokta güzel olmuş."
+      },
+      {
+        "hotel": "Casa Del Mar Bodrum",
+        "date": "Google üzerinde 2 yıl önce",
+        "text": "Ailecek konaklayabileceğiniz bir otel. Otelin denize yürüyüş mesafesinde olması çok iyi. Odaları temiz. Sahibi ve çalışan personel çok ilgililer. Akşam yemeği için hazırladıkları meze ve sıcak yemekler canlı müzikte gayet başarılıydı."
+      }
+    ],
+    "FAMILY_KIDS": [
+      {
+        "hotel": "The Bodrum EDITION",
+        "date": "Google üzerinde bir yıl önce",
+        "text": "Tünaydınlar güzel bir pazar günü diliyorum öncelikle nasılsınız iyimisiniz the bodrum edition ailesi ve yönetimdeki kişiler açıldı ilk günden beri kaliteli güler yüzlü hizmet ekibi ile misafirlerini en iyi şekilde ağırlıyor Avrupa ... Devamı"
+      },
+      {
+        "hotel": "Casa Del Mar Bodrum",
+        "date": "Google üzerinde 2 yıl önce",
+        "text": "Ailecek konaklayabileceğiniz bir otel. Otelin denize yürüyüş mesafesinde olması çok iyi. Odaları temiz. Sahibi ve çalışan personel çok ilgililer. Akşam yemeği için hazırladıkları meze ve sıcak yemekler canlı müzikte gayet başarılıydı."
+      }
+    ],
+    "ANIMATION_ENTERTAINMENT": [
+      {
+        "hotel": "Sentido Bellazure - Akyarlar, Bodrum / Turkey",
+        "date": "Google üzerinde bir ay önce",
+        "text": "Sentido Bellazur otelde eşim ile çok keyifli vakit geçirdik. Yemekleri 10 üzerinden 8, eğlence ekibi 10 üzerinden 10, deniz ve havuz olanakları 10 üzerinden 10, oda temizliği ve kalitesi 10 üzerinden 10 diyebilirim abartısız şekilde. En çok ... Devamı"
+      },
+      {
+        "hotel": "Sentido Bellazure - Akyarlar, Bodrum / Turkey",
+        "date": "Google üzerinde bir ay önce",
+        "text": "Otel aile ortamına uygun sessiz sakin huzurlu denizi çok güzel temiz yemekler lezzetli bol çeşitli animasyon sürekli ilgi halinde etkinliklerle geçiyor akşamları da şovlarla geçiyor 10yıldan fazladır bu oteli tercih ediyorum her sene tek tercihim burası"
+      }
+    ],
+    "AIR_CONDITIONING": [
+      {
+        "hotel": "Paloma Family Club Bitez",
+        "date": "Google üzerinde bir ay önce",
+        "text": "Sineklik var. Klima etkin. Her gün temizleniyor. İki katlı. Kapının önüne sandalye masa bırakmışlar. Her yer ağaçlık, huzurlu bir ortam . Not: İlaçlamanın artırılması lazım. ... Devamı"
+      },
+      {
+        "hotel": "Olivia Hotel",
+        "date": "Google üzerinde 3 yıl önce",
+        "text": "Odalar temiz personel ilgili otopark biraz kötü kliması çalışıyor karşılama iyiydi odaların içinde kahve ikramı güzel düşünülmüş"
+      }
+    ],
+    "CHECKIN_CHECKOUT": [
+      {
+        "hotel": "Susona Bodrum, LXR Hotels & Resorts",
+        "date": "Tripadvisor üzerinde 4 hafta önce",
+        "text": "Öncelikle Otel’e ilk giriş yaptığımız andan itibaren Kübra ve Meryem Hanım bizleri mükemmel karşıladı ve Ön Büro Müd Hakan Bey’ede oda tercihi için teşekkür ederiz.Odamız mükemmeldi.Geniş ve ferah her gün temizliği yapıldı.Hijyene çok ..."
+      },
+      {
+        "hotel": "Gümbet Anıl Beach",
+        "date": "Google üzerinde 2 ay önce",
+        "text": "Bodruma başka bir otele geldim 25 mayısta girip 29 mayısta çıkış yapacaktım fakat ilk gittiğim otel çok pis olunca orayı iptal ettim. bu oteli juul turdan buldum otel konumu içi odaları personeli harika fiyata diğerlerine göre çok uygun.ilk ... Devamı"
+      }
+    ],
+    "RESERVATION": [
+      {
+        "hotel": "Arriba Apartment & Restaurant & Bungalows",
+        "date": "Tripadvisor üzerinde 4 yıl önce",
+        "text": "Akşam yemeği için muhteşem ambiyansı ile eşsiz mekanın mezeleri bu yıl daha iyi olmuş. Gümüşlük için fiyatları çok uygun. Bodrumda mutlaka test edilmesi gereken mekan. Önceden rezervasyon sırasında özel balık siparişlerinizde verebilirsiniz."
+      },
+      {
+        "hotel": "Gümbet Anıl Beach",
+        "date": "Google üzerinde 2 ay önce",
+        "text": "Bodruma başka bir otele geldim 25 mayısta girip 29 mayısta çıkış yapacaktım fakat ilk gittiğim otel çok pis olunca orayı iptal ettim. bu oteli juul turdan buldum otel konumu içi odaları personeli harika fiyata diğerlerine göre çok uygun.ilk ... Devamı"
+      }
+    ],
+    "REFUND_PAYMENT": [
+      {
+        "hotel": "Selvi Bodrum",
+        "date": "Google üzerinde 4 yıl önce",
+        "text": "Otelin beach kısmı için gittik gayet sakin ve güzeldi.Girerken kişi basi en az 200 tl olacak şekilde otelin kartina para yükletmeniz gerekiyor sonrasinda bunu harcayacabiliyorsunuz .Tabii yetmedi kartta eksiye düşme gibi bi durum var ... Devamı"
+      },
+      {
+        "hotel": "Costa Farilya Special Class Hotel Bodrum",
+        "date": "Tripadvisor üzerinde 3 hafta önce",
+        "text": "Ilk defa deneyimledim ve 2 haftalik rezervasyonu 3 haftaya cikarttim.tertemiz,24 saat ulasilabilir personel ve ozellikle housekeeping Medine Hanim sayesinde evimde gibi hissettim.Seneye yine burdayiz insallah..."
+      }
+    ],
+    "TRANSPORT_TRANSFER": [
+      {
+        "hotel": "4 reasons Hotel Yalikavak",
+        "date": "Tripadvisor üzerinde bir yıl önce",
+        "text": "Şimdiye kadar gördüğüm en kibar en nazik işletmeydi. Akşamın bir yarısı beni ağırladılar, yaşadığım mağduriyeti unutmamı sağladılar. Çıkış saati, yemek siparişi ve taksi konularında çok yardımsever davrandılar. ..."
+      },
+      {
+        "hotel": "Salmakis Resort & Spa",
+        "date": "Google üzerinde bir ay önce",
+        "text": "Otelde 4 gece 5 gün konakladık. Otel havaalanına 50 dk falan mesafede Bodrum kalesine falan çok çok yakın merkeze yakın yani. Plajı kum ve harikaydı suyu çok serindi ve dalgasızdı. Otelin odalarını biz beğendik ama temizlik konusunda biraz ... Devamı"
+      }
+    ],
+    "MANAGEMENT": [
+      {
+        "hotel": "The Bodrum EDITION",
+        "date": "Google üzerinde bir yıl önce",
+        "text": "Tünaydınlar güzel bir pazar günü diliyorum öncelikle nasılsınız iyimisiniz the bodrum edition ailesi ve yönetimdeki kişiler açıldı ilk günden beri kaliteli güler yüzlü hizmet ekibi ile misafirlerini en iyi şekilde ağırlıyor Avrupa ... Devamı"
+      },
+      {
+        "hotel": "Gümbet Anıl Beach",
+        "date": "Tripadvisor üzerinde 2 ay önce",
+        "text": "15 senedir aynı otele senede iki kez oğlumla tatile gidiyorum Aile oteli, konumu yemekleri ,temizliği acısından muhteşem İşletme sahibi Sn Sevda hn & Göksel bey Rez Mdr Bedri Bey'e sonsuz teşekkür ediyorum. ..."
+      }
+    ],
+    "COMMUNICATION": [
+      {
+        "hotel": "Myndos Oda & kahvalti",
+        "date": "Tripadvisor üzerinde 5 yıl önce",
+        "text": "İşletmeye gelmeden sizinle sürekli iletişim içinde olan aşırı konuk sever işletme sahipleri ayşegül hanım ve ümit beye teşekkür ederim. Resepsiyon da ve odalar da bizim le ilgilenen sevgi hanım ve ramo da harika insanlar. ..."
+      },
+      {
+        "hotel": "Begonvil Gümüşlük",
+        "date": "Google üzerinde 7 ay önce",
+        "text": "Konumu, odaları, konsepti ve temizlik genel olarak çok iyi. Havlu ve tabakların hijyenine biraz daha dikkat edilse çok daha iyi olur. Tüm isteklerimize itina ile geri dönüş yaptılar. Hiç düşünmeden tavsiye ederim."
+      }
+    ],
+    "BAR_DRINKS": [
+      {
+        "hotel": "Viras Hotel & Beach",
+        "date": "Google üzerinde 3 hafta önce",
+        "text": "On numara bir otel saygılı titiz ve aile yeri özellikle barmeni ferhatı ayrı sevdim gelebileceğiniz sakinlikte"
+      },
+      {
+        "hotel": "Oscar Seaside Hotel & Spa",
+        "date": "Google üzerinde bir ay önce",
+        "text": "Otelden her açıdan çok memnun kaldım, odalar olsun hizmet olsun her şey çok güzeldi tekrar gidersem hiç düşünmeden burayı tercih ederim. Barda çalışan İrem hanımada ayrıca teşekkür ederim çok ilgili, tatlı ve güler yüzlüydü heryerde böyle ... Devamı"
+      }
+    ],
+    "WIFI": [
+      {
+        "hotel": "Jasmin Elite Residence & Spa",
+        "date": "Google üzerinde 5 ay önce",
+        "text": "Otel Gümbet’de. Temiz ferah. İnternet başarılı. Kahvaltı beklentimin üzerindeydi. Kahve benim gibi kahve içicisi için kötüydü. Ama bol ve kaliteli idi. Maalesef yan odamız gece çok gürültü yaptı! Rahat uyuyamadım. Aslında bir aparatda kaldık. Çamaşır, bulaşık makinesi; büyük buzdolabı, mikro dalga fırın ocak mutfak gereçleri var."
+      },
+      {
+        "hotel": "Bitez Risa Hotel",
+        "date": "Google üzerinde 11 ay önce",
+        "text": "Son dakikada internet sitesi üzerinden bulduğum ve yorumlara bakarak belirlenen bir oteldi, tereddüt içinde geldim. Ama lobide gördüğüm güler yüzlü insanlar sayesinde doğru karar verdiğimi anladım. Konum olarak mükemmel bir yerde. Otel ... Devamı"
+      }
+    ]
+  },
+  "low": {
+    "STAFF": [
+      {
+        "hotel": "Jasmin Elite Residence & Spa",
+        "date": "Google üzerinde bir yıl önce düzenlendi",
+        "text": "Victoria’s Secret pijama takımım otelde konakladığım esnada kayboldu. Otel çalışanları tarafından odamdan alınmış olunduğunu düşünüyorum. Odama bakılmasını istediğimde yeni müşteri geldiği için detaylı bakılamayacağını ancak yeni gelen otel ... Devamı"
+      },
+      {
+        "hotel": "Jasmin Elite Residence & Spa",
+        "date": "Google üzerinde bir yıl önce",
+        "text": "İş için konaklama yaptığım otel de sadece marlin restorant şefi serhat bey ve güleryüzle bizi kapı da karşılayan güvenlik çalışanı arkadaşa çok tşk ederim. Otel konum ve odalar gerçekten çok güzel. Ne yazık ki bir kaç arkadaş dışında ... Devamı"
+      }
+    ],
+    "CLEANLINESS": [
+      {
+        "hotel": "Florida Otel",
+        "date": "Google üzerinde bir yıl önce",
+        "text": "Kapısının önünden geçmeyin o kadar kötü yemekleri berbat ötesi"
+      },
+      {
+        "hotel": "Okaliptus Otel",
+        "date": "Google üzerinde bir ay önce",
+        "text": "Yatak üzerinde sigara külleri , karıncalar vardı. Klozetini temizlememişlerdi. Havlular lekeliydi.Yastık kılıfları sararmıştı resmen. Odaya girdikten sonra hemen otelden ayrıldık. Çok kirli ve pis odaları var. Asla ve adla tavsiye etmiyoruz."
+      }
+    ],
+    "HYGIENE": [
+      {
+        "hotel": "Ladonia Hotels Zemda",
+        "date": "Google üzerinde bir ay önce",
+        "text": "Hayatımda bu kadar pis bir otelde kalmadım. Çarşaflar ve havlular kokuyordu, tuvalet perişan halde, duş alınca her yer su oluyor, kahvaltılıkların üzerinde sinekler uçuşuyor. Hijyen sıfır, ne odada ne de kahvaltıda hiçbir şeye dokunmak istemedim."
+      },
+      {
+        "hotel": "Okaliptus Otel",
+        "date": "Google üzerinde 4 hafta önce",
+        "text": "Hayatımızda kaldığımız en kötü oteldir odalarında böcekler geziyor hersey eski odalar pis yemekler tatsız saman gibi bir şey içmezseniz oturduğunuz yerden kaldirilirsiniz kesinlikle tavsiye etmem resimlere bakıp aldanmayın...."
+      }
+    ],
+    "FOOD": [
+      {
+        "hotel": "Moyo Luxury Hotel & Beach",
+        "date": "Google üzerinde 6 yıl önce",
+        "text": "Otel oda kahvaltı amma velakin gün içinde yaptiginiz cay kahve bira pizza hamburger vs harcamalariniza dikkat edin hem pahali hemde size siparisiniz geldiginde hangi oda diye soruyorlar ve odaniza yaziyorlar yanlisliklar fazlaliklar cikiyor ... Devamı"
+      },
+      {
+        "hotel": "Jasmin Elite Residence & Spa",
+        "date": "Google üzerinde bir yıl önce",
+        "text": "İş için konaklama yaptığım otel de sadece marlin restorant şefi serhat bey ve güleryüzle bizi kapı da karşılayan güvenlik çalışanı arkadaşa çok tşk ederim. Otel konum ve odalar gerçekten çok güzel. Ne yazık ki bir kaç arkadaş dışında ... Devamı"
+      }
+    ],
+    "ROOM": [
+      {
+        "hotel": "Jasmin Elite Residence & Spa",
+        "date": "Google üzerinde bir yıl önce düzenlendi",
+        "text": "Victoria’s Secret pijama takımım otelde konakladığım esnada kayboldu. Otel çalışanları tarafından odamdan alınmış olunduğunu düşünüyorum. Odama bakılmasını istediğimde yeni müşteri geldiği için detaylı bakılamayacağını ancak yeni gelen otel ... Devamı"
+      },
+      {
+        "hotel": "Salmakis Resort & Spa",
+        "date": "Tripadvisor üzerinde bir ay önce",
+        "text": "12–14 Temmuz tarihleri arasında iki kişi, deniz manzaralı odada Ultra her şey dahil konseptiyle Salmakis Resort & Spa’da konakladık. ..."
+      }
+    ],
+    "BED_COMFORT": [
+      {
+        "hotel": "Flamm Bodrum",
+        "date": "Google üzerinde bir yıl önce",
+        "text": "Konumu, denizi ve karşılamadaki güler yüze söylenecek hiç bir şey yok hepsi çok iyi ancak 6 gecelik konaklamamızın 3 gecesinde odada sıcak su yoktu ve bu konuda kimse yardımcı olmadı. Odaya ilk girdiğimizde yatakların yanındaki tahta ... Devamı"
+      },
+      {
+        "hotel": "Okaliptus Otel",
+        "date": "Google üzerinde bir ay önce",
+        "text": "Yatak üzerinde sigara külleri , karıncalar vardı. Klozetini temizlememişlerdi. Havlular lekeliydi.Yastık kılıfları sararmıştı resmen. Odaya girdikten sonra hemen otelden ayrıldık. Çok kirli ve pis odaları var. Asla ve adla tavsiye etmiyoruz."
+      }
+    ],
+    "BEACH_SEA": [
+      {
+        "hotel": "Salmakis Resort & Spa",
+        "date": "Tripadvisor üzerinde bir ay önce",
+        "text": "12–14 Temmuz tarihleri arasında iki kişi, deniz manzaralı odada Ultra her şey dahil konseptiyle Salmakis Resort & Spa’da konakladık. ..."
+      },
+      {
+        "hotel": "Flamm Bodrum",
+        "date": "Google üzerinde bir yıl önce",
+        "text": "Konumu, denizi ve karşılamadaki güler yüze söylenecek hiç bir şey yok hepsi çok iyi ancak 6 gecelik konaklamamızın 3 gecesinde odada sıcak su yoktu ve bu konuda kimse yardımcı olmadı. Odaya ilk girdiğimizde yatakların yanındaki tahta ... Devamı"
+      }
+    ],
+    "POOL": [
+      {
+        "hotel": "Tropicana Beach Hotel",
+        "date": "Google üzerinde 4 yıl önce",
+        "text": "Temizlik konusunda sınıfta kaldı. Çarşaflar da sarı sarı lekeler var. Kahvaltı açık büfe deniliyor fakat alakası yok. Bir gece kalıp çıktık. Ayrıca Gümbet denizi aşırı kirli. Havuzda takılırım diyorsanız olabilir ama plaj kısmı kötü."
+      },
+      {
+        "hotel": "Gümbet Anıl Beach",
+        "date": "Google üzerinde 11 ay önce",
+        "text": "Öncelikle denize sıfır havuzlu bir otel olması kaynaklı tercih ettik. Hersey dahil olarak girdik. Yemek konusunda çok eksikleri vardı. Bu tarz birçok otelde konaklamis biri olarak tat lezzet bakımından çok kötüydü. Otelde yemek yenmiyor ... Devamı"
+      }
+    ],
+    "SERVICE": [
+      {
+        "hotel": "Selvi Bodrum",
+        "date": "Google üzerinde 2 yıl önce",
+        "text": "Daha önce de gelmiştim ancak gereksiz pahali bir menüsü var. İlgi sıfır. Siparis vermek icin beklemeniz gerek. Bodrum da turist olmamasina laf ediliyordu . Artık o paraları yerli halktan almaya baslamissiniz tebrikler"
+      },
+      {
+        "hotel": "Mandarin Oriental, Bodrum",
+        "date": "Tripadvisor üzerinde bir ay önce",
+        "text": "Haftalığı 20.000 €’dan fazla... ve büyük bir hayal kırıklığı||Haftalığı 20.000 €’dan fazla ödeme yaptığınızda kusursuz bir hizmet ve gerçek anlamda lüks bir otel deneyimi beklersiniz. ..."
+      }
+    ],
+    "PRICE_VALUE": [
+      {
+        "hotel": "Selvi Bodrum",
+        "date": "Google üzerinde 2 yıl önce",
+        "text": "Daha önce de gelmiştim ancak gereksiz pahali bir menüsü var. İlgi sıfır. Siparis vermek icin beklemeniz gerek. Bodrum da turist olmamasina laf ediliyordu . Artık o paraları yerli halktan almaya baslamissiniz tebrikler"
+      },
+      {
+        "hotel": "Moyo Luxury Hotel & Beach",
+        "date": "Google üzerinde 6 yıl önce",
+        "text": "Otel oda kahvaltı amma velakin gün içinde yaptiginiz cay kahve bira pizza hamburger vs harcamalariniza dikkat edin hem pahali hemde size siparisiniz geldiginde hangi oda diye soruyorlar ve odaniza yaziyorlar yanlisliklar fazlaliklar cikiyor ... Devamı"
+      }
+    ],
+    "LOCATION": [
+      {
+        "hotel": "Salmakis Resort & Spa",
+        "date": "Tripadvisor üzerinde bir ay önce",
+        "text": "12–14 Temmuz tarihleri arasında iki kişi, deniz manzaralı odada Ultra her şey dahil konseptiyle Salmakis Resort & Spa’da konakladık. ..."
+      },
+      {
+        "hotel": "Jasmin Elite Residence & Spa",
+        "date": "Google üzerinde bir yıl önce",
+        "text": "İş için konaklama yaptığım otel de sadece marlin restorant şefi serhat bey ve güleryüzle bizi kapı da karşılayan güvenlik çalışanı arkadaşa çok tşk ederim. Otel konum ve odalar gerçekten çok güzel. Ne yazık ki bir kaç arkadaş dışında ... Devamı"
+      }
+    ],
+    "FACILITIES": [
+      {
+        "hotel": "Salmakis Resort & Spa",
+        "date": "Tripadvisor üzerinde bir ay önce",
+        "text": "12–14 Temmuz tarihleri arasında iki kişi, deniz manzaralı odada Ultra her şey dahil konseptiyle Salmakis Resort & Spa’da konakladık. ..."
+      },
+      {
+        "hotel": "Sami Beach Hotel",
+        "date": "Google üzerinde bir ay önce",
+        "text": "Otelden genel anlamda memnun kalmadık odalar çok küçük ve lobide giriş yaparken o kadar çok beklettiler ki beklerken uyuduk arabanızla ilgilenen vale müdürü çok ilgilendi kendisine çok teşekkür ediyoruz"
+      }
+    ],
+    "NOISE": [
+      {
+        "hotel": "Flamm Bodrum",
+        "date": "Google üzerinde bir yıl önce",
+        "text": "Konumu, denizi ve karşılamadaki güler yüze söylenecek hiç bir şey yok hepsi çok iyi ancak 6 gecelik konaklamamızın 3 gecesinde odada sıcak su yoktu ve bu konuda kimse yardımcı olmadı. Odaya ilk girdiğimizde yatakların yanındaki tahta ... Devamı"
+      },
+      {
+        "hotel": "Susona Bodrum, LXR Hotels & Resorts",
+        "date": "Tripadvisor üzerinde 3 hafta önce",
+        "text": "Geçen sene konaklama yaptık pozitif ve negatif yanları olmasına rağmen bu sene bir kere daha şans vermek istedik. Ancak Resepsiyondan telefon yüzümüze kapatıldı ve Barış isimli çalışan tarafından beklenmedik bir kaba tavıra maruz kaldık."
+      }
+    ],
+    "FAMILY_KIDS": [
+      {
+        "hotel": "The Luvi Hotel",
+        "date": "Google üzerinde bir ay önce",
+        "text": "Bir gelenin bir daha gelmeyeceği bir otel. Dört aile geldik , hepimizin oda kliması bozuk. Balkonsuz odalarda plaj kıyafetlerini kurutacak bir yer yok. Yemekleri hiç söylemiyorum , çok kötü."
+      },
+      {
+        "hotel": "Natur Garden Hotel Bitez Bodrum",
+        "date": "Tripadvisor üzerinde 3 hafta önce",
+        "text": "resmen paramızla rezil olduk, otelin denizine girilmiyor. bulunduğu mevkiden denize giriş resmen yasak olmalı. denizin içi balçık ve çamur ile kaplı, en son kızım araç lastiği gördüğünü söyledi. ki doğruydu bizzat gördük ailece. denizin ..."
+      }
+    ],
+    "ANIMATION_ENTERTAINMENT": [
+      {
+        "hotel": "Salmakis Resort & Spa",
+        "date": "Google üzerinde 2 ay önce",
+        "text": "Yaptığım diğer yorum anlamlanlandıramadığım şekilde kaldırılmış. Olumlu yorumların çoğunu animasyon ekibi rica edip kendileri yapıyor. Bizzat bizdende kendileri de yorum yapmak için telefonumuzu talep ettiler ama biz daha sonra yapacağımızı ... Devamı"
+      },
+      {
+        "hotel": "Club Shark Hotel",
+        "date": "Google üzerinde 2 yıl önce",
+        "text": "ÇOCUKLAR İCİN DE SIKICI AKTİVİTESİZZ BİR OTELLL. Yorumlara bakıp memnuniyet yüksek olunca gitmeye karar verdik fakat kotu bir deneyim oldu. Çay saati var 1 saat . Sadece biz turkler içiyoruz ve hotelde oldukça azız. Hâl böyle olunca çay ... Devamı"
+      }
+    ],
+    "AIR_CONDITIONING": [
+      {
+        "hotel": "The Luvi Hotel",
+        "date": "Google üzerinde bir ay önce",
+        "text": "Bir gelenin bir daha gelmeyeceği bir otel. Dört aile geldik , hepimizin oda kliması bozuk. Balkonsuz odalarda plaj kıyafetlerini kurutacak bir yer yok. Yemekleri hiç söylemiyorum , çok kötü."
+      },
+      {
+        "hotel": "Jasmin Beach Hotel",
+        "date": "Tripadvisor üzerinde bir ay önce",
+        "text": "Ben böyle kötü bir otel görmemiştim. bu kadar kötü olamaz. Klima bozuk buzdolabı bozuk, banyo kapısı kapanmıyor, saçma sapan tipler dolu berbat kumlu salataları bozuk meze bayat yemekleri heryer pislik içinde otelde aile ile hiç kalınmaz ! Önünden geçmeyin"
+      }
+    ],
+    "CHECKIN_CHECKOUT": [
+      {
+        "hotel": "Selvi Bodrum",
+        "date": "Google üzerinde 2 yıl önce",
+        "text": "Siz oraya huzur bulmaya gidersiniz.\nBirde bakmışsınız ki Hotel sahibi yolunuzu keserek sizin dışarıdan kaçak giriş yapan biri olduğunuzu düşünerek hesap sormaya başlamış. ... Devamı"
+      },
+      {
+        "hotel": "Natur Garden Hotel Bitez Bodrum",
+        "date": "Tripadvisor üzerinde 3 hafta önce",
+        "text": "resmen paramızla rezil olduk, otelin denizine girilmiyor. bulunduğu mevkiden denize giriş resmen yasak olmalı. denizin içi balçık ve çamur ile kaplı, en son kızım araç lastiği gördüğünü söyledi. ki doğruydu bizzat gördük ailece. denizin ..."
+      }
+    ],
+    "RESERVATION": [
+      {
+        "hotel": "Ladonia Hotels Zemda",
+        "date": "Tripadvisor üzerinde bir ay önce",
+        "text": "9-11 Temmuz 2026 tarihleri arası için Jolly Tur üzerinden Ladonia Hotels Zemda Boutique adlı otelden rezervasyon yaptık. 9 Temmuz saat 12:00 sularında Jolly Tur yetkilisi tarafıma mesaj attı. ..."
+      },
+      {
+        "hotel": "Kriss Hotel",
+        "date": "Tripadvisor üzerinde 11 ay önce",
+        "text": "Yemeklerin çeşitliliği ve lezzeti çok kötüydü sunum şekli çok kötüydü her şeyin içinde soğan vardı, köfteler köfte gibi değildi tavuk çok lezzetsizdi patatesler tatsız ve lastik gibiydi, sabah kahvaltısında çıkan börek ve yumurta çok ..."
+      }
+    ],
+    "REFUND_PAYMENT": [
+      {
+        "hotel": "Mandarin Oriental, Bodrum",
+        "date": "Tripadvisor üzerinde bir ay önce",
+        "text": "Haftalığı 20.000 €’dan fazla... ve büyük bir hayal kırıklığı||Haftalığı 20.000 €’dan fazla ödeme yaptığınızda kusursuz bir hizmet ve gerçek anlamda lüks bir otel deneyimi beklersiniz. ..."
+      },
+      {
+        "hotel": "Akyalı Butik Hotel",
+        "date": "Tripadvisor üzerinde bir ay önce",
+        "text": "Berbat butun odalar kırık dokuk allah yangın vermıs uslanmamıslar eleman kullanıp sıgortasız 1 2 gun calıstırıp sıgorta odememek ıcın yol bulmuşlar tarzım degılsın deyıp atıyorlar oda yetmemiş gelenlere herkese ayrı fıat cekıyorlar sonra ..."
+      }
+    ],
+    "TRANSPORT_TRANSFER": [
+      {
+        "hotel": "The Luvi Hotel",
+        "date": "",
+        "text": "Otele ulaşım çok zor; dar bir yol var ve taksilerin rahatça giriş çıkış yapabileceği bir alan bulunmuyor."
+      },
+      {
+        "hotel": "Xanadu Island",
+        "date": "",
+        "text": "Öncelikle konum olarak havaalanına çok uzak bir otel, Bodrum’un sonu gibi düşünebilirsiniz."
+      }
+    ],
+    "MANAGEMENT": [
+      {
+        "hotel": "Mivara Luxury Bodrum",
+        "date": "Tripadvisor üzerinde 4 hafta önce",
+        "text": "Yaklaşık 15.000 Euro ödeyerek 20 günlük aldığım tatilimi daha otele giriş yaptığım ilk saatte mahveden bir otel müdürü ile karşı karşıya kaldık. ..."
+      },
+      {
+        "hotel": "Selvi Bodrum",
+        "date": "Google üzerinde 2 yıl önce",
+        "text": "Gerçekten işletmecilik konusunda sınıfta kaldı.\n3 yaşında Çocuğum için odaya bir bardak ve kettle istedim. Getirilen malzemelerin hijyenini iki fotoğraf ile yorumlayabilirsiniz."
+      }
+    ],
+    "COMMUNICATION": [
+      {
+        "hotel": "Salmakis Resort & Spa",
+        "date": "Google üzerinde 2 ay önce",
+        "text": "Yaptığım diğer yorum anlamlanlandıramadığım şekilde kaldırılmış. Olumlu yorumların çoğunu animasyon ekibi rica edip kendileri yapıyor. Bizzat bizdende kendileri de yorum yapmak için telefonumuzu talep ettiler ama biz daha sonra yapacağımızı ... Devamı"
+      },
+      {
+        "hotel": "Susona Bodrum, LXR Hotels & Resorts",
+        "date": "Tripadvisor üzerinde 3 hafta önce",
+        "text": "Geçen sene konaklama yaptık pozitif ve negatif yanları olmasına rağmen bu sene bir kere daha şans vermek istedik. Ancak Resepsiyondan telefon yüzümüze kapatıldı ve Barış isimli çalışan tarafından beklenmedik bir kaba tavıra maruz kaldık."
+      }
+    ],
+    "BAR_DRINKS": [
+      {
+        "hotel": "Moyo Luxury Hotel & Beach",
+        "date": "Google üzerinde 6 yıl önce",
+        "text": "Otel oda kahvaltı amma velakin gün içinde yaptiginiz cay kahve bira pizza hamburger vs harcamalariniza dikkat edin hem pahali hemde size siparisiniz geldiginde hangi oda diye soruyorlar ve odaniza yaziyorlar yanlisliklar fazlaliklar cikiyor ... Devamı"
+      },
+      {
+        "hotel": "Susona Bodrum, LXR Hotels & Resorts",
+        "date": "Tripadvisor üzerinde 3 hafta önce",
+        "text": "Geçen sene konaklama yaptık pozitif ve negatif yanları olmasına rağmen bu sene bir kere daha şans vermek istedik. Ancak Resepsiyondan telefon yüzümüze kapatıldı ve Barış isimli çalışan tarafından beklenmedik bir kaba tavıra maruz kaldık."
+      }
+    ],
+    "WIFI": [
+      {
+        "hotel": "Kadıkale Resort",
+        "date": "Tripadvisor üzerinde bir ay önce",
+        "text": "Bu otel kesinlikle internetteki fotoğraflarla ve beklentilerle uyuşmuyor.||En büyük sorun plajdaki şezlonglardı. Her gün şezlong bulabilmek için adeta kavga etmek zorunda kaldık. ..."
+      },
+      {
+        "hotel": "Sentido Bellazure - Akyarlar, Bodrum / Turkey",
+        "date": "Tripadvisor üzerinde bir ay önce",
+        "text": "13-18 Temmuz 2026 tarihlerinde Bodrum Sentido Bellazure Otel’de konaklama yaptım. Ancak deneyimim, otelin internet sitesinde ve satış sırasında vaat edilen hizmetlerle örtüşmedi. ..."
+      }
+    ]
+  }
+}
