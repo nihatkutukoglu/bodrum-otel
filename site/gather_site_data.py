@@ -36,6 +36,24 @@ out["google"]["aspects"] = g_aspect.sort_values("driver_score", ascending=False)
 top_g = g_rating.sort_values("n", ascending=False).head(10)[["hotel_id", "hotel_name", "n", "mean_rating"]]
 out["google"]["top_reviewed"] = top_g.to_dict("records")
 
+# breakdown of the "no analyzable Google Travel data" hotels: never matched/scraped
+# at all vs. a page was found but it genuinely had zero reviews (never "few but
+# below a threshold" - there is no such middle bucket in this dataset)
+g_raw_files = list((HR / "data/raw/reviews/google_travel").glob("*.csv"))
+g_raw_ids = {f.name.split("_")[0] for f in g_raw_files}
+all_hotel_ids = set(targets["hotel_id"]) if "hotel_id" in targets.columns else set()
+g_zero_review_ids = set()
+for f in g_raw_files:
+    hid = f.name.split("_")[0]
+    if hid not in g_clean["hotel_id"].unique():
+        try:
+            if len(pd.read_csv(f, low_memory=False)) == 0:
+                g_zero_review_ids.add(hid)
+        except Exception:
+            pass
+out["google"]["never_matched_n"] = int(len(all_hotel_ids - g_raw_ids)) if all_hotel_ids else int(192 - len(g_raw_ids))
+out["google"]["zero_review_n"] = int(len(g_zero_review_ids))
+
 # rating distribution buckets (of the 104 hotels' mean rating, mirroring old "rating band of hotels")
 bins = [0, 3.0, 3.5, 4.0, 4.5, 5.01]
 labels = ["< 3.0", "3.0-3.5", "3.5-4.0", "4.0-4.5", "4.5-5.0"]
@@ -51,6 +69,12 @@ t_room_cov = pd.read_csv(HR / "reports/tripcom_room_type_coverage.csv")
 t_loc_cov = pd.read_csv(HR / "reports/tripcom_reviewer_location_coverage.csv")
 t_amenity = pd.read_csv(HR / "reports/tripcom_amenity_frequency.csv")
 policies = pd.read_csv(HR / "data/processed/hotel_policies_features.csv")
+policy_detail = pd.read_csv(HR / "reports/tripcom_policy_detail.csv")
+
+def status_dist(col):
+    vc = policy_detail[col].value_counts(dropna=True).to_dict()
+    stated_n = int(sum(vc.values()))
+    return {"stated_n": stated_n, "total_n": int(len(policy_detail)), "counts": {k: int(v) for k, v in vc.items()}}
 
 out["trip"] = {
     "clean_reviews": int(len(t_clean)),
@@ -62,6 +86,9 @@ out["trip"] = {
     "reviewer_location_coverage": t_loc_cov.to_dict("records"),
     "top_amenities": t_amenity.sort_values(t_amenity.columns[-1], ascending=False).head(10).to_dict("records") if len(t_amenity.columns) else None,
     "policy_hotels": int(len(policies)),
+    "pet_policy_dist": status_dist("pet_status"),
+    "crib_policy_dist": status_dist("crib_status"),
+    "breakfast_policy_dist": status_dist("breakfast_status"),
 }
 top_t = t_prof.sort_values("review_n", ascending=False).head(10) if "review_n" in t_prof.columns else t_prof.head(10)
 out["trip"]["top_reviewed"] = top_t.to_dict("records")

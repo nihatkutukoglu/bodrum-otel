@@ -6,25 +6,36 @@ kaynağını ve son üretilmiş halini içerir.
 
 **Canlı sürüm:** https://claude.ai/code/artifact/ad0662c4-7556-4fd9-ba0d-32925cad2fc9
 
-**Bu klasördeki dosyalar birebir bu linkte yayınlanan son sürümle aynıdır** (hero
-bölümü, Google Travel / Trip.com / Şikayetvar / Hotel 360° / Otel Karşılaştırma
-modülleri dahil).
+**Bu klasördeki dosyalar birebir bu linkte yayınlanan son sürümle aynıdır** (editoryal
+tasarım, açık krem + Claude turuncusu paleti, Metriqore logosu, açılır konu menüsü,
+gerçek otel linkleri, Google Travel / Trip.com / Şikayetvar / Hotel 360° / Otel
+Karşılaştırma modülleri dahil).
+
+Ayrıca bu klasör canlı olarak Vercel'e bağlı (`.vercel/`, `vercel.json` — `/` isteğini
+`bodrum_hotel_intelligence_v3.html`'e yönlendiriyor); `.vercel` ve `.env*` bilinçli
+olarak `.gitignore` ile hariç tutuldu.
 
 ## İçerik
 
 - `bodrum_hotel_intelligence_v3.html` — üretilen, tek dosyalık, bağımsız site.
   Herhangi bir tarayıcıda doğrudan açılabilir (yalnız Google Fonts için internet
-  bağlantısı gerekir, başka harici bağımlılığı yoktur).
+  bağlantısı gerekir, Metriqore logosu dahil başka her şey dosyaya gömülü).
 - `build_site.py` — HTML/CSS/JS'i üreten ana script. `data/` altındaki JSON
-  dosyalarını okuyup tek dosyalık siteyi derler.
+  dosyalarını ve `metriqore_small.png`'yi okuyup tek dosyalık siteyi derler.
 - `build_final_data.py` — `hotel_360_intelligence.csv`,
   `sikayetvar_final_customer_voice_master_v3.csv` ve Trip.com yorum verisini
-  birleştirip `data/FINAL_DATA.json`'ı üretir.
+  birleştirip `data/FINAL_DATA.json`'ı üretir (otel bazlı misafir kökeni ve
+  evcil hayvan/bebek yatağı/kahvaltı politikaları dahil).
 - `gather_site_data.py`, `gather_site_data_bodrumotel.py`, `gather_quotes.py` —
   Google Travel / Trip.com / Şikayetvar tarafındaki agregat istatistikleri ve
   gerçek örnek yorumları ilgili repo'lardaki `data/processed/` ve `reports/`
   dosyalarından çıkaran yardımcı scriptler.
-- `data/*.json` — yukarıdaki scriptlerin ürettiği ara ve son veri dosyaları.
+- `data/*.json` — yukarıdaki scriptlerin ürettiği ara ve son veri dosyaları;
+  ayrıca `hotel_urls.json` (Google Travel/Trip.com/Şikayetvar gerçek otel
+  linkleri) ve `sk_hotel_quotes.json` (en çok şikâyet alan 6 otel için gerçek
+  örnek şikâyet metinleri).
+- `metriqore_small.png` — sitenin başındaki Metriqore logosu (şeffaf zeminli,
+  120px yükseklik).
 
 ## Yeniden üretilebilirlik notu
 

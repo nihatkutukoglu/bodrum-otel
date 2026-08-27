@@ -296,6 +296,8 @@
         "mean_rating": 3.8135593220338975
       }
     ],
+    "never_matched_n": 85,
+    "zero_review_n": 3,
     "hotel_rating_band_dist": {
       "< 3.0": 8,
       "3.0-3.5": 6,
@@ -633,6 +635,33 @@
       }
     ],
     "policy_hotels": 95,
+    "pet_policy_dist": {
+      "stated_n": 88,
+      "total_n": 95,
+      "counts": {
+        "NOT_ALLOWED": 61,
+        "ON_REQUEST": 19,
+        "ALLOWED": 8
+      }
+    },
+    "crib_policy_dist": {
+      "stated_n": 92,
+      "total_n": 95,
+      "counts": {
+        "VARIES": 62,
+        "NO": 18,
+        "YES": 12
+      }
+    },
+    "breakfast_policy_dist": {
+      "stated_n": 78,
+      "total_n": 95,
+      "counts": {
+        "BUFFET": 48,
+        "OTHER": 17,
+        "A_LA_CARTE": 13
+      }
+    },
     "top_reviewed": [
       {
         "hotel_id": "BOD002",

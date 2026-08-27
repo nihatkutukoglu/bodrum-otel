@@ -14,11 +14,52 @@ ORIG = Path(r"C:\Users\bilin\.claude\projects\c--Users-bilin-OneDrive-Masa-st--b
 DATA = json.loads((SCRATCH / "FINAL_DATA.json").read_text(encoding="utf-8"))
 QUOTES_G = json.loads((SCRATCH / "site_quotes_google.json").read_text(encoding="utf-8"))
 QUOTES_T = json.loads((SCRATCH / "site_quotes_trip.json").read_text(encoding="utf-8"))
+LOGO_B64 = (SCRATCH / "metriqore_b64.txt").read_text(encoding="ascii")
+HOTEL_URLS = json.loads((SCRATCH / "hotel_urls.json").read_text(encoding="utf-8"))
+SK_HOTEL_QUOTES = json.loads((SCRATCH / "sk_hotel_quotes.json").read_text(encoding="utf-8"))
 
 orig_lines = ORIG.read_text(encoding="utf-8").splitlines(keepends=True)
 
 # ---- 1. frame-runtime preamble + head + CSS, verbatim (lines 1-238 0-indexed 0-237) ----
 head_and_css = "".join(orig_lines[0:238])
+
+# ---- "Açık krem zemin + Claude turuncusu" renk paleti: koyu temadan açık
+# temaya geçiş. Roller aynı kalıyor (accent=birincil/Claude turuncusu,
+# accent-warm=Trip.com/karşılaştırma, gold=premium, good/warn/bad=semantik
+# durum) - yalnız --ink ailesi artık açık (zemin), --sand ailesi artık koyu
+# (metin) oluyor. Kaynak anahtarlar hep ORİJİNAL lacivert temanın
+# değerleridir (build her seferinde ORIG'den, sıfırdan okunuyor).
+HEX_COLOR_MAP = {
+    "#0a2030": "#f3ead9",   # --ink (artık açık krem zemin)
+    "#102c40": "#ebdec2",   # --ink-2
+    "#163a51": "#ddcba3",   # --ink-3
+    "#1c4860": "#cbb383",   # --ink-4
+    "#f4ecd9": "#33261a",   # --sand (artık koyu kahve metin)
+    "#a9bdc7": "#6b5842",   # --sand-dim
+    "#7f97a3": "#93816a",   # --sand-faint
+    "#2fa89f": "#d97757",   # --accent (Claude turuncusu)
+    "#d97539": "#7d6a3d",   # --accent-warm
+    "#c9a15a": "#b98a3e",   # --gold
+    "#199e70": "#3f7d52",   # --good
+    "#c98226": "#a05f22",   # --warn
+    "#d43d6b": "#b8323f",   # --bad
+    "#e0b06a": "#8a4f1c",   # .caution metni (açık zeminde okunaklı koyu amber)
+}
+RGB_TRIPLE_MAP = {
+    "10,32,48": "243,234,217",   # --ink
+    "244,236,217": "51,38,26",  # --sand
+    "47,168,159": "217,119,87", # --accent
+    "47,176,166": "217,119,87", # --accent (hero-cta hover varyantı)
+    "25,158,112": "63,125,82",  # --good
+    "34,164,124": "63,125,82",  # --good (varyant)
+    "212,67,107": "184,50,63",  # --bad
+    "201,161,90": "185,138,62", # --gold
+    "201,130,38": "160,95,34",  # --warn
+}
+for _old, _new in HEX_COLOR_MAP.items():
+    head_and_css = head_and_css.replace(_old, _new)
+for _old, _new in RGB_TRIPLE_MAP.items():
+    head_and_css = head_and_css.replace(_old, _new)
 
 # ---- 2. old EXAMPLES for sk_aspect / sk_hotel (still valid real quotes, v3 is a superset) ----
 old_data_line = orig_lines[732]
@@ -110,22 +151,117 @@ EXTRA_CSS = """
 .hero-process .hp-link{margin-left:8px;color:var(--accent);text-decoration:none;border-bottom:1px solid rgba(47,168,159,.4);cursor:pointer;}
 .hero-process .hp-link:hover{border-bottom-color:var(--accent);}
 @media(max-width:640px){.hero-stat .n{font-size:40px;}.hero-process{font-size:11px;}}
+.policy-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:24px;margin-top:16px;}
+.policy-grid h5{font-size:12.5px;color:var(--sand-dim);font-weight:600;margin-bottom:8px;}
+@media(max-width:800px){.policy-grid{grid-template-columns:1fr;}}
+
+/* ---- editorial / dergi tarzı yenileme ---- */
+.hero-title{font-size:clamp(48px,8vw,100px)!important;}
+.section-title{font-size:clamp(36px,5.5vw,72px)!important;letter-spacing:-.01em;}
+.section-num{font-size:15px!important;letter-spacing:.1em;padding-bottom:10px;border-bottom:1px solid var(--line-soft);display:inline-block;}
+.card{border-radius:14px;padding:32px 30px;}
+.explain-grid .eg h5{font-family:var(--serif)!important;font-style:italic;font-size:14px!important;letter-spacing:0!important;text-transform:none!important;color:var(--sand)!important;font-weight:400!important;}
+.explain-grid .eg p{font-size:14.5px;line-height:1.65;}
+
+.chapter-divider{background:var(--ink-3);border-top:1px solid var(--line-soft);border-bottom:1px solid var(--line-soft);text-align:center;padding:96px 0!important;}
+.chapter-divider .cd-inner{max-width:900px;margin:0 auto;padding:0 32px;}
+.chapter-divider .cd-num{font-family:var(--mono);font-size:13px;letter-spacing:.16em;text-transform:uppercase;}
+.chapter-divider .cd-statement{margin-top:22px;font-family:var(--serif);font-size:clamp(28px,4.2vw,54px);line-height:1.18;color:var(--sand);text-wrap:balance;}
+@media(max-width:700px){.chapter-divider{padding:64px 20px;}}
+
+.pull-quote{margin:52px 0;padding:0 0 0 28px;border-left:3px solid var(--accent);}
+.pull-quote blockquote{font-family:var(--serif);font-style:italic;font-size:clamp(22px,3.2vw,38px);line-height:1.35;color:var(--sand);text-wrap:balance;margin:0;}
+.pull-quote .pq-attr{margin-top:16px;font-family:var(--mono);font-size:12px;letter-spacing:.04em;color:var(--sand-faint);}
+.pull-quote.warm{border-left-color:var(--accent-warm);}
+.pull-quote.gold{border-left-color:var(--gold);}
+.pull-quote.bad{border-left-color:var(--bad);}
+@media(max-width:700px){.pull-quote{padding-left:18px;margin:36px 0;}}
+
+/* açık zeminde koyu turuncu buton/vurgu zemini + açık krem metin
+   (accent/gold artık açık-krem zeminde okunaklı olacak kadar açık,
+   bu yüzden üzerine kendi rengiyle koyu metin koymak yerine bu 3 nokta
+   için ayrı, garanti-kontrastlı bir koyu-turuncu zemin kullanılıyor) */
+::selection{background:#a84a28!important;color:#faf3e6!important;}
+.hero-cta{background:#a84a28!important;color:#faf3e6!important;}
+.toggle-btn.active{background:#a84a28!important;color:#faf3e6!important;}
+
+/* hero KPI'larını ayrı, belirgin çerçeveli kutucuklara çevir */
+.hero-kpis{border-top:none;gap:14px;}
+.hero-kpi{border:1px solid var(--line);border-radius:12px;padding:20px 18px;background:var(--ink-2);}
+.hero-kpi:last-child{border-right:1px solid var(--line);}
+@media(max-width:900px){.hero-kpi{border-bottom:1px solid var(--line);padding-bottom:20px;}}
+
+/* logo + byline */
+.brand-mark{display:flex;align-items:center;gap:14px;margin-bottom:34px;}
+.brand-mark img{height:34px;width:auto;display:block;}
+.brand-mark .bm-by{font-family:var(--mono);font-size:11.5px;color:var(--sand-faint);letter-spacing:.02em;border-left:1px solid var(--line);padding-left:14px;}
+.sk-hotel-name{background:none;border:none;padding:0;font-family:var(--serif);font-size:15.5px;color:var(--sand);cursor:pointer;text-align:left;text-decoration:underline;text-decoration-color:var(--line);text-underline-offset:3px;}
+.sk-hotel-name:hover{text-decoration-color:var(--accent-warm);color:var(--accent-warm);}
+
+/* sol taraf: açılıp kapanabilir konu menüsü */
+#navToggle{position:fixed;top:18px;left:18px;z-index:80;width:42px;height:42px;border-radius:10px;border:1px solid var(--line);background:var(--ink-2);color:var(--sand);font-size:19px;cursor:pointer;display:flex;align-items:center;justify-content:center;transition:border-color .2s,color .2s;}
+#navToggle:hover{border-color:var(--accent);color:var(--accent);}
+#sideMenuOverlay{position:fixed;inset:0;background:rgba(20,15,10,.45);z-index:78;opacity:0;pointer-events:none;transition:opacity .25s;}
+#sideMenuOverlay.open{opacity:1;pointer-events:auto;}
+.side-menu{position:fixed;top:0;left:0;bottom:0;width:290px;max-width:82vw;background:var(--ink-2);border-right:1px solid var(--line);z-index:79;transform:translateX(-100%);transition:transform .3s cubic-bezier(.16,.8,.3,1);overflow-y:auto;padding:84px 0 30px;}
+.side-menu.open{transform:translateX(0);}
+.side-menu-head{padding:0 26px 16px;font-family:var(--mono);font-size:11px;letter-spacing:.14em;text-transform:uppercase;color:var(--sand-faint);}
+.side-menu a{display:block;padding:11px 26px;font-family:var(--mono);font-size:12.5px;color:var(--sand-dim);text-decoration:none;border-left:3px solid transparent;cursor:pointer;transition:background .15s,color .15s;}
+.side-menu a:hover{color:var(--sand);background:var(--ink-3);}
+.side-menu a.active{color:var(--accent-warm);border-left-color:var(--accent-warm);background:var(--ink-3);font-weight:600;}
 """
 
 print("Prepared EXTRA_CSS chars:", len(EXTRA_CSS))
 
 # ---- verbatim-reused sections (unaffected by this data refresh) ----
-HTML_MARKET = "".join(orig_lines[297:320])
-HTML_DEST = "".join(orig_lines[323:360])
-HTML_TOURISM = "".join(orig_lines[362:397])
-HTML_AIRPORT = "".join(orig_lines[399:422])
-JS_MARKET = "".join(orig_lines[1010:1030])
-JS_DEST = "".join(orig_lines[1031:1062])
-JS_TOURISM = "".join(orig_lines[1063:1114])
-JS_AIRPORT = "".join(orig_lines[1115:1129])
-JS_UTILS_AND_CHARTS = "".join(orig_lines[735:923])  # utilities + all chart primitives (svgEl..mixColor)
-JS_HERO_CANVAS = "".join(orig_lines[937:962])  # hero wave canvas IIFE only (kpis handled separately)
+def recolor(s):
+    for _old, _new in HEX_COLOR_MAP.items():
+        s = s.replace(_old, _new)
+    for _old, _new in RGB_TRIPLE_MAP.items():
+        s = s.replace(_old, _new)
+    return s
 
+HTML_MARKET = recolor("".join(orig_lines[297:320]))
+HTML_DEST = recolor("".join(orig_lines[323:360]))
+HTML_TOURISM = recolor("".join(orig_lines[362:397]))
+HTML_AIRPORT = recolor("".join(orig_lines[399:422]))
+JS_MARKET = recolor("".join(orig_lines[1010:1030]))
+JS_MARKET = JS_MARKET.replace(
+    "  .map(h=>({label:h.name.length>22?h.name.slice(0,21)+'…':h.name,value:h.reviews,tip:`${h.area} · ⭐ ${h.rating}`}));",
+    "  .map(h=>({label:h.name.length>22?h.name.slice(0,21)+'…':h.name,value:h.reviews,tip:`${h.area} · ⭐ ${h.rating}`,url:GOOGLE_URL_MAP[h.id]}));"
+)
+JS_DEST = recolor("".join(orig_lines[1031:1062]))
+JS_TOURISM = recolor("".join(orig_lines[1063:1114]))
+JS_AIRPORT = recolor("".join(orig_lines[1115:1129]))
+JS_UTILS_AND_CHARTS = recolor("".join(orig_lines[735:923]))  # utilities + all chart primitives (svgEl..mixColor)
+JS_UTILS_AND_CHARTS = JS_UTILS_AND_CHARTS.replace("#12303f", "#e4d6b0").replace("#11324a", "#ebdec2")
+
+# patch: quote text may contain a raw "||" scrape-concatenation artifact - clean it for display
+JS_UTILS_AND_CHARTS = JS_UTILS_AND_CHARTS.replace(
+    "function quoteCardsHtml(examples){\n  if(!examples||!examples.length) return '';\n  return examples.map(ex=>`<div class=\"quote-card\"><blockquote>\"${ex.text}\"</blockquote><div class=\"qc-meta\">${ex.date||''}</div></div>`).join('');\n}",
+    "function cleanQuoteText(t){ return (t||'').replace(/\\s*\\|\\|\\s*/g, ' ').trim(); }\n"
+    "function quoteCardsHtml(examples){\n  if(!examples||!examples.length) return '';\n  return examples.map(ex=>`<div class=\"quote-card\"><blockquote>\"${cleanQuoteText(ex.text)}\"</blockquote><div class=\"qc-meta\">${ex.date||''}</div></div>`).join('');\n}"
+)
+JS_UTILS_AND_CHARTS = JS_UTILS_AND_CHARTS.replace(
+    '`<div class="quote-card"><blockquote>"${ex.text}"</blockquote><div class="qc-meta">${ex.hotel}${ex.date?\' · \'+ex.date:\'\'}</div></div>`',
+    '`<div class="quote-card"><blockquote>"${cleanQuoteText(ex.text)}"</blockquote><div class="qc-meta">${ex.hotel}${ex.date?\' · \'+ex.date:\'\'}</div></div>`'
+)
+
+# patch: hbarChart gains an optional per-item `url` (opens a real source link instead of
+# the generic onClick quote-panel behaviour) and a configurable click-hint tooltip suffix
+JS_UTILS_AND_CHARTS = JS_UTILS_AND_CHARTS.replace(
+    "function hbarChart(container,items,{color='var(--accent)',valueFmt=(v)=>fmt(v),max=null,height=26,gap=10,labelWidth=150,onClick=null}={}){",
+    "function hbarChart(container,items,{color='var(--accent)',valueFmt=(v)=>fmt(v),max=null,height=26,gap=10,labelWidth=150,onClick=null,clickHint='tıkla, örnek gör'}={}){"
+)
+JS_UTILS_AND_CHARTS = JS_UTILS_AND_CHARTS.replace(
+    "const label = svgEl('text',{x:0,y:y+height/2+4,'font-size':12.5});label.textContent=d.label;svg.appendChild(label);",
+    "const label = svgEl('text',{x:0,y:y+height/2+4,'font-size':12.5,fill:d.url?'var(--accent)':undefined,style:d.url?'text-decoration:underline;cursor:pointer':''});label.textContent=d.label;svg.appendChild(label);"
+)
+JS_UTILS_AND_CHARTS = JS_UTILS_AND_CHARTS.replace(
+    "hit.addEventListener('mousemove',e=>{showTip(e,`<b>${d.label}</b>${onClick?' · tıkla, örnek gör':''}<br>${d.tip||valueFmt(d.value)}`);});\n    hit.addEventListener('mouseleave',hideTip);\n    if(onClick) hit.addEventListener('click',()=>onClick(d));",
+    "hit.addEventListener('mousemove',e=>{showTip(e,`<b>${d.label}</b>${(onClick||d.url)?' · '+(d.url?'tıkla, gerçek sayfayı gör':clickHint):''}<br>${d.tip||valueFmt(d.value)}`);});\n    hit.addEventListener('mouseleave',hideTip);\n    if(d.url) hit.addEventListener('click',()=>window.open(d.url,'_blank')); else if(onClick) hit.addEventListener('click',()=>onClick(d));"
+)
+print("hbarChart/quote patches applied:", "cleanQuoteText" in JS_UTILS_AND_CHARTS, "clickHint" in JS_UTILS_AND_CHARTS)
 # new chart primitive (not in the original artifact): donut chart with a flag/name/value legend
 JS_CHART_EXTRA = """
 /* ============================================================
@@ -136,7 +272,7 @@ function donutChart(container,items,{valueFmt=(v)=>fmt(v),size=180,thickness=32}
   const cx=size/2, cy=size/2, r=size/2-4, rInner=r-thickness;
   const svg = svgEl('svg',{class:'viz',width:size,height:size,viewBox:`0 0 ${size} ${size}`});
   let angleStart = -Math.PI/2;
-  const colors = items.map((d,i)=> items.length>1 ? mixColor('#d97539','#f2d9a8', i/(items.length-1)) : '#d97539');
+  const colors = items.map((d,i)=> items.length>1 ? mixColor('#d97757','#f0dcc0', i/(items.length-1)) : '#d97757');
   items.forEach((d,i)=>{
     const frac = total>0 ? d.value/total : 0;
     const angleEnd = angleStart + frac*Math.PI*2;
@@ -169,8 +305,6 @@ print("JS_CHART_EXTRA chars:", len(JS_CHART_EXTRA))
 print("verbatim blocks ok:", len(HTML_MARKET), len(HTML_DEST), len(HTML_TOURISM), len(HTML_AIRPORT))
 print("JS_UTILS_AND_CHARTS starts with:", JS_UTILS_AND_CHARTS[:60])
 print("JS_UTILS_AND_CHARTS ends with:", JS_UTILS_AND_CHARTS[-60:])
-print("JS_HERO_CANVAS starts:", JS_HERO_CANVAS[:40])
-print("JS_HERO_CANVAS ends:", JS_HERO_CANVAS[-40:])
 
 # ---- shorthand vars for copy ----
 G = DATA["google"]; T = DATA["trip"]; SK = DATA["sikayetvar"]; CGT = DATA["cross_gt"]; CGS = DATA["cross_gs"]
@@ -189,13 +323,22 @@ def money(n):
 HTML_TOP = """
 <div id="progress"></div>
 <nav id="sidenav"></nav>
+<button id="navToggle" type="button" aria-label="Konu menüsü">&#9776;</button>
+<div id="sideMenuOverlay"></div>
+<nav id="sideMenu" class="side-menu">
+  <div class="side-menu-head">Bölümler</div>
+  <div id="sideMenuList"></div>
+</nav>
 <div id="topcta"><b>Bodrum Hotel Intelligence</b> &middot; <span id="topcta-section"></span></div>
 <div class="tooltip" id="tooltip"></div>
 
 <!-- ================= HERO ================= -->
 <section id="hero" data-nav="Açılış">
-  <div id="hero-bg"><canvas id="wave"></canvas></div>
   <div class="container hero-inner">
+    <div class="brand-mark">
+      <img src="data:image/png;base64,""" + LOGO_B64 + """" alt="Metriqore">
+      <div class="bm-by">Nihat Kütükoğlu &middot; Bodrum Otel Analizi</div>
+    </div>
     <div class="hero-kicker">Bodrum &middot; Otel &amp; Destinasyon İstihbaratı</div>
     <h1 class="hero-title">Bodrum otel pazarını<br><em>tek sayı</em> değil, <em>bütün katmanlarıyla</em> okuyun.</h1>
     <p class="hero-sub">Otel yapısı, destinasyon, turizm talebi ve havalimanı hareketini; üç farklı platformdan toplanan müşteri geri bildirimiyle birlikte inceleyen interaktif veri hikâyesi.</p>
@@ -282,8 +425,6 @@ const heroProcessSteps = ['Toplama','Temizlik &amp; Doğrulama','Kural-tabanlı 
 $('#hero-process').innerHTML = heroProcessSteps.map((s,i)=>(i>0?'<span class="hp-arrow">&rarr;</span>':'')+`<span>${s}</span>`).join('') + `<a class="hp-link" id="hero-process-link">Detaylı yönteme git &darr;</a>`;
 $('#hero-process-link').addEventListener('click',()=>$('#pipeline').scrollIntoView({behavior:'smooth'}));
 
-""" + JS_HERO_CANVAS + """
-
 /* ============================================================
    WHY cards
    ============================================================ */
@@ -342,6 +483,12 @@ top_strength = G["aspects"][0]
 top_concern = min(G["aspects"], key=lambda a: a["driver_score"])
 
 HTML_GOOGLE = """
+<section class="chapter-divider">
+  <div class="cd-inner reveal">
+    <div class="cd-num">Bölüm 08</div>
+    <div class="cd-statement">""" + f"{G['clean_reviews']:,}".replace(",",".") + """ yorum var. Ama puanı gerçekten ne belirliyor?</div>
+  </div>
+</section>
 <!-- ================= GOOGLE TRAVEL ================= -->
 <section id="google-voice" data-nav="Google Travel">
   <div class="container">
@@ -370,7 +517,8 @@ HTML_GOOGLE = """
       <div class="eg"><h5>Neden önemli?</h5><p>Olumlu deneyimi korumak için personel, yemek ve konum gibi güçlü konular; düşük puan riskini azaltmak için ödeme/iade ve wifi gibi konular izlenmeli.</p></div>
       <div class="eg"><h5>Ne anlama gelmiyor?</h5><p>Bu bir istatistiksel ilişkidir, neden-sonuç ilişkisi değildir. <b>"X yüksek puana neden oluyor" denemez</b> &mdash; yalnız "yüksek puanlı yorumlarla daha güçlü ilişki gösteriyor" denebilir.</p></div>
     </div>
-    <div class="caution reveal">&#128101; <span><b>Örneklem uyarısı:</b> Aşağıdaki """ + str(192-G["hotels"]) + """ otelde Google Travel'da analiz için yeterli yorum bulunamadı; bu otellerin genel müşteri deneyimi bu bölümde temsil edilmiyor (bkz. Hotel 360° &mdash; her otel yine de tek satırla temsil ediliyor).</span></div>
+    <div class="pull-quote bad reveal" id="pq-google"></div>
+    <div class="caution reveal">&#128101; <span><b>Örneklem uyarısı:</b> Aşağıdaki """ + str(192-G["hotels"]) + """ otelde Google Travel yorumu yok &mdash; bunun """ + str(G["never_matched_n"]) + """'i hiç eşleşmedi/bulunamadı, """ + str(G["zero_review_n"]) + """'ünde sayfa bulundu ama yorum sayısı sıfırdı (yani "az ama yetersiz" diye bir ara durum yok: ya hiç yok ya da gerçekten sıfır). Bu otellerin genel müşteri deneyimi bu bölümde temsil edilmiyor (bkz. Hotel 360° &mdash; her otel yine de tek satırla temsil ediliyor).</span></div>
   </div>
 </section>
 """
@@ -407,7 +555,7 @@ $('#gm-kpis').innerHTML = [
 const gRatingBands = Object.entries(""" + json.dumps(G["hotel_rating_band_dist"], ensure_ascii=False) + """).map(([label,value])=>({label,value}));
 vbarChart($('#chart-gm-ratinggroup'),gRatingBands,{color:'var(--accent)',valueFmt:v=>String(v)});
 
-const topReviewedGT = """ + json.dumps([{"label": r["hotel_name"][:22] + ("…" if len(r["hotel_name"]) > 22 else ""), "value": r["n"], "tip": f"⭐ {round(r['mean_rating'],2)}"} for r in G["top_reviewed"]], ensure_ascii=False) + """;
+const topReviewedGT = """ + json.dumps([{"label": r["hotel_name"][:22] + ("…" if len(r["hotel_name"]) > 22 else ""), "value": r["n"], "tip": f"⭐ {round(r['mean_rating'],2)}", "url": HOTEL_URLS["google"].get(r["hotel_id"])} for r in G["top_reviewed"]], ensure_ascii=False) + """;
 hbarChart($('#chart-top-reviewed-gt'),topReviewedGT,{color:'var(--accent-warm)',valueFmt:v=>fmt(v),labelWidth:170});
 
 const gmDriverItems = """ + json.dumps([{"aspect": a["aspect"], "label": ASPECT_TR_GOOGLE.get(a["aspect"], a["aspect"]), "value": round(a["driver_score"], 1), "tip": f"Yüksek puan %{a['high_rating_share_when_mentioned']:.1f} · Düşük puan %{a['low_rating_share_when_mentioned']:.1f} · n={a['n_mentions']}", "low": a["low_rating_share_when_mentioned"], "high": a["high_rating_share_when_mentioned"], "n": a["n_mentions"]} for a in G["aspects"]], ensure_ascii=False) + """;
@@ -434,6 +582,15 @@ function renderGmDriverDetail(d){
   gmQuotePanel.scrollIntoView({behavior:'smooth',block:'nearest'});
 }
 divergingChart($('#chart-gm-drivers'),gmDriverItems,{onClick:renderGmDriverDetail});
+
+const pqGoogleAspect = gmDriverItems[gmDriverItems.length-1].aspect;
+const pqGoogleList = QUOTES_G.low[pqGoogleAspect]||[];
+const pqGoogle = pqGoogleList.find(q=>!q.text.includes('||')) || pqGoogleList[0];
+if(pqGoogle){
+  $('#pq-google').innerHTML = `<blockquote>&ldquo;${cleanQuoteText(pqGoogle.text)}&rdquo;</blockquote><div class="pq-attr">${pqGoogle.hotel||'Gerçek misafir yorumu'}${pqGoogle.date?' · '+pqGoogle.date:''} &middot; düşük puanlı gerçek bir Google Travel yorumu</div>`;
+} else {
+  $('#pq-google').style.display='none';
+}
 """
 print("JS_GOOGLE chars:", len(JS_GOOGLE))
 
@@ -447,6 +604,12 @@ top_trav = max((r for r in T["traveler_type_rating"] if r["traveler_type"] != "U
 TRAV_TR = {"FAMILY": "Aile", "COUPLE": "Çift", "SOLO": "Tek Başına", "FRIENDS": "Arkadaş Grubu", "BUSINESS": "İş Seyahati", "OTHER": "Diğer", "UNKNOWN": "Belirtilmemiş"}
 
 HTML_TRIP = """
+<section class="chapter-divider">
+  <div class="cd-inner reveal">
+    <div class="cd-num">Bölüm 09</div>
+    <div class="cd-statement">Google Travel'ın görmediğini Trip.com gösteriyor: misafir kim, ne zaman geldi, nereden geldi?</div>
+  </div>
+</section>
 <!-- ================= TRIP.COM ================= -->
 <section id="trip-voice" data-nav="Trip.com">
   <div class="container">
@@ -483,6 +646,7 @@ HTML_TRIP = """
       <div class="eg"><h5>Neden önemli?</h5><p>Segment bazlı puanlar, hangi misafir tipine göre konumlanmanın (aile-dostu, çift-odaklı vb.) güçlü olduğunu gösterebilir.</p></div>
       <div class="eg"><h5>Ne anlama gelmiyor?</h5><p><b style="color:var(--bad)">"Belirtilmemiş" segment düşük puan demek değildir</b> &mdash; yalnız Trip.com'un o yorumda seyahat tipini göstermediği anlamına gelir.</p></div>
     </div>
+    <div class="pull-quote gold reveal" id="pq-trip"></div>
     <div class="card-grid g2 reveal" style="margin-top:18px;">
       <div class="card">
         <div class="chart-title">En sık görülen otel olanakları</div>
@@ -493,6 +657,15 @@ HTML_TRIP = """
         <div class="chart-title">Misafirin ülkesi (belirtilenler)</div>
         <div class="chart-note">Reviewer ülkesi belirtilen yorumlar arasında en sık görülen 8 ülke</div>
         <div class="chart-wrap" id="chart-trip-country"></div>
+      </div>
+    </div>
+    <div class="card reveal" style="margin-top:18px;">
+      <div class="chart-title">Misafir Politikaları</div>
+      <div class="chart-note">""" + str(T["pet_policy_dist"]["stated_n"]) + """/""" + str(T["pet_policy_dist"]["total_n"]) + """ otelde evcil hayvan, """ + str(T["crib_policy_dist"]["stated_n"]) + """/""" + str(T["crib_policy_dist"]["total_n"]) + """ otelde bebek yatağı, """ + str(T["breakfast_policy_dist"]["stated_n"]) + """/""" + str(T["breakfast_policy_dist"]["total_n"]) + """ otelde kahvaltı politikası Trip.com sayfasında belirtilmiş &mdash; kalanı "belirtilmemiş" demektir, "yok" değil.</div>
+      <div class="policy-grid">
+        <div><h5>Evcil Hayvan</h5><div class="chart-wrap" id="chart-policy-pet"></div></div>
+        <div><h5>Bebek Yatağı (Beşik)</h5><div class="chart-wrap" id="chart-policy-crib"></div></div>
+        <div><h5>Kahvaltı</h5><div class="chart-wrap" id="chart-policy-breakfast"></div></div>
       </div>
     </div>
     <div class="caution reveal">&#127760; <span><b>Kapsam uyarısı:</b> Trip.com şu an 192 otelin """ + str(T["hotels"]) + """'inde yorum verisi taşıyor; oda tipi (""" + str(round(100*sum(r['count'] for r in T['room_type_coverage'] if r['room_type']!='UNKNOWN')/T['clean_reviews'],1)).replace(".",",") + """% kapsam) ve ülke bilgisi (""" + str(round(100*sum(r['count'] for r in T['reviewer_location_coverage'])/T['clean_reviews'],1)).replace(".",",") + """% kapsam) gibi alanlar keşifsel düzeyde tutulmalı.</span></div>
@@ -606,6 +779,28 @@ hbarChart($('#chart-trip-amenities'),tripAmenities,{color:'var(--gold)',valueFmt
 
 const tripCountries = """ + json.dumps(tripCountriesData, ensure_ascii=False) + """;
 donutChart($('#chart-trip-country'),tripCountries,{valueFmt:v=>fmt(v)});
+
+const PET_DIST = """ + json.dumps(T["pet_policy_dist"], ensure_ascii=False) + """;
+const CRIB_DIST = """ + json.dumps(T["crib_policy_dist"], ensure_ascii=False) + """;
+const BREAKFAST_DIST = """ + json.dumps(T["breakfast_policy_dist"], ensure_ascii=False) + """;
+const PET_ORDER=['ALLOWED','ON_REQUEST','NOT_ALLOWED'], PET_TR={ALLOWED:'İzin var',ON_REQUEST:'Şartlı / ücretli',NOT_ALLOWED:'İzin yok'}, PET_COLOR={ALLOWED:'var(--good)',ON_REQUEST:'var(--gold)',NOT_ALLOWED:'var(--bad)'};
+const CRIB_ORDER=['YES','VARIES','NO'], CRIB_TR={YES:'Var',VARIES:'Oda tipine göre değişir',NO:'Yok'}, CRIB_COLOR={YES:'var(--good)',VARIES:'var(--gold)',NO:'var(--bad)'};
+const BF_ORDER=['BUFFET','BUFFET_AND_ALACARTE','A_LA_CARTE','OTHER'], BF_TR={BUFFET:'Açık büfe',BUFFET_AND_ALACARTE:'Açık büfe + A la carte',A_LA_CARTE:'A la carte',OTHER:'Belirtilmiş (detay yok)'}, BF_COLOR={BUFFET:'var(--gold)',BUFFET_AND_ALACARTE:'var(--gold)',A_LA_CARTE:'var(--gold)',OTHER:'var(--sand-dim)'};
+function distItems(dist,order,trMap,colorMap){
+  return order.filter(k=>dist.counts[k]).map(k=>({label:trMap[k],value:dist.counts[k],color:colorMap[k],tip:`%${fmt(dist.counts[k]/dist.stated_n*100,1)} (n=${dist.counts[k]})`}));
+}
+hbarChart($('#chart-policy-pet'),distItems(PET_DIST,PET_ORDER,PET_TR,PET_COLOR),{valueFmt:v=>fmt(v),labelWidth:110,height:22});
+hbarChart($('#chart-policy-crib'),distItems(CRIB_DIST,CRIB_ORDER,CRIB_TR,CRIB_COLOR),{valueFmt:v=>fmt(v),labelWidth:150,height:22});
+hbarChart($('#chart-policy-breakfast'),distItems(BREAKFAST_DIST,BF_ORDER,BF_TR,BF_COLOR),{valueFmt:v=>fmt(v),labelWidth:170,height:22});
+
+const pqTripSeg = '""" + top_trav["traveler_type"] + """';
+const pqTripList = QUOTES_T[pqTripSeg]||[];
+const pqTrip = pqTripList.find(q=>!q.text.includes('||')) || pqTripList[0];
+if(pqTrip){
+  $('#pq-trip').innerHTML = `<blockquote>&ldquo;${cleanQuoteText(pqTrip.text)}&rdquo;</blockquote><div class="pq-attr">${pqTrip.hotel||'Gerçek misafir yorumu'}${pqTrip.date?' · '+pqTrip.date:''} &middot; ${TRAV_TR[pqTripSeg]||pqTripSeg} segmentinden gerçek bir Trip.com yorumu</div>`;
+} else {
+  $('#pq-trip').style.display='none';
+}
 """
 print("JS_TRIP chars:", len(JS_TRIP))
 
@@ -658,6 +853,12 @@ ASPECT_TR = {
 sk_top3 = SK["top_aspects"][:3]
 
 HTML_SIKAYETVAR = """
+<section class="chapter-divider">
+  <div class="cd-inner reveal">
+    <div class="cd-num">Bölüm 11</div>
+    <div class="cd-statement">Memnuniyet ayrı bir hikâye anlatır. Peki sorun tam olarak nerede patlıyor?</div>
+  </div>
+</section>
 <!-- ================= SIKAYETVAR ================= -->
 <section id="sikayetvar-voice" data-nav="Şikayetvar">
   <div class="container">
@@ -676,7 +877,7 @@ HTML_SIKAYETVAR = """
 
     <div class="card-grid g2 reveal">
       <div class="card"><div class="chart-title">Şikâyetlerde personel, oda ve iletişim en sık geçen konular</div><div class="chart-note">Bahsedilme oranı &mdash; """ + str(SK["clean_rows"]) + """ şikâyet üzerinden. Bir şikâyet birden fazla konudan bahsedebilir, bu yüzden yüzdelerin toplamı %100 olmak zorunda değildir.</div><div class="chart-wrap" id="chart-sk-aspects"></div><div class="quote-hint">&uarr; Bir konuya tıklayın, o konudan bahseden gerçek şikâyetleri görün</div><div class="quote-panel" id="sk-quote-panel"></div></div>
-      <div class="card"><div class="chart-title">En çok şikâyet alan oteller</div><div class="chart-note">Görünür şikâyet sayısına göre; bu bir kalite sıralaması değildir</div><div class="chart-wrap" id="chart-sk-hotels"></div></div>
+      <div class="card"><div class="chart-title">En çok şikâyet alan oteller</div><div class="chart-note">Görünür şikâyet sayısına göre; bu bir kalite sıralaması değildir</div><div class="quote-hint">&uarr; Bir otel adına tıklayın: gerçek örnek şikâyetleri görün &middot; &#8599; ile Şikayetvar sayfasına gidin</div><div class="chart-wrap" id="chart-sk-hotels"></div></div>
     </div>
     <div class="explain-grid reveal">
       <div class="eg"><h5>Bu grafik neyi gösteriyor?</h5><p>""" + str(SK["clean_rows"]) + """ şikâyette hangi konuların ne sıklıkla geçtiğini ve en çok şikâyet alan otelleri.</p></div>
@@ -685,6 +886,7 @@ HTML_SIKAYETVAR = """
       <div class="eg"><h5>Neden önemli?</h5><p>İyileştirme çalışması yalnız tek departmana odaklanmamalı; müşteri deneyimi personel, oda, iletişim ve ödeme gibi birden fazla temas noktasından aynı anda etkileniyor.</p></div>
       <div class="eg"><h5>Ne anlama gelmiyor?</h5><p><b style="color:var(--bad)">Bu oranlar otellerin müşterilerinin bu yüzdesi şikâyet ediyor anlamına gelmez.</b> Bu oran yalnız Şikayetvar'da incelenen """ + str(SK["clean_rows"]) + """ şikâyeti anlatır. Ayrıca firma yanıtı vermesi, sorunun çözüldüğü anlamına gelmez.</p></div>
     </div>
+    <div class="pull-quote warm reveal" id="pq-sikayetvar"></div>
     <div class="caution reveal">&#128300; <span><b>Konu modelleme:</b> Bilgisayarla otomatik konu bulma denemesi <code>güvenilir değil</code> olarak işaretlendiği için kullanılmadı. Bunun yerine analiz, anahtar kelimelere dayanan, tekrarlanabilir bir konu sözlüğü (18 başlık) kullanıyor.</span></div>
     <div class="caution reveal">&#128202; <span><b>Örneklem yeterliliği:</b> 192 otelden """ + str(SK["complaint_hotels"]) + """'ü görünür şikâyetle eşleşti; """ + str(SK["verified_pages"]) + """ otelde doğrulanmış Şikayetvar sayfası var, """ + str(SK["ambiguous_n"]) + """ otel kanıt yetersizliğinden bilinçli olarak açık bırakıldı, """ + str(SK["not_found_n"]) + """ otelde sayfa hiç bulunamadı (bu, o otelde sıfır şikâyet olduğu anlamına gelmez).</span></div>
 
@@ -763,23 +965,40 @@ const skQuotePanel = $('#sk-quote-panel');
 hbarChart($('#chart-sk-aspects'),skTop,{color:'var(--accent-warm)',valueFmt:v=>fmt(v,1)+'%',labelWidth:170,
   onClick:d=>renderQuotePanel(skQuotePanel,d.label,SK_ASPECT_EXAMPLES[d.aspect])});
 
-const skHotelProfiles = """ + json.dumps([{"name": h["hotel_name"], "n": h["complaint_n"], "top": [t.split(":") for t in (h["top_aspects"] or "").split("|") if t]} for h in SK["top_hotels"][:6]], ensure_ascii=False) + """;
+const SK_HOTEL_QUOTES = """ + json.dumps(SK_HOTEL_QUOTES, ensure_ascii=False) + """;
+const skHotelProfiles = """ + json.dumps([{"id": h["hotel_id"], "name": h["hotel_name"], "n": h["complaint_n"], "url": HOTEL_URLS["sikayetvar"].get(h["hotel_id"]), "top": [t.split(":") for t in (h["top_aspects"] or "").split("|") if t]} for h in SK["top_hotels"][:6]], ensure_ascii=False) + """;
 $('#chart-sk-hotels').innerHTML = skHotelProfiles.map(p=>`
   <div style="padding:14px 0;border-bottom:1px solid var(--line-soft);">
-    <div style="display:flex;justify-content:space-between;align-items:baseline;">
-      <span style="font-family:var(--serif);font-size:15.5px;color:var(--sand);">${p.name}</span>
-      <span style="font-family:var(--mono);font-size:11px;color:var(--sand-faint);">${p.n} şikâyet</span>
+    <div style="display:flex;justify-content:space-between;align-items:baseline;gap:10px;">
+      <button class="sk-hotel-name" data-id="${p.id}" data-name="${p.name}" type="button">${p.name}</button>
+      <span style="display:flex;align-items:center;gap:10px;flex:0 0 auto;">
+        ${p.url?`<a href="${p.url}" target="_blank" rel="noopener" style="font-family:var(--mono);font-size:11px;color:var(--accent);text-decoration:none;">Şikayetvar &#8599;</a>`:''}
+        <span style="font-family:var(--mono);font-size:11px;color:var(--sand-faint);">${p.n} şikâyet</span>
+      </span>
     </div>
     <div style="margin-top:8px;display:flex;flex-wrap:wrap;gap:8px;">
       ${p.top.map(t=>`<span class="chip" style="border-color:var(--accent-warm);color:var(--accent-warm);">${trAspect(t[0])} ${t[1]}</span>`).join('')}
     </div>
-  </div>`).join('');
+  </div>`).join('') + `<div class="quote-panel" id="sk-hotel-quote-panel"></div>`;
+const skHotelQuotePanel = $('#sk-hotel-quote-panel');
+$$('.sk-hotel-name').forEach(btn=>btn.addEventListener('click',()=>{
+  renderQuotePanel(skHotelQuotePanel, btn.dataset.name, (SK_HOTEL_QUOTES[btn.dataset.id]||[]).map(e=>({text:e.text,hotel:e.title,date:e.date})));
+}));
 
 const skResponseShare = """ + json.dumps([{"label": h["hotel_name"][:20], "value": round(h["company_reply_visibility_pct"], 1), "tip": f"{h['complaint_n']} şikâyet üzerinden"} for h in SK["reply_top"][:8]], ensure_ascii=False) + """;
 hbarChart($('#chart-sk-response-share'),skResponseShare,{color:'var(--gold)',valueFmt:v=>fmt(v,1)+'%',labelWidth:150,height:22});
 
 const skFindings = """ + json.dumps(sk_findings_data, ensure_ascii=False) + """;
 $('#sk-findings').innerHTML = skFindings.map((f,i)=>`<div class="finding"><div class="fnum">${String(i+1).padStart(2,'0')}</div><div class="ftext">${f[0]}</div><div class="fmeta">${f[1]}</div></div>`).join('');
+
+const pqSkAspect = '""" + sk_top3[0]["aspect"] + """';
+const pqSkList = SK_ASPECT_EXAMPLES[pqSkAspect]||[];
+const pqSk = pqSkList.find(q=>!q.text.includes('||')) || pqSkList[0];
+if(pqSk){
+  $('#pq-sikayetvar').innerHTML = `<blockquote>&ldquo;${cleanQuoteText(pqSk.text)}&rdquo;</blockquote><div class="pq-attr">${pqSk.date||'Gerçek şikâyet'} &middot; ${trAspect(pqSkAspect)} konusundan gerçek bir Şikayetvar şikâyeti</div>`;
+} else {
+  $('#pq-sikayetvar').style.display='none';
+}
 """
 print("JS_SIKAYETVAR chars:", len(JS_SIKAYETVAR))
 
@@ -887,6 +1106,12 @@ print("JS_CROSS chars:", len(JS_CROSS))
 # HOTEL 360 section (replaces the old "Otel Gezgini" explorer)
 # ==============================================================
 HTML_HOTEL360 = """
+<section class="chapter-divider">
+  <div class="cd-inner reveal">
+    <div class="cd-num">Bölüm 13</div>
+    <div class="cd-statement">192 otel. Dört farklı kaynak. Tek soru: bu otel gerçekte nasıl?</div>
+  </div>
+</section>
 <!-- ================= HOTEL 360 ================= -->
 <section id="hotel360" data-nav="Hotel 360°">
   <div class="container">
@@ -956,10 +1181,15 @@ function skTopChips(str){
   return str.split('|').filter(Boolean).map(t=>{const [code,pct]=t.split(':');return `<span class="chip" style="border-color:var(--bad);color:var(--bad);margin:0 6px 6px 0;">${ALL_ASPECT_TR[code]||code} ${pct}</span>`;}).join('');
 }
 
+function policyChip(label,status,trMap,colorMap){
+  const text = status ? (trMap[status]||status) : 'Belirtilmemiş';
+  const color = status ? (colorMap[status]||'var(--sand-dim)') : 'var(--sand-faint)';
+  return `<span class="chip" style="border-color:${color};color:${color};">${label}: ${text}</span>`;
+}
 function sourceBlocksHtml(h){
   const gBlock = h.g_n ? `
     <div class="source-block g">
-      <h5><span class="src-badge g">Google Travel</span></h5>
+      <h5>${GOOGLE_URL_MAP[h.id]?`<a class="src-badge g" href="${GOOGLE_URL_MAP[h.id]}" target="_blank" rel="noopener" style="text-decoration:none;">Google Travel &#8599;</a>`:'<span class="src-badge g">Google Travel</span>'}</h5>
       <div class="detail-grid">
         <div class="d-item"><div class="n">${fmt(h.g_n)}</div><div class="l">Yorum sayısı</div></div>
         <div class="d-item"><div class="n">${fmt(h.g_mean,2)}</div><div class="l">Ortalama puan (1-5)</div></div>
@@ -972,7 +1202,7 @@ function sourceBlocksHtml(h){
 
   const tBlock = h.t_n ? `
     <div class="source-block t">
-      <h5><span class="src-badge t">Trip.com</span></h5>
+      <h5>${TRIP_URL_MAP[h.id]?`<a class="src-badge t" href="${TRIP_URL_MAP[h.id]}" target="_blank" rel="noopener" style="text-decoration:none;">Trip.com &#8599;</a>`:'<span class="src-badge t">Trip.com</span>'}</h5>
       <div class="detail-grid">
         <div class="d-item"><div class="n">${fmt(h.t_n)}</div><div class="l">Yorum sayısı</div></div>
         <div class="d-item"><div class="n">${fmt(h.t_mean,2)}</div><div class="l">Ortalama puan (5 üzerinden)</div></div>
@@ -987,6 +1217,11 @@ function sourceBlocksHtml(h){
           ${h.t_countries.top.map(c=>`<div style="display:flex;align-items:center;gap:7px;font-size:12.5px;color:var(--sand-dim);"><span>${COUNTRY_FLAG[c.country]||'🏳️'}</span><span style="flex:1;">${COUNTRY_TR[c.country]||c.country}</span><span style="font-family:var(--mono);color:var(--sand);">${fmt(c.n)}</span></div>`).join('')}
         </div>
       </div>` : `<p style="margin-top:14px;font-size:11.5px;color:var(--sand-faint);font-style:italic;">Bu otel için misafir kökeni verisi yok/yetersiz.</p>`}
+      <div style="margin-top:14px;display:flex;flex-wrap:wrap;gap:8px;">
+        ${policyChip('Evcil Hayvan',h.pet_status,PET_TR,PET_COLOR)}
+        ${policyChip('Bebek Yatağı',h.crib_status,CRIB_TR,CRIB_COLOR)}
+        ${policyChip('Kahvaltı',h.breakfast_status,BF_TR,BF_COLOR)}
+      </div>
     </div>` : `<div class="na-block" style="margin-top:22px;">Trip.com'da bu kaynakta yeterli veri yok.</div>`;
 
   const pBlock = h.has_policy ? `
@@ -1002,7 +1237,7 @@ function sourceBlocksHtml(h){
 
   const sBlock = h.sk_n ? `
     <div class="source-block s">
-      <h5><span class="src-badge s">Şikayetvar</span></h5>
+      <h5>${SIKAYETVAR_URL_MAP[h.id]?`<a class="src-badge s" href="${SIKAYETVAR_URL_MAP[h.id]}" target="_blank" rel="noopener" style="text-decoration:none;">Şikayetvar &#8599;</a>`:'<span class="src-badge s">Şikayetvar</span>'}</h5>
       <div class="detail-grid">
         <div class="d-item"><div class="n">${fmt(h.sk_n)}</div><div class="l">Görünür şikâyet</div></div>
         <div class="d-item"><div class="n">${h.sk_reply_pct!==null?'%'+fmt(h.sk_reply_pct,0):'<span class=na>—</span>'}</div><div class="l">Firma yanıt görünürlüğü</div></div>
@@ -1107,6 +1342,12 @@ HTML_TAIL_SECTIONS = """
   </div>
 </section>
 
+<section class="chapter-divider">
+  <div class="cd-inner reveal">
+    <div class="cd-num">Bölüm 16</div>
+    <div class="cd-statement">Bütün bu veri bizi nereye götürüyor? On büyük çıkarım.</div>
+  </div>
+</section>
 <!-- ================= KEY FINDINGS ================= -->
 <section id="findings" data-nav="Bulgular">
   <div class="container">
@@ -1210,6 +1451,14 @@ const sidenav = $('#sidenav');
 sidenav.innerHTML = navSections.map((s,i)=>`<button class="dot" data-target="${s.id}" title="${s.dataset.nav}"></button>`).join('');
 $$('#sidenav .dot').forEach(d=>d.addEventListener('click',()=>document.getElementById(d.dataset.target).scrollIntoView({behavior:'smooth'})));
 
+const navToggle = $('#navToggle'), sideMenu = $('#sideMenu'), sideMenuOverlay = $('#sideMenuOverlay'), sideMenuList = $('#sideMenuList');
+sideMenuList.innerHTML = navSections.map((s,i)=>`<a data-target="${s.id}">${String(i+1).padStart(2,'0')} &middot; ${s.dataset.nav}</a>`).join('');
+function openSideMenu(){sideMenu.classList.add('open');sideMenuOverlay.classList.add('open');}
+function closeSideMenu(){sideMenu.classList.remove('open');sideMenuOverlay.classList.remove('open');}
+navToggle.addEventListener('click',()=>sideMenu.classList.contains('open')?closeSideMenu():openSideMenu());
+sideMenuOverlay.addEventListener('click',closeSideMenu);
+$$('#sideMenuList a').forEach(a=>a.addEventListener('click',()=>{document.getElementById(a.dataset.target).scrollIntoView({behavior:'smooth'});closeSideMenu();}));
+
 const topctaEl = $('#topcta'), topctaSection = $('#topcta-section'), progressEl = $('#progress');
 function onScroll(){
   const doc = document.documentElement;
@@ -1230,6 +1479,7 @@ const navIO = new IntersectionObserver((entries)=>{
     if(e.isIntersecting){
       const id=e.target.id;
       $$('#sidenav .dot').forEach(d=>d.classList.toggle('active',d.dataset.target===id));
+      $$('#sideMenuList a').forEach(a=>a.classList.toggle('active',a.dataset.target===id));
       topctaSection.textContent = e.target.dataset.nav;
     }
   });
@@ -1247,6 +1497,9 @@ window.addEventListener('resize',()=>{clearTimeout(rTimer);rTimer=setTimeout(()=
     onClick:d=>renderQuotePanel(tripQuotePanel,d.label,(QUOTES_T[d.seg]||[]).map(e=>({text:e.text,hotel:e.hotel,date:e.date})))});
   hbarChart($('#chart-trip-amenities'),tripAmenities,{color:'var(--gold)',valueFmt:v=>fmt(v,1)+'%',labelWidth:140,height:22});
   donutChart($('#chart-trip-country'),tripCountries,{valueFmt:v=>fmt(v)});
+  hbarChart($('#chart-policy-pet'),distItems(PET_DIST,PET_ORDER,PET_TR,PET_COLOR),{valueFmt:v=>fmt(v),labelWidth:110,height:22});
+  hbarChart($('#chart-policy-crib'),distItems(CRIB_DIST,CRIB_ORDER,CRIB_TR,CRIB_COLOR),{valueFmt:v=>fmt(v),labelWidth:150,height:22});
+  hbarChart($('#chart-policy-breakfast'),distItems(BREAKFAST_DIST,BF_ORDER,BF_TR,BF_COLOR),{valueFmt:v=>fmt(v),labelWidth:170,height:22});
   hbarChart($('#chart-sk-aspects'),skTop,{color:'var(--accent-warm)',valueFmt:v=>fmt(v,1)+'%',labelWidth:170,
     onClick:d=>renderQuotePanel(skQuotePanel,d.label,SK_ASPECT_EXAMPLES[d.aspect])});
   hbarChart($('#chart-sk-response-share'),skResponseShare,{color:'var(--gold)',valueFmt:v=>fmt(v,1)+'%',labelWidth:150,height:22});
@@ -1270,8 +1523,20 @@ DATA_FOR_JS = {
     "airport_tourism_monthly": DATA["airport_tourism_monthly"],
 }
 JS_DATA_CONST = "const DATA = " + json.dumps(DATA_FOR_JS, ensure_ascii=False) + ";\n"
+JS_DATA_CONST += "const GOOGLE_URL_MAP = " + json.dumps(HOTEL_URLS["google"], ensure_ascii=False) + ";\n"
+JS_DATA_CONST += "const TRIP_URL_MAP = " + json.dumps(HOTEL_URLS["trip"], ensure_ascii=False) + ";\n"
+JS_DATA_CONST += "const SIKAYETVAR_URL_MAP = " + json.dumps(HOTEL_URLS["sikayetvar"], ensure_ascii=False) + ";\n"
 
-full_head = head_and_css.replace("</style>", EXTRA_CSS + "\n</style>")
+for _old, _new in HEX_COLOR_MAP.items():
+    EXTRA_CSS = EXTRA_CSS.replace(_old, _new)
+for _old, _new in RGB_TRIPLE_MAP.items():
+    EXTRA_CSS = EXTRA_CSS.replace(_old, _new)
+
+# insert EXTRA_CSS only into the real page's </style> (the last one) - the
+# first </style> belongs to the frame-runtime preamble's own tiny loading
+# placeholder and must stay verbatim.
+_before_last_style, _sep, _after_last_style = head_and_css.rpartition("</style>")
+full_head = _before_last_style + EXTRA_CSS + "\n" + _sep + _after_last_style
 full_head = full_head.replace("<title>Bodrum Hotel Intelligence</title>", "<title>Bodrum Hotel Intelligence</title>")
 
 HTML_BODY = (

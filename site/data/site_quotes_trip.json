@@ -54,5 +54,17 @@
       "text": "We had a very very nice experience with the hotel, the staff and managers were incredibly nice! 10/100 definitely will come back",
       "rating": 5.0
     }
+  ],
+  "BUSINESS": [
+    {
+      "hotel": "Bodrium Hotel & SPA",
+      "date": "Mart 2025",
+      "text": "Tam bir iş oteli bence. Şehir içinde konforlu, her yere yakın."
+    },
+    {
+      "hotel": "ASPAT HOTEL BODRUM Beach Restaurant",
+      "date": "Mart 2026",
+      "text": "Plaja 2 dk yürüme mesafesinde, tesis konum olarak ve manzarası harika. Bodrum'un en güzel denizi Karaincir'de olması bizim için tercih sebebi, tam fiyat performans oteli."
+    }
   ]
 }

@@ -32,6 +32,11 @@ sk_master = pd.read_csv(BO + r"\reports\sikayetvar_final_customer_voice_master_v
 sk_master = sk_master.replace({np.nan: None})
 sk_by_id = {row["hotel_id"]: row for _, row in sk_master.iterrows()}
 
+# ---- per-hotel guest-policy detail (pet / crib / breakfast, from raw Trip.com policy text) ----
+policy_detail = pd.read_csv(HR + r"\reports\tripcom_policy_detail.csv")
+policy_detail = policy_detail.replace({np.nan: None})
+policy_by_hotel = {row["hotel_id"]: row for _, row in policy_detail.iterrows()}
+
 # ---- per-hotel Trip.com reviewer-country breakdown (guest origin) ----
 # a handful of reviewer_country values are scraping artifacts, not real countries - excluded
 JUNK_COUNTRIES = {"aLper B", "Solo traveller", "Couple"}
@@ -96,6 +101,9 @@ for _, row in h360.iterrows():
         "sk_page_status": sk.get("page_status") if has_sk else None,
         "sk_visibility_per1000": sk.get("complaint_visibility_per_1000_google_reviews") if has_sk else None,
         "t_countries": country_by_hotel.get(hid, {"total": 0, "top": []}),
+        "pet_status": (policy_by_hotel[hid]["pet_status"] if hid in policy_by_hotel else None),
+        "crib_status": (policy_by_hotel[hid]["crib_status"] if hid in policy_by_hotel else None),
+        "breakfast_status": (policy_by_hotel[hid]["breakfast_status"] if hid in policy_by_hotel else None),
     }
     new_hotels.append(clean_nan(rec))
 
