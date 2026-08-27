@@ -18,6 +18,9 @@ Bodrum'daki konaklama tesislerini otel ve destinasyon düzeyinde, gerçek veri v
 - `12_sikayetvar_all_hotels_audit_cleaning.ipynb`: all-hotels negative customer voice corpusunun entity, duplicate, missing, tarih, reply ve response audit'i ile izlenebilir clean dataset hazırlığı
 - `13_sikayetvar_all_hotels_eda.ipynb`: clean Şikayetvar corpusunun coverage-aware hotel/area dağılımı, zaman, görünürlük, company response, reply davranışı ve NLP örneklem hazırlığı
 - `14_sikayetvar_all_hotels_nlp_aspect_analysis.ipynb`: Türkçe preprocessing, distinctive terms, açıklanabilir multi-label aspect analizi, co-occurrence, company response ve segmentation-ready NLP features
+- `21_sikayetvar_severity_analysis.ipynb`: complaint severity skorlama ve destekli örneklem üzerinden risk profili
+- `22_sikayetvar_final_customer_voice_summary.ipynb`: local-evidence mapping closure (44 review/ambiguous vaka; 9'u kanıt yetersizliğinden bilinçli olarak açık bırakıldı) + hedefli tamamlayıcı complaint toplama (16 doğrulanmış ama hiç taranmamış sayfa) sonrası final clean-v3 corpus (353 complaint / 44 otel), aspect, reply-visibility ve cross-platform-hazırlık özeti
+- `23_sikayetvar_google_travel_cross_source_customer_voice_alignment.ipynb`: Google Travel (genel review corpusu) ile Şikayetvar (complaint-odaklı corpus) arasında hotel_id/aspect-özet seviyesinde, açık bir 21-kategorili aspect crosswalk üzerinden hizalama; satır-seviyesi birleştirme yok, tek sentiment dağılımı gibi kıyaslanmaz
 
 Ana veri seti 192 benzersiz tesisten oluşur. `google_rating` müşteri puanıdır; `official_star_rating` değildir. `search_price_usd_snapshot` yalnızca toplama anındaki fiyat göstergesidir.
 

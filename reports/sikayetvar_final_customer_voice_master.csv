@@ -1,0 +1,193 @@
+﻿hotel_id,hotel_name,area,page_status,mapping_status,complaint_n,top_aspects,company_reply_n,company_reply_visibility_pct,google_review_count,complaint_visibility_per_1000_google_reviews,visibility_support_flag,support_level,data_quality_note
+BOD001,Aksoy Taş Ev,Akyarlar,NO_VALIDATED_SIKAYETVAR_PAGE,NOT_FOUND,0,,,,135,,LOW_DENOMINATOR,NO_COMPLAINT_CORPUS,no_validated_complaint_corpus
+BOD002,Armonia Holiday Village & Spa,Akyarlar,VALIDATED_PAGE_COMPLAINTS_NOT_COLLECTED,MATCHED_HIGH_CONFIDENCE,0,,,,3197,,STRONGER_DENOMINATOR,NO_COMPLAINT_CORPUS,validated_page_but_complaints_not_collected_under_no-rescrape constraint
+BOD003,ASPAT HOTEL BODRUM Beach Restaurant,Akyarlar,NO_VALIDATED_SIKAYETVAR_PAGE,NOT_FOUND,0,,,,246,,LOW_DENOMINATOR,NO_COMPLAINT_CORPUS,no_validated_complaint_corpus
+BOD004,Bendis Beach Hotel,Akyarlar,VISIBLE_COMPLAINTS,MATCHED_EXACT,12,FOOD_BEVERAGE:75.0%|ROOM:75.0%|CLEANLINESS_HYGIENE:66.7%,5.0,41.666666666666664,2469,4.860267314702308,STRONGER_DENOMINATOR,MODERATE_COMPLAINT_SAMPLE,missing_text_n=0; raw_count_not_quality; reply_visibility_not_resolution; visibility_not_complaint_rate
+BOD005,ByAkkan,Akyarlar,NO_VALIDATED_SIKAYETVAR_PAGE,NOT_FOUND,0,,,,203,,LOW_DENOMINATOR,NO_COMPLAINT_CORPUS,no_validated_complaint_corpus
+BOD006,Club Marma Hotel,Akyarlar,VISIBLE_COMPLAINTS,MATCHED_EXACT,5,STAFF_SERVICE:100.0%|FOOD_BEVERAGE:80.0%|CLEANLINESS_HYGIENE:40.0%,0.0,0.0,1373,3.641660597232338,MODERATE_DENOMINATOR,MODERATE_COMPLAINT_SAMPLE,missing_text_n=0; raw_count_not_quality; reply_visibility_not_resolution; visibility_not_complaint_rate
+BOD007,Kefaluka Resort,Akyarlar,VISIBLE_COMPLAINTS,MATCHED_EXACT,29,STAFF_SERVICE:65.5%|MANAGEMENT_COMMUNICATION:62.1%|ROOM:62.1%,22.0,75.86206896551724,4293,6.755182855811786,STRONGER_DENOMINATOR,HIGH_COMPLAINT_SAMPLE,missing_text_n=2; raw_count_not_quality; reply_visibility_not_resolution; visibility_not_complaint_rate
+BOD008,LA BREZZA SUITE &HOTEL,Akyarlar,NO_VALIDATED_SIKAYETVAR_PAGE,NOT_FOUND,0,,,,424,,LOW_DENOMINATOR,NO_COMPLAINT_CORPUS,no_validated_complaint_corpus
+BOD009,LİV OTEL,Akyarlar,NO_VISIBLE_COMPLAINT_ON_FOUND_PAGE,PAGE_FOUND_NO_COMPLAINT,0,,0.0,,546,0.0,LOW_DENOMINATOR,NO_VISIBLE_COMPLAINT_ON_FOUND_PAGE,found_page_no_visible_complaint_does_not_mean_problem_free
+BOD010,Mare Garden Hotel,Akyarlar,VISIBLE_COMPLAINTS,MATCHED_EXACT,1,PRICE_VALUE:100.0%,0.0,0.0,288,3.472222222222222,LOW_DENOMINATOR,LIMITED_COMPLAINT_SAMPLE,missing_text_n=0; raw_count_not_quality; reply_visibility_not_resolution; visibility_not_complaint_rate
+BOD011,"Radisson Collection Hotel, Bodrum",Akyarlar,NO_VALIDATED_SIKAYETVAR_PAGE,NOT_FOUND,0,,,,3237,,STRONGER_DENOMINATOR,NO_COMPLAINT_CORPUS,no_validated_complaint_corpus
+BOD012,Selectum Collection Bodrum,Akyarlar,VISIBLE_COMPLAINTS,MATCHED_EXACT,4,CLEANLINESS_HYGIENE:100.0%|ROOM:100.0%|STAFF_SERVICE:100.0%,0.0,0.0,6514,0.6140620202640467,STRONGER_DENOMINATOR,LIMITED_COMPLAINT_SAMPLE,missing_text_n=0; raw_count_not_quality; reply_visibility_not_resolution; visibility_not_complaint_rate
+BOD013,"Sentido Bellazure - Akyarlar, Bodrum / Turkey",Akyarlar,NO_VALIDATED_SIKAYETVAR_PAGE,NOT_FOUND,0,,,,1650,,MODERATE_DENOMINATOR,NO_COMPLAINT_CORPUS,no_validated_complaint_corpus
+BOD014,Suum Bodrum Hotel & Beach,Akyarlar,REJECTED_CANDIDATE_PAGE,REJECTED_WRONG_ENTITY,0,,,,739,,MODERATE_DENOMINATOR,NO_COMPLAINT_CORPUS,no_validated_complaint_corpus
+BOD015,The Ni Villas Akyarlar,Akyarlar,NO_VALIDATED_SIKAYETVAR_PAGE,NOT_FOUND,0,,,,44,,LOW_DENOMINATOR,NO_COMPLAINT_CORPUS,no_validated_complaint_corpus
+BOD016,Xanadu Island,Akyarlar,VISIBLE_COMPLAINTS,MATCHED_EXACT,4,STAFF_SERVICE:100.0%|MANAGEMENT_COMMUNICATION:75.0%|ROOM:75.0%,4.0,100.0,2068,1.9342359767891684,STRONGER_DENOMINATOR,LIMITED_COMPLAINT_SAMPLE,missing_text_n=0; raw_count_not_quality; reply_visibility_not_resolution; visibility_not_complaint_rate
+BOD017,Ambrosia Otel Beach & Spa,Bitez,NO_VALIDATED_SIKAYETVAR_PAGE,NOT_FOUND,0,,,,1340,,MODERATE_DENOMINATOR,NO_COMPLAINT_CORPUS,no_validated_complaint_corpus
+BOD018,Bitez Deniz Hotel - Restaurant - Beach,Bitez,NO_VALIDATED_SIKAYETVAR_PAGE,NOT_FOUND,0,,,,201,,LOW_DENOMINATOR,NO_COMPLAINT_CORPUS,no_validated_complaint_corpus
+BOD019,Bitez Garden Life Hotel&Suites,Bitez,VALIDATED_PAGE_COMPLAINTS_NOT_COLLECTED,MATCHED_HIGH_CONFIDENCE,0,,,,2527,,STRONGER_DENOMINATOR,NO_COMPLAINT_CORPUS,validated_page_but_complaints_not_collected_under_no-rescrape constraint
+BOD020,Bitez Risa Hotel,Bitez,MAPPING_AMBIGUOUS,AMBIGUOUS_REMAINS,0,,,,919,,MODERATE_DENOMINATOR,NO_COMPLAINT_CORPUS,no_validated_complaint_corpus
+BOD021,"Caresse, a Luxury Collection Resort & Spa, Bodrum",Bitez,NO_VALIDATED_SIKAYETVAR_PAGE,NOT_FOUND,0,,,,904,,MODERATE_DENOMINATOR,NO_COMPLAINT_CORPUS,no_validated_complaint_corpus
+BOD022,Dolce Vita Luxury Bungalows,Bitez,NO_VISIBLE_COMPLAINT_ON_FOUND_PAGE,PAGE_FOUND_NO_COMPLAINT,0,,0.0,,214,0.0,LOW_DENOMINATOR,NO_VISIBLE_COMPLAINT_ON_FOUND_PAGE,found_page_no_visible_complaint_does_not_mean_problem_free
+BOD023,Doria Hotel Bodrum,Bitez,VISIBLE_COMPLAINTS,MATCHED_EXACT,1,MANAGEMENT_COMMUNICATION:100.0%|PAYMENT_REFUND:100.0%|PRICE_VALUE:100.0%,0.0,0.0,774,1.2919896640826873,MODERATE_DENOMINATOR,LIMITED_COMPLAINT_SAMPLE,missing_text_n=0; raw_count_not_quality; reply_visibility_not_resolution; visibility_not_complaint_rate
+BOD024,HAKAN OTEL,Bitez,REJECTED_CANDIDATE_PAGE,REJECTED_WRONG_ENTITY,0,,,,311,,LOW_DENOMINATOR,NO_COMPLAINT_CORPUS,no_validated_complaint_corpus
+BOD025,Halikarya Hotel & Restaurant Beach,Bitez,NO_VALIDATED_SIKAYETVAR_PAGE,NOT_FOUND,0,,,,79,,LOW_DENOMINATOR,NO_COMPLAINT_CORPUS,no_validated_complaint_corpus
+BOD026,Manuela Otel Bitez,Bitez,NO_VALIDATED_SIKAYETVAR_PAGE,NOT_FOUND,0,,,,871,,MODERATE_DENOMINATOR,NO_COMPLAINT_CORPUS,no_validated_complaint_corpus
+BOD027,Meis Apart Hotel,Bitez,NO_VALIDATED_SIKAYETVAR_PAGE,NOT_FOUND,0,,,,134,,LOW_DENOMINATOR,NO_COMPLAINT_CORPUS,no_validated_complaint_corpus
+BOD028,Mira Beach Resort Bodrum,Bitez,REJECTED_CANDIDATE_PAGE,REJECTED_WRONG_ENTITY,0,,,,274,,LOW_DENOMINATOR,NO_COMPLAINT_CORPUS,no_validated_complaint_corpus
+BOD029,Mumu Bodrum Hotel,Bitez,NO_VALIDATED_SIKAYETVAR_PAGE,NOT_FOUND,0,,,,71,,LOW_DENOMINATOR,NO_COMPLAINT_CORPUS,no_validated_complaint_corpus
+BOD030,Natur Garden Hotel Bitez Bodrum,Bitez,NO_VALIDATED_SIKAYETVAR_PAGE,NOT_FOUND,0,,,,964,,MODERATE_DENOMINATOR,NO_COMPLAINT_CORPUS,no_validated_complaint_corpus
+BOD031,Okaliptus Otel,Bitez,NO_VISIBLE_COMPLAINT_ON_FOUND_PAGE,PAGE_FOUND_NO_COMPLAINT,0,,0.0,,474,0.0,LOW_DENOMINATOR,NO_VISIBLE_COMPLAINT_ON_FOUND_PAGE,found_page_no_visible_complaint_does_not_mean_problem_free
+BOD032,Paloma Family Club Bitez,Bitez,VALIDATED_PAGE_COMPLAINTS_NOT_COLLECTED,MATCHED_HIGH_CONFIDENCE,0,,,,1201,,MODERATE_DENOMINATOR,NO_COMPLAINT_CORPUS,validated_page_but_complaints_not_collected_under_no-rescrape constraint
+BOD033,Ramada Resort by Wyndham Bodrum,Bitez,NO_VALIDATED_SIKAYETVAR_PAGE,NOT_FOUND,0,,,,870,,MODERATE_DENOMINATOR,NO_COMPLAINT_CORPUS,no_validated_complaint_corpus
+BOD034,Çınar Butik Otel Bodrum,Bitez,NO_VALIDATED_SIKAYETVAR_PAGE,NOT_FOUND,0,,,,226,,LOW_DENOMINATOR,NO_COMPLAINT_CORPUS,no_validated_complaint_corpus
+BOD035,Azka Otel - Bardakçı Koyu,Bodrum Merkez,NO_VALIDATED_SIKAYETVAR_PAGE,NOT_FOUND,0,,,,1926,,STRONGER_DENOMINATOR,NO_COMPLAINT_CORPUS,no_validated_complaint_corpus
+BOD036,Bodrium Hotel & SPA,Bodrum Merkez,REJECTED_CANDIDATE_PAGE,REJECTED_WRONG_ENTITY,0,,,,1102,,MODERATE_DENOMINATOR,NO_COMPLAINT_CORPUS,no_validated_complaint_corpus
+BOD037,Bodrum Bay Resort,Bodrum Merkez,NO_VISIBLE_COMPLAINT_ON_FOUND_PAGE,PAGE_FOUND_NO_COMPLAINT,0,,0.0,,1825,0.0,STRONGER_DENOMINATOR,NO_VISIBLE_COMPLAINT_ON_FOUND_PAGE,found_page_no_visible_complaint_does_not_mean_problem_free
+BOD038,Casa Mare Bodrum,Bodrum Merkez,VISIBLE_COMPLAINTS,MATCHED_EXACT,1,PAYMENT_REFUND:100.0%|RESERVATION:100.0%|ROOM:100.0%,0.0,0.0,274,3.6496350364963503,LOW_DENOMINATOR,LIMITED_COMPLAINT_SAMPLE,missing_text_n=0; raw_count_not_quality; reply_visibility_not_resolution; visibility_not_complaint_rate
+BOD039,Casa Nonna Bodrum,Bodrum Merkez,NO_VALIDATED_SIKAYETVAR_PAGE,NOT_FOUND,0,,,,238,,LOW_DENOMINATOR,NO_COMPLAINT_CORPUS,no_validated_complaint_corpus
+BOD040,Diamond of Bodrum Hotel,Bodrum Merkez,VALIDATED_PAGE_COMPLAINTS_NOT_COLLECTED,MATCHED_EXACT,0,,,,3022,,STRONGER_DENOMINATOR,NO_COMPLAINT_CORPUS,validated_page_but_complaints_not_collected_under_no-rescrape constraint
+BOD041,La Quinta by Wyndham Bodrum,Bodrum Merkez,VISIBLE_COMPLAINTS,MATCHED_EXACT,5,STAFF_SERVICE:80.0%|AIR_CONDITIONING:40.0%|FOOD_BEVERAGE:40.0%,0.0,0.0,1764,2.834467120181406,STRONGER_DENOMINATOR,MODERATE_COMPLAINT_SAMPLE,missing_text_n=0; raw_count_not_quality; reply_visibility_not_resolution; visibility_not_complaint_rate
+BOD042,Mandarin Resort Hotel,Bodrum Merkez,VALIDATED_PAGE_COMPLAINTS_NOT_COLLECTED,MATCHED_HIGH_CONFIDENCE,0,,,,1647,,MODERATE_DENOMINATOR,NO_COMPLAINT_CORPUS,validated_page_but_complaints_not_collected_under_no-rescrape constraint
+BOD043,METT Hotel & Beach Resort Bodrum,Bodrum Merkez,NO_VALIDATED_SIKAYETVAR_PAGE,NOT_FOUND,0,,,,1575,,MODERATE_DENOMINATOR,NO_COMPLAINT_CORPUS,no_validated_complaint_corpus
+BOD044,Noa Suite Hotel,Bodrum Merkez,REJECTED_CANDIDATE_PAGE,REJECTED_WRONG_ENTITY,0,,,,98,,LOW_DENOMINATOR,NO_COMPLAINT_CORPUS,no_validated_complaint_corpus
+BOD045,Salmakis Resort & Spa,Bodrum Merkez,VISIBLE_COMPLAINTS,MATCHED_EXACT,7,STAFF_SERVICE:100.0%|FACILITIES_MAINTENANCE:85.7%|ROOM:85.7%,0.0,0.0,2681,2.6109660574412534,STRONGER_DENOMINATOR,MODERATE_COMPLAINT_SAMPLE,missing_text_n=0; raw_count_not_quality; reply_visibility_not_resolution; visibility_not_complaint_rate
+BOD046,Senses Hotel,Bodrum Merkez,REJECTED_CANDIDATE_PAGE,REJECTED_WRONG_ENTITY,0,,,,1035,,MODERATE_DENOMINATOR,NO_COMPLAINT_CORPUS,no_validated_complaint_corpus
+BOD047,The Marmara Bodrum,Bodrum Merkez,NO_VALIDATED_SIKAYETVAR_PAGE,NOT_FOUND,0,,,,987,,MODERATE_DENOMINATOR,NO_COMPLAINT_CORPUS,no_validated_complaint_corpus
+BOD048,Babana Hotel,Göltürkbükü,REJECTED_CANDIDATE_PAGE,REJECTED_WRONG_ENTITY,0,,,,221,,LOW_DENOMINATOR,NO_COMPLAINT_CORPUS,no_validated_complaint_corpus
+BOD049,Casa Del Mar Bodrum,Göltürkbükü,NO_VALIDATED_SIKAYETVAR_PAGE,NOT_FOUND,0,,,,263,,LOW_DENOMINATOR,NO_COMPLAINT_CORPUS,no_validated_complaint_corpus
+BOD050,Daphnis Hotel Gölköy,Göltürkbükü,NO_VALIDATED_SIKAYETVAR_PAGE,NOT_FOUND,0,,,,590,,LOW_DENOMINATOR,NO_COMPLAINT_CORPUS,no_validated_complaint_corpus
+BOD051,Faros Bodrum Hotel Göltürkbükü,Göltürkbükü,NO_VISIBLE_COMPLAINT_ON_FOUND_PAGE,PAGE_FOUND_NO_COMPLAINT,0,,0.0,,373,0.0,LOW_DENOMINATOR,NO_VISIBLE_COMPLAINT_ON_FOUND_PAGE,found_page_no_visible_complaint_does_not_mean_problem_free
+BOD052,Flamm Bodrum,Göltürkbükü,NO_VALIDATED_SIKAYETVAR_PAGE,NOT_FOUND,0,,,,766,,MODERATE_DENOMINATOR,NO_COMPLAINT_CORPUS,no_validated_complaint_corpus
+BOD053,Gölköy Suites,Göltürkbükü,NO_VALIDATED_SIKAYETVAR_PAGE,NOT_FOUND,0,,,,212,,LOW_DENOMINATOR,NO_COMPLAINT_CORPUS,no_validated_complaint_corpus
+BOD054,Lavinya Maison,Göltürkbükü,NO_VALIDATED_SIKAYETVAR_PAGE,NOT_FOUND,0,,,,139,,LOW_DENOMINATOR,NO_COMPLAINT_CORPUS,no_validated_complaint_corpus
+BOD055,Lavinya Otel Göltürkbükü,Göltürkbükü,NO_VALIDATED_SIKAYETVAR_PAGE,NOT_FOUND,0,,,,132,,LOW_DENOMINATOR,NO_COMPLAINT_CORPUS,no_validated_complaint_corpus
+BOD056,"Mandarin Oriental, Bodrum",Göltürkbükü,VISIBLE_COMPLAINTS,MATCHED_EXACT,2,FACILITIES_MAINTENANCE:100.0%|STAFF_SERVICE:100.0%|FOOD_BEVERAGE:50.0%,0.0,0.0,2728,0.7331378299120235,STRONGER_DENOMINATOR,LIMITED_COMPLAINT_SAMPLE,missing_text_n=0; raw_count_not_quality; reply_visibility_not_resolution; visibility_not_complaint_rate
+BOD057,Selvi Bodrum,Göltürkbükü,NO_VALIDATED_SIKAYETVAR_PAGE,NOT_FOUND,0,,,,584,,LOW_DENOMINATOR,NO_COMPLAINT_CORPUS,no_validated_complaint_corpus
+BOD058,Bodrum Beach Resort,Gümbet,VISIBLE_COMPLAINTS,MATCHED_EXACT,3,PAYMENT_REFUND:66.7%|RESERVATION:66.7%|MANAGEMENT_COMMUNICATION:33.3%,0.0,0.0,1678,1.7878426698450536,MODERATE_DENOMINATOR,LIMITED_COMPLAINT_SAMPLE,missing_text_n=1; raw_count_not_quality; reply_visibility_not_resolution; visibility_not_complaint_rate
+BOD059,Bodrum Hotel Baba,Gümbet,REJECTED_CANDIDATE_PAGE,REJECTED_WRONG_ENTITY,0,,,,465,,LOW_DENOMINATOR,NO_COMPLAINT_CORPUS,no_validated_complaint_corpus
+BOD060,Club Shark Hotel,Gümbet,VISIBLE_COMPLAINTS,MATCHED_EXACT,1,MANAGEMENT_COMMUNICATION:100.0%|PAYMENT_REFUND:100.0%|PRICE_VALUE:100.0%,0.0,0.0,1124,0.889679715302491,MODERATE_DENOMINATOR,LIMITED_COMPLAINT_SAMPLE,missing_text_n=0; raw_count_not_quality; reply_visibility_not_resolution; visibility_not_complaint_rate
+BOD061,Gümbet Anıl Beach,Gümbet,VISIBLE_COMPLAINTS,MATCHED_EXACT,2,BEACH_SEA:100.0%|FAMILY_CHILDREN:100.0%|FOOD_BEVERAGE:100.0%,0.0,0.0,1489,1.343183344526528,MODERATE_DENOMINATOR,LIMITED_COMPLAINT_SAMPLE,missing_text_n=0; raw_count_not_quality; reply_visibility_not_resolution; visibility_not_complaint_rate
+BOD062,"Gümbet Cove Hotel, Muğla Türkiye",Gümbet,NO_VALIDATED_SIKAYETVAR_PAGE,NOT_FOUND,0,,,,237,,LOW_DENOMINATOR,NO_COMPLAINT_CORPUS,no_validated_complaint_corpus
+BOD063,Jasmin Beach Hotel,Gümbet,VALIDATED_PAGE_COMPLAINTS_NOT_COLLECTED,MATCHED_HIGH_CONFIDENCE,0,,,,2330,,STRONGER_DENOMINATOR,NO_COMPLAINT_CORPUS,validated_page_but_complaints_not_collected_under_no-rescrape constraint
+BOD064,Jasmin Elite Residence & Spa,Gümbet,VALIDATED_PAGE_COMPLAINTS_NOT_COLLECTED,MATCHED_HIGH_CONFIDENCE,0,,,,600,,LOW_DENOMINATOR,NO_COMPLAINT_CORPUS,validated_page_but_complaints_not_collected_under_no-rescrape constraint
+BOD065,Mirada Exclusive Bodrum,Gümbet,NO_VALIDATED_SIKAYETVAR_PAGE,NOT_FOUND,0,,,,1905,,STRONGER_DENOMINATOR,NO_COMPLAINT_CORPUS,no_validated_complaint_corpus
+BOD066,Royal Asarlik Beach Hotel & Spa,Gümbet,VALIDATED_PAGE_COMPLAINTS_NOT_COLLECTED,MATCHED_HIGH_CONFIDENCE,0,,,,3511,,STRONGER_DENOMINATOR,NO_COMPLAINT_CORPUS,validated_page_but_complaints_not_collected_under_no-rescrape constraint
+BOD067,Sami Beach Hotel,Gümbet,VISIBLE_COMPLAINTS,MATCHED_EXACT,6,MANAGEMENT_COMMUNICATION:83.3%|RESERVATION:83.3%|PAYMENT_REFUND:66.7%,0.0,0.0,2089,2.8721876495931067,STRONGER_DENOMINATOR,MODERATE_COMPLAINT_SAMPLE,missing_text_n=0; raw_count_not_quality; reply_visibility_not_resolution; visibility_not_complaint_rate
+BOD068,Selectum Colours Bodrum,Gümbet,VISIBLE_COMPLAINTS,MATCHED_HIGH_CONFIDENCE,9,ROOM:88.9%|MANAGEMENT_COMMUNICATION:77.8%|STAFF_SERVICE:66.7%,0.0,0.0,13412,0.6710408589322995,STRONGER_DENOMINATOR,MODERATE_COMPLAINT_SAMPLE,missing_text_n=0; raw_count_not_quality; reply_visibility_not_resolution; visibility_not_complaint_rate
+BOD069,Siesta Beach Apart,Gümbet,VISIBLE_COMPLAINTS,MATCHED_EXACT,1,AIR_CONDITIONING:100.0%|BEACH_SEA:100.0%|CLEANLINESS_HYGIENE:100.0%,0.0,0.0,502,1.9920318725099602,LOW_DENOMINATOR,LIMITED_COMPLAINT_SAMPLE,missing_text_n=0; raw_count_not_quality; reply_visibility_not_resolution; visibility_not_complaint_rate
+BOD070,The Luvi Hotel,Gümbet,NO_VALIDATED_SIKAYETVAR_PAGE,NOT_FOUND,0,,,,1226,,MODERATE_DENOMINATOR,NO_COMPLAINT_CORPUS,no_validated_complaint_corpus
+BOD071,Tropicana Beach Hotel,Gümbet,NO_VALIDATED_SIKAYETVAR_PAGE,NOT_FOUND,0,,,,281,,LOW_DENOMINATOR,NO_COMPLAINT_CORPUS,no_validated_complaint_corpus
+BOD072,VERY CHIC BODRUM,Gümbet,VISIBLE_COMPLAINTS,MATCHED_EXACT,3,FACILITIES_MAINTENANCE:66.7%|FOOD_BEVERAGE:66.7%|RESERVATION:66.7%,0.0,0.0,1670,1.7964071856287425,MODERATE_DENOMINATOR,LIMITED_COMPLAINT_SAMPLE,missing_text_n=0; raw_count_not_quality; reply_visibility_not_resolution; visibility_not_complaint_rate
+BOD073,Arriba Apartment & Restaurant & Bungalows,Gümüşlük,NO_VALIDATED_SIKAYETVAR_PAGE,NOT_FOUND,0,,,,219,,LOW_DENOMINATOR,NO_COMPLAINT_CORPUS,no_validated_complaint_corpus
+BOD074,Begonvil Gümüşlük,Gümüşlük,NO_VALIDATED_SIKAYETVAR_PAGE,NOT_FOUND,0,,,,36,,LOW_DENOMINATOR,NO_COMPLAINT_CORPUS,no_validated_complaint_corpus
+BOD075,Benjamin Otel,Gümüşlük,MAPPING_AMBIGUOUS,AMBIGUOUS_REMAINS,0,,,,487,,LOW_DENOMINATOR,NO_COMPLAINT_CORPUS,no_validated_complaint_corpus
+BOD076,Gümüşlük No3,Gümüşlük,NO_VALIDATED_SIKAYETVAR_PAGE,NOT_FOUND,0,,,,52,,LOW_DENOMINATOR,NO_COMPLAINT_CORPUS,no_validated_complaint_corpus
+BOD077,Ladonia Hotels Zemda,Gümüşlük,VISIBLE_COMPLAINTS,MATCHED_EXACT,7,MANAGEMENT_COMMUNICATION:100.0%|PAYMENT_REFUND:100.0%|PRICE_VALUE:100.0%,0.0,0.0,376,18.617021276595743,LOW_DENOMINATOR,MODERATE_COMPLAINT_SAMPLE,missing_text_n=0; raw_count_not_quality; reply_visibility_not_resolution; visibility_not_complaint_rate
+BOD078,Liman Hotel Gümüslük (Adult only),Gümüşlük,NO_VALIDATED_SIKAYETVAR_PAGE,NOT_FOUND,0,,,,411,,LOW_DENOMINATOR,NO_COMPLAINT_CORPUS,no_validated_complaint_corpus
+BOD079,Metin's Gümüşlük - Hotel & Restaurant,Gümüşlük,NO_VALIDATED_SIKAYETVAR_PAGE,NOT_FOUND,0,,,,362,,LOW_DENOMINATOR,NO_COMPLAINT_CORPUS,no_validated_complaint_corpus
+BOD080,Myndos Oda & kahvalti,Gümüşlük,NO_VALIDATED_SIKAYETVAR_PAGE,NOT_FOUND,0,,,,171,,LOW_DENOMINATOR,NO_COMPLAINT_CORPUS,no_validated_complaint_corpus
+BOD081,Oda Bodrum Gümüşlük,Gümüşlük,REJECTED_CANDIDATE_PAGE,REJECTED_WRONG_ENTITY,0,,,,276,,LOW_DENOMINATOR,NO_COMPLAINT_CORPUS,no_validated_complaint_corpus
+BOD082,Otel Gümüşlük,Gümüşlük,MAPPING_AMBIGUOUS,AMBIGUOUS_REMAINS,0,,,,442,,LOW_DENOMINATOR,NO_COMPLAINT_CORPUS,no_validated_complaint_corpus
+BOD083,Oza butik hotel,Gümüşlük,REJECTED_CANDIDATE_PAGE,REJECTED_WRONG_ENTITY,0,,,,143,,LOW_DENOMINATOR,NO_COMPLAINT_CORPUS,no_validated_complaint_corpus
+BOD084,Paradise Garden Apartments,Gümüşlük,NO_VALIDATED_SIKAYETVAR_PAGE,NOT_FOUND,0,,,,55,,LOW_DENOMINATOR,NO_COMPLAINT_CORPUS,no_validated_complaint_corpus
+BOD085,Paradise Gümüşlük,Gümüşlük,NO_VALIDATED_SIKAYETVAR_PAGE,NOT_FOUND,0,,,,37,,LOW_DENOMINATOR,NO_COMPLAINT_CORPUS,no_validated_complaint_corpus
+BOD086,Vega Aparts,Gümüşlük,NO_VALIDATED_SIKAYETVAR_PAGE,NOT_FOUND,0,,,,486,,LOW_DENOMINATOR,NO_COMPLAINT_CORPUS,no_validated_complaint_corpus
+BOD087,Wanderheaven Camping & Tiny House Bodrum,Gümüşlük,NO_VALIDATED_SIKAYETVAR_PAGE,NOT_FOUND,0,,,,613,,LOW_DENOMINATOR,NO_COMPLAINT_CORPUS,no_validated_complaint_corpus
+BOD088,Baia Bodrum Hotel,Gündoğan,VALIDATED_PAGE_COMPLAINTS_NOT_COLLECTED,MATCHED_EXACT,0,,,,1964,,STRONGER_DENOMINATOR,NO_COMPLAINT_CORPUS,validated_page_but_complaints_not_collected_under_no-rescrape constraint
+BOD089,Cape Bodrum Luxury Hotel & Beach,Gündoğan,NO_VALIDATED_SIKAYETVAR_PAGE,NOT_FOUND,0,,,,1351,,MODERATE_DENOMINATOR,NO_COMPLAINT_CORPUS,no_validated_complaint_corpus
+BOD090,Costa Farilya Special Class Hotel Bodrum,Gündoğan,NO_VALIDATED_SIKAYETVAR_PAGE,NOT_FOUND,0,,,,690,,LOW_DENOMINATOR,NO_COMPLAINT_CORPUS,no_validated_complaint_corpus
+BOD091,Gündoğan Suites,Gündoğan,MAPPING_AMBIGUOUS,AMBIGUOUS_REMAINS,0,,,,67,,LOW_DENOMINATOR,NO_COMPLAINT_CORPUS,no_validated_complaint_corpus
+BOD092,Liona Hotel,Gündoğan,MAPPING_AMBIGUOUS,AMBIGUOUS_REMAINS,0,,,,307,,LOW_DENOMINATOR,NO_COMPLAINT_CORPUS,no_validated_complaint_corpus
+BOD093,Malta Bodrum Hotel,Gündoğan,REJECTED_CANDIDATE_PAGE,REJECTED_WRONG_ENTITY,0,,,,127,,LOW_DENOMINATOR,NO_COMPLAINT_CORPUS,no_validated_complaint_corpus
+BOD094,Marje Villas,Gündoğan,NO_VALIDATED_SIKAYETVAR_PAGE,NOT_FOUND,0,,,,33,,LOW_DENOMINATOR,NO_COMPLAINT_CORPUS,no_validated_complaint_corpus
+BOD095,Mivara Luxury Bodrum,Gündoğan,VALIDATED_PAGE_COMPLAINTS_NOT_COLLECTED,MATCHED_HIGH_CONFIDENCE,0,,,,606,,LOW_DENOMINATOR,NO_COMPLAINT_CORPUS,validated_page_but_complaints_not_collected_under_no-rescrape constraint
+BOD096,Olira Boutique Hotel&SPA,Gündoğan,NO_VALIDATED_SIKAYETVAR_PAGE,NOT_FOUND,0,,,,149,,LOW_DENOMINATOR,NO_COMPLAINT_CORPUS,no_validated_complaint_corpus
+BOD097,OLİVE TREE HOTEL,Gündoğan,NO_VALIDATED_SIKAYETVAR_PAGE,NOT_FOUND,0,,,,79,,LOW_DENOMINATOR,NO_COMPLAINT_CORPUS,no_validated_complaint_corpus
+BOD098,Swissôtel Living Bodrum,Gündoğan,NO_VALIDATED_SIKAYETVAR_PAGE,NOT_FOUND,0,,,,371,,LOW_DENOMINATOR,NO_COMPLAINT_CORPUS,no_validated_complaint_corpus
+BOD099,Villa Oliva Butik Otel,Gündoğan,NO_VALIDATED_SIKAYETVAR_PAGE,NOT_FOUND,0,,,,168,,LOW_DENOMINATOR,NO_COMPLAINT_CORPUS,no_validated_complaint_corpus
+BOD100,Villa Rustica Hotel,Gündoğan,NO_VALIDATED_SIKAYETVAR_PAGE,NOT_FOUND,0,,,,243,,LOW_DENOMINATOR,NO_COMPLAINT_CORPUS,no_validated_complaint_corpus
+BOD101,Vita Bella Hotel Resort & Spa,Gündoğan,NO_VALIDATED_SIKAYETVAR_PAGE,NOT_FOUND,0,,,,365,,LOW_DENOMINATOR,NO_COMPLAINT_CORPUS,no_validated_complaint_corpus
+BOD102,Akyalı Butik Hotel,Güvercinlik,NO_VALIDATED_SIKAYETVAR_PAGE,NOT_FOUND,0,,,,353,,LOW_DENOMINATOR,NO_COMPLAINT_CORPUS,no_validated_complaint_corpus
+BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,VISIBLE_COMPLAINTS,MATCHED_EXACT,11,FOOD_BEVERAGE:81.8%|STAFF_SERVICE:72.7%|CLEANLINESS_HYGIENE:63.6%,0.0,0.0,6843,1.6074820984948122,STRONGER_DENOMINATOR,MODERATE_COMPLAINT_SAMPLE,missing_text_n=1; raw_count_not_quality; reply_visibility_not_resolution; visibility_not_complaint_rate
+BOD104,Greenport Bodrum,Güvercinlik,VALIDATED_PAGE_COMPLAINTS_NOT_COLLECTED,MATCHED_HIGH_CONFIDENCE,0,,,,1317,,MODERATE_DENOMINATOR,NO_COMPLAINT_CORPUS,validated_page_but_complaints_not_collected_under_no-rescrape constraint
+BOD105,İsolina Hotel,Güvercinlik,NO_VISIBLE_COMPLAINT_ON_FOUND_PAGE,PAGE_FOUND_NO_COMPLAINT,0,,0.0,,221,0.0,LOW_DENOMINATOR,NO_VISIBLE_COMPLAINT_ON_FOUND_PAGE,found_page_no_visible_complaint_does_not_mean_problem_free
+BOD106,La Blanche Island Bodrum,Güvercinlik,VISIBLE_COMPLAINTS,MATCHED_EXACT,19,STAFF_SERVICE:73.7%|ROOM:68.4%|BEACH_SEA:47.4%,5.0,26.31578947368421,6594,2.8814073400060662,STRONGER_DENOMINATOR,HIGH_COMPLAINT_SAMPLE,missing_text_n=1; raw_count_not_quality; reply_visibility_not_resolution; visibility_not_complaint_rate
+BOD107,Le Méridien Bodrum Beach Resort,Güvercinlik,VISIBLE_COMPLAINTS,MATCHED_EXACT,4,PAYMENT_REFUND:100.0%|CLEANLINESS_HYGIENE:75.0%|PRICE_VALUE:50.0%,0.0,0.0,848,4.716981132075471,MODERATE_DENOMINATOR,LIMITED_COMPLAINT_SAMPLE,missing_text_n=0; raw_count_not_quality; reply_visibility_not_resolution; visibility_not_complaint_rate
+BOD108,Lujo Hotel Bodrum,Güvercinlik,VALIDATED_PAGE_COMPLAINTS_NOT_COLLECTED,MATCHED_HIGH_CONFIDENCE,0,,,,3189,,STRONGER_DENOMINATOR,NO_COMPLAINT_CORPUS,validated_page_but_complaints_not_collected_under_no-rescrape constraint
+BOD109,Oscar Seaside Hotel & Spa,Güvercinlik,VALIDATED_PAGE_ONLY_REVIEW_REQUIRED_COMPLAINTS,MATCHED_EXACT,0,,,,845,,MODERATE_DENOMINATOR,NO_COMPLAINT_CORPUS,validated_page_but_only_complaint-level-review records; excluded from clean-v2
+BOD110,Titanic Luxury Collection Bodrum,Güvercinlik,VISIBLE_COMPLAINTS,MATCHED_EXACT,5,MANAGEMENT_COMMUNICATION:60.0%|STAFF_SERVICE:60.0%|FACILITIES_MAINTENANCE:40.0%,0.0,0.0,4656,1.0738831615120277,STRONGER_DENOMINATOR,MODERATE_COMPLAINT_SAMPLE,missing_text_n=0; raw_count_not_quality; reply_visibility_not_resolution; visibility_not_complaint_rate
+BOD111,Zena Hotel Bodrum,Güvercinlik,NO_VALIDATED_SIKAYETVAR_PAGE,NOT_FOUND,0,,,,373,,LOW_DENOMINATOR,NO_COMPLAINT_CORPUS,no_validated_complaint_corpus
+BOD112,Azure By Yelken Hotel,Kadıkalesi,VISIBLE_COMPLAINTS,MATCHED_EXACT,26,STAFF_SERVICE:76.9%|PAYMENT_REFUND:73.1%|ROOM:69.2%,1.0,3.8461538461538463,565,46.017699115044245,LOW_DENOMINATOR,HIGH_COMPLAINT_SAMPLE,missing_text_n=0; raw_count_not_quality; reply_visibility_not_resolution; visibility_not_complaint_rate
+BOD113,Kadıkale Resort,Kadıkalesi,VISIBLE_COMPLAINTS,MATCHED_EXACT,7,ROOM:85.7%|CLEANLINESS_HYGIENE:71.4%|STAFF_SERVICE:71.4%,2.0,28.571428571428573,2121,3.3003300330033003,STRONGER_DENOMINATOR,MODERATE_COMPLAINT_SAMPLE,missing_text_n=0; raw_count_not_quality; reply_visibility_not_resolution; visibility_not_complaint_rate
+BOD114,Sianji Well-Being Resort Thermal & Spa,Kadıkalesi,NO_VALIDATED_SIKAYETVAR_PAGE,NOT_FOUND,0,,,,3245,,STRONGER_DENOMINATOR,NO_COMPLAINT_CORPUS,no_validated_complaint_corpus
+BOD115,Yasmin Bodrum Resort,Kadıkalesi,VISIBLE_COMPLAINTS,MATCHED_EXACT,23,STAFF_SERVICE:65.2%|MANAGEMENT_COMMUNICATION:56.5%|FACILITIES_MAINTENANCE:43.5%,0.0,0.0,5589,4.11522633744856,STRONGER_DENOMINATOR,HIGH_COMPLAINT_SAMPLE,missing_text_n=2; raw_count_not_quality; reply_visibility_not_resolution; visibility_not_complaint_rate
+BOD116,Acropol Of Bodrum Beach Hotel - Restaurant,Ortakent-Yahşi,NO_VALIDATED_SIKAYETVAR_PAGE,NOT_FOUND,0,,,,361,,LOW_DENOMINATOR,NO_COMPLAINT_CORPUS,no_validated_complaint_corpus
+BOD117,Altınkaya Hotel,Ortakent-Yahşi,MAPPING_AMBIGUOUS,AMBIGUOUS_REMAINS,0,,,,77,,LOW_DENOMINATOR,NO_COMPLAINT_CORPUS,no_validated_complaint_corpus
+BOD118,Amfora Hotel,Ortakent-Yahşi,NO_VALIDATED_SIKAYETVAR_PAGE,NOT_FOUND,0,,,,86,,LOW_DENOMINATOR,NO_COMPLAINT_CORPUS,no_validated_complaint_corpus
+BOD119,"Bodrum Suites Apart Otel, Ortakent - Yahşi",Ortakent-Yahşi,NO_VALIDATED_SIKAYETVAR_PAGE,NOT_FOUND,0,,,,62,,LOW_DENOMINATOR,NO_COMPLAINT_CORPUS,no_validated_complaint_corpus
+BOD120,Celeste Bella Luxury Hotel & Spa,Ortakent-Yahşi,VISIBLE_COMPLAINTS,MATCHED_EXACT,2,FACILITIES_MAINTENANCE:100.0%|PAYMENT_REFUND:100.0%|ROOM:100.0%,0.0,0.0,258,7.751937984496124,LOW_DENOMINATOR,LIMITED_COMPLAINT_SAMPLE,missing_text_n=0; raw_count_not_quality; reply_visibility_not_resolution; visibility_not_complaint_rate
+BOD121,Eskiyalı Otel,Ortakent-Yahşi,NO_VALIDATED_SIKAYETVAR_PAGE,NOT_FOUND,0,,,,130,,LOW_DENOMINATOR,NO_COMPLAINT_CORPUS,no_validated_complaint_corpus
+BOD122,Florida Otel,Ortakent-Yahşi,NO_VALIDATED_SIKAYETVAR_PAGE,NOT_FOUND,0,,,,127,,LOW_DENOMINATOR,NO_COMPLAINT_CORPUS,no_validated_complaint_corpus
+BOD123,Hotel Marma Beach,Ortakent-Yahşi,REJECTED_CANDIDATE_PAGE,REJECTED_WRONG_ENTITY,0,,,,112,,LOW_DENOMINATOR,NO_COMPLAINT_CORPUS,no_validated_complaint_corpus
+BOD124,Irmak Boutique Hotel,Ortakent-Yahşi,VISIBLE_COMPLAINTS,MATCHED_EXACT,1,BEACH_SEA:100.0%|FACILITIES_MAINTENANCE:100.0%|FOOD_BEVERAGE:100.0%,0.0,0.0,262,3.8167938931297707,LOW_DENOMINATOR,LIMITED_COMPLAINT_SAMPLE,missing_text_n=0; raw_count_not_quality; reply_visibility_not_resolution; visibility_not_complaint_rate
+BOD125,Kefi Beach Bodrum,Ortakent-Yahşi,REJECTED_CANDIDATE_PAGE,REJECTED_WRONG_ENTITY,0,,,,1502,,MODERATE_DENOMINATOR,NO_COMPLAINT_CORPUS,no_validated_complaint_corpus
+BOD126,Khai Hotel Bodrum,Ortakent-Yahşi,NO_VISIBLE_COMPLAINT_ON_FOUND_PAGE,PAGE_FOUND_NO_COMPLAINT,0,,0.0,,452,0.0,LOW_DENOMINATOR,NO_VISIBLE_COMPLAINT_ON_FOUND_PAGE,found_page_no_visible_complaint_does_not_mean_problem_free
+BOD127,Kriss Hotel,Ortakent-Yahşi,NO_VALIDATED_SIKAYETVAR_PAGE,NOT_FOUND,0,,,,490,,LOW_DENOMINATOR,NO_COMPLAINT_CORPUS,no_validated_complaint_corpus
+BOD128,Lugga Boutique Hotel & Beach,Ortakent-Yahşi,NO_VALIDATED_SIKAYETVAR_PAGE,NOT_FOUND,0,,,,723,,LOW_DENOMINATOR,NO_COMPLAINT_CORPUS,no_validated_complaint_corpus
+BOD129,Meggs Bodrum,Ortakent-Yahşi,NO_VALIDATED_SIKAYETVAR_PAGE,NOT_FOUND,0,,,,261,,LOW_DENOMINATOR,NO_COMPLAINT_CORPUS,no_validated_complaint_corpus
+BOD130,Petunya Beach Resort,Ortakent-Yahşi,VISIBLE_COMPLAINTS,MATCHED_EXACT,13,MANAGEMENT_COMMUNICATION:84.6%|PAYMENT_REFUND:61.5%|RESERVATION:61.5%,0.0,0.0,2687,4.838109415705247,STRONGER_DENOMINATOR,MODERATE_COMPLAINT_SAMPLE,missing_text_n=0; raw_count_not_quality; reply_visibility_not_resolution; visibility_not_complaint_rate
+BOD131,Regia Mare Beach Hotel Bodrum,Ortakent-Yahşi,NO_VISIBLE_COMPLAINT_ON_FOUND_PAGE,PAGE_FOUND_NO_COMPLAINT,0,,0.0,,633,0.0,LOW_DENOMINATOR,NO_VISIBLE_COMPLAINT_ON_FOUND_PAGE,found_page_no_visible_complaint_does_not_mean_problem_free
+BOD132,Viras Hotel & Beach,Ortakent-Yahşi,REJECTED_CANDIDATE_PAGE,REJECTED_WRONG_ENTITY,0,,,,747,,MODERATE_DENOMINATOR,NO_COMPLAINT_CORPUS,no_validated_complaint_corpus
+BOD133,Yahşi Beach Hotel & Restaurant,Ortakent-Yahşi,NO_VALIDATED_SIKAYETVAR_PAGE,NOT_FOUND,0,,,,190,,LOW_DENOMINATOR,NO_COMPLAINT_CORPUS,no_validated_complaint_corpus
+BOD134,Yakamoz Otel,Ortakent-Yahşi,REJECTED_CANDIDATE_PAGE,REJECTED_WRONG_ENTITY,0,,,,133,,LOW_DENOMINATOR,NO_COMPLAINT_CORPUS,no_validated_complaint_corpus
+BOD135,Yılmaz Hotel | Bodrum Ortakent Otelleri,Ortakent-Yahşi,NO_VALIDATED_SIKAYETVAR_PAGE,NOT_FOUND,0,,,,114,,LOW_DENOMINATOR,NO_COMPLAINT_CORPUS,no_validated_complaint_corpus
+BOD136,Zest Exclusive Hotel and Spa,Ortakent-Yahşi,NO_VALIDATED_SIKAYETVAR_PAGE,NOT_FOUND,0,,,,467,,LOW_DENOMINATOR,NO_COMPLAINT_CORPUS,no_validated_complaint_corpus
+BOD137,Armagan Apart Hotel,Torba,NO_VALIDATED_SIKAYETVAR_PAGE,NOT_FOUND,0,,,,78,,LOW_DENOMINATOR,NO_COMPLAINT_CORPUS,no_validated_complaint_corpus
+BOD138,Bodrum Blue Bay Otel,Torba,NO_VALIDATED_SIKAYETVAR_PAGE,NOT_FOUND,0,,,,51,,LOW_DENOMINATOR,NO_COMPLAINT_CORPUS,no_validated_complaint_corpus
+BOD139,Casa Dell'arte Otel,Torba,NO_VALIDATED_SIKAYETVAR_PAGE,NOT_FOUND,0,,,,319,,LOW_DENOMINATOR,NO_COMPLAINT_CORPUS,no_validated_complaint_corpus
+BOD140,DoubleTree by Hilton Bodrum Işıl Club All-Inclusive Resort,Torba,NO_VALIDATED_SIKAYETVAR_PAGE,NOT_FOUND,0,,,,2690,,STRONGER_DENOMINATOR,NO_COMPLAINT_CORPUS,no_validated_complaint_corpus
+BOD141,DUJA BODRUM,Torba,NO_VALIDATED_SIKAYETVAR_PAGE,NOT_FOUND,0,,,,5479,,STRONGER_DENOMINATOR,NO_COMPLAINT_CORPUS,no_validated_complaint_corpus
+BOD142,Hotel Torbahan,Torba,VALIDATED_PAGE_COMPLAINTS_NOT_COLLECTED,MATCHED_HIGH_CONFIDENCE,0,,,,492,,LOW_DENOMINATOR,NO_COMPLAINT_CORPUS,validated_page_but_complaints_not_collected_under_no-rescrape constraint
+BOD143,Hotel Zeytinada,Torba,NO_VALIDATED_SIKAYETVAR_PAGE,NOT_FOUND,0,,,,372,,LOW_DENOMINATOR,NO_COMPLAINT_CORPUS,no_validated_complaint_corpus
+BOD144,Mira Suites,Torba,REJECTED_CANDIDATE_PAGE,REJECTED_WRONG_ENTITY,0,,,,117,,LOW_DENOMINATOR,NO_COMPLAINT_CORPUS,no_validated_complaint_corpus
+BOD145,Moyo Luxury Hotel & Beach,Torba,NO_VALIDATED_SIKAYETVAR_PAGE,NOT_FOUND,0,,,,370,,LOW_DENOMINATOR,NO_COMPLAINT_CORPUS,no_validated_complaint_corpus
+BOD146,Olivia Hotel,Torba,MAPPING_AMBIGUOUS,AMBIGUOUS_REMAINS,0,,,,144,,LOW_DENOMINATOR,NO_COMPLAINT_CORPUS,no_validated_complaint_corpus
+BOD147,Omar Hotel & Suites,Torba,NO_VALIDATED_SIKAYETVAR_PAGE,NOT_FOUND,0,,,,174,,LOW_DENOMINATOR,NO_COMPLAINT_CORPUS,no_validated_complaint_corpus
+BOD148,Rixos Premium Bodrum,Torba,NO_VALIDATED_SIKAYETVAR_PAGE,NOT_FOUND,0,,,,4889,,STRONGER_DENOMINATOR,NO_COMPLAINT_CORPUS,no_validated_complaint_corpus
+BOD149,Roota Bodrum,Torba,REJECTED_CANDIDATE_PAGE,REJECTED_WRONG_ENTITY,0,,,,56,,LOW_DENOMINATOR,NO_COMPLAINT_CORPUS,no_validated_complaint_corpus
+BOD150,Samara Hotel,Torba,NO_VISIBLE_COMPLAINT_ON_FOUND_PAGE,PAGE_FOUND_NO_COMPLAINT,0,,0.0,,2488,0.0,STRONGER_DENOMINATOR,NO_VISIBLE_COMPLAINT_ON_FOUND_PAGE,found_page_no_visible_complaint_does_not_mean_problem_free
+BOD151,Sarpedor Boutique Hotel & SPA,Torba,VALIDATED_PAGE_COMPLAINTS_NOT_COLLECTED,MATCHED_HIGH_CONFIDENCE,0,,,,648,,LOW_DENOMINATOR,NO_COMPLAINT_CORPUS,validated_page_but_complaints_not_collected_under_no-rescrape constraint
+BOD152,"Susona Bodrum, LXR Hotels & Resorts",Torba,NO_VALIDATED_SIKAYETVAR_PAGE,NOT_FOUND,0,,,,886,,MODERATE_DENOMINATOR,NO_COMPLAINT_CORPUS,no_validated_complaint_corpus
+BOD153,The Oba Hotel,Torba,VISIBLE_COMPLAINTS,MATCHED_EXACT,10,PAYMENT_REFUND:80.0%|PRICE_VALUE:60.0%|ROOM:60.0%,0.0,0.0,603,16.58374792703151,LOW_DENOMINATOR,MODERATE_COMPLAINT_SAMPLE,missing_text_n=0; raw_count_not_quality; reply_visibility_not_resolution; visibility_not_complaint_rate
+BOD154,Toka Bodrum Hotel & Beach Club,Torba,NO_VISIBLE_COMPLAINT_ON_FOUND_PAGE,PAGE_FOUND_NO_COMPLAINT,0,,0.0,,238,0.0,LOW_DENOMINATOR,NO_VISIBLE_COMPLAINT_ON_FOUND_PAGE,found_page_no_visible_complaint_does_not_mean_problem_free
+BOD155,Trend Life | Trendlife Hotels & Beach Club Bodrum Torba,Torba,NO_VALIDATED_SIKAYETVAR_PAGE,NOT_FOUND,0,,,,312,,LOW_DENOMINATOR,NO_COMPLAINT_CORPUS,no_validated_complaint_corpus
+BOD156,Voyage Torba,Torba,NO_VALIDATED_SIKAYETVAR_PAGE,NOT_FOUND,0,,,,2753,,STRONGER_DENOMINATOR,NO_COMPLAINT_CORPUS,no_validated_complaint_corpus
+BOD157,Voyage Torba Private,Torba,NO_VALIDATED_SIKAYETVAR_PAGE,NOT_FOUND,0,,,,548,,LOW_DENOMINATOR,NO_COMPLAINT_CORPUS,no_validated_complaint_corpus
+BOD158,Arin Resort Bodrum,Turgutreis,VISIBLE_COMPLAINTS,MATCHED_EXACT,1,AIR_CONDITIONING:100.0%|FOOD_BEVERAGE:100.0%|ROOM:100.0%,0.0,0.0,1691,0.5913660555884093,MODERATE_DENOMINATOR,LIMITED_COMPLAINT_SAMPLE,missing_text_n=0; raw_count_not_quality; reply_visibility_not_resolution; visibility_not_complaint_rate
+BOD159,Bodrum Ada Otel Turgutreis,Turgutreis,NO_VALIDATED_SIKAYETVAR_PAGE,NOT_FOUND,0,,,,157,,LOW_DENOMINATOR,NO_COMPLAINT_CORPUS,no_validated_complaint_corpus
+BOD160,La Blanche Resort Bodrum,Turgutreis,VISIBLE_COMPLAINTS,MATCHED_HIGH_CONFIDENCE,12,STAFF_SERVICE:83.3%|MANAGEMENT_COMMUNICATION:75.0%|ROOM:75.0%,0.0,0.0,5754,2.0855057351407718,STRONGER_DENOMINATOR,MODERATE_COMPLAINT_SAMPLE,missing_text_n=0; raw_count_not_quality; reply_visibility_not_resolution; visibility_not_complaint_rate
+BOD161,MyElla Hotel Resort & Spa,Turgutreis,VALIDATED_PAGE_COMPLAINTS_NOT_COLLECTED,MATCHED_HIGH_CONFIDENCE,0,,,,2926,,STRONGER_DENOMINATOR,NO_COMPLAINT_CORPUS,validated_page_but_complaints_not_collected_under_no-rescrape constraint
+BOD162,Rammos Managed by Dedeman,Turgutreis,MAPPING_AMBIGUOUS,AMBIGUOUS_REMAINS,0,,,,615,,LOW_DENOMINATOR,NO_COMPLAINT_CORPUS,no_validated_complaint_corpus
+BOD163,Sundance Resort,Turgutreis,NO_VALIDATED_SIKAYETVAR_PAGE,NOT_FOUND,0,,,,1344,,MODERATE_DENOMINATOR,NO_COMPLAINT_CORPUS,no_validated_complaint_corpus
+BOD164,Swissôtel Resort Bodrum Sahili,Turgutreis,NO_VALIDATED_SIKAYETVAR_PAGE,NOT_FOUND,0,,,,1608,,MODERATE_DENOMINATOR,NO_COMPLAINT_CORPUS,no_validated_complaint_corpus
+BOD165,Caja by Maxx Royal,Türkbükü,NO_VALIDATED_SIKAYETVAR_PAGE,NOT_FOUND,0,,,,135,,LOW_DENOMINATOR,NO_COMPLAINT_CORPUS,no_validated_complaint_corpus
+BOD166,Divan Bodrum,Türkbükü,NO_VALIDATED_SIKAYETVAR_PAGE,NOT_FOUND,0,,,,753,,MODERATE_DENOMINATOR,NO_COMPLAINT_CORPUS,no_validated_complaint_corpus
+BOD167,Elista Hotel & Spa,Türkbükü,NO_VALIDATED_SIKAYETVAR_PAGE,NOT_FOUND,0,,,,231,,LOW_DENOMINATOR,NO_COMPLAINT_CORPUS,no_validated_complaint_corpus
+BOD168,Kuum Hotel & SPA Bodrum,Türkbükü,VALIDATED_PAGE_ONLY_REVIEW_REQUIRED_COMPLAINTS,MATCHED_EXACT,0,,,,983,,MODERATE_DENOMINATOR,NO_COMPLAINT_CORPUS,validated_page_but_only_complaint-level-review records; excluded from clean-v2
+BOD169,MACAKIZI BODRUM,Türkbükü,NO_VALIDATED_SIKAYETVAR_PAGE,NOT_FOUND,0,,,,1247,,MODERATE_DENOMINATOR,NO_COMPLAINT_CORPUS,no_validated_complaint_corpus
+BOD170,No:81 Hotel,Türkbükü,NO_VALIDATED_SIKAYETVAR_PAGE,NOT_FOUND,0,,,,321,,LOW_DENOMINATOR,NO_COMPLAINT_CORPUS,no_validated_complaint_corpus
+BOD171,4 reasons Hotel Yalikavak,Yalıkavak,NO_VALIDATED_SIKAYETVAR_PAGE,NOT_FOUND,0,,,,194,,LOW_DENOMINATOR,NO_COMPLAINT_CORPUS,no_validated_complaint_corpus
+BOD172,Ailla Yalıkavak,Yalıkavak,NO_VALIDATED_SIKAYETVAR_PAGE,NOT_FOUND,0,,,,69,,LOW_DENOMINATOR,NO_COMPLAINT_CORPUS,no_validated_complaint_corpus
+BOD173,Allium Bodrum Resort & Spa,Yalıkavak,NO_VISIBLE_COMPLAINT_ON_FOUND_PAGE,PAGE_FOUND_NO_COMPLAINT,0,,0.0,,528,0.0,LOW_DENOMINATOR,NO_VISIBLE_COMPLAINT_ON_FOUND_PAGE,found_page_no_visible_complaint_does_not_mean_problem_free
+BOD174,Arts Hotel Bodrum Yalıkavak,Yalıkavak,MAPPING_AMBIGUOUS,AMBIGUOUS_REMAINS,0,,,,299,,LOW_DENOMINATOR,NO_COMPLAINT_CORPUS,no_validated_complaint_corpus
+BOD175,Avantgarde Refined Hotel | Yalıkavak,Yalıkavak,NO_VALIDATED_SIKAYETVAR_PAGE,NOT_FOUND,0,,,,437,,LOW_DENOMINATOR,NO_COMPLAINT_CORPUS,no_validated_complaint_corpus
+BOD176,Blue Point Yalikavak,Yalıkavak,NO_VALIDATED_SIKAYETVAR_PAGE,NOT_FOUND,0,,,,129,,LOW_DENOMINATOR,NO_COMPLAINT_CORPUS,no_validated_complaint_corpus
+BOD177,Delta Hotels By Marriott Bodrum,Yalıkavak,VALIDATED_PAGE_COMPLAINTS_NOT_COLLECTED,MATCHED_HIGH_CONFIDENCE,0,,,,2444,,STRONGER_DENOMINATOR,NO_COMPLAINT_CORPUS,validated_page_but_complaints_not_collected_under_no-rescrape constraint
+BOD178,Highlight Hotel Yalıkavak,Yalıkavak,NO_VALIDATED_SIKAYETVAR_PAGE,NOT_FOUND,0,,,,387,,LOW_DENOMINATOR,NO_COMPLAINT_CORPUS,no_validated_complaint_corpus
+BOD179,Lizbonia Otel Yalikavak,Yalıkavak,NO_VALIDATED_SIKAYETVAR_PAGE,NOT_FOUND,0,,,,121,,LOW_DENOMINATOR,NO_COMPLAINT_CORPUS,no_validated_complaint_corpus
+BOD180,MGallery The Bodrum Hotel Yalıkavak,Yalıkavak,NO_VALIDATED_SIKAYETVAR_PAGE,NOT_FOUND,0,,,,649,,LOW_DENOMINATOR,NO_COMPLAINT_CORPUS,no_validated_complaint_corpus
+BOD181,Palmalife Bodrum Resort & Spa,Yalıkavak,NO_VALIDATED_SIKAYETVAR_PAGE,NOT_FOUND,0,,,,261,,LOW_DENOMINATOR,NO_COMPLAINT_CORPUS,no_validated_complaint_corpus
+BOD182,Root Redrock Villas Yalıkavak - Bodrum,Yalıkavak,NO_VALIDATED_SIKAYETVAR_PAGE,NOT_FOUND,0,,,,41,,LOW_DENOMINATOR,NO_COMPLAINT_CORPUS,no_validated_complaint_corpus
+BOD183,Ruins Luxury Resort,Yalıkavak,NO_VALIDATED_SIKAYETVAR_PAGE,NOT_FOUND,0,,,,462,,LOW_DENOMINATOR,NO_COMPLAINT_CORPUS,no_validated_complaint_corpus
+BOD184,Sea Palm Otel -YALIKAVAK,Yalıkavak,NO_VALIDATED_SIKAYETVAR_PAGE,NOT_FOUND,0,,,,293,,LOW_DENOMINATOR,NO_COMPLAINT_CORPUS,no_validated_complaint_corpus
+BOD185,Sezz Hotels Spa Wellness Yalıkavak,Yalıkavak,NO_VALIDATED_SIKAYETVAR_PAGE,NOT_FOUND,0,,,,114,,LOW_DENOMINATOR,NO_COMPLAINT_CORPUS,no_validated_complaint_corpus
+BOD186,Sirene Luxury Hotel Bodrum,Yalıkavak,NO_VALIDATED_SIKAYETVAR_PAGE,NOT_FOUND,0,,,,673,,LOW_DENOMINATOR,NO_COMPLAINT_CORPUS,no_validated_complaint_corpus
+BOD187,Spektr Boutique Hotel Yalikavak,Yalıkavak,NO_VALIDATED_SIKAYETVAR_PAGE,NOT_FOUND,0,,,,330,,LOW_DENOMINATOR,NO_COMPLAINT_CORPUS,no_validated_complaint_corpus
+BOD188,Tangiers Hotel Yalıkavak,Yalıkavak,NO_VALIDATED_SIKAYETVAR_PAGE,NOT_FOUND,0,,,,85,,LOW_DENOMINATOR,NO_COMPLAINT_CORPUS,no_validated_complaint_corpus
+BOD189,The Bodrum EDITION,Yalıkavak,NO_VALIDATED_SIKAYETVAR_PAGE,NOT_FOUND,0,,,,1016,,MODERATE_DENOMINATOR,NO_COMPLAINT_CORPUS,no_validated_complaint_corpus
+BOD190,The Sign Highlight Hotel,Yalıkavak,NO_VALIDATED_SIKAYETVAR_PAGE,NOT_FOUND,0,,,,125,,LOW_DENOMINATOR,NO_COMPLAINT_CORPUS,no_validated_complaint_corpus
+BOD191,Yalıkavak Marina Hotel by METT Collection,Yalıkavak,NO_VALIDATED_SIKAYETVAR_PAGE,NOT_FOUND,0,,,,267,,LOW_DENOMINATOR,NO_COMPLAINT_CORPUS,no_validated_complaint_corpus
+BOD192,Yalıpark Beach Hotel,Yalıkavak,NO_VISIBLE_COMPLAINT_ON_FOUND_PAGE,PAGE_FOUND_NO_COMPLAINT,0,,0.0,,647,0.0,LOW_DENOMINATOR,NO_VISIBLE_COMPLAINT_ON_FOUND_PAGE,found_page_no_visible_complaint_does_not_mean_problem_free

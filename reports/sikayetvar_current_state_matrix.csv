@@ -1,0 +1,17 @@
+﻿layer,status,evidence_file,row_count_or_count,complete,needs_work,notes
+URL / PAGE DISCOVERY,COMPLETE,data/raw/sikayetvar/sikayetvar_hotel_mapping.csv,192,True,False,All 192 master hotels have a discovery status; accessible page records=98.
+ENTITY MAPPING,PARTIAL,data/raw/sikayetvar/sikayetvar_hotel_mapping.csv,32,False,True,REVIEW_REQUIRED=43; AMBIGUOUS=1; NOT_FOUND=104; PAGE_FOUND_NO_COMPLAINT=12.
+RAW COMPLAINT SCRAPING,PARTIAL,data/raw/sikayetvar/sikayetvar_all_hotels_complaints_raw.csv,248,False,True,"All discovered links have rows, but unresolved hotel mappings limit all-hotel coverage."
+DETAIL SCRAPING,COMPLETE,data/raw/sikayetvar/sikayetvar_scrape_status_all_hotels.csv,248,True,False,details_failed=0; raw text non-empty=241/248.
+COMPANY REPLIES,PARTIAL,data/raw/sikayetvar/sikayetvar_all_hotels_replies_raw.csv,41,False,True,Separate COMPANY reply rows=41; raw complaints with company response flag=43; clean matched coverage=39/236 (16.53%).
+DEDUPLICATION,COMPLETE,data/processed/sikayetvar_all_hotels_complaints_clean.csv,236,True,False,Clean canonical URL duplicate excess=0; raw duplicate excess=3.
+AUDIT/CLEANING,COMPLETE,notebooks/12_sikayetvar_all_hotels_audit_cleaning.ipynb,236,True,False,Notebook fully executed; matched corpus and review-required quarantine exist.
+EDA,COMPLETE,notebooks/13_sikayetvar_all_hotels_eda.ipynb,236,True,False,"Notebook fully executed with hotel, area, temporal, reply and visibility outputs."
+NLP,COMPLETE,data/processed/sikayetvar_all_hotels_complaints_nlp.csv,236,True,False,Rule-based/token/TF-IDF outputs exist; no overall sentiment model; topic-model gate says not reliable.
+ASPECT ANALYSIS,COMPLETE,data/processed/sikayetvar_complaint_aspects_long.csv,4248,True,False,18-aspect explainable multi-label taxonomy with validation outputs.
+HOTEL-LEVEL SUMMARY,COMPLETE,reports/sikayetvar_hotel_eda_summary.csv,32,True,False,Complaint-bearing hotels only; small-n and denominator flags retained.
+AREA-LEVEL SUMMARY,COMPLETE,reports/sikayetvar_area_eda_summary.csv,14,True,False,All 14 master areas retained with coverage fields.
+NORMALIZED COMPLAINT VISIBILITY,COMPLETE,reports/sikayetvar_cross_platform_visibility.csv,32,True,False,Uses master google_review_count; non-positive/missing denominators remain NaN. This is not a complaint rate.
+GOOGLE TRAVEL CROSS-SOURCE,NOT_STARTED,,0,False,True,No evidence of a Sikayetvar-to-Google-Travel dataset join. Existing visibility metric uses master Google review count context.
+FINAL CUSTOMER VOICE SUMMARY,PARTIAL,reports/sikayetvar_eda_key_findings.txt|reports/sikayetvar_nlp_key_findings.txt,2,False,True,"Layer-specific findings exist, but Notebook 11 explicitly says Sikayetvar is not included in the project summary."
+TESTS,PARTIAL_WITH_FAILURE,tests/test_sikayetvar_*.py|siikayet-var-scraping/tests/test_sikayetvar_scraper.py,58,False,True,"58 test functions in 5 Sikayetvar test files. Safe runnable subset: 16 passed, 1 failed (LF/CRLF-only raw-text preservation assertion). Full collection blocked by missing requests and sklearn; no packages installed and no scraping run."

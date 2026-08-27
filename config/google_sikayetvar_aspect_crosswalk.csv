@@ -1,0 +1,22 @@
+﻿canonical_aspect,google_aspects,sikayetvar_aspects,note
+STAFF_SERVICE,STAFF|SERVICE,STAFF_SERVICE,Direct conceptual match; Google splits STAFF (personnel demeanor) and SERVICE (service delivery) while Sikayetvar keeps one combined bucket.
+MANAGEMENT_COMMUNICATION,MANAGEMENT|COMMUNICATION,MANAGEMENT_COMMUNICATION,Hotel-management responsiveness and guest-management communication; kept separate from front-line STAFF_SERVICE on purpose.
+CLEANLINESS_HYGIENE,CLEANLINESS|HYGIENE,CLEANLINESS_HYGIENE,Direct match; Google splits general cleanliness from hygiene-specific mentions (pests / sanitation).
+FOOD_BEVERAGE,FOOD|BAR_DRINKS,FOOD_BEVERAGE,Google separates food and bar/drinks; Sikayetvar keeps one combined bucket.
+ROOM_COMFORT,ROOM|BED_COMFORT,ROOM,Google's BED_COMFORT is a sub-signal of the same physical-room experience Sikayetvar tags as ROOM.
+FACILITIES_MAINTENANCE,FACILITIES,FACILITIES_MAINTENANCE,Direct conceptual match (general hotel facilities/infrastructure condition).
+POOL,POOL,POOL,Direct exact match; kept as its own canonical aspect rather than folded into FACILITIES because both source taxonomies already isolate it.
+BEACH_SEA,BEACH_SEA,BEACH_SEA,Direct exact match.
+PRICE_VALUE,PRICE_VALUE,PRICE_VALUE,Direct exact match.
+RESERVATION,RESERVATION,RESERVATION,Direct exact match.
+PAYMENT_REFUND,REFUND_PAYMENT,PAYMENT_REFUND,Same concept; token order differs between taxonomies only.
+CHECKIN_CHECKOUT,CHECKIN_CHECKOUT,CHECKIN_CHECKOUT,Direct exact match.
+AIR_CONDITIONING,AIR_CONDITIONING,AIR_CONDITIONING,Direct exact match.
+NOISE,NOISE,NOISE,Direct exact match.
+FAMILY_CHILDREN,FAMILY_KIDS,FAMILY_CHILDREN,Same concept; naming differs only.
+TRANSPORT_TRANSFER,TRANSPORT_TRANSFER,TRANSPORT_TRANSFER,Direct exact match.
+SAFETY_SECURITY,,SAFETY_SECURITY,GOOGLE_NO_EQUIVALENT: Google Travel's 24-aspect taxonomy has no dedicated safety/security aspect; any such general-review mentions are not separately tagged there.
+SPA_WELLNESS,,SPA_WELLNESS,GOOGLE_NO_EQUIVALENT: Google Travel's 24-aspect taxonomy has no dedicated spa/wellness aspect.
+LOCATION,LOCATION,,SIKAYETVAR_NO_EQUIVALENT: complaint corpus rarely frames a standalone wrong-location theme distinct from other aspects; not separately tagged there.
+WIFI,WIFI,,SIKAYETVAR_NO_EQUIVALENT: wifi-specific complaints are folded into FACILITIES_MAINTENANCE on the Sikayetvar side rather than split out.
+ANIMATION_ENTERTAINMENT,ANIMATION_ENTERTAINMENT,,SIKAYETVAR_NO_EQUIVALENT: entertainment/animation complaints are rare enough that Sikayetvar's taxonomy does not isolate them.

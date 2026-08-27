@@ -1,0 +1,69 @@
+SIKAYETVAR FINAL CUSTOMER VOICE SUMMARY
+========================================
+
+DATA COVERAGE
+- Master hotels: 192
+- Discovery coverage: 192/192
+- Verified pages after closure: 62
+- Clean-v2 complaints: 353 across 44 hotels
+- Page found, no visible complaint: 12
+- NOT_FOUND: 104; this is not zero complaints
+
+MAPPING CLOSURE
+- Initial REVIEW_REQUIRED=43; AMBIGUOUS=1
+- Resolved exact=3; high-confidence=15
+- Rejected wrong entity=17; remaining ambiguous=9
+- Net new matched hotels=18; net new matched complaints=1
+- Validated pages without stored complaint details=0; validated pages with only complaint-level review rows=3. No scraping was run.
+
+COMPLAINT VOLUME
+- Raw rows=365; unique raw canonical complaints=362
+- Clean-v2 canonical duplicates=0; raw count is not a hotel quality ranking.
+
+ASPECTS
+- Existing 18-aspect rule-based taxonomy retained.
+- Top themes: STAFF_SERVICE 69.1% (n=244), ROOM 61.5% (n=217), MANAGEMENT_COMMUNICATION 56.9% (n=201), FOOD_BEVERAGE 52.1% (n=184), PAYMENT_REFUND 48.2% (n=170), CLEANLINESS_HYGIENE 47.9% (n=169), PRICE_VALUE 45.6% (n=161), FACILITIES_MAINTENANCE 39.9% (n=141), RESERVATION 39.7% (n=140), BEACH_SEA 30.9% (n=109)
+
+COMPANY RESPONSE VISIBILITY
+- Visible company replies=40/353 (11.33%).
+- Highest supported visibility: Kefaluka Resort 75.9% (n=29).
+- Lowest supported visibility includes: Armonia Holiday Village & Spa, Club Marma Hotel, Bitez Garden Life Hotel&Suites, Diamond of Bodrum Hotel, La Quinta by Wyndham Bodrum. Visibility is not resolution.
+
+NORMALIZED COMPLAINT VISIBILITY
+- Indicator = visible clean-v2 complaints / master Google review count * 1000.
+- LOW denominator < 1055.0; MODERATE < 2078.5; STRONGER >= 2078.5.
+- Missing/non-positive denominators are not calculated. This is not a real complaint rate.
+
+HOTEL PROFILES
+- Final master contains all 192 hotels with page, mapping, complaint, aspect, reply and support states.
+- No 'worst hotel' ranking is produced.
+
+AREA PATTERNS
+          area  project_hotels  validated_pages  complaint_hotels  complaint_n
+      Akyarlar              16                8                 7           63
+   Güvercinlik              10                8                 6           58
+    Kadıkalesi               4                3                 3           56
+        Gümbet              15               10                 9           44
+    Turgutreis               7                3                 3           41
+ Bodrum Merkez              13                6                 5           24
+         Bitez              18                5                 3           16
+Ortakent-Yahşi              21                5                 3           16
+     Yalıkavak              22                3                 1           14
+         Torba              21                5                 2           12
+      Gümüşlük              15                1                 1            7
+   Göltürkbükü              10                2                 1            2
+      Gündoğan              14                2                 0            0
+      Türkbükü               6                1                 0            0
+
+LIMITATIONS
+- Şikayetvar is a self-selected complaint-focused corpus with unequal exposure.
+- Newly validated pages were not re-scraped, so their complaint corpus remains unavailable.
+- Company reply presence does not imply problem resolution.
+- Rule-based aspect mentions overlap and are not sentiment scores.
+
+CROSS-SOURCE READINESS
+- Google Travel clean rows=2336, hotels=104, intersection with complaint-bearing Sikayetvar hotels=27.
+- A deliberate aspect crosswalk is still required. No direct cross-source analysis was run here.
+
+NEXT STEP
+- Notebook 23 recommendation: Google Travel General Customer Voice vs Sikayetvar Complaint Visibility & Theme Alignment, using hotel_id intersection and an explicit aspect crosswalk.

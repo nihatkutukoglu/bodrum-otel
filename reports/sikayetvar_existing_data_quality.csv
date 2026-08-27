@@ -1,0 +1,27 @@
+﻿check,issue_count,denominator,notes,issue_rate_pct,evidence_file
+EXACT_DUPLICATE_ROWS,0,248,Exact duplicate row excess in raw complaints,0.0,data/raw/sikayetvar/sikayetvar_all_hotels_complaints_raw.csv
+DUPLICATE_CANONICAL_COMPLAINT_URL,3,248,Duplicate excess; raw retains cross-assignment evidence,1.21,data/raw/sikayetvar/sikayetvar_all_hotels_complaints_raw.csv
+DUPLICATE_COMPLAINT_ID,3,248,Duplicate excess,1.21,data/raw/sikayetvar/sikayetvar_all_hotels_complaints_raw.csv
+SAME_HOTEL_NORMALIZED_TEXT,0,241,Duplicate candidate excess after NFKC/case/whitespace normalization,0.0,data/raw/sikayetvar/sikayetvar_all_hotels_complaints_raw.csv
+EMPTY_COMPLAINT_TITLE,0,248,Raw complaint title missing,0.0,data/raw/sikayetvar/sikayetvar_all_hotels_complaints_raw.csv
+EMPTY_COMPLAINT_TEXT,7,248,Raw complaint text missing,2.82,data/raw/sikayetvar/sikayetvar_all_hotels_complaints_raw.csv
+INVALID_HOTEL_ID,0,248,hotel_id absent from 192-row master,0.0,data/raw/sikayetvar/sikayetvar_all_hotels_complaints_raw.csv
+MISSING_SOURCE_URL,0,248,Raw complaint source_page missing,0.0,data/raw/sikayetvar/sikayetvar_all_hotels_complaints_raw.csv
+WRONG_ENTITY_CONTAMINATION,0,248,Confident wrong-property rows; review-required is reported separately,0.0,data/raw/sikayetvar/sikayetvar_all_hotels_complaints_raw.csv
+COMPLAINT_REVIEW_REQUIRED,12,248,Quarantined from the clean matched corpus,4.84,data/raw/sikayetvar/sikayetvar_all_hotels_complaints_raw.csv
+PARSER_HTML_LEAKAGE_FLAG,0,236,Existing cleaning flag,0.0,data/processed/sikayetvar_all_hotels_complaints_clean.csv
+PARSER_BOILERPLATE_FLAG,3,236,Existing cleaning flag,1.27,data/processed/sikayetvar_all_hotels_complaints_clean.csv
+ENCODING_ARTIFACT_FLAG,0,236,Existing cleaning flag,0.0,data/processed/sikayetvar_all_hotels_complaints_clean.csv
+CLEAN_DUPLICATE_CANONICAL_URL,0,236,Canonical duplicate excess in clean corpus,0.0,data/processed/sikayetvar_all_hotels_complaints_clean.csv
+ORPHAN_CLEAN_REPLIES,0,97,Clean reply URL absent from clean complaint corpus,0.0,data/processed/sikayetvar_all_hotels_complaints_clean.csv
+CLEAN_COMPANY_RESPONSE_INTERNAL_MISMATCH,0,236,Clean response flag versus clean-derived COMPANY reply mismatch,0.0,data/processed/sikayetvar_all_hotels_complaints_clean.csv
+RAW_RESPONSE_FLAG_VS_REPLY_TABLE_MISMATCH,4,245,Raw complaint response flag versus separate raw COMPANY reply-row visibility,1.63,data/processed/sikayetvar_all_hotels_complaints_clean.csv
+RAW_TEXT_EXACT_PRESERVATION_MISMATCH,144,236,All observed mismatches are CSV newline serialization differences (LF versus CRLF); content mismatch after newline normalization is reported separately,61.02,data/processed/sikayetvar_all_hotels_complaints_clean.csv
+RAW_TEXT_CONTENT_MISMATCH_AFTER_NEWLINE_NORMALIZATION,0,236,Semantic text-preservation check after normalizing LF/CRLF,0.0,data/processed/sikayetvar_all_hotels_complaints_clean.csv
+DATE_PARSE_FAILED,10,236,Clean matched complaint dates not parsed,4.24,data/processed/sikayetvar_all_hotels_complaints_clean.csv
+CLEAN_REPLY_COVERAGE,39,236,Matched complaints with visible company response; not resolution,16.53,data/processed/sikayetvar_all_hotels_complaints_clean.csv
+RAW_REPLY_COVERAGE,43,248,Raw complaint rows with visible company response; not resolution,17.34,data/raw/sikayetvar/sikayetvar_all_hotels_complaints_raw.csv
+MISSING_EXPECTED_COMPLAINT_DATE,1,1,Raw uses complaint_date_raw; parsed complaint_date exists in clean data,100.0,data/raw/sikayetvar/sikayetvar_all_hotels_complaints_raw.csv
+MISSING_EXPECTED_STATUS,1,1,"Raw has entity_match_status plus response/progress flags, not a generic status field",100.0,data/raw/sikayetvar/sikayetvar_all_hotels_complaints_raw.csv
+MISSING_EXPECTED_COMPANY_REPLY_DATE,1,1,Equivalent field is company_response_date,100.0,data/raw/sikayetvar/sikayetvar_all_hotels_complaints_raw.csv
+MISSING_EXPECTED_SOURCE_URL,1,1,Equivalent field is source_page,100.0,data/raw/sikayetvar/sikayetvar_all_hotels_complaints_raw.csv

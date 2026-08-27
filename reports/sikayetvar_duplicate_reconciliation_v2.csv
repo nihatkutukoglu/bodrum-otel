@@ -1,0 +1,7 @@
+﻿dataset,check,duplicate_excess_count,status,notes
+RAW,ROW_EXACT_DUPLICATE_EXCESS,0,PASS,Raw is immutable
+RAW,CANONICAL_URL_DUPLICATE_EXCESS,3,EXPECTED_CROSS_ASSIGNMENT,Three Selectum Collection URLs were also assigned to Colours review
+RAW,COMPLAINT_ID_DUPLICATE_EXCESS,3,EXPECTED_CROSS_ASSIGNMENT,Same three cross-assignment rows
+CLEAN_V2,CANONICAL_URL_DUPLICATE_EXCESS,0,PASS,Must remain zero
+CLEAN_V2,COMPLAINT_ID_DUPLICATE_EXCESS,0,PASS,Must remain zero
+CLEAN_V2,SAME_HOTEL_NORMALIZED_TITLE_TEXT_EXCESS,0,PASS,Existing stable comparison normalization

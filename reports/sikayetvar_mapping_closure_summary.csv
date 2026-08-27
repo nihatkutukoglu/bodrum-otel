@@ -1,0 +1,9 @@
+﻿metric,value
+previous_review_required,43
+previous_ambiguous,1
+resolved_to_exact,3
+resolved_to_high_confidence,15
+rejected_wrong_entity,17
+remaining_ambiguous,9
+net_new_matched_hotels,18
+net_new_matched_complaints,1

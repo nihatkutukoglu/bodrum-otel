@@ -1,0 +1,9 @@
+﻿check,status,value,evidence_or_note
+COMMON_HOTEL_ID_KEY,PASS,hotel_id,Both corpora expose hotel_id as the intended join key.
+GOOGLE_TRAVEL_CLEAN_DATASET,PASS,2336,C:\Users\bilin\OneDrive\Masaüstü\bodrum\hotelrewiews\hotel-reviews\data\processed\google_travel_all_hotels_reviews_clean.csv
+GOOGLE_TRAVEL_HOTEL_COVERAGE,PASS,104,Unique Google Travel hotel_id count.
+SIKAYETVAR_CLEAN_V2,PASS,353,data/processed/sikayetvar_complaints_clean_v3.csv
+HOTEL_COVERAGE_INTERSECTION,PASS,27,Complaint-bearing Sikayetvar hotels also present in Google Travel clean data.
+ASPECT_TAXONOMY_ALIGNMENT,PARTIAL,18,"Sikayetvar taxonomy is explicit; Google Travel aspects require an intentional crosswalk, not direct label equality."
+SOURCE_SEMANTIC_ASYMMETRY,CAUTION,GENERAL_REVIEWS_VS_COMPLAINT_CORPUS,Compare general customer voice versus complaint visibility/themes; do not compare as one sentiment distribution.
+RATING_COMPLAINT_ASYMMETRY,CAUTION,DIFFERENT_SELECTION_PROCESSES,Ratings and complaint presence have different denominators and exposure mechanisms.

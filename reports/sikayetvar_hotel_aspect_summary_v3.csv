@@ -1,0 +1,793 @@
+﻿hotel_id,hotel_name,area,hotel_n,aspect,aspect_count,aspect_mention_rate_pct,small_n_flag
+BOD002,Armonia Holiday Village & Spa,Akyarlar,8,STAFF_SERVICE,6,75.0,False
+BOD002,Armonia Holiday Village & Spa,Akyarlar,8,CLEANLINESS_HYGIENE,1,12.5,False
+BOD002,Armonia Holiday Village & Spa,Akyarlar,8,FOOD_BEVERAGE,6,75.0,False
+BOD002,Armonia Holiday Village & Spa,Akyarlar,8,ROOM,6,75.0,False
+BOD002,Armonia Holiday Village & Spa,Akyarlar,8,BEACH_SEA,0,0.0,False
+BOD002,Armonia Holiday Village & Spa,Akyarlar,8,POOL,2,25.0,False
+BOD002,Armonia Holiday Village & Spa,Akyarlar,8,FACILITIES_MAINTENANCE,3,37.5,False
+BOD002,Armonia Holiday Village & Spa,Akyarlar,8,RESERVATION,0,0.0,False
+BOD002,Armonia Holiday Village & Spa,Akyarlar,8,PAYMENT_REFUND,4,50.0,False
+BOD002,Armonia Holiday Village & Spa,Akyarlar,8,PRICE_VALUE,4,50.0,False
+BOD002,Armonia Holiday Village & Spa,Akyarlar,8,CHECKIN_CHECKOUT,0,0.0,False
+BOD002,Armonia Holiday Village & Spa,Akyarlar,8,AIR_CONDITIONING,0,0.0,False
+BOD002,Armonia Holiday Village & Spa,Akyarlar,8,NOISE,1,12.5,False
+BOD002,Armonia Holiday Village & Spa,Akyarlar,8,FAMILY_CHILDREN,3,37.5,False
+BOD002,Armonia Holiday Village & Spa,Akyarlar,8,TRANSPORT_TRANSFER,1,12.5,False
+BOD002,Armonia Holiday Village & Spa,Akyarlar,8,MANAGEMENT_COMMUNICATION,4,50.0,False
+BOD002,Armonia Holiday Village & Spa,Akyarlar,8,SPA_WELLNESS,3,37.5,False
+BOD002,Armonia Holiday Village & Spa,Akyarlar,8,SAFETY_SECURITY,6,75.0,False
+BOD004,Bendis Beach Hotel,Akyarlar,12,STAFF_SERVICE,8,66.66666666666667,False
+BOD004,Bendis Beach Hotel,Akyarlar,12,CLEANLINESS_HYGIENE,8,66.66666666666667,False
+BOD004,Bendis Beach Hotel,Akyarlar,12,FOOD_BEVERAGE,9,75.0,False
+BOD004,Bendis Beach Hotel,Akyarlar,12,ROOM,9,75.0,False
+BOD004,Bendis Beach Hotel,Akyarlar,12,BEACH_SEA,6,50.0,False
+BOD004,Bendis Beach Hotel,Akyarlar,12,POOL,2,16.666666666666668,False
+BOD004,Bendis Beach Hotel,Akyarlar,12,FACILITIES_MAINTENANCE,6,50.0,False
+BOD004,Bendis Beach Hotel,Akyarlar,12,RESERVATION,5,41.666666666666664,False
+BOD004,Bendis Beach Hotel,Akyarlar,12,PAYMENT_REFUND,5,41.666666666666664,False
+BOD004,Bendis Beach Hotel,Akyarlar,12,PRICE_VALUE,8,66.66666666666667,False
+BOD004,Bendis Beach Hotel,Akyarlar,12,CHECKIN_CHECKOUT,0,0.0,False
+BOD004,Bendis Beach Hotel,Akyarlar,12,AIR_CONDITIONING,1,8.333333333333334,False
+BOD004,Bendis Beach Hotel,Akyarlar,12,NOISE,0,0.0,False
+BOD004,Bendis Beach Hotel,Akyarlar,12,FAMILY_CHILDREN,4,33.333333333333336,False
+BOD004,Bendis Beach Hotel,Akyarlar,12,TRANSPORT_TRANSFER,0,0.0,False
+BOD004,Bendis Beach Hotel,Akyarlar,12,MANAGEMENT_COMMUNICATION,7,58.333333333333336,False
+BOD004,Bendis Beach Hotel,Akyarlar,12,SPA_WELLNESS,2,16.666666666666668,False
+BOD004,Bendis Beach Hotel,Akyarlar,12,SAFETY_SECURITY,2,16.666666666666668,False
+BOD006,Club Marma Hotel,Akyarlar,5,STAFF_SERVICE,5,100.0,False
+BOD006,Club Marma Hotel,Akyarlar,5,CLEANLINESS_HYGIENE,2,40.0,False
+BOD006,Club Marma Hotel,Akyarlar,5,FOOD_BEVERAGE,4,80.0,False
+BOD006,Club Marma Hotel,Akyarlar,5,ROOM,1,20.0,False
+BOD006,Club Marma Hotel,Akyarlar,5,BEACH_SEA,0,0.0,False
+BOD006,Club Marma Hotel,Akyarlar,5,POOL,0,0.0,False
+BOD006,Club Marma Hotel,Akyarlar,5,FACILITIES_MAINTENANCE,2,40.0,False
+BOD006,Club Marma Hotel,Akyarlar,5,RESERVATION,0,0.0,False
+BOD006,Club Marma Hotel,Akyarlar,5,PAYMENT_REFUND,0,0.0,False
+BOD006,Club Marma Hotel,Akyarlar,5,PRICE_VALUE,0,0.0,False
+BOD006,Club Marma Hotel,Akyarlar,5,CHECKIN_CHECKOUT,0,0.0,False
+BOD006,Club Marma Hotel,Akyarlar,5,AIR_CONDITIONING,0,0.0,False
+BOD006,Club Marma Hotel,Akyarlar,5,NOISE,0,0.0,False
+BOD006,Club Marma Hotel,Akyarlar,5,FAMILY_CHILDREN,0,0.0,False
+BOD006,Club Marma Hotel,Akyarlar,5,TRANSPORT_TRANSFER,0,0.0,False
+BOD006,Club Marma Hotel,Akyarlar,5,MANAGEMENT_COMMUNICATION,1,20.0,False
+BOD006,Club Marma Hotel,Akyarlar,5,SPA_WELLNESS,0,0.0,False
+BOD006,Club Marma Hotel,Akyarlar,5,SAFETY_SECURITY,0,0.0,False
+BOD007,Kefaluka Resort,Akyarlar,29,STAFF_SERVICE,19,65.51724137931035,False
+BOD007,Kefaluka Resort,Akyarlar,29,CLEANLINESS_HYGIENE,12,41.37931034482759,False
+BOD007,Kefaluka Resort,Akyarlar,29,FOOD_BEVERAGE,14,48.275862068965516,False
+BOD007,Kefaluka Resort,Akyarlar,29,ROOM,18,62.06896551724138,False
+BOD007,Kefaluka Resort,Akyarlar,29,BEACH_SEA,7,24.137931034482758,False
+BOD007,Kefaluka Resort,Akyarlar,29,POOL,5,17.24137931034483,False
+BOD007,Kefaluka Resort,Akyarlar,29,FACILITIES_MAINTENANCE,12,41.37931034482759,False
+BOD007,Kefaluka Resort,Akyarlar,29,RESERVATION,15,51.724137931034484,False
+BOD007,Kefaluka Resort,Akyarlar,29,PAYMENT_REFUND,15,51.724137931034484,False
+BOD007,Kefaluka Resort,Akyarlar,29,PRICE_VALUE,14,48.275862068965516,False
+BOD007,Kefaluka Resort,Akyarlar,29,CHECKIN_CHECKOUT,1,3.4482758620689653,False
+BOD007,Kefaluka Resort,Akyarlar,29,AIR_CONDITIONING,1,3.4482758620689653,False
+BOD007,Kefaluka Resort,Akyarlar,29,NOISE,1,3.4482758620689653,False
+BOD007,Kefaluka Resort,Akyarlar,29,FAMILY_CHILDREN,9,31.03448275862069,False
+BOD007,Kefaluka Resort,Akyarlar,29,TRANSPORT_TRANSFER,1,3.4482758620689653,False
+BOD007,Kefaluka Resort,Akyarlar,29,MANAGEMENT_COMMUNICATION,18,62.06896551724138,False
+BOD007,Kefaluka Resort,Akyarlar,29,SPA_WELLNESS,1,3.4482758620689653,False
+BOD007,Kefaluka Resort,Akyarlar,29,SAFETY_SECURITY,9,31.03448275862069,False
+BOD010,Mare Garden Hotel,Akyarlar,1,STAFF_SERVICE,0,0.0,True
+BOD010,Mare Garden Hotel,Akyarlar,1,CLEANLINESS_HYGIENE,0,0.0,True
+BOD010,Mare Garden Hotel,Akyarlar,1,FOOD_BEVERAGE,0,0.0,True
+BOD010,Mare Garden Hotel,Akyarlar,1,ROOM,0,0.0,True
+BOD010,Mare Garden Hotel,Akyarlar,1,BEACH_SEA,0,0.0,True
+BOD010,Mare Garden Hotel,Akyarlar,1,POOL,0,0.0,True
+BOD010,Mare Garden Hotel,Akyarlar,1,FACILITIES_MAINTENANCE,0,0.0,True
+BOD010,Mare Garden Hotel,Akyarlar,1,RESERVATION,0,0.0,True
+BOD010,Mare Garden Hotel,Akyarlar,1,PAYMENT_REFUND,0,0.0,True
+BOD010,Mare Garden Hotel,Akyarlar,1,PRICE_VALUE,1,100.0,True
+BOD010,Mare Garden Hotel,Akyarlar,1,CHECKIN_CHECKOUT,0,0.0,True
+BOD010,Mare Garden Hotel,Akyarlar,1,AIR_CONDITIONING,0,0.0,True
+BOD010,Mare Garden Hotel,Akyarlar,1,NOISE,0,0.0,True
+BOD010,Mare Garden Hotel,Akyarlar,1,FAMILY_CHILDREN,0,0.0,True
+BOD010,Mare Garden Hotel,Akyarlar,1,TRANSPORT_TRANSFER,0,0.0,True
+BOD010,Mare Garden Hotel,Akyarlar,1,MANAGEMENT_COMMUNICATION,0,0.0,True
+BOD010,Mare Garden Hotel,Akyarlar,1,SPA_WELLNESS,0,0.0,True
+BOD010,Mare Garden Hotel,Akyarlar,1,SAFETY_SECURITY,0,0.0,True
+BOD012,Selectum Collection Bodrum,Akyarlar,4,STAFF_SERVICE,4,100.0,True
+BOD012,Selectum Collection Bodrum,Akyarlar,4,CLEANLINESS_HYGIENE,4,100.0,True
+BOD012,Selectum Collection Bodrum,Akyarlar,4,FOOD_BEVERAGE,3,75.0,True
+BOD012,Selectum Collection Bodrum,Akyarlar,4,ROOM,4,100.0,True
+BOD012,Selectum Collection Bodrum,Akyarlar,4,BEACH_SEA,1,25.0,True
+BOD012,Selectum Collection Bodrum,Akyarlar,4,POOL,1,25.0,True
+BOD012,Selectum Collection Bodrum,Akyarlar,4,FACILITIES_MAINTENANCE,3,75.0,True
+BOD012,Selectum Collection Bodrum,Akyarlar,4,RESERVATION,0,0.0,True
+BOD012,Selectum Collection Bodrum,Akyarlar,4,PAYMENT_REFUND,2,50.0,True
+BOD012,Selectum Collection Bodrum,Akyarlar,4,PRICE_VALUE,3,75.0,True
+BOD012,Selectum Collection Bodrum,Akyarlar,4,CHECKIN_CHECKOUT,0,0.0,True
+BOD012,Selectum Collection Bodrum,Akyarlar,4,AIR_CONDITIONING,0,0.0,True
+BOD012,Selectum Collection Bodrum,Akyarlar,4,NOISE,0,0.0,True
+BOD012,Selectum Collection Bodrum,Akyarlar,4,FAMILY_CHILDREN,1,25.0,True
+BOD012,Selectum Collection Bodrum,Akyarlar,4,TRANSPORT_TRANSFER,0,0.0,True
+BOD012,Selectum Collection Bodrum,Akyarlar,4,MANAGEMENT_COMMUNICATION,3,75.0,True
+BOD012,Selectum Collection Bodrum,Akyarlar,4,SPA_WELLNESS,0,0.0,True
+BOD012,Selectum Collection Bodrum,Akyarlar,4,SAFETY_SECURITY,1,25.0,True
+BOD016,Xanadu Island,Akyarlar,4,STAFF_SERVICE,4,100.0,True
+BOD016,Xanadu Island,Akyarlar,4,CLEANLINESS_HYGIENE,2,50.0,True
+BOD016,Xanadu Island,Akyarlar,4,FOOD_BEVERAGE,2,50.0,True
+BOD016,Xanadu Island,Akyarlar,4,ROOM,3,75.0,True
+BOD016,Xanadu Island,Akyarlar,4,BEACH_SEA,2,50.0,True
+BOD016,Xanadu Island,Akyarlar,4,POOL,2,50.0,True
+BOD016,Xanadu Island,Akyarlar,4,FACILITIES_MAINTENANCE,1,25.0,True
+BOD016,Xanadu Island,Akyarlar,4,RESERVATION,1,25.0,True
+BOD016,Xanadu Island,Akyarlar,4,PAYMENT_REFUND,2,50.0,True
+BOD016,Xanadu Island,Akyarlar,4,PRICE_VALUE,2,50.0,True
+BOD016,Xanadu Island,Akyarlar,4,CHECKIN_CHECKOUT,1,25.0,True
+BOD016,Xanadu Island,Akyarlar,4,AIR_CONDITIONING,0,0.0,True
+BOD016,Xanadu Island,Akyarlar,4,NOISE,1,25.0,True
+BOD016,Xanadu Island,Akyarlar,4,FAMILY_CHILDREN,1,25.0,True
+BOD016,Xanadu Island,Akyarlar,4,TRANSPORT_TRANSFER,0,0.0,True
+BOD016,Xanadu Island,Akyarlar,4,MANAGEMENT_COMMUNICATION,3,75.0,True
+BOD016,Xanadu Island,Akyarlar,4,SPA_WELLNESS,0,0.0,True
+BOD016,Xanadu Island,Akyarlar,4,SAFETY_SECURITY,0,0.0,True
+BOD019,Bitez Garden Life Hotel&Suites,Bitez,14,STAFF_SERVICE,11,78.57142857142857,False
+BOD019,Bitez Garden Life Hotel&Suites,Bitez,14,CLEANLINESS_HYGIENE,12,85.71428571428571,False
+BOD019,Bitez Garden Life Hotel&Suites,Bitez,14,FOOD_BEVERAGE,8,57.142857142857146,False
+BOD019,Bitez Garden Life Hotel&Suites,Bitez,14,ROOM,12,85.71428571428571,False
+BOD019,Bitez Garden Life Hotel&Suites,Bitez,14,BEACH_SEA,6,42.857142857142854,False
+BOD019,Bitez Garden Life Hotel&Suites,Bitez,14,POOL,5,35.714285714285715,False
+BOD019,Bitez Garden Life Hotel&Suites,Bitez,14,FACILITIES_MAINTENANCE,7,50.0,False
+BOD019,Bitez Garden Life Hotel&Suites,Bitez,14,RESERVATION,6,42.857142857142854,False
+BOD019,Bitez Garden Life Hotel&Suites,Bitez,14,PAYMENT_REFUND,8,57.142857142857146,False
+BOD019,Bitez Garden Life Hotel&Suites,Bitez,14,PRICE_VALUE,10,71.42857142857143,False
+BOD019,Bitez Garden Life Hotel&Suites,Bitez,14,CHECKIN_CHECKOUT,0,0.0,False
+BOD019,Bitez Garden Life Hotel&Suites,Bitez,14,AIR_CONDITIONING,3,21.428571428571427,False
+BOD019,Bitez Garden Life Hotel&Suites,Bitez,14,NOISE,0,0.0,False
+BOD019,Bitez Garden Life Hotel&Suites,Bitez,14,FAMILY_CHILDREN,4,28.571428571428573,False
+BOD019,Bitez Garden Life Hotel&Suites,Bitez,14,TRANSPORT_TRANSFER,0,0.0,False
+BOD019,Bitez Garden Life Hotel&Suites,Bitez,14,MANAGEMENT_COMMUNICATION,9,64.28571428571429,False
+BOD019,Bitez Garden Life Hotel&Suites,Bitez,14,SPA_WELLNESS,3,21.428571428571427,False
+BOD019,Bitez Garden Life Hotel&Suites,Bitez,14,SAFETY_SECURITY,3,21.428571428571427,False
+BOD023,Doria Hotel Bodrum,Bitez,1,STAFF_SERVICE,1,100.0,True
+BOD023,Doria Hotel Bodrum,Bitez,1,CLEANLINESS_HYGIENE,0,0.0,True
+BOD023,Doria Hotel Bodrum,Bitez,1,FOOD_BEVERAGE,0,0.0,True
+BOD023,Doria Hotel Bodrum,Bitez,1,ROOM,1,100.0,True
+BOD023,Doria Hotel Bodrum,Bitez,1,BEACH_SEA,0,0.0,True
+BOD023,Doria Hotel Bodrum,Bitez,1,POOL,0,0.0,True
+BOD023,Doria Hotel Bodrum,Bitez,1,FACILITIES_MAINTENANCE,0,0.0,True
+BOD023,Doria Hotel Bodrum,Bitez,1,RESERVATION,0,0.0,True
+BOD023,Doria Hotel Bodrum,Bitez,1,PAYMENT_REFUND,1,100.0,True
+BOD023,Doria Hotel Bodrum,Bitez,1,PRICE_VALUE,1,100.0,True
+BOD023,Doria Hotel Bodrum,Bitez,1,CHECKIN_CHECKOUT,0,0.0,True
+BOD023,Doria Hotel Bodrum,Bitez,1,AIR_CONDITIONING,0,0.0,True
+BOD023,Doria Hotel Bodrum,Bitez,1,NOISE,0,0.0,True
+BOD023,Doria Hotel Bodrum,Bitez,1,FAMILY_CHILDREN,0,0.0,True
+BOD023,Doria Hotel Bodrum,Bitez,1,TRANSPORT_TRANSFER,0,0.0,True
+BOD023,Doria Hotel Bodrum,Bitez,1,MANAGEMENT_COMMUNICATION,1,100.0,True
+BOD023,Doria Hotel Bodrum,Bitez,1,SPA_WELLNESS,0,0.0,True
+BOD023,Doria Hotel Bodrum,Bitez,1,SAFETY_SECURITY,1,100.0,True
+BOD032,Paloma Family Club Bitez,Bitez,1,STAFF_SERVICE,0,0.0,True
+BOD032,Paloma Family Club Bitez,Bitez,1,CLEANLINESS_HYGIENE,1,100.0,True
+BOD032,Paloma Family Club Bitez,Bitez,1,FOOD_BEVERAGE,0,0.0,True
+BOD032,Paloma Family Club Bitez,Bitez,1,ROOM,1,100.0,True
+BOD032,Paloma Family Club Bitez,Bitez,1,BEACH_SEA,0,0.0,True
+BOD032,Paloma Family Club Bitez,Bitez,1,POOL,0,0.0,True
+BOD032,Paloma Family Club Bitez,Bitez,1,FACILITIES_MAINTENANCE,0,0.0,True
+BOD032,Paloma Family Club Bitez,Bitez,1,RESERVATION,0,0.0,True
+BOD032,Paloma Family Club Bitez,Bitez,1,PAYMENT_REFUND,1,100.0,True
+BOD032,Paloma Family Club Bitez,Bitez,1,PRICE_VALUE,1,100.0,True
+BOD032,Paloma Family Club Bitez,Bitez,1,CHECKIN_CHECKOUT,0,0.0,True
+BOD032,Paloma Family Club Bitez,Bitez,1,AIR_CONDITIONING,0,0.0,True
+BOD032,Paloma Family Club Bitez,Bitez,1,NOISE,0,0.0,True
+BOD032,Paloma Family Club Bitez,Bitez,1,FAMILY_CHILDREN,0,0.0,True
+BOD032,Paloma Family Club Bitez,Bitez,1,TRANSPORT_TRANSFER,0,0.0,True
+BOD032,Paloma Family Club Bitez,Bitez,1,MANAGEMENT_COMMUNICATION,0,0.0,True
+BOD032,Paloma Family Club Bitez,Bitez,1,SPA_WELLNESS,0,0.0,True
+BOD032,Paloma Family Club Bitez,Bitez,1,SAFETY_SECURITY,0,0.0,True
+BOD038,Casa Mare Bodrum,Bodrum Merkez,1,STAFF_SERVICE,0,0.0,True
+BOD038,Casa Mare Bodrum,Bodrum Merkez,1,CLEANLINESS_HYGIENE,0,0.0,True
+BOD038,Casa Mare Bodrum,Bodrum Merkez,1,FOOD_BEVERAGE,0,0.0,True
+BOD038,Casa Mare Bodrum,Bodrum Merkez,1,ROOM,1,100.0,True
+BOD038,Casa Mare Bodrum,Bodrum Merkez,1,BEACH_SEA,0,0.0,True
+BOD038,Casa Mare Bodrum,Bodrum Merkez,1,POOL,0,0.0,True
+BOD038,Casa Mare Bodrum,Bodrum Merkez,1,FACILITIES_MAINTENANCE,0,0.0,True
+BOD038,Casa Mare Bodrum,Bodrum Merkez,1,RESERVATION,1,100.0,True
+BOD038,Casa Mare Bodrum,Bodrum Merkez,1,PAYMENT_REFUND,1,100.0,True
+BOD038,Casa Mare Bodrum,Bodrum Merkez,1,PRICE_VALUE,0,0.0,True
+BOD038,Casa Mare Bodrum,Bodrum Merkez,1,CHECKIN_CHECKOUT,0,0.0,True
+BOD038,Casa Mare Bodrum,Bodrum Merkez,1,AIR_CONDITIONING,0,0.0,True
+BOD038,Casa Mare Bodrum,Bodrum Merkez,1,NOISE,0,0.0,True
+BOD038,Casa Mare Bodrum,Bodrum Merkez,1,FAMILY_CHILDREN,0,0.0,True
+BOD038,Casa Mare Bodrum,Bodrum Merkez,1,TRANSPORT_TRANSFER,0,0.0,True
+BOD038,Casa Mare Bodrum,Bodrum Merkez,1,MANAGEMENT_COMMUNICATION,0,0.0,True
+BOD038,Casa Mare Bodrum,Bodrum Merkez,1,SPA_WELLNESS,0,0.0,True
+BOD038,Casa Mare Bodrum,Bodrum Merkez,1,SAFETY_SECURITY,0,0.0,True
+BOD040,Diamond of Bodrum Hotel,Bodrum Merkez,10,STAFF_SERVICE,8,80.0,False
+BOD040,Diamond of Bodrum Hotel,Bodrum Merkez,10,CLEANLINESS_HYGIENE,8,80.0,False
+BOD040,Diamond of Bodrum Hotel,Bodrum Merkez,10,FOOD_BEVERAGE,6,60.0,False
+BOD040,Diamond of Bodrum Hotel,Bodrum Merkez,10,ROOM,7,70.0,False
+BOD040,Diamond of Bodrum Hotel,Bodrum Merkez,10,BEACH_SEA,7,70.0,False
+BOD040,Diamond of Bodrum Hotel,Bodrum Merkez,10,POOL,6,60.0,False
+BOD040,Diamond of Bodrum Hotel,Bodrum Merkez,10,FACILITIES_MAINTENANCE,5,50.0,False
+BOD040,Diamond of Bodrum Hotel,Bodrum Merkez,10,RESERVATION,2,20.0,False
+BOD040,Diamond of Bodrum Hotel,Bodrum Merkez,10,PAYMENT_REFUND,3,30.0,False
+BOD040,Diamond of Bodrum Hotel,Bodrum Merkez,10,PRICE_VALUE,3,30.0,False
+BOD040,Diamond of Bodrum Hotel,Bodrum Merkez,10,CHECKIN_CHECKOUT,0,0.0,False
+BOD040,Diamond of Bodrum Hotel,Bodrum Merkez,10,AIR_CONDITIONING,2,20.0,False
+BOD040,Diamond of Bodrum Hotel,Bodrum Merkez,10,NOISE,0,0.0,False
+BOD040,Diamond of Bodrum Hotel,Bodrum Merkez,10,FAMILY_CHILDREN,1,10.0,False
+BOD040,Diamond of Bodrum Hotel,Bodrum Merkez,10,TRANSPORT_TRANSFER,2,20.0,False
+BOD040,Diamond of Bodrum Hotel,Bodrum Merkez,10,MANAGEMENT_COMMUNICATION,3,30.0,False
+BOD040,Diamond of Bodrum Hotel,Bodrum Merkez,10,SPA_WELLNESS,0,0.0,False
+BOD040,Diamond of Bodrum Hotel,Bodrum Merkez,10,SAFETY_SECURITY,3,30.0,False
+BOD041,La Quinta by Wyndham Bodrum,Bodrum Merkez,5,STAFF_SERVICE,4,80.0,False
+BOD041,La Quinta by Wyndham Bodrum,Bodrum Merkez,5,CLEANLINESS_HYGIENE,1,20.0,False
+BOD041,La Quinta by Wyndham Bodrum,Bodrum Merkez,5,FOOD_BEVERAGE,2,40.0,False
+BOD041,La Quinta by Wyndham Bodrum,Bodrum Merkez,5,ROOM,2,40.0,False
+BOD041,La Quinta by Wyndham Bodrum,Bodrum Merkez,5,BEACH_SEA,1,20.0,False
+BOD041,La Quinta by Wyndham Bodrum,Bodrum Merkez,5,POOL,0,0.0,False
+BOD041,La Quinta by Wyndham Bodrum,Bodrum Merkez,5,FACILITIES_MAINTENANCE,1,20.0,False
+BOD041,La Quinta by Wyndham Bodrum,Bodrum Merkez,5,RESERVATION,2,40.0,False
+BOD041,La Quinta by Wyndham Bodrum,Bodrum Merkez,5,PAYMENT_REFUND,2,40.0,False
+BOD041,La Quinta by Wyndham Bodrum,Bodrum Merkez,5,PRICE_VALUE,2,40.0,False
+BOD041,La Quinta by Wyndham Bodrum,Bodrum Merkez,5,CHECKIN_CHECKOUT,0,0.0,False
+BOD041,La Quinta by Wyndham Bodrum,Bodrum Merkez,5,AIR_CONDITIONING,2,40.0,False
+BOD041,La Quinta by Wyndham Bodrum,Bodrum Merkez,5,NOISE,0,0.0,False
+BOD041,La Quinta by Wyndham Bodrum,Bodrum Merkez,5,FAMILY_CHILDREN,0,0.0,False
+BOD041,La Quinta by Wyndham Bodrum,Bodrum Merkez,5,TRANSPORT_TRANSFER,1,20.0,False
+BOD041,La Quinta by Wyndham Bodrum,Bodrum Merkez,5,MANAGEMENT_COMMUNICATION,2,40.0,False
+BOD041,La Quinta by Wyndham Bodrum,Bodrum Merkez,5,SPA_WELLNESS,0,0.0,False
+BOD041,La Quinta by Wyndham Bodrum,Bodrum Merkez,5,SAFETY_SECURITY,0,0.0,False
+BOD042,Mandarin Resort Hotel,Bodrum Merkez,1,STAFF_SERVICE,0,0.0,True
+BOD042,Mandarin Resort Hotel,Bodrum Merkez,1,CLEANLINESS_HYGIENE,1,100.0,True
+BOD042,Mandarin Resort Hotel,Bodrum Merkez,1,FOOD_BEVERAGE,1,100.0,True
+BOD042,Mandarin Resort Hotel,Bodrum Merkez,1,ROOM,1,100.0,True
+BOD042,Mandarin Resort Hotel,Bodrum Merkez,1,BEACH_SEA,0,0.0,True
+BOD042,Mandarin Resort Hotel,Bodrum Merkez,1,POOL,0,0.0,True
+BOD042,Mandarin Resort Hotel,Bodrum Merkez,1,FACILITIES_MAINTENANCE,1,100.0,True
+BOD042,Mandarin Resort Hotel,Bodrum Merkez,1,RESERVATION,0,0.0,True
+BOD042,Mandarin Resort Hotel,Bodrum Merkez,1,PAYMENT_REFUND,0,0.0,True
+BOD042,Mandarin Resort Hotel,Bodrum Merkez,1,PRICE_VALUE,0,0.0,True
+BOD042,Mandarin Resort Hotel,Bodrum Merkez,1,CHECKIN_CHECKOUT,0,0.0,True
+BOD042,Mandarin Resort Hotel,Bodrum Merkez,1,AIR_CONDITIONING,1,100.0,True
+BOD042,Mandarin Resort Hotel,Bodrum Merkez,1,NOISE,0,0.0,True
+BOD042,Mandarin Resort Hotel,Bodrum Merkez,1,FAMILY_CHILDREN,0,0.0,True
+BOD042,Mandarin Resort Hotel,Bodrum Merkez,1,TRANSPORT_TRANSFER,0,0.0,True
+BOD042,Mandarin Resort Hotel,Bodrum Merkez,1,MANAGEMENT_COMMUNICATION,1,100.0,True
+BOD042,Mandarin Resort Hotel,Bodrum Merkez,1,SPA_WELLNESS,0,0.0,True
+BOD042,Mandarin Resort Hotel,Bodrum Merkez,1,SAFETY_SECURITY,0,0.0,True
+BOD045,Salmakis Resort & Spa,Bodrum Merkez,7,STAFF_SERVICE,7,100.0,False
+BOD045,Salmakis Resort & Spa,Bodrum Merkez,7,CLEANLINESS_HYGIENE,5,71.42857142857143,False
+BOD045,Salmakis Resort & Spa,Bodrum Merkez,7,FOOD_BEVERAGE,5,71.42857142857143,False
+BOD045,Salmakis Resort & Spa,Bodrum Merkez,7,ROOM,6,85.71428571428571,False
+BOD045,Salmakis Resort & Spa,Bodrum Merkez,7,BEACH_SEA,3,42.857142857142854,False
+BOD045,Salmakis Resort & Spa,Bodrum Merkez,7,POOL,1,14.285714285714286,False
+BOD045,Salmakis Resort & Spa,Bodrum Merkez,7,FACILITIES_MAINTENANCE,6,85.71428571428571,False
+BOD045,Salmakis Resort & Spa,Bodrum Merkez,7,RESERVATION,1,14.285714285714286,False
+BOD045,Salmakis Resort & Spa,Bodrum Merkez,7,PAYMENT_REFUND,5,71.42857142857143,False
+BOD045,Salmakis Resort & Spa,Bodrum Merkez,7,PRICE_VALUE,3,42.857142857142854,False
+BOD045,Salmakis Resort & Spa,Bodrum Merkez,7,CHECKIN_CHECKOUT,0,0.0,False
+BOD045,Salmakis Resort & Spa,Bodrum Merkez,7,AIR_CONDITIONING,1,14.285714285714286,False
+BOD045,Salmakis Resort & Spa,Bodrum Merkez,7,NOISE,0,0.0,False
+BOD045,Salmakis Resort & Spa,Bodrum Merkez,7,FAMILY_CHILDREN,0,0.0,False
+BOD045,Salmakis Resort & Spa,Bodrum Merkez,7,TRANSPORT_TRANSFER,0,0.0,False
+BOD045,Salmakis Resort & Spa,Bodrum Merkez,7,MANAGEMENT_COMMUNICATION,5,71.42857142857143,False
+BOD045,Salmakis Resort & Spa,Bodrum Merkez,7,SPA_WELLNESS,3,42.857142857142854,False
+BOD045,Salmakis Resort & Spa,Bodrum Merkez,7,SAFETY_SECURITY,1,14.285714285714286,False
+BOD056,"Mandarin Oriental, Bodrum",Göltürkbükü,2,STAFF_SERVICE,2,100.0,True
+BOD056,"Mandarin Oriental, Bodrum",Göltürkbükü,2,CLEANLINESS_HYGIENE,0,0.0,True
+BOD056,"Mandarin Oriental, Bodrum",Göltürkbükü,2,FOOD_BEVERAGE,1,50.0,True
+BOD056,"Mandarin Oriental, Bodrum",Göltürkbükü,2,ROOM,0,0.0,True
+BOD056,"Mandarin Oriental, Bodrum",Göltürkbükü,2,BEACH_SEA,0,0.0,True
+BOD056,"Mandarin Oriental, Bodrum",Göltürkbükü,2,POOL,0,0.0,True
+BOD056,"Mandarin Oriental, Bodrum",Göltürkbükü,2,FACILITIES_MAINTENANCE,2,100.0,True
+BOD056,"Mandarin Oriental, Bodrum",Göltürkbükü,2,RESERVATION,1,50.0,True
+BOD056,"Mandarin Oriental, Bodrum",Göltürkbükü,2,PAYMENT_REFUND,0,0.0,True
+BOD056,"Mandarin Oriental, Bodrum",Göltürkbükü,2,PRICE_VALUE,1,50.0,True
+BOD056,"Mandarin Oriental, Bodrum",Göltürkbükü,2,CHECKIN_CHECKOUT,0,0.0,True
+BOD056,"Mandarin Oriental, Bodrum",Göltürkbükü,2,AIR_CONDITIONING,0,0.0,True
+BOD056,"Mandarin Oriental, Bodrum",Göltürkbükü,2,NOISE,0,0.0,True
+BOD056,"Mandarin Oriental, Bodrum",Göltürkbükü,2,FAMILY_CHILDREN,0,0.0,True
+BOD056,"Mandarin Oriental, Bodrum",Göltürkbükü,2,TRANSPORT_TRANSFER,0,0.0,True
+BOD056,"Mandarin Oriental, Bodrum",Göltürkbükü,2,MANAGEMENT_COMMUNICATION,1,50.0,True
+BOD056,"Mandarin Oriental, Bodrum",Göltürkbükü,2,SPA_WELLNESS,0,0.0,True
+BOD056,"Mandarin Oriental, Bodrum",Göltürkbükü,2,SAFETY_SECURITY,1,50.0,True
+BOD058,Bodrum Beach Resort,Gümbet,3,STAFF_SERVICE,0,0.0,True
+BOD058,Bodrum Beach Resort,Gümbet,3,CLEANLINESS_HYGIENE,0,0.0,True
+BOD058,Bodrum Beach Resort,Gümbet,3,FOOD_BEVERAGE,0,0.0,True
+BOD058,Bodrum Beach Resort,Gümbet,3,ROOM,0,0.0,True
+BOD058,Bodrum Beach Resort,Gümbet,3,BEACH_SEA,0,0.0,True
+BOD058,Bodrum Beach Resort,Gümbet,3,POOL,0,0.0,True
+BOD058,Bodrum Beach Resort,Gümbet,3,FACILITIES_MAINTENANCE,0,0.0,True
+BOD058,Bodrum Beach Resort,Gümbet,3,RESERVATION,2,66.66666666666667,True
+BOD058,Bodrum Beach Resort,Gümbet,3,PAYMENT_REFUND,2,66.66666666666667,True
+BOD058,Bodrum Beach Resort,Gümbet,3,PRICE_VALUE,1,33.333333333333336,True
+BOD058,Bodrum Beach Resort,Gümbet,3,CHECKIN_CHECKOUT,0,0.0,True
+BOD058,Bodrum Beach Resort,Gümbet,3,AIR_CONDITIONING,0,0.0,True
+BOD058,Bodrum Beach Resort,Gümbet,3,NOISE,0,0.0,True
+BOD058,Bodrum Beach Resort,Gümbet,3,FAMILY_CHILDREN,0,0.0,True
+BOD058,Bodrum Beach Resort,Gümbet,3,TRANSPORT_TRANSFER,1,33.333333333333336,True
+BOD058,Bodrum Beach Resort,Gümbet,3,MANAGEMENT_COMMUNICATION,1,33.333333333333336,True
+BOD058,Bodrum Beach Resort,Gümbet,3,SPA_WELLNESS,0,0.0,True
+BOD058,Bodrum Beach Resort,Gümbet,3,SAFETY_SECURITY,0,0.0,True
+BOD060,Club Shark Hotel,Gümbet,1,STAFF_SERVICE,0,0.0,True
+BOD060,Club Shark Hotel,Gümbet,1,CLEANLINESS_HYGIENE,0,0.0,True
+BOD060,Club Shark Hotel,Gümbet,1,FOOD_BEVERAGE,0,0.0,True
+BOD060,Club Shark Hotel,Gümbet,1,ROOM,0,0.0,True
+BOD060,Club Shark Hotel,Gümbet,1,BEACH_SEA,0,0.0,True
+BOD060,Club Shark Hotel,Gümbet,1,POOL,0,0.0,True
+BOD060,Club Shark Hotel,Gümbet,1,FACILITIES_MAINTENANCE,0,0.0,True
+BOD060,Club Shark Hotel,Gümbet,1,RESERVATION,1,100.0,True
+BOD060,Club Shark Hotel,Gümbet,1,PAYMENT_REFUND,1,100.0,True
+BOD060,Club Shark Hotel,Gümbet,1,PRICE_VALUE,1,100.0,True
+BOD060,Club Shark Hotel,Gümbet,1,CHECKIN_CHECKOUT,0,0.0,True
+BOD060,Club Shark Hotel,Gümbet,1,AIR_CONDITIONING,0,0.0,True
+BOD060,Club Shark Hotel,Gümbet,1,NOISE,0,0.0,True
+BOD060,Club Shark Hotel,Gümbet,1,FAMILY_CHILDREN,0,0.0,True
+BOD060,Club Shark Hotel,Gümbet,1,TRANSPORT_TRANSFER,0,0.0,True
+BOD060,Club Shark Hotel,Gümbet,1,MANAGEMENT_COMMUNICATION,1,100.0,True
+BOD060,Club Shark Hotel,Gümbet,1,SPA_WELLNESS,0,0.0,True
+BOD060,Club Shark Hotel,Gümbet,1,SAFETY_SECURITY,0,0.0,True
+BOD061,Gümbet Anıl Beach,Gümbet,2,STAFF_SERVICE,1,50.0,True
+BOD061,Gümbet Anıl Beach,Gümbet,2,CLEANLINESS_HYGIENE,0,0.0,True
+BOD061,Gümbet Anıl Beach,Gümbet,2,FOOD_BEVERAGE,2,100.0,True
+BOD061,Gümbet Anıl Beach,Gümbet,2,ROOM,2,100.0,True
+BOD061,Gümbet Anıl Beach,Gümbet,2,BEACH_SEA,2,100.0,True
+BOD061,Gümbet Anıl Beach,Gümbet,2,POOL,1,50.0,True
+BOD061,Gümbet Anıl Beach,Gümbet,2,FACILITIES_MAINTENANCE,0,0.0,True
+BOD061,Gümbet Anıl Beach,Gümbet,2,RESERVATION,1,50.0,True
+BOD061,Gümbet Anıl Beach,Gümbet,2,PAYMENT_REFUND,1,50.0,True
+BOD061,Gümbet Anıl Beach,Gümbet,2,PRICE_VALUE,0,0.0,True
+BOD061,Gümbet Anıl Beach,Gümbet,2,CHECKIN_CHECKOUT,0,0.0,True
+BOD061,Gümbet Anıl Beach,Gümbet,2,AIR_CONDITIONING,0,0.0,True
+BOD061,Gümbet Anıl Beach,Gümbet,2,NOISE,0,0.0,True
+BOD061,Gümbet Anıl Beach,Gümbet,2,FAMILY_CHILDREN,2,100.0,True
+BOD061,Gümbet Anıl Beach,Gümbet,2,TRANSPORT_TRANSFER,0,0.0,True
+BOD061,Gümbet Anıl Beach,Gümbet,2,MANAGEMENT_COMMUNICATION,2,100.0,True
+BOD061,Gümbet Anıl Beach,Gümbet,2,SPA_WELLNESS,0,0.0,True
+BOD061,Gümbet Anıl Beach,Gümbet,2,SAFETY_SECURITY,0,0.0,True
+BOD063,Jasmin Beach Hotel,Gümbet,1,STAFF_SERVICE,1,100.0,True
+BOD063,Jasmin Beach Hotel,Gümbet,1,CLEANLINESS_HYGIENE,0,0.0,True
+BOD063,Jasmin Beach Hotel,Gümbet,1,FOOD_BEVERAGE,0,0.0,True
+BOD063,Jasmin Beach Hotel,Gümbet,1,ROOM,0,0.0,True
+BOD063,Jasmin Beach Hotel,Gümbet,1,BEACH_SEA,0,0.0,True
+BOD063,Jasmin Beach Hotel,Gümbet,1,POOL,0,0.0,True
+BOD063,Jasmin Beach Hotel,Gümbet,1,FACILITIES_MAINTENANCE,0,0.0,True
+BOD063,Jasmin Beach Hotel,Gümbet,1,RESERVATION,1,100.0,True
+BOD063,Jasmin Beach Hotel,Gümbet,1,PAYMENT_REFUND,1,100.0,True
+BOD063,Jasmin Beach Hotel,Gümbet,1,PRICE_VALUE,0,0.0,True
+BOD063,Jasmin Beach Hotel,Gümbet,1,CHECKIN_CHECKOUT,0,0.0,True
+BOD063,Jasmin Beach Hotel,Gümbet,1,AIR_CONDITIONING,0,0.0,True
+BOD063,Jasmin Beach Hotel,Gümbet,1,NOISE,0,0.0,True
+BOD063,Jasmin Beach Hotel,Gümbet,1,FAMILY_CHILDREN,1,100.0,True
+BOD063,Jasmin Beach Hotel,Gümbet,1,TRANSPORT_TRANSFER,0,0.0,True
+BOD063,Jasmin Beach Hotel,Gümbet,1,MANAGEMENT_COMMUNICATION,1,100.0,True
+BOD063,Jasmin Beach Hotel,Gümbet,1,SPA_WELLNESS,0,0.0,True
+BOD063,Jasmin Beach Hotel,Gümbet,1,SAFETY_SECURITY,0,0.0,True
+BOD066,Royal Asarlik Beach Hotel & Spa,Gümbet,18,STAFF_SERVICE,11,61.111111111111114,False
+BOD066,Royal Asarlik Beach Hotel & Spa,Gümbet,18,CLEANLINESS_HYGIENE,6,33.333333333333336,False
+BOD066,Royal Asarlik Beach Hotel & Spa,Gümbet,18,FOOD_BEVERAGE,8,44.44444444444444,False
+BOD066,Royal Asarlik Beach Hotel & Spa,Gümbet,18,ROOM,8,44.44444444444444,False
+BOD066,Royal Asarlik Beach Hotel & Spa,Gümbet,18,BEACH_SEA,2,11.11111111111111,False
+BOD066,Royal Asarlik Beach Hotel & Spa,Gümbet,18,POOL,2,11.11111111111111,False
+BOD066,Royal Asarlik Beach Hotel & Spa,Gümbet,18,FACILITIES_MAINTENANCE,4,22.22222222222222,False
+BOD066,Royal Asarlik Beach Hotel & Spa,Gümbet,18,RESERVATION,12,66.66666666666667,False
+BOD066,Royal Asarlik Beach Hotel & Spa,Gümbet,18,PAYMENT_REFUND,4,22.22222222222222,False
+BOD066,Royal Asarlik Beach Hotel & Spa,Gümbet,18,PRICE_VALUE,0,0.0,False
+BOD066,Royal Asarlik Beach Hotel & Spa,Gümbet,18,CHECKIN_CHECKOUT,0,0.0,False
+BOD066,Royal Asarlik Beach Hotel & Spa,Gümbet,18,AIR_CONDITIONING,0,0.0,False
+BOD066,Royal Asarlik Beach Hotel & Spa,Gümbet,18,NOISE,2,11.11111111111111,False
+BOD066,Royal Asarlik Beach Hotel & Spa,Gümbet,18,FAMILY_CHILDREN,4,22.22222222222222,False
+BOD066,Royal Asarlik Beach Hotel & Spa,Gümbet,18,TRANSPORT_TRANSFER,1,5.555555555555555,False
+BOD066,Royal Asarlik Beach Hotel & Spa,Gümbet,18,MANAGEMENT_COMMUNICATION,10,55.55555555555556,False
+BOD066,Royal Asarlik Beach Hotel & Spa,Gümbet,18,SPA_WELLNESS,4,22.22222222222222,False
+BOD066,Royal Asarlik Beach Hotel & Spa,Gümbet,18,SAFETY_SECURITY,6,33.333333333333336,False
+BOD067,Sami Beach Hotel,Gümbet,6,STAFF_SERVICE,4,66.66666666666667,False
+BOD067,Sami Beach Hotel,Gümbet,6,CLEANLINESS_HYGIENE,3,50.0,False
+BOD067,Sami Beach Hotel,Gümbet,6,FOOD_BEVERAGE,2,33.333333333333336,False
+BOD067,Sami Beach Hotel,Gümbet,6,ROOM,3,50.0,False
+BOD067,Sami Beach Hotel,Gümbet,6,BEACH_SEA,2,33.333333333333336,False
+BOD067,Sami Beach Hotel,Gümbet,6,POOL,0,0.0,False
+BOD067,Sami Beach Hotel,Gümbet,6,FACILITIES_MAINTENANCE,1,16.666666666666668,False
+BOD067,Sami Beach Hotel,Gümbet,6,RESERVATION,5,83.33333333333333,False
+BOD067,Sami Beach Hotel,Gümbet,6,PAYMENT_REFUND,4,66.66666666666667,False
+BOD067,Sami Beach Hotel,Gümbet,6,PRICE_VALUE,3,50.0,False
+BOD067,Sami Beach Hotel,Gümbet,6,CHECKIN_CHECKOUT,0,0.0,False
+BOD067,Sami Beach Hotel,Gümbet,6,AIR_CONDITIONING,0,0.0,False
+BOD067,Sami Beach Hotel,Gümbet,6,NOISE,0,0.0,False
+BOD067,Sami Beach Hotel,Gümbet,6,FAMILY_CHILDREN,1,16.666666666666668,False
+BOD067,Sami Beach Hotel,Gümbet,6,TRANSPORT_TRANSFER,2,33.333333333333336,False
+BOD067,Sami Beach Hotel,Gümbet,6,MANAGEMENT_COMMUNICATION,5,83.33333333333333,False
+BOD067,Sami Beach Hotel,Gümbet,6,SPA_WELLNESS,0,0.0,False
+BOD067,Sami Beach Hotel,Gümbet,6,SAFETY_SECURITY,3,50.0,False
+BOD068,Selectum Colours Bodrum,Gümbet,9,STAFF_SERVICE,6,66.66666666666667,False
+BOD068,Selectum Colours Bodrum,Gümbet,9,CLEANLINESS_HYGIENE,4,44.44444444444444,False
+BOD068,Selectum Colours Bodrum,Gümbet,9,FOOD_BEVERAGE,5,55.55555555555556,False
+BOD068,Selectum Colours Bodrum,Gümbet,9,ROOM,8,88.88888888888889,False
+BOD068,Selectum Colours Bodrum,Gümbet,9,BEACH_SEA,2,22.22222222222222,False
+BOD068,Selectum Colours Bodrum,Gümbet,9,POOL,3,33.333333333333336,False
+BOD068,Selectum Colours Bodrum,Gümbet,9,FACILITIES_MAINTENANCE,4,44.44444444444444,False
+BOD068,Selectum Colours Bodrum,Gümbet,9,RESERVATION,2,22.22222222222222,False
+BOD068,Selectum Colours Bodrum,Gümbet,9,PAYMENT_REFUND,2,22.22222222222222,False
+BOD068,Selectum Colours Bodrum,Gümbet,9,PRICE_VALUE,4,44.44444444444444,False
+BOD068,Selectum Colours Bodrum,Gümbet,9,CHECKIN_CHECKOUT,0,0.0,False
+BOD068,Selectum Colours Bodrum,Gümbet,9,AIR_CONDITIONING,0,0.0,False
+BOD068,Selectum Colours Bodrum,Gümbet,9,NOISE,0,0.0,False
+BOD068,Selectum Colours Bodrum,Gümbet,9,FAMILY_CHILDREN,1,11.11111111111111,False
+BOD068,Selectum Colours Bodrum,Gümbet,9,TRANSPORT_TRANSFER,1,11.11111111111111,False
+BOD068,Selectum Colours Bodrum,Gümbet,9,MANAGEMENT_COMMUNICATION,7,77.77777777777777,False
+BOD068,Selectum Colours Bodrum,Gümbet,9,SPA_WELLNESS,0,0.0,False
+BOD068,Selectum Colours Bodrum,Gümbet,9,SAFETY_SECURITY,1,11.11111111111111,False
+BOD069,Siesta Beach Apart,Gümbet,1,STAFF_SERVICE,1,100.0,True
+BOD069,Siesta Beach Apart,Gümbet,1,CLEANLINESS_HYGIENE,1,100.0,True
+BOD069,Siesta Beach Apart,Gümbet,1,FOOD_BEVERAGE,1,100.0,True
+BOD069,Siesta Beach Apart,Gümbet,1,ROOM,1,100.0,True
+BOD069,Siesta Beach Apart,Gümbet,1,BEACH_SEA,1,100.0,True
+BOD069,Siesta Beach Apart,Gümbet,1,POOL,0,0.0,True
+BOD069,Siesta Beach Apart,Gümbet,1,FACILITIES_MAINTENANCE,0,0.0,True
+BOD069,Siesta Beach Apart,Gümbet,1,RESERVATION,1,100.0,True
+BOD069,Siesta Beach Apart,Gümbet,1,PAYMENT_REFUND,1,100.0,True
+BOD069,Siesta Beach Apart,Gümbet,1,PRICE_VALUE,1,100.0,True
+BOD069,Siesta Beach Apart,Gümbet,1,CHECKIN_CHECKOUT,0,0.0,True
+BOD069,Siesta Beach Apart,Gümbet,1,AIR_CONDITIONING,1,100.0,True
+BOD069,Siesta Beach Apart,Gümbet,1,NOISE,0,0.0,True
+BOD069,Siesta Beach Apart,Gümbet,1,FAMILY_CHILDREN,0,0.0,True
+BOD069,Siesta Beach Apart,Gümbet,1,TRANSPORT_TRANSFER,0,0.0,True
+BOD069,Siesta Beach Apart,Gümbet,1,MANAGEMENT_COMMUNICATION,1,100.0,True
+BOD069,Siesta Beach Apart,Gümbet,1,SPA_WELLNESS,0,0.0,True
+BOD069,Siesta Beach Apart,Gümbet,1,SAFETY_SECURITY,0,0.0,True
+BOD072,VERY CHIC BODRUM,Gümbet,3,STAFF_SERVICE,2,66.66666666666667,True
+BOD072,VERY CHIC BODRUM,Gümbet,3,CLEANLINESS_HYGIENE,1,33.333333333333336,True
+BOD072,VERY CHIC BODRUM,Gümbet,3,FOOD_BEVERAGE,2,66.66666666666667,True
+BOD072,VERY CHIC BODRUM,Gümbet,3,ROOM,1,33.333333333333336,True
+BOD072,VERY CHIC BODRUM,Gümbet,3,BEACH_SEA,1,33.333333333333336,True
+BOD072,VERY CHIC BODRUM,Gümbet,3,POOL,0,0.0,True
+BOD072,VERY CHIC BODRUM,Gümbet,3,FACILITIES_MAINTENANCE,2,66.66666666666667,True
+BOD072,VERY CHIC BODRUM,Gümbet,3,RESERVATION,2,66.66666666666667,True
+BOD072,VERY CHIC BODRUM,Gümbet,3,PAYMENT_REFUND,1,33.333333333333336,True
+BOD072,VERY CHIC BODRUM,Gümbet,3,PRICE_VALUE,1,33.333333333333336,True
+BOD072,VERY CHIC BODRUM,Gümbet,3,CHECKIN_CHECKOUT,0,0.0,True
+BOD072,VERY CHIC BODRUM,Gümbet,3,AIR_CONDITIONING,0,0.0,True
+BOD072,VERY CHIC BODRUM,Gümbet,3,NOISE,0,0.0,True
+BOD072,VERY CHIC BODRUM,Gümbet,3,FAMILY_CHILDREN,0,0.0,True
+BOD072,VERY CHIC BODRUM,Gümbet,3,TRANSPORT_TRANSFER,0,0.0,True
+BOD072,VERY CHIC BODRUM,Gümbet,3,MANAGEMENT_COMMUNICATION,1,33.333333333333336,True
+BOD072,VERY CHIC BODRUM,Gümbet,3,SPA_WELLNESS,0,0.0,True
+BOD072,VERY CHIC BODRUM,Gümbet,3,SAFETY_SECURITY,1,33.333333333333336,True
+BOD077,Ladonia Hotels Zemda,Gümüşlük,7,STAFF_SERVICE,1,14.285714285714286,False
+BOD077,Ladonia Hotels Zemda,Gümüşlük,7,CLEANLINESS_HYGIENE,2,28.571428571428573,False
+BOD077,Ladonia Hotels Zemda,Gümüşlük,7,FOOD_BEVERAGE,0,0.0,False
+BOD077,Ladonia Hotels Zemda,Gümüşlük,7,ROOM,4,57.142857142857146,False
+BOD077,Ladonia Hotels Zemda,Gümüşlük,7,BEACH_SEA,0,0.0,False
+BOD077,Ladonia Hotels Zemda,Gümüşlük,7,POOL,0,0.0,False
+BOD077,Ladonia Hotels Zemda,Gümüşlük,7,FACILITIES_MAINTENANCE,0,0.0,False
+BOD077,Ladonia Hotels Zemda,Gümüşlük,7,RESERVATION,7,100.0,False
+BOD077,Ladonia Hotels Zemda,Gümüşlük,7,PAYMENT_REFUND,7,100.0,False
+BOD077,Ladonia Hotels Zemda,Gümüşlük,7,PRICE_VALUE,7,100.0,False
+BOD077,Ladonia Hotels Zemda,Gümüşlük,7,CHECKIN_CHECKOUT,0,0.0,False
+BOD077,Ladonia Hotels Zemda,Gümüşlük,7,AIR_CONDITIONING,0,0.0,False
+BOD077,Ladonia Hotels Zemda,Gümüşlük,7,NOISE,0,0.0,False
+BOD077,Ladonia Hotels Zemda,Gümüşlük,7,FAMILY_CHILDREN,0,0.0,False
+BOD077,Ladonia Hotels Zemda,Gümüşlük,7,TRANSPORT_TRANSFER,0,0.0,False
+BOD077,Ladonia Hotels Zemda,Gümüşlük,7,MANAGEMENT_COMMUNICATION,7,100.0,False
+BOD077,Ladonia Hotels Zemda,Gümüşlük,7,SPA_WELLNESS,0,0.0,False
+BOD077,Ladonia Hotels Zemda,Gümüşlük,7,SAFETY_SECURITY,1,14.285714285714286,False
+BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,11,STAFF_SERVICE,8,72.72727272727273,False
+BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,11,CLEANLINESS_HYGIENE,7,63.63636363636363,False
+BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,11,FOOD_BEVERAGE,9,81.81818181818181,False
+BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,11,ROOM,6,54.54545454545455,False
+BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,11,BEACH_SEA,3,27.272727272727273,False
+BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,11,POOL,4,36.36363636363637,False
+BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,11,FACILITIES_MAINTENANCE,6,54.54545454545455,False
+BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,11,RESERVATION,4,36.36363636363637,False
+BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,11,PAYMENT_REFUND,5,45.45454545454545,False
+BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,11,PRICE_VALUE,7,63.63636363636363,False
+BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,11,CHECKIN_CHECKOUT,0,0.0,False
+BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,11,AIR_CONDITIONING,0,0.0,False
+BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,11,NOISE,0,0.0,False
+BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,11,FAMILY_CHILDREN,5,45.45454545454545,False
+BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,11,TRANSPORT_TRANSFER,1,9.090909090909092,False
+BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,11,MANAGEMENT_COMMUNICATION,6,54.54545454545455,False
+BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,11,SPA_WELLNESS,2,18.181818181818183,False
+BOD103,Green Bay Resort & Spa Bodrum,Güvercinlik,11,SAFETY_SECURITY,2,18.181818181818183,False
+BOD104,Greenport Bodrum,Güvercinlik,4,STAFF_SERVICE,3,75.0,True
+BOD104,Greenport Bodrum,Güvercinlik,4,CLEANLINESS_HYGIENE,2,50.0,True
+BOD104,Greenport Bodrum,Güvercinlik,4,FOOD_BEVERAGE,2,50.0,True
+BOD104,Greenport Bodrum,Güvercinlik,4,ROOM,3,75.0,True
+BOD104,Greenport Bodrum,Güvercinlik,4,BEACH_SEA,1,25.0,True
+BOD104,Greenport Bodrum,Güvercinlik,4,POOL,1,25.0,True
+BOD104,Greenport Bodrum,Güvercinlik,4,FACILITIES_MAINTENANCE,2,50.0,True
+BOD104,Greenport Bodrum,Güvercinlik,4,RESERVATION,1,25.0,True
+BOD104,Greenport Bodrum,Güvercinlik,4,PAYMENT_REFUND,0,0.0,True
+BOD104,Greenport Bodrum,Güvercinlik,4,PRICE_VALUE,2,50.0,True
+BOD104,Greenport Bodrum,Güvercinlik,4,CHECKIN_CHECKOUT,0,0.0,True
+BOD104,Greenport Bodrum,Güvercinlik,4,AIR_CONDITIONING,2,50.0,True
+BOD104,Greenport Bodrum,Güvercinlik,4,NOISE,0,0.0,True
+BOD104,Greenport Bodrum,Güvercinlik,4,FAMILY_CHILDREN,0,0.0,True
+BOD104,Greenport Bodrum,Güvercinlik,4,TRANSPORT_TRANSFER,0,0.0,True
+BOD104,Greenport Bodrum,Güvercinlik,4,MANAGEMENT_COMMUNICATION,0,0.0,True
+BOD104,Greenport Bodrum,Güvercinlik,4,SPA_WELLNESS,0,0.0,True
+BOD104,Greenport Bodrum,Güvercinlik,4,SAFETY_SECURITY,0,0.0,True
+BOD106,La Blanche Island Bodrum,Güvercinlik,19,STAFF_SERVICE,14,73.6842105263158,False
+BOD106,La Blanche Island Bodrum,Güvercinlik,19,CLEANLINESS_HYGIENE,5,26.31578947368421,False
+BOD106,La Blanche Island Bodrum,Güvercinlik,19,FOOD_BEVERAGE,9,47.36842105263158,False
+BOD106,La Blanche Island Bodrum,Güvercinlik,19,ROOM,13,68.42105263157895,False
+BOD106,La Blanche Island Bodrum,Güvercinlik,19,BEACH_SEA,9,47.36842105263158,False
+BOD106,La Blanche Island Bodrum,Güvercinlik,19,POOL,3,15.789473684210526,False
+BOD106,La Blanche Island Bodrum,Güvercinlik,19,FACILITIES_MAINTENANCE,6,31.57894736842105,False
+BOD106,La Blanche Island Bodrum,Güvercinlik,19,RESERVATION,6,31.57894736842105,False
+BOD106,La Blanche Island Bodrum,Güvercinlik,19,PAYMENT_REFUND,7,36.8421052631579,False
+BOD106,La Blanche Island Bodrum,Güvercinlik,19,PRICE_VALUE,7,36.8421052631579,False
+BOD106,La Blanche Island Bodrum,Güvercinlik,19,CHECKIN_CHECKOUT,0,0.0,False
+BOD106,La Blanche Island Bodrum,Güvercinlik,19,AIR_CONDITIONING,0,0.0,False
+BOD106,La Blanche Island Bodrum,Güvercinlik,19,NOISE,0,0.0,False
+BOD106,La Blanche Island Bodrum,Güvercinlik,19,FAMILY_CHILDREN,1,5.2631578947368425,False
+BOD106,La Blanche Island Bodrum,Güvercinlik,19,TRANSPORT_TRANSFER,1,5.2631578947368425,False
+BOD106,La Blanche Island Bodrum,Güvercinlik,19,MANAGEMENT_COMMUNICATION,8,42.10526315789474,False
+BOD106,La Blanche Island Bodrum,Güvercinlik,19,SPA_WELLNESS,0,0.0,False
+BOD106,La Blanche Island Bodrum,Güvercinlik,19,SAFETY_SECURITY,4,21.05263157894737,False
+BOD107,Le Méridien Bodrum Beach Resort,Güvercinlik,4,STAFF_SERVICE,2,50.0,True
+BOD107,Le Méridien Bodrum Beach Resort,Güvercinlik,4,CLEANLINESS_HYGIENE,3,75.0,True
+BOD107,Le Méridien Bodrum Beach Resort,Güvercinlik,4,FOOD_BEVERAGE,1,25.0,True
+BOD107,Le Méridien Bodrum Beach Resort,Güvercinlik,4,ROOM,1,25.0,True
+BOD107,Le Méridien Bodrum Beach Resort,Güvercinlik,4,BEACH_SEA,1,25.0,True
+BOD107,Le Méridien Bodrum Beach Resort,Güvercinlik,4,POOL,0,0.0,True
+BOD107,Le Méridien Bodrum Beach Resort,Güvercinlik,4,FACILITIES_MAINTENANCE,1,25.0,True
+BOD107,Le Méridien Bodrum Beach Resort,Güvercinlik,4,RESERVATION,0,0.0,True
+BOD107,Le Méridien Bodrum Beach Resort,Güvercinlik,4,PAYMENT_REFUND,4,100.0,True
+BOD107,Le Méridien Bodrum Beach Resort,Güvercinlik,4,PRICE_VALUE,2,50.0,True
+BOD107,Le Méridien Bodrum Beach Resort,Güvercinlik,4,CHECKIN_CHECKOUT,0,0.0,True
+BOD107,Le Méridien Bodrum Beach Resort,Güvercinlik,4,AIR_CONDITIONING,0,0.0,True
+BOD107,Le Méridien Bodrum Beach Resort,Güvercinlik,4,NOISE,0,0.0,True
+BOD107,Le Méridien Bodrum Beach Resort,Güvercinlik,4,FAMILY_CHILDREN,1,25.0,True
+BOD107,Le Méridien Bodrum Beach Resort,Güvercinlik,4,TRANSPORT_TRANSFER,0,0.0,True
+BOD107,Le Méridien Bodrum Beach Resort,Güvercinlik,4,MANAGEMENT_COMMUNICATION,1,25.0,True
+BOD107,Le Méridien Bodrum Beach Resort,Güvercinlik,4,SPA_WELLNESS,0,0.0,True
+BOD107,Le Méridien Bodrum Beach Resort,Güvercinlik,4,SAFETY_SECURITY,0,0.0,True
+BOD108,Lujo Hotel Bodrum,Güvercinlik,15,STAFF_SERVICE,10,66.66666666666667,False
+BOD108,Lujo Hotel Bodrum,Güvercinlik,15,CLEANLINESS_HYGIENE,2,13.333333333333334,False
+BOD108,Lujo Hotel Bodrum,Güvercinlik,15,FOOD_BEVERAGE,5,33.333333333333336,False
+BOD108,Lujo Hotel Bodrum,Güvercinlik,15,ROOM,5,33.333333333333336,False
+BOD108,Lujo Hotel Bodrum,Güvercinlik,15,BEACH_SEA,5,33.333333333333336,False
+BOD108,Lujo Hotel Bodrum,Güvercinlik,15,POOL,0,0.0,False
+BOD108,Lujo Hotel Bodrum,Güvercinlik,15,FACILITIES_MAINTENANCE,5,33.333333333333336,False
+BOD108,Lujo Hotel Bodrum,Güvercinlik,15,RESERVATION,2,13.333333333333334,False
+BOD108,Lujo Hotel Bodrum,Güvercinlik,15,PAYMENT_REFUND,5,33.333333333333336,False
+BOD108,Lujo Hotel Bodrum,Güvercinlik,15,PRICE_VALUE,7,46.666666666666664,False
+BOD108,Lujo Hotel Bodrum,Güvercinlik,15,CHECKIN_CHECKOUT,0,0.0,False
+BOD108,Lujo Hotel Bodrum,Güvercinlik,15,AIR_CONDITIONING,0,0.0,False
+BOD108,Lujo Hotel Bodrum,Güvercinlik,15,NOISE,1,6.666666666666667,False
+BOD108,Lujo Hotel Bodrum,Güvercinlik,15,FAMILY_CHILDREN,6,40.0,False
+BOD108,Lujo Hotel Bodrum,Güvercinlik,15,TRANSPORT_TRANSFER,1,6.666666666666667,False
+BOD108,Lujo Hotel Bodrum,Güvercinlik,15,MANAGEMENT_COMMUNICATION,5,33.333333333333336,False
+BOD108,Lujo Hotel Bodrum,Güvercinlik,15,SPA_WELLNESS,1,6.666666666666667,False
+BOD108,Lujo Hotel Bodrum,Güvercinlik,15,SAFETY_SECURITY,4,26.666666666666668,False
+BOD110,Titanic Luxury Collection Bodrum,Güvercinlik,5,STAFF_SERVICE,3,60.0,False
+BOD110,Titanic Luxury Collection Bodrum,Güvercinlik,5,CLEANLINESS_HYGIENE,0,0.0,False
+BOD110,Titanic Luxury Collection Bodrum,Güvercinlik,5,FOOD_BEVERAGE,1,20.0,False
+BOD110,Titanic Luxury Collection Bodrum,Güvercinlik,5,ROOM,1,20.0,False
+BOD110,Titanic Luxury Collection Bodrum,Güvercinlik,5,BEACH_SEA,0,0.0,False
+BOD110,Titanic Luxury Collection Bodrum,Güvercinlik,5,POOL,0,0.0,False
+BOD110,Titanic Luxury Collection Bodrum,Güvercinlik,5,FACILITIES_MAINTENANCE,2,40.0,False
+BOD110,Titanic Luxury Collection Bodrum,Güvercinlik,5,RESERVATION,2,40.0,False
+BOD110,Titanic Luxury Collection Bodrum,Güvercinlik,5,PAYMENT_REFUND,2,40.0,False
+BOD110,Titanic Luxury Collection Bodrum,Güvercinlik,5,PRICE_VALUE,2,40.0,False
+BOD110,Titanic Luxury Collection Bodrum,Güvercinlik,5,CHECKIN_CHECKOUT,0,0.0,False
+BOD110,Titanic Luxury Collection Bodrum,Güvercinlik,5,AIR_CONDITIONING,1,20.0,False
+BOD110,Titanic Luxury Collection Bodrum,Güvercinlik,5,NOISE,1,20.0,False
+BOD110,Titanic Luxury Collection Bodrum,Güvercinlik,5,FAMILY_CHILDREN,1,20.0,False
+BOD110,Titanic Luxury Collection Bodrum,Güvercinlik,5,TRANSPORT_TRANSFER,0,0.0,False
+BOD110,Titanic Luxury Collection Bodrum,Güvercinlik,5,MANAGEMENT_COMMUNICATION,3,60.0,False
+BOD110,Titanic Luxury Collection Bodrum,Güvercinlik,5,SPA_WELLNESS,0,0.0,False
+BOD110,Titanic Luxury Collection Bodrum,Güvercinlik,5,SAFETY_SECURITY,2,40.0,False
+BOD112,Azure By Yelken Hotel,Kadıkalesi,26,STAFF_SERVICE,20,76.92307692307692,False
+BOD112,Azure By Yelken Hotel,Kadıkalesi,26,CLEANLINESS_HYGIENE,16,61.53846153846154,False
+BOD112,Azure By Yelken Hotel,Kadıkalesi,26,FOOD_BEVERAGE,17,65.38461538461539,False
+BOD112,Azure By Yelken Hotel,Kadıkalesi,26,ROOM,18,69.23076923076923,False
+BOD112,Azure By Yelken Hotel,Kadıkalesi,26,BEACH_SEA,10,38.46153846153846,False
+BOD112,Azure By Yelken Hotel,Kadıkalesi,26,POOL,8,30.76923076923077,False
+BOD112,Azure By Yelken Hotel,Kadıkalesi,26,FACILITIES_MAINTENANCE,11,42.30769230769231,False
+BOD112,Azure By Yelken Hotel,Kadıkalesi,26,RESERVATION,14,53.84615384615385,False
+BOD112,Azure By Yelken Hotel,Kadıkalesi,26,PAYMENT_REFUND,19,73.07692307692308,False
+BOD112,Azure By Yelken Hotel,Kadıkalesi,26,PRICE_VALUE,16,61.53846153846154,False
+BOD112,Azure By Yelken Hotel,Kadıkalesi,26,CHECKIN_CHECKOUT,1,3.8461538461538463,False
+BOD112,Azure By Yelken Hotel,Kadıkalesi,26,AIR_CONDITIONING,1,3.8461538461538463,False
+BOD112,Azure By Yelken Hotel,Kadıkalesi,26,NOISE,2,7.6923076923076925,False
+BOD112,Azure By Yelken Hotel,Kadıkalesi,26,FAMILY_CHILDREN,9,34.61538461538461,False
+BOD112,Azure By Yelken Hotel,Kadıkalesi,26,TRANSPORT_TRANSFER,1,3.8461538461538463,False
+BOD112,Azure By Yelken Hotel,Kadıkalesi,26,MANAGEMENT_COMMUNICATION,15,57.69230769230769,False
+BOD112,Azure By Yelken Hotel,Kadıkalesi,26,SPA_WELLNESS,1,3.8461538461538463,False
+BOD112,Azure By Yelken Hotel,Kadıkalesi,26,SAFETY_SECURITY,9,34.61538461538461,False
+BOD113,Kadıkale Resort,Kadıkalesi,7,STAFF_SERVICE,5,71.42857142857143,False
+BOD113,Kadıkale Resort,Kadıkalesi,7,CLEANLINESS_HYGIENE,5,71.42857142857143,False
+BOD113,Kadıkale Resort,Kadıkalesi,7,FOOD_BEVERAGE,4,57.142857142857146,False
+BOD113,Kadıkale Resort,Kadıkalesi,7,ROOM,6,85.71428571428571,False
+BOD113,Kadıkale Resort,Kadıkalesi,7,BEACH_SEA,4,57.142857142857146,False
+BOD113,Kadıkale Resort,Kadıkalesi,7,POOL,2,28.571428571428573,False
+BOD113,Kadıkale Resort,Kadıkalesi,7,FACILITIES_MAINTENANCE,2,28.571428571428573,False
+BOD113,Kadıkale Resort,Kadıkalesi,7,RESERVATION,0,0.0,False
+BOD113,Kadıkale Resort,Kadıkalesi,7,PAYMENT_REFUND,2,28.571428571428573,False
+BOD113,Kadıkale Resort,Kadıkalesi,7,PRICE_VALUE,3,42.857142857142854,False
+BOD113,Kadıkale Resort,Kadıkalesi,7,CHECKIN_CHECKOUT,1,14.285714285714286,False
+BOD113,Kadıkale Resort,Kadıkalesi,7,AIR_CONDITIONING,2,28.571428571428573,False
+BOD113,Kadıkale Resort,Kadıkalesi,7,NOISE,2,28.571428571428573,False
+BOD113,Kadıkale Resort,Kadıkalesi,7,FAMILY_CHILDREN,1,14.285714285714286,False
+BOD113,Kadıkale Resort,Kadıkalesi,7,TRANSPORT_TRANSFER,1,14.285714285714286,False
+BOD113,Kadıkale Resort,Kadıkalesi,7,MANAGEMENT_COMMUNICATION,3,42.857142857142854,False
+BOD113,Kadıkale Resort,Kadıkalesi,7,SPA_WELLNESS,2,28.571428571428573,False
+BOD113,Kadıkale Resort,Kadıkalesi,7,SAFETY_SECURITY,0,0.0,False
+BOD115,Yasmin Bodrum Resort,Kadıkalesi,23,STAFF_SERVICE,15,65.21739130434783,False
+BOD115,Yasmin Bodrum Resort,Kadıkalesi,23,CLEANLINESS_HYGIENE,9,39.130434782608695,False
+BOD115,Yasmin Bodrum Resort,Kadıkalesi,23,FOOD_BEVERAGE,10,43.47826086956522,False
+BOD115,Yasmin Bodrum Resort,Kadıkalesi,23,ROOM,10,43.47826086956522,False
+BOD115,Yasmin Bodrum Resort,Kadıkalesi,23,BEACH_SEA,5,21.73913043478261,False
+BOD115,Yasmin Bodrum Resort,Kadıkalesi,23,POOL,2,8.695652173913043,False
+BOD115,Yasmin Bodrum Resort,Kadıkalesi,23,FACILITIES_MAINTENANCE,10,43.47826086956522,False
+BOD115,Yasmin Bodrum Resort,Kadıkalesi,23,RESERVATION,5,21.73913043478261,False
+BOD115,Yasmin Bodrum Resort,Kadıkalesi,23,PAYMENT_REFUND,10,43.47826086956522,False
+BOD115,Yasmin Bodrum Resort,Kadıkalesi,23,PRICE_VALUE,8,34.78260869565217,False
+BOD115,Yasmin Bodrum Resort,Kadıkalesi,23,CHECKIN_CHECKOUT,0,0.0,False
+BOD115,Yasmin Bodrum Resort,Kadıkalesi,23,AIR_CONDITIONING,3,13.043478260869565,False
+BOD115,Yasmin Bodrum Resort,Kadıkalesi,23,NOISE,2,8.695652173913043,False
+BOD115,Yasmin Bodrum Resort,Kadıkalesi,23,FAMILY_CHILDREN,5,21.73913043478261,False
+BOD115,Yasmin Bodrum Resort,Kadıkalesi,23,TRANSPORT_TRANSFER,3,13.043478260869565,False
+BOD115,Yasmin Bodrum Resort,Kadıkalesi,23,MANAGEMENT_COMMUNICATION,13,56.52173913043478,False
+BOD115,Yasmin Bodrum Resort,Kadıkalesi,23,SPA_WELLNESS,0,0.0,False
+BOD115,Yasmin Bodrum Resort,Kadıkalesi,23,SAFETY_SECURITY,5,21.73913043478261,False
+BOD120,Celeste Bella Luxury Hotel & Spa,Ortakent-Yahşi,2,STAFF_SERVICE,2,100.0,True
+BOD120,Celeste Bella Luxury Hotel & Spa,Ortakent-Yahşi,2,CLEANLINESS_HYGIENE,1,50.0,True
+BOD120,Celeste Bella Luxury Hotel & Spa,Ortakent-Yahşi,2,FOOD_BEVERAGE,1,50.0,True
+BOD120,Celeste Bella Luxury Hotel & Spa,Ortakent-Yahşi,2,ROOM,2,100.0,True
+BOD120,Celeste Bella Luxury Hotel & Spa,Ortakent-Yahşi,2,BEACH_SEA,0,0.0,True
+BOD120,Celeste Bella Luxury Hotel & Spa,Ortakent-Yahşi,2,POOL,0,0.0,True
+BOD120,Celeste Bella Luxury Hotel & Spa,Ortakent-Yahşi,2,FACILITIES_MAINTENANCE,2,100.0,True
+BOD120,Celeste Bella Luxury Hotel & Spa,Ortakent-Yahşi,2,RESERVATION,1,50.0,True
+BOD120,Celeste Bella Luxury Hotel & Spa,Ortakent-Yahşi,2,PAYMENT_REFUND,2,100.0,True
+BOD120,Celeste Bella Luxury Hotel & Spa,Ortakent-Yahşi,2,PRICE_VALUE,1,50.0,True
+BOD120,Celeste Bella Luxury Hotel & Spa,Ortakent-Yahşi,2,CHECKIN_CHECKOUT,0,0.0,True
+BOD120,Celeste Bella Luxury Hotel & Spa,Ortakent-Yahşi,2,AIR_CONDITIONING,0,0.0,True
+BOD120,Celeste Bella Luxury Hotel & Spa,Ortakent-Yahşi,2,NOISE,1,50.0,True
+BOD120,Celeste Bella Luxury Hotel & Spa,Ortakent-Yahşi,2,FAMILY_CHILDREN,1,50.0,True
+BOD120,Celeste Bella Luxury Hotel & Spa,Ortakent-Yahşi,2,TRANSPORT_TRANSFER,0,0.0,True
+BOD120,Celeste Bella Luxury Hotel & Spa,Ortakent-Yahşi,2,MANAGEMENT_COMMUNICATION,1,50.0,True
+BOD120,Celeste Bella Luxury Hotel & Spa,Ortakent-Yahşi,2,SPA_WELLNESS,0,0.0,True
+BOD120,Celeste Bella Luxury Hotel & Spa,Ortakent-Yahşi,2,SAFETY_SECURITY,0,0.0,True
+BOD124,Irmak Boutique Hotel,Ortakent-Yahşi,1,STAFF_SERVICE,1,100.0,True
+BOD124,Irmak Boutique Hotel,Ortakent-Yahşi,1,CLEANLINESS_HYGIENE,0,0.0,True
+BOD124,Irmak Boutique Hotel,Ortakent-Yahşi,1,FOOD_BEVERAGE,1,100.0,True
+BOD124,Irmak Boutique Hotel,Ortakent-Yahşi,1,ROOM,0,0.0,True
+BOD124,Irmak Boutique Hotel,Ortakent-Yahşi,1,BEACH_SEA,1,100.0,True
+BOD124,Irmak Boutique Hotel,Ortakent-Yahşi,1,POOL,0,0.0,True
+BOD124,Irmak Boutique Hotel,Ortakent-Yahşi,1,FACILITIES_MAINTENANCE,1,100.0,True
+BOD124,Irmak Boutique Hotel,Ortakent-Yahşi,1,RESERVATION,0,0.0,True
+BOD124,Irmak Boutique Hotel,Ortakent-Yahşi,1,PAYMENT_REFUND,0,0.0,True
+BOD124,Irmak Boutique Hotel,Ortakent-Yahşi,1,PRICE_VALUE,0,0.0,True
+BOD124,Irmak Boutique Hotel,Ortakent-Yahşi,1,CHECKIN_CHECKOUT,0,0.0,True
+BOD124,Irmak Boutique Hotel,Ortakent-Yahşi,1,AIR_CONDITIONING,0,0.0,True
+BOD124,Irmak Boutique Hotel,Ortakent-Yahşi,1,NOISE,0,0.0,True
+BOD124,Irmak Boutique Hotel,Ortakent-Yahşi,1,FAMILY_CHILDREN,0,0.0,True
+BOD124,Irmak Boutique Hotel,Ortakent-Yahşi,1,TRANSPORT_TRANSFER,0,0.0,True
+BOD124,Irmak Boutique Hotel,Ortakent-Yahşi,1,MANAGEMENT_COMMUNICATION,0,0.0,True
+BOD124,Irmak Boutique Hotel,Ortakent-Yahşi,1,SPA_WELLNESS,0,0.0,True
+BOD124,Irmak Boutique Hotel,Ortakent-Yahşi,1,SAFETY_SECURITY,1,100.0,True
+BOD130,Petunya Beach Resort,Ortakent-Yahşi,13,STAFF_SERVICE,7,53.84615384615385,False
+BOD130,Petunya Beach Resort,Ortakent-Yahşi,13,CLEANLINESS_HYGIENE,7,53.84615384615385,False
+BOD130,Petunya Beach Resort,Ortakent-Yahşi,13,FOOD_BEVERAGE,6,46.15384615384615,False
+BOD130,Petunya Beach Resort,Ortakent-Yahşi,13,ROOM,6,46.15384615384615,False
+BOD130,Petunya Beach Resort,Ortakent-Yahşi,13,BEACH_SEA,2,15.384615384615385,False
+BOD130,Petunya Beach Resort,Ortakent-Yahşi,13,POOL,0,0.0,False
+BOD130,Petunya Beach Resort,Ortakent-Yahşi,13,FACILITIES_MAINTENANCE,2,15.384615384615385,False
+BOD130,Petunya Beach Resort,Ortakent-Yahşi,13,RESERVATION,8,61.53846153846154,False
+BOD130,Petunya Beach Resort,Ortakent-Yahşi,13,PAYMENT_REFUND,8,61.53846153846154,False
+BOD130,Petunya Beach Resort,Ortakent-Yahşi,13,PRICE_VALUE,6,46.15384615384615,False
+BOD130,Petunya Beach Resort,Ortakent-Yahşi,13,CHECKIN_CHECKOUT,0,0.0,False
+BOD130,Petunya Beach Resort,Ortakent-Yahşi,13,AIR_CONDITIONING,0,0.0,False
+BOD130,Petunya Beach Resort,Ortakent-Yahşi,13,NOISE,0,0.0,False
+BOD130,Petunya Beach Resort,Ortakent-Yahşi,13,FAMILY_CHILDREN,0,0.0,False
+BOD130,Petunya Beach Resort,Ortakent-Yahşi,13,TRANSPORT_TRANSFER,0,0.0,False
+BOD130,Petunya Beach Resort,Ortakent-Yahşi,13,MANAGEMENT_COMMUNICATION,11,84.61538461538461,False
+BOD130,Petunya Beach Resort,Ortakent-Yahşi,13,SPA_WELLNESS,1,7.6923076923076925,False
+BOD130,Petunya Beach Resort,Ortakent-Yahşi,13,SAFETY_SECURITY,3,23.076923076923077,False
+BOD151,Sarpedor Boutique Hotel & SPA,Torba,2,STAFF_SERVICE,0,0.0,True
+BOD151,Sarpedor Boutique Hotel & SPA,Torba,2,CLEANLINESS_HYGIENE,0,0.0,True
+BOD151,Sarpedor Boutique Hotel & SPA,Torba,2,FOOD_BEVERAGE,1,50.0,True
+BOD151,Sarpedor Boutique Hotel & SPA,Torba,2,ROOM,0,0.0,True
+BOD151,Sarpedor Boutique Hotel & SPA,Torba,2,BEACH_SEA,1,50.0,True
+BOD151,Sarpedor Boutique Hotel & SPA,Torba,2,POOL,0,0.0,True
+BOD151,Sarpedor Boutique Hotel & SPA,Torba,2,FACILITIES_MAINTENANCE,0,0.0,True
+BOD151,Sarpedor Boutique Hotel & SPA,Torba,2,RESERVATION,2,100.0,True
+BOD151,Sarpedor Boutique Hotel & SPA,Torba,2,PAYMENT_REFUND,2,100.0,True
+BOD151,Sarpedor Boutique Hotel & SPA,Torba,2,PRICE_VALUE,2,100.0,True
+BOD151,Sarpedor Boutique Hotel & SPA,Torba,2,CHECKIN_CHECKOUT,0,0.0,True
+BOD151,Sarpedor Boutique Hotel & SPA,Torba,2,AIR_CONDITIONING,0,0.0,True
+BOD151,Sarpedor Boutique Hotel & SPA,Torba,2,NOISE,0,0.0,True
+BOD151,Sarpedor Boutique Hotel & SPA,Torba,2,FAMILY_CHILDREN,0,0.0,True
+BOD151,Sarpedor Boutique Hotel & SPA,Torba,2,TRANSPORT_TRANSFER,0,0.0,True
+BOD151,Sarpedor Boutique Hotel & SPA,Torba,2,MANAGEMENT_COMMUNICATION,1,50.0,True
+BOD151,Sarpedor Boutique Hotel & SPA,Torba,2,SPA_WELLNESS,0,0.0,True
+BOD151,Sarpedor Boutique Hotel & SPA,Torba,2,SAFETY_SECURITY,0,0.0,True
+BOD153,The Oba Hotel,Torba,10,STAFF_SERVICE,3,30.0,False
+BOD153,The Oba Hotel,Torba,10,CLEANLINESS_HYGIENE,1,10.0,False
+BOD153,The Oba Hotel,Torba,10,FOOD_BEVERAGE,5,50.0,False
+BOD153,The Oba Hotel,Torba,10,ROOM,6,60.0,False
+BOD153,The Oba Hotel,Torba,10,BEACH_SEA,2,20.0,False
+BOD153,The Oba Hotel,Torba,10,POOL,1,10.0,False
+BOD153,The Oba Hotel,Torba,10,FACILITIES_MAINTENANCE,2,20.0,False
+BOD153,The Oba Hotel,Torba,10,RESERVATION,5,50.0,False
+BOD153,The Oba Hotel,Torba,10,PAYMENT_REFUND,8,80.0,False
+BOD153,The Oba Hotel,Torba,10,PRICE_VALUE,6,60.0,False
+BOD153,The Oba Hotel,Torba,10,CHECKIN_CHECKOUT,0,0.0,False
+BOD153,The Oba Hotel,Torba,10,AIR_CONDITIONING,0,0.0,False
+BOD153,The Oba Hotel,Torba,10,NOISE,2,20.0,False
+BOD153,The Oba Hotel,Torba,10,FAMILY_CHILDREN,3,30.0,False
+BOD153,The Oba Hotel,Torba,10,TRANSPORT_TRANSFER,0,0.0,False
+BOD153,The Oba Hotel,Torba,10,MANAGEMENT_COMMUNICATION,5,50.0,False
+BOD153,The Oba Hotel,Torba,10,SPA_WELLNESS,1,10.0,False
+BOD153,The Oba Hotel,Torba,10,SAFETY_SECURITY,1,10.0,False
+BOD158,Arin Resort Bodrum,Turgutreis,1,STAFF_SERVICE,1,100.0,True
+BOD158,Arin Resort Bodrum,Turgutreis,1,CLEANLINESS_HYGIENE,0,0.0,True
+BOD158,Arin Resort Bodrum,Turgutreis,1,FOOD_BEVERAGE,1,100.0,True
+BOD158,Arin Resort Bodrum,Turgutreis,1,ROOM,1,100.0,True
+BOD158,Arin Resort Bodrum,Turgutreis,1,BEACH_SEA,0,0.0,True
+BOD158,Arin Resort Bodrum,Turgutreis,1,POOL,0,0.0,True
+BOD158,Arin Resort Bodrum,Turgutreis,1,FACILITIES_MAINTENANCE,0,0.0,True
+BOD158,Arin Resort Bodrum,Turgutreis,1,RESERVATION,0,0.0,True
+BOD158,Arin Resort Bodrum,Turgutreis,1,PAYMENT_REFUND,0,0.0,True
+BOD158,Arin Resort Bodrum,Turgutreis,1,PRICE_VALUE,0,0.0,True
+BOD158,Arin Resort Bodrum,Turgutreis,1,CHECKIN_CHECKOUT,0,0.0,True
+BOD158,Arin Resort Bodrum,Turgutreis,1,AIR_CONDITIONING,1,100.0,True
+BOD158,Arin Resort Bodrum,Turgutreis,1,NOISE,0,0.0,True
+BOD158,Arin Resort Bodrum,Turgutreis,1,FAMILY_CHILDREN,0,0.0,True
+BOD158,Arin Resort Bodrum,Turgutreis,1,TRANSPORT_TRANSFER,0,0.0,True
+BOD158,Arin Resort Bodrum,Turgutreis,1,MANAGEMENT_COMMUNICATION,0,0.0,True
+BOD158,Arin Resort Bodrum,Turgutreis,1,SPA_WELLNESS,0,0.0,True
+BOD158,Arin Resort Bodrum,Turgutreis,1,SAFETY_SECURITY,0,0.0,True
+BOD160,La Blanche Resort Bodrum,Turgutreis,12,STAFF_SERVICE,10,83.33333333333333,False
+BOD160,La Blanche Resort Bodrum,Turgutreis,12,CLEANLINESS_HYGIENE,8,66.66666666666667,False
+BOD160,La Blanche Resort Bodrum,Turgutreis,12,FOOD_BEVERAGE,6,50.0,False
+BOD160,La Blanche Resort Bodrum,Turgutreis,12,ROOM,9,75.0,False
+BOD160,La Blanche Resort Bodrum,Turgutreis,12,BEACH_SEA,6,50.0,False
+BOD160,La Blanche Resort Bodrum,Turgutreis,12,POOL,5,41.666666666666664,False
+BOD160,La Blanche Resort Bodrum,Turgutreis,12,FACILITIES_MAINTENANCE,7,58.333333333333336,False
+BOD160,La Blanche Resort Bodrum,Turgutreis,12,RESERVATION,3,25.0,False
+BOD160,La Blanche Resort Bodrum,Turgutreis,12,PAYMENT_REFUND,4,33.333333333333336,False
+BOD160,La Blanche Resort Bodrum,Turgutreis,12,PRICE_VALUE,3,25.0,False
+BOD160,La Blanche Resort Bodrum,Turgutreis,12,CHECKIN_CHECKOUT,0,0.0,False
+BOD160,La Blanche Resort Bodrum,Turgutreis,12,AIR_CONDITIONING,5,41.666666666666664,False
+BOD160,La Blanche Resort Bodrum,Turgutreis,12,NOISE,1,8.333333333333334,False
+BOD160,La Blanche Resort Bodrum,Turgutreis,12,FAMILY_CHILDREN,8,66.66666666666667,False
+BOD160,La Blanche Resort Bodrum,Turgutreis,12,TRANSPORT_TRANSFER,1,8.333333333333334,False
+BOD160,La Blanche Resort Bodrum,Turgutreis,12,MANAGEMENT_COMMUNICATION,9,75.0,False
+BOD160,La Blanche Resort Bodrum,Turgutreis,12,SPA_WELLNESS,1,8.333333333333334,False
+BOD160,La Blanche Resort Bodrum,Turgutreis,12,SAFETY_SECURITY,4,33.333333333333336,False
+BOD161,MyElla Hotel Resort & Spa,Turgutreis,28,STAFF_SERVICE,22,78.57142857142857,False
+BOD161,MyElla Hotel Resort & Spa,Turgutreis,28,CLEANLINESS_HYGIENE,18,64.28571428571429,False
+BOD161,MyElla Hotel Resort & Spa,Turgutreis,28,FOOD_BEVERAGE,13,46.42857142857143,False
+BOD161,MyElla Hotel Resort & Spa,Turgutreis,28,ROOM,18,64.28571428571429,False
+BOD161,MyElla Hotel Resort & Spa,Turgutreis,28,BEACH_SEA,10,35.714285714285715,False
+BOD161,MyElla Hotel Resort & Spa,Turgutreis,28,POOL,12,42.857142857142854,False
+BOD161,MyElla Hotel Resort & Spa,Turgutreis,28,FACILITIES_MAINTENANCE,13,46.42857142857143,False
+BOD161,MyElla Hotel Resort & Spa,Turgutreis,28,RESERVATION,14,50.0,False
+BOD161,MyElla Hotel Resort & Spa,Turgutreis,28,PAYMENT_REFUND,11,39.285714285714285,False
+BOD161,MyElla Hotel Resort & Spa,Turgutreis,28,PRICE_VALUE,11,39.285714285714285,False
+BOD161,MyElla Hotel Resort & Spa,Turgutreis,28,CHECKIN_CHECKOUT,2,7.142857142857143,False
+BOD161,MyElla Hotel Resort & Spa,Turgutreis,28,AIR_CONDITIONING,2,7.142857142857143,False
+BOD161,MyElla Hotel Resort & Spa,Turgutreis,28,NOISE,1,3.5714285714285716,False
+BOD161,MyElla Hotel Resort & Spa,Turgutreis,28,FAMILY_CHILDREN,9,32.142857142857146,False
+BOD161,MyElla Hotel Resort & Spa,Turgutreis,28,TRANSPORT_TRANSFER,3,10.714285714285714,False
+BOD161,MyElla Hotel Resort & Spa,Turgutreis,28,MANAGEMENT_COMMUNICATION,16,57.142857142857146,False
+BOD161,MyElla Hotel Resort & Spa,Turgutreis,28,SPA_WELLNESS,3,10.714285714285714,False
+BOD161,MyElla Hotel Resort & Spa,Turgutreis,28,SAFETY_SECURITY,10,35.714285714285715,False
+BOD177,Delta Hotels By Marriott Bodrum,Yalıkavak,14,STAFF_SERVICE,12,85.71428571428571,False
+BOD177,Delta Hotels By Marriott Bodrum,Yalıkavak,14,CLEANLINESS_HYGIENE,11,78.57142857142857,False
+BOD177,Delta Hotels By Marriott Bodrum,Yalıkavak,14,FOOD_BEVERAGE,11,78.57142857142857,False
+BOD177,Delta Hotels By Marriott Bodrum,Yalıkavak,14,ROOM,13,92.85714285714286,False
+BOD177,Delta Hotels By Marriott Bodrum,Yalıkavak,14,BEACH_SEA,6,42.857142857142854,False
+BOD177,Delta Hotels By Marriott Bodrum,Yalıkavak,14,POOL,3,21.428571428571427,False
+BOD177,Delta Hotels By Marriott Bodrum,Yalıkavak,14,FACILITIES_MAINTENANCE,9,64.28571428571429,False
+BOD177,Delta Hotels By Marriott Bodrum,Yalıkavak,14,RESERVATION,5,35.714285714285715,False
+BOD177,Delta Hotels By Marriott Bodrum,Yalıkavak,14,PAYMENT_REFUND,8,57.142857142857146,False
+BOD177,Delta Hotels By Marriott Bodrum,Yalıkavak,14,PRICE_VALUE,7,50.0,False
+BOD177,Delta Hotels By Marriott Bodrum,Yalıkavak,14,CHECKIN_CHECKOUT,2,14.285714285714286,False
+BOD177,Delta Hotels By Marriott Bodrum,Yalıkavak,14,AIR_CONDITIONING,0,0.0,False
+BOD177,Delta Hotels By Marriott Bodrum,Yalıkavak,14,NOISE,1,7.142857142857143,False
+BOD177,Delta Hotels By Marriott Bodrum,Yalıkavak,14,FAMILY_CHILDREN,6,42.857142857142854,False
+BOD177,Delta Hotels By Marriott Bodrum,Yalıkavak,14,TRANSPORT_TRANSFER,3,21.428571428571427,False
+BOD177,Delta Hotels By Marriott Bodrum,Yalıkavak,14,MANAGEMENT_COMMUNICATION,10,71.42857142857143,False
+BOD177,Delta Hotels By Marriott Bodrum,Yalıkavak,14,SPA_WELLNESS,1,7.142857142857143,False
+BOD177,Delta Hotels By Marriott Bodrum,Yalıkavak,14,SAFETY_SECURITY,7,50.0,False

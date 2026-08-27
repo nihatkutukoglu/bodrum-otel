@@ -1,0 +1,5 @@
+﻿suite,collected,passed,failed,skipped,status,command
+MAIN_PYTEST_SUITE,125,125,0,0,PASS,python -m pytest -q
+LEGACY_SIKAYETVAR_SCRAPER_SUITE,7,7,0,0,PASS,python -m pytest -q siikayet-var-scraping/tests/test_sikayetvar_scraper.py
+TOTAL_EXECUTED,132,132,0,0,PASS,Both commands above
+SIKAYETVAR_SPECIFIC,132,132,0,0,PASS,Main Sikayetvar tests plus legacy scraper tests

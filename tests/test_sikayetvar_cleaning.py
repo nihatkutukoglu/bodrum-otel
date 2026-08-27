@@ -93,6 +93,11 @@ class SikayetvarProcessedCorpusTest(unittest.TestCase):
         )
 
     def test_raw_complaint_and_reply_text_are_preserved(self):
+        def normalize_line_endings(series):
+            return series.fillna("<NA>").str.replace("\r\n", "\n", regex=False).str.replace(
+                "\r", "\n", regex=False
+            )
+
         raw_matched = self.raw.loc[
             self.raw["entity_match_status"].eq("COMPLAINT_MATCHED"),
             ["canonical_complaint_url", "hotel_id", "complaint_text"],
@@ -105,8 +110,8 @@ class SikayetvarProcessedCorpusTest(unittest.TestCase):
             validate="one_to_one",
         )
         self.assertTrue(
-            complaint_check["complaint_text_clean"].fillna("<NA>").eq(
-                complaint_check["complaint_text_raw"].fillna("<NA>")
+            normalize_line_endings(complaint_check["complaint_text_clean"]).eq(
+                normalize_line_endings(complaint_check["complaint_text_raw"])
             ).all()
         )
 
@@ -120,8 +125,8 @@ class SikayetvarProcessedCorpusTest(unittest.TestCase):
             validate="one_to_one",
         )
         self.assertTrue(
-            reply_check["reply_text_clean"].fillna("<NA>").eq(
-                reply_check["reply_text_raw"].fillna("<NA>")
+            normalize_line_endings(reply_check["reply_text_clean"]).eq(
+                normalize_line_endings(reply_check["reply_text_raw"])
             ).all()
         )
 

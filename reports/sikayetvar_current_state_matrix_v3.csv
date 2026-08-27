@@ -1,0 +1,17 @@
+﻿layer,status,evidence_file,row_count_or_count,complete,needs_work,notes
+URL / PAGE DISCOVERY,COMPLETE,data/raw/sikayetvar/sikayetvar_hotel_mapping.csv,192,True,False,All master hotels retain a discovery status; no new discovery run.
+ENTITY MAPPING,COMPLETE_WITH_EXPLICIT_UNRESOLVED,reports/sikayetvar_mapping_closure_decisions.csv,44,True,True,All 44 target cases reviewed; remaining ambiguous=9.
+RAW COMPLAINT SCRAPING,PARTIAL,data/raw/sikayetvar/sikayetvar_all_hotels_complaints_raw.csv,365,False,True,Raw remains immutable; validated pages without stored complaint details=0; review-only complaint pages=3.
+DETAIL SCRAPING,COMPLETE_FOR_STORED_LINKS,data/raw/sikayetvar/sikayetvar_scrape_status_all_hotels.csv,365,True,False,No new detail fetch; prior stored links had zero fetch errors.
+COMPANY REPLIES,COMPLETE,reports/sikayetvar_company_reply_visibility_by_hotel_v3.csv,40,True,False,Visibility reconciled from complaint response fields and reply rows; not resolution.
+DEDUPLICATION,COMPLETE,reports/sikayetvar_duplicate_reconciliation_v3.csv,0,True,False,"Clean-v2 canonical, complaint-id and normalized same-hotel duplicates are zero."
+AUDIT/CLEANING,COMPLETE,data/processed/sikayetvar_complaints_clean_v3.csv,353,True,False,Existing cleaning methodology reused; old processed file not overwritten.
+EDA,COMPLETE,notebooks/22_sikayetvar_final_customer_voice_summary.ipynb,353,True,False,Coverage-aware descriptive summaries refreshed.
+NLP,COMPLETE,data/processed/sikayetvar_complaints_nlp_v3.csv,353,True,False,Existing rule-based/token methodology refreshed; no model training.
+ASPECT ANALYSIS,COMPLETE,reports/sikayetvar_aspect_summary_v3.csv,18,True,False,Existing 18-aspect taxonomy retained.
+HOTEL-LEVEL SUMMARY,COMPLETE,reports/sikayetvar_hotel_aspect_summary_v3.csv,44,True,False,Small-N flags retained.
+AREA-LEVEL SUMMARY,COMPLETE,reports/sikayetvar_area_aspect_summary_v3.csv,12,True,False,Area support threshold n>=10.
+NORMALIZED COMPLAINT VISIBILITY,COMPLETE,reports/sikayetvar_complaint_visibility_denominator_audit_v3.csv,59,True,False,Cross-platform visibility indicator only; denominator tiers explicit.
+FINAL CUSTOMER VOICE SUMMARY,COMPLETE,reports/sikayetvar_final_customer_voice_master_v3.csv|reports/sikayetvar_final_customer_voice_summary_v3.txt|notebooks/22_sikayetvar_final_customer_voice_summary.ipynb,192,True,False,"Final master, findings, text summary and notebook created."
+GOOGLE CROSS-SOURCE READINESS,COMPLETE,reports/sikayetvar_google_cross_source_readiness_v3.csv,27,True,True,Join readiness checked; explicit aspect crosswalk remains next-step work.
+TESTS,PASS,reports/sikayetvar_test_run_summary_v3.csv,132,True,False,main_suite=125; legacy_scraper_suite=7; Sikayetvar-specific=132; passed=132; failed=0; skipped=0

@@ -33,3 +33,19 @@ Akyarlar,4,4,0,4,BOD016,Xanadu Island,,2,2026-08-25T13:06:21.641326+00:00,0.7,FO
 Kadıkalesi,0,23,0,23,BOD115,Yasmin Bodrum Resort,,3,2026-08-25T13:06:21.641339+00:00,0.85,FOUND_EXACT,DETAILS_COLLECTED,https://www.sikayetvar.com/yasmin-bodrum-resort,True,23
 Gümbet,0,14,0,14,BOD068,Selectum Colours Bodrum,,2,2026-08-25T13:06:21.641356+00:00,0.535,REVIEW_REQUIRED,DETAILS_COLLECTED,https://www.sikayetvar.com/selectum-hotels/selectum-bodrum,True,14
 Akyarlar,0,4,0,4,BOD012,Selectum Collection Bodrum,,2,2026-08-25T13:06:21.641362+00:00,0.6426,REVIEW_REQUIRED,DETAILS_COLLECTED,https://www.sikayetvar.com/selectum-hotels/selectum-collection-bodrum,True,4
+Akyarlar,0,8,0,8,BOD002,Armonia Holiday Village & Spa,,2,2026-08-26T21:08:52.954890+00:00,0.644,FOUND_HIGH_CONFIDENCE,DETAILS_COLLECTED,https://www.sikayetvar.com/armonia-holiday-village,True,8
+Gündoğan,,0,,,BOD088,Baia Bodrum Hotel,,1,2026-08-26T21:01:08.465884+00:00,0.85,FOUND_EXACT,LINKS_COLLECTED,https://www.sikayetvar.com/baia-bodrum-hotel,True,0
+Bitez,0,14,0,14,BOD019,Bitez Garden Life Hotel&Suites,,2,2026-08-26T21:08:52.954890+00:00,0.7575,FOUND_HIGH_CONFIDENCE,DETAILS_COLLECTED,https://www.sikayetvar.com/bitez-garden-life-hotel,True,14
+Yalıkavak,0,14,0,14,BOD177,Delta Hotels By Marriott Bodrum,,3,2026-08-26T21:08:52.954890+00:00,0.8033,FOUND_HIGH_CONFIDENCE,DETAILS_COLLECTED,https://www.sikayetvar.com/delta-hotels-marriott-bodrum,True,14
+Bodrum Merkez,0,10,0,10,BOD040,Diamond of Bodrum Hotel,,2,2026-08-26T21:08:52.954890+00:00,0.6885,FOUND_EXACT,DETAILS_COLLECTED,https://www.sikayetvar.com/diamond-of-bodrum,True,10
+Güvercinlik,0,4,0,4,BOD104,Greenport Bodrum,,2,2026-08-26T21:08:52.954890+00:00,0.5478,FOUND_HIGH_CONFIDENCE,DETAILS_COLLECTED,https://www.sikayetvar.com/greenport-otel,True,4
+Gümbet,1,1,0,1,BOD063,Jasmin Beach Hotel,,2,2026-08-26T21:08:52.954890+00:00,0.6811,FOUND_HIGH_CONFIDENCE,DETAILS_COLLECTED,https://www.sikayetvar.com/jasmin-beach-hotels,True,1
+Gümbet,,0,,,BOD064,Jasmin Elite Residence & Spa,,1,2026-08-26T21:01:08.465884+00:00,0.6417,FOUND_HIGH_CONFIDENCE,LINKS_COLLECTED,https://www.sikayetvar.com/jasmin-elite-residence,True,0
+Güvercinlik,0,15,0,15,BOD108,Lujo Hotel Bodrum,,2,2026-08-26T21:08:52.954890+00:00,0.7,FOUND_HIGH_CONFIDENCE,DETAILS_COLLECTED,https://www.sikayetvar.com/lujo-hotel,True,15
+Bodrum Merkez,0,1,0,1,BOD042,Mandarin Resort Hotel,,2,2026-08-26T21:08:52.954890+00:00,0.5833,FOUND_HIGH_CONFIDENCE,DETAILS_COLLECTED,https://www.sikayetvar.com/mandarin-resort,True,1
+Gündoğan,,0,,,BOD095,Mivara Luxury Bodrum,,1,2026-08-26T21:01:08.465884+00:00,0.6419,FOUND_HIGH_CONFIDENCE,LINKS_COLLECTED,https://www.sikayetvar.com/mivara-luxury-resort-spa-bodrum,True,0
+Turgutreis,0,28,0,28,BOD161,MyElla Hotel Resort & Spa,,3,2026-08-26T21:08:52.954890+00:00,0.5805,FOUND_HIGH_CONFIDENCE,DETAILS_COLLECTED,https://www.sikayetvar.com/my-ella-resort-spa,True,28
+Bitez,0,1,0,1,BOD032,Paloma Family Club Bitez,,2,2026-08-26T21:08:52.954890+00:00,0.6,FOUND_HIGH_CONFIDENCE,DETAILS_COLLECTED,https://www.sikayetvar.com/paloma-family-club,True,1
+Gümbet,0,19,0,19,BOD066,Royal Asarlik Beach Hotel & Spa,,3,2026-08-26T21:08:52.954890+00:00,0.5542,FOUND_HIGH_CONFIDENCE,DETAILS_COLLECTED,https://www.sikayetvar.com/royal-asarlik-beach,True,19
+Torba,0,2,0,2,BOD151,Sarpedor Boutique Hotel & SPA,,2,2026-08-26T21:08:52.954890+00:00,0.644,FOUND_HIGH_CONFIDENCE,DETAILS_COLLECTED,https://www.sikayetvar.com/sarpedor-boutique-hotel,True,2
+Torba,0,1,0,1,BOD142,Hotel Torbahan,,2,2026-08-26T21:08:52.954890+00:00,0.55,FOUND_HIGH_CONFIDENCE,DETAILS_COLLECTED,https://www.sikayetvar.com/torbahan-hotel,True,1

@@ -1,0 +1,54 @@
+GOOGLE TRAVEL x SIKAYETVAR CROSS-SOURCE CUSTOMER VOICE ALIGNMENT
+=================================================================
+
+SCOPE
+- Google Travel = general guest review corpus (any sentiment, self-reported at will).
+- Sikayetvar = complaint-focused, self-selected corpus (only unhappy guests post).
+- These are NOT compared as one sentiment distribution; only as complementary signals.
+- No row-level merge was performed; comparison is hotel_id / canonical-aspect summary level only.
+- Google Travel was NOT re-scraped for this task.
+
+COVERAGE
+               hotel_set  hotel_count
+          google_covered          104
+     sikayetvar_verified           62
+       complaint_bearing           44
+       page_no_complaint           15
+         common_verified           38
+common_complaint_bearing           27
+common_page_no_complaint            9
+        supported_common           15
+
+ASPECT ALIGNMENT LABEL DISTRIBUTION
+alignment_label
+NO_SIGNAL                       268
+GOOGLE_GENERAL_ONLY             228
+LOW_SUPPORT                     192
+BOTH_SOURCE_CONCERN              48
+GOOGLE_STRENGTH_VS_COMPLAINT     33
+SIKAYETVAR_ONLY                  29
+
+TOP BOTH_SOURCE_CONCERN SIGNALS
+- BOD077 MANAGEMENT_COMMUNICATION (Sikayetvar 100%), BOD077 PRICE_VALUE (Sikayetvar 100%), BOD077 PAYMENT_REFUND (Sikayetvar 100%), BOD077 RESERVATION (Sikayetvar 100%), BOD113 ROOM_COMFORT (Sikayetvar 86%)
+
+TOP GOOGLE_STRENGTH_VS_COMPLAINT DIVERGENCES
+- BOD006 STAFF_SERVICE (Sikayetvar 100%, Google high-context 100%), BOD045 STAFF_SERVICE (Sikayetvar 100%, Google high-context 76%), BOD068 ROOM_COMFORT (Sikayetvar 89%, Google high-context 75%), BOD045 ROOM_COMFORT (Sikayetvar 86%, Google high-context 77%), BOD002 STAFF_SERVICE (Sikayetvar 75%, Google high-context 100%)
+
+SIKAYETVAR-ONLY THEMES (aspect-hotel pairs): 29
+GOOGLE-GENERAL-ONLY THEMES (aspect-hotel pairs): 228
+
+COMPLAINT VISIBILITY INSIGHT
+- complaint_visibility_per_1000_google_reviews is a cross-platform VISIBILITY INDICATOR, not a real complaint rate:
+  it only accounts for complaints that are both visible on Sikayetvar and have a positive Google review-count denominator.
+
+SEMANTIC LIMITATIONS
+- Aspect crosswalk (config/google_sikayetvar_aspect_crosswalk.csv) required judgment calls (e.g. Google's
+  STAFF/SERVICE split vs Sikayetvar's single STAFF_SERVICE bucket); it is documented but not the only valid mapping.
+- Rule-based aspect detection on both sides; mentions may overlap and are not sentiment scores.
+- Support thresholds (Google n>=10, Sikayetvar complaint_n>=5, per-aspect
+  Google support_n>=5) exclude many hotel-aspect pairs from LOW_SUPPORT into a real label; this is a
+  deliberate precision-over-coverage choice.
+- No hotel ranking ("best"/"worst") is produced anywhere in this analysis.
+
+NOTEBOOK
+- notebooks/23_sikayetvar_google_travel_cross_source_customer_voice_alignment.ipynb
